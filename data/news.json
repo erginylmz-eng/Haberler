@@ -1,35 +1,89 @@
 {
-  "generatedAt": "2026-08-31T08:00:00.000Z",
+  "generatedAt": "2026-08-31T21:59:43.969Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "items": [
         {
-          "id": "seed-wl-1",
-          "title": "Kızıldeniz'de gemi trafiği toparlanma sinyali veriyor",
-          "summary": "Bölgedeki güvenlik operasyonlarının ardından büyük konteyner taşıyıcıları Süveyş güzergâhına kademeli dönüş için değerlendirme yapıyor. Analistler navlun fiyatlarında orta vadede yumuşama bekliyor.",
+          "id": "port-of-klaip-da-develops-green-methanol-bunkering-vessel-co-0",
+          "title": "Port of Klaipėda develops green methanol bunkering vessel concept",
+          "summary": "The Port of Klaipėda has developed a green methanol bunkering vessel concept as it prepares for growing demand for alternative marine fuels. The proposed vessel would have capacity for 800 tonnes of green methanol. It co…",
+          "source": "Container News",
+          "sourceUrl": "https://container-news.com",
+          "link": "https://container-news.com/port-of-klaipeda-develops-green-methanol-bunkering-vessel-concept-2/",
+          "publishedAt": "2026-08-31T21:23:13.000Z"
+        },
+        {
+          "id": "unseat-unlicensed-truck-drivers-supporting-shadow-fleet-1",
+          "title": "Unseat unlicensed truck drivers supporting ‘shadow fleet’",
+          "summary": "The number of truckers on US highways without any type of commercial driver’s license should be as big a concern as non-domiciled CDLs and English language proficiency.",
+          "source": "Journal of Commerce",
+          "sourceUrl": "https://joc.com",
+          "link": "https://joc.com/article/unseat-unlicensed-truck-drivers-supporting-shadow-fleet-6278924",
+          "publishedAt": "2026-08-31T20:58:35.000Z"
+        },
+        {
+          "id": "delays-hampering-csx-intermodal-customers-in-atlanta-2",
+          "title": "Delays hampering CSX intermodal customers in Atlanta",
+          "summary": "The congestion has affected both international and domestic intermodal shipments moving through the railroad’s Fairburn terminal southwest of Atlanta, sources say.",
+          "source": "Journal of Commerce",
+          "sourceUrl": "https://joc.com",
+          "link": "https://joc.com/article/delays-hampering-csx-intermodal-customers-in-atlanta-6278898",
+          "publishedAt": "2026-08-31T20:54:14.000Z"
+        },
+        {
+          "id": "ports-america-adds-jones-act-cargo-handling-at-jaxport-3",
+          "title": "Ports America adds Jones Act cargo handling at Jaxport",
+          "summary": "The carrier Trailer Bridge has reached an agreement with the terminal operator and stevedore to take over cargo handling for its main service to Puerto Rico.",
+          "source": "Journal of Commerce",
+          "sourceUrl": "https://joc.com",
+          "link": "https://joc.com/article/ports-america-adds-jones-act-cargo-handling-at-jaxport-6278917",
+          "publishedAt": "2026-08-31T20:34:14.000Z"
+        },
+        {
+          "id": "hamburg-shifts-more-empty-container-movements-to-rail-4",
+          "title": "Hamburg shifts more empty container movements to rail",
+          "summary": "The Port of Hamburg is seeing more empty containers move by rail as operators seek to reduce truck traffic and improve hinterland logistics. Hamburg Container and Chassis Repair (HCCR), a subsidiary of HHLA, is expanding…",
+          "source": "Container News",
+          "sourceUrl": "https://container-news.com",
+          "link": "https://container-news.com/hamburg-shifts-more-empty-container-movements-to-rail/",
+          "publishedAt": "2026-08-31T20:00:33.000Z"
+        },
+        {
+          "id": "north-america-must-join-forces-to-compete-as-global-trade-fr-5",
+          "title": "North America must ‘join forces’ to compete as global trade fragments, expert says",
+          "summary": "Experts say deeper North American integration, infrastructure investment and workforce development will be critical to competing in a global economy shaped by protectionism, geopolitical tensions and AI. The post North A…",
+          "source": "FreightWaves",
+          "sourceUrl": "https://www.freightwaves.com",
+          "link": "https://www.freightwaves.com/news/north-america-must-join-forces-to-compete-as-global-trade-fragments-expert-says",
+          "publishedAt": "2026-08-31T19:47:07.000Z"
+        },
+        {
+          "id": "trump-vows-to-hit-iran-hard-after-first-exchanges-of-fire-in-6",
+          "title": "Trump Vows to Hit Iran Hard After First Exchanges of Fire in a Month",
+          "summary": "U.S. President Donald Trump was quoted on Monday as promising to \"hit them hard\" after Iran launched missiles overnight at two U.S. air bases in Jordan in response to a U.S. attack on Iran's Larak island.",
           "source": "gCaptain",
-          "sourceUrl": "https://gcaptain.com/",
-          "link": "https://gcaptain.com/",
-          "publishedAt": "2026-08-31T06:30:00.000Z"
+          "sourceUrl": "https://gcaptain.com",
+          "link": "https://gcaptain.com/trump-vows-to-hit-iran-hard-after-first-exchanges-of-fire-in-a-month/",
+          "publishedAt": "2026-08-31T19:33:43.000Z"
         },
         {
-          "id": "seed-wl-2",
-          "title": "Küresel konteyner navlun endeksinde hafif düşüş",
-          "summary": "Asya-Avrupa hatlarında kapasite artışı ve talep normalleşmesi spot navlun fiyatlarını aşağı çekiyor. Forwarder'lar dördüncü çeyrek için temkinli iyimser.",
-          "source": "The Loadstar",
-          "sourceUrl": "https://theloadstar.com/",
-          "link": "https://theloadstar.com/",
-          "publishedAt": "2026-08-30T16:00:00.000Z"
+          "id": "shippers-see-fresh-disruption-from-china-as-new-typhoon-agai-7",
+          "title": "Shippers see fresh disruption from China as new typhoon again closes key ports",
+          "summary": "Sources say there are growing instances of transshipment, rolled cargo and skipped calls in the wake of Saudel, while yard density at ports in north and east Asia is becoming another chokepoint.",
+          "source": "Journal of Commerce",
+          "sourceUrl": "https://joc.com",
+          "link": "https://joc.com/article/shippers-see-fresh-disruption-from-china-as-new-typhoon-again-closes-key-ports-6278823",
+          "publishedAt": "2026-08-31T19:08:15.000Z"
         },
         {
-          "id": "seed-wl-3",
-          "title": "Büyük hat taşıyıcıları filo yenileme yatırımlarını artırıyor",
-          "summary": "Yakıt verimliliği ve emisyon regülasyonlarına uyum için yeni nesil gemi siparişleri hızlanıyor. Tedarik zincirinde kapasite planlaması yeniden şekilleniyor.",
-          "source": "Splash247",
-          "sourceUrl": "https://splash247.com/",
-          "link": "https://splash247.com/",
-          "publishedAt": "2026-08-30T09:15:00.000Z"
+          "id": "dp-world-names-first-methanol-dual-fuel-vessel-8",
+          "title": "DP World names first methanol dual-fuel vessel",
+          "summary": "DP World has named its first methanol dual-fuel containership, DP World London, at a ceremony in Aarhus, Denmark. The 1,250 TEU vessel will operate on a North Europe service. Its introduction marks another step in DP Wor…",
+          "source": "Container News",
+          "sourceUrl": "https://container-news.com",
+          "link": "https://container-news.com/dp-world-names-first-methanol-dual-fuel-vessel/",
+          "publishedAt": "2026-08-31T19:00:32.000Z"
         }
       ]
     },
@@ -37,31 +91,85 @@
       "label": "Türkiye Lojistik",
       "items": [
         {
-          "id": "seed-tl-1",
-          "title": "Türkiye'nin dış ticaretinde lojistik altyapı yatırımları öne çıkıyor",
-          "summary": "Liman ve demiryolu bağlantılarına yönelik yeni yatırımlar, ihracatçıların taşıma sürelerini kısaltmayı hedefliyor. Sektör temsilcileri kapasite artışını olumlu değerlendiriyor.",
-          "source": "LojiPort",
-          "sourceUrl": "https://www.lojiport.com/",
-          "link": "https://www.lojiport.com/",
-          "publishedAt": "2026-08-31T06:38:00.000Z"
-        },
-        {
-          "id": "seed-tl-2",
-          "title": "Karayolu taşımacılığında filo yenileme teşvikleri gündemde",
-          "summary": "Sektör dernekleri, yakıt maliyetleri ve Avrupa emisyon standartlarına uyum için filo yenilemeyi destekleyecek teşvik paketleri talep ediyor.",
-          "source": "Taşıma Dünyası Gazetesi",
-          "sourceUrl": "https://www.tasimadunyasi.com/",
-          "link": "https://www.tasimadunyasi.com/",
-          "publishedAt": "2026-08-29T00:00:00.000Z"
-        },
-        {
-          "id": "seed-tl-3",
-          "title": "Türkiye'nin TDT ülkeleriyle ticaret hacmi genişliyor",
-          "summary": "Türk Devletleri Teşkilatı üyesi ülkelerle ticaret hacmindeki artış, lojistik koridorlarında yeni güzergâh ve depolama yatırımı ihtiyacını gündeme taşıyor.",
+          "id": "ambalaj-sekt-r-ihracatta-3-8-milyar-dolar-ge-ti-0",
+          "title": "Ambalaj sektörü ihracatta 3,8 milyar doları geçti",
+          "summary": "Türkiye ambalaj sektö­rü, 2026 yılının ilk ya­rısında ihracatını artırdı. Ambalaj Sanayicileri Der­neği (ASD) tarafından açık­lanan Ocak-Haziran 2026 dönemi dış ticaret verileri­ne göre, sektörün ihracatı geçen yılın ayn…",
           "source": "Dünya Gazetesi",
-          "sourceUrl": "https://www.dunya.com/",
-          "link": "https://www.dunya.com/",
-          "publishedAt": "2026-08-31T05:00:00.000Z"
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/sektorler/ambalaj-sektoru-ihracatta-38-milyar-dolari-gecti-haberi-838254",
+          "publishedAt": "2026-08-31T21:00:00.000Z"
+        },
+        {
+          "id": "ya-meyve-ve-sebzede-hedef-d-nya-pazar-1",
+          "title": "Yaş meyve ve sebzede hedef dünya pazarı",
+          "summary": "Türkiye’nin yaş meyve sebze ve meyve sebze mamulleri sektörleri, 8-10 Eylül’de İzmir’de düzenlenecek Interfresh Eurasia’da uluslararası alıcılarla buluşacak. Son bir yılda 7 milyar doların üzerinde ihracat yapan sektör, …",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/ekonomi/yas-meyve-ve-sebzede-hedef-dunya-pazari-haberi-838270",
+          "publishedAt": "2026-08-31T21:00:00.000Z"
+        },
+        {
+          "id": "g-dada-k-resel-talep-y-n-de-i-tiriyor-giri-ve-orta-segment-g-2",
+          "title": "Gıdada küresel talep yön değiştiriyor: Giriş ve orta segment gıdaya hücum",
+          "summary": "Türkiye’de gıda üretiminde artan girdi maliyetleri, ihracatta fiyat tutturmayı zorlaştırıyor. Diğer yandan küresel ölçekteki zincir marketler, son dönemde ürün gamlarını ciddi oranda daraltırken, özellikle giriş ve orta …",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/ekonomi/gidada-kuresel-talep-yon-degistiriyor-giris-ve-orta-segment-gidaya-hucum-haberi-838274",
+          "publishedAt": "2026-08-31T21:00:00.000Z"
+        },
+        {
+          "id": "bal-k-l-kta-cumhuriyet-tarihinin-rekoru-2-3-milyar-dolarl-k--3",
+          "title": "Balıkçılıkta Cumhuriyet tarihinin rekoru: 2,3 milyar dolarlık döviz katkısı",
+          "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, Türkiye'nin geçen yıl 1 milyon 37 bin ton su ürünleri üretimiyle Cumhuriyet tarihinin rekorunu kırdığını belirterek, yaklaşık 100 ülkeye ihracat yapıldığını ve sektörün ülkeye 2,3 m…",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/ekonomi/balikcilikta-cumhuriyet-tarihinin-rekoru-23-milyar-dolarlik-doviz-katkisi-haberi-838278",
+          "publishedAt": "2026-08-31T19:40:00.000Z"
+        },
+        {
+          "id": "zf-aftermarket-iki-inovasyon-d-l-ne-birden-aday-g-sterildi-4",
+          "title": "ZF Aftermarket iki inovasyon ödülüne birden aday gösterildi",
+          "summary": "ZF Bus Connect “Veri, Bağlantı ve Siber Güvenlik” kategorisinde, ZF SCALAR ise, “Ticari Araç ve Filo İnovasyonu” kategorisinde aday gösterildi. Ziyaretçiler, ödüle aday gösterilen her iki çözümü de 8-12 Eylül 2026 tarihl…",
+          "source": "Taşıma Dünyası Gazetesi",
+          "sourceUrl": "https://www.tasimadunyasi.com",
+          "link": "https://www.tasimadunyasi.com/zf-aftermarket-iki-inovasyon-odulune-birden-aday-gosterildi",
+          "publishedAt": "2026-08-31T15:10:00.000Z"
+        },
+        {
+          "id": "zf-cvs-t-rkiye-den-ihracatta-424-basamakl-k-y-kseli-5",
+          "title": "ZF CVS Türkiye’den ihracatta 424 basamaklık yükseliş",
+          "summary": "ZF CVS Türkiye, Türkiye’nin önde gelen sanayi ve ihracat şirketlerinin sıralandığı iki önemli listede yer aldı. İSO İkinci 500 Büyük Sanayi Kuruluşu listesine 364’üncü sıradan giren şirket, TİM’in “Türkiye’nin İlk 1000 İ…",
+          "source": "Taşıma Dünyası Gazetesi",
+          "sourceUrl": "https://www.tasimadunyasi.com",
+          "link": "https://www.tasimadunyasi.com/zf-cvs-turkiyeden-ihracatta-424-basamaklik-yukselis",
+          "publishedAt": "2026-08-31T15:05:00.000Z"
+        },
+        {
+          "id": "timelog-lojistik-filosuna-20-adet-renault-trucks-t-480-katt-6",
+          "title": "Timelog Lojistik filosuna 20 adet Renault Trucks T 480 kattı",
+          "summary": "Timelog Global Lojistik, filosuna 20 adet Renault Trucks T 480 çekici katarak araç parkını gençleştiriyor ve büyüyen Avrupa operasyonları için kapasitesini artırıyor. Yeni teslimatla birlikte Timelog filosunun yaklaşık y…",
+          "source": "Taşıma Dünyası Gazetesi",
+          "sourceUrl": "https://www.tasimadunyasi.com",
+          "link": "https://www.tasimadunyasi.com/timelog-lojistik-filosuna-20-adet-renault-trucks-t-480-katti",
+          "publishedAt": "2026-08-31T14:04:00.000Z"
+        },
+        {
+          "id": "descartes-freight-broker-yaz-l-m-tai-yi-100-milyon-dolara-sa-7",
+          "title": "Descartes, freight broker yazılımı Tai’yi 100 milyon dolara satın aldı",
+          "summary": "Tedarik zinciri yazılım devi Descartes, navlun brokerlarına yönelik yapay zeka destekli TMS sağlayıcısı Tai'yi 100 milyon dolarlık nakit işlemle satın alarak küresel lojistik ağındaki veri ve operasyon gücünü artırdı.",
+          "source": "LojiPort",
+          "sourceUrl": "https://www.lojiport.com",
+          "link": "https://www.lojiport.com/descartes-freight-broker-yazilimi-taiyi-100-milyon-dolara-satin-aldi-120071h.htm",
+          "publishedAt": "2026-08-31T08:43:24.000Z"
+        },
+        {
+          "id": "t-rk-sahipli-gemi-kurtar-ld-14-korsan-ld-r-ld-8",
+          "title": "Türk sahipli gemi kurtarıldı; 14 korsan öldürüldü",
+          "summary": "Somali açıklarında korsanlar tarafından kaçırılan, Türkiye’ye ait silah ile askeri iletişim ve uydu ekipmanı taşıdığı iddia edilen MV Lutuf kargo gemisi, Türk ve Somali güçlerinin ortak operasyonu ile kurtarıldı.",
+          "source": "LojiPort",
+          "sourceUrl": "https://www.lojiport.com",
+          "link": "https://www.lojiport.com/turk-sahipli-gemi-kurtarildi-14-korsan-olduruldu-120070h.htm",
+          "publishedAt": "2026-08-31T08:15:21.000Z"
         }
       ]
     },
@@ -69,22 +177,85 @@
       "label": "Dünya Finans",
       "items": [
         {
-          "id": "seed-fw-1",
-          "title": "Küresel piyasalarda faiz beklentileri fiyatlamayı yönlendiriyor",
-          "summary": "Yatırımcılar merkez bankalarının önümüzdeki toplantılarında izleyeceği patikayı fiyatlamaya devam ediyor. ABD vadeli endekslerinde temkinli seyir hâkim.",
-          "source": "MarketWatch",
-          "sourceUrl": "https://www.marketwatch.com/",
-          "link": "https://www.marketwatch.com/",
-          "publishedAt": "2026-08-31T01:01:00.000Z"
+          "id": "why-is-metallus-stock-sliding-today-0",
+          "title": "Why is Metallus stock sliding today?",
+          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
+          "source": "Investing.com",
+          "sourceUrl": "https://www.investing.com",
+          "link": "https://www.investing.com/news/stock-market-news/why-is-metallus-stock-sliding-today-93CH-4883332",
+          "publishedAt": "2026-08-31T21:52:55.000Z"
         },
         {
-          "id": "seed-fw-2",
-          "title": "Enerji ve doğal gaz yatırımlarında Orta Doğu odaklı büyüme",
-          "summary": "Bölgedeki enerji şirketleri, arz güvenliğini artırmak amacıyla doğal gaz kapasitesine yönelik yatırımlarını hızlandırıyor.",
-          "source": "Forbes",
-          "sourceUrl": "https://www.forbes.com/business/",
-          "link": "https://www.forbes.com/business/",
-          "publishedAt": "2026-08-31T07:08:00.000Z"
+          "id": "metallus-stock-falls-on-ceo-retirement-announcement-1",
+          "title": "Metallus stock falls on CEO retirement announcement",
+          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
+          "source": "Investing.com",
+          "sourceUrl": "https://www.investing.com",
+          "link": "https://www.investing.com/news/stock-market-news/metallus-stock-falls-on-ceo-retirement-announcement-93CH-4883331",
+          "publishedAt": "2026-08-31T21:51:38.000Z"
+        },
+        {
+          "id": "with-us-bill-s-fate-in-balance-ukraine-to-lobby-us-on-russia-2",
+          "title": "With US bill’s fate in balance, Ukraine to lobby US on Russia sanctions",
+          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
+          "source": "Investing.com",
+          "sourceUrl": "https://www.investing.com",
+          "link": "https://www.investing.com/news/commodities-news/with-us-bills-fate-in-balance-ukraine-to-lobby-us-on-russia-sanctions-4883325",
+          "publishedAt": "2026-08-31T21:49:11.000Z"
+        },
+        {
+          "id": "amazon-sued-by-ftc-22-us-states-over-ad-sales-practices-3",
+          "title": "Amazon sued by FTC, 22 US states over ad sales practices",
+          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
+          "source": "Investing.com",
+          "sourceUrl": "https://www.investing.com",
+          "link": "https://www.investing.com/news/stock-market-news/ftc-to-file-lawsuit-alleging-amazon-deceived-advertisers-wsj-reports-4883140",
+          "publishedAt": "2026-08-31T21:48:53.000Z"
+        },
+        {
+          "id": "innsuites-completes-3m-debt-to-equity-conversion-4",
+          "title": "InnSuites completes $3M debt-to-equity conversion",
+          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
+          "source": "Investing.com",
+          "sourceUrl": "https://www.investing.com",
+          "link": "https://www.investing.com/news/company-news/innsuites-completes-3m-debttoequity-conversion-93CH-4883330",
+          "publishedAt": "2026-08-31T21:48:52.000Z"
+        },
+        {
+          "id": "defi-development-plans-20-million-preferred-stock-offering-5",
+          "title": "DeFi Development plans $20 million preferred stock offering",
+          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
+          "source": "Investing.com",
+          "sourceUrl": "https://www.investing.com",
+          "link": "https://www.investing.com/news/company-news/defi-development-plans-20-million-preferred-stock-offering-93CH-4883329",
+          "publishedAt": "2026-08-31T21:48:36.000Z"
+        },
+        {
+          "id": "bitcoin-set-for-huge-august-gain-despite-iran-escalation-and-6",
+          "title": "Bitcoin set for huge August gain despite Iran escalation and rate jitters",
+          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
+          "source": "Investing.com",
+          "sourceUrl": "https://www.investing.com",
+          "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-78k-as-rate-jitters-iran-escalation-weigh-4882178",
+          "publishedAt": "2026-08-31T21:48:13.000Z"
+        },
+        {
+          "id": "trump-says-exxon-is-going-in-to-venezuela-as-us-pushes-oil-d-7",
+          "title": "Trump says Exxon is ’going in’ to Venezuela as US pushes oil deals",
+          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
+          "source": "Investing.com",
+          "sourceUrl": "https://www.investing.com",
+          "link": "https://www.investing.com/news/stock-market-news/trump-says-exxon-is-going-in-to-venezuela-as-us-pushes-oil-deals-4883326",
+          "publishedAt": "2026-08-31T21:44:04.000Z"
+        },
+        {
+          "id": "kkr-backed-opi-nail-polish-owner-wella-co-files-for-us-ipo-8",
+          "title": "KKR-backed OPI nail polish owner Wella Co files for US IPO",
+          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
+          "source": "Investing.com",
+          "sourceUrl": "https://www.investing.com",
+          "link": "https://www.investing.com/news/stock-market-news/kkrbacked-opi-nail-polish-owner-wella-co-files-for-us-ipo-4883284",
+          "publishedAt": "2026-08-31T21:42:58.000Z"
         }
       ]
     },
@@ -92,31 +263,85 @@
       "label": "Türkiye Finans",
       "items": [
         {
-          "id": "seed-ft-1",
-          "title": "Türkiye ekonomisi ikinci çeyrekte büyüme kaydetti",
-          "summary": "Açıklanan büyüme verileri iç talep ve ihracat performansındaki toparlanmaya işaret ediyor. Ekonomistler yılın geri kalanı için tahminlerini güncelliyor.",
+          "id": "borsa-d-nda-pay-sat-lar-na-yeni-d-zenleme-0",
+          "title": "Borsa dışında pay satışlarına yeni düzenleme",
+          "summary": "Sermaye Piyasası Kurulu (SPK), fiili dolaşımdaki pay oranına göre, bazı ortaklıkların sermayesini temsil eden payların veya oy haklarının belirli oranların üzerinde borsa dışında satılmasına ilişkin ilke kararı aldı",
           "source": "Habertürk Ekonomi",
-          "sourceUrl": "https://www.haberturk.com/ekonomi",
-          "link": "https://www.haberturk.com/ekonomi",
-          "publishedAt": "2026-08-31T07:24:00.000Z"
+          "sourceUrl": "https://www.haberturk.com",
+          "link": "https://www.haberturk.com/borsa-disinda-pay-satislarina-yeni-duzenleme-3909394-ekonomi",
+          "publishedAt": "2026-08-31T21:42:39.000Z"
         },
         {
-          "id": "seed-ft-2",
-          "title": "TÜİK işsizlik verilerini açıkladı",
-          "summary": "İşsizlik oranındaki değişim, istihdam piyasasındaki mevsimsel hareketlilik ve sektörel dağılım açısından değerlendiriliyor.",
-          "source": "Sabah Ekonomi",
-          "sourceUrl": "https://www.sabah.com.tr/ekonomi",
-          "link": "https://www.sabah.com.tr/ekonomi",
-          "publishedAt": "2026-08-31T10:29:00.000Z"
+          "id": "bitexen-in-sahibi-kemal-cenk-erdem-tutukland-1",
+          "title": "Bitexen'in sahibi Kemal Cenk Erdem tutuklandı",
+          "summary": "İstanbul'da, yasa dışı bahis gelirlerinin aklanmasına yönelik soruşturmada gözaltına alınan şüpheli Kemal Cenk Erdem adli makamlarca tutuklandı.",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/gundem/bitexenin-sahibi-kemal-cenk-erdem-tutuklandi-haberi-838284",
+          "publishedAt": "2026-08-31T21:31:00.000Z"
         },
         {
-          "id": "seed-ft-3",
-          "title": "Bankacılık sektöründe kaynak çeşitlendirme adımları sürüyor",
-          "summary": "Kamu bankalarının uluslararası piyasalardan sağladığı ilave kaynaklar, kredi büyümesini destekleyecek şekilde değerlendiriliyor.",
-          "source": "Bloomberg HT",
-          "sourceUrl": "https://www.bloomberght.com/",
-          "link": "https://www.bloomberght.com/",
-          "publishedAt": "2026-08-25T18:31:00.000Z"
+          "id": "new-york-borsas-d-le-kapand-2",
+          "title": "New York borsası düşüşle kapandı",
+          "summary": "New York borsası jeopolitik gerilimlerin piyasaları baskılamasıyla haftanın ilk işlem gününü düşüşle tamamladı.",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/finans/haberler/new-york-borsasi-dususle-kapandi-haberi-838283",
+          "publishedAt": "2026-08-31T21:04:00.000Z"
+        },
+        {
+          "id": "ambalaj-sekt-r-ihracatta-3-8-milyar-dolar-ge-ti-3",
+          "title": "Ambalaj sektörü ihracatta 3,8 milyar doları geçti",
+          "summary": "Türkiye ambalaj sektö­rü, 2026 yılının ilk ya­rısında ihracatını artırdı. Ambalaj Sanayicileri Der­neği (ASD) tarafından açık­lanan Ocak-Haziran 2026 dönemi dış ticaret verileri­ne göre, sektörün ihracatı geçen yılın ayn…",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/sektorler/ambalaj-sektoru-ihracatta-38-milyar-dolari-gecti-haberi-838254",
+          "publishedAt": "2026-08-31T21:00:00.000Z"
+        },
+        {
+          "id": "seddk-ba-kan-davut-mente-hasar-eteleri-vurgun-una-alo-193-en-4",
+          "title": "SEDDK Başkanı Davut Menteş: ‘Hasar çeteleri vurgun’una Alo 193 engeli geliyor",
+          "summary": "Trafik Sigortası Eylem Planı kapsamında “Alo 193 OHİM” bugün itibarıyla faaliyete geçti. SEDDK Başkanı Davut Menteş, hasar çetelerinin yıllık milyarlarca lira seviyelerinde haksız kazanç elde ettiklerini belirterek, “1 m…",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/sektorler/sigortacilik/seddk-baskani-davut-mentes-hasar-ceteleri-vurgununa-alo-193-engeli-geliyor-haberi-838258",
+          "publishedAt": "2026-08-31T21:00:00.000Z"
+        },
+        {
+          "id": "avrupa-g-ne-inde-hedef-b-y-tt-5",
+          "title": "Avrupa güneşinde hedef büyüttü",
+          "summary": "Kalyon İnşaat Yönetim Kurulu Başkanı Murathan Kalyoncu, Polonya, Hırvatistan ve İtalya’da geliştirmeyi planladıkları yeni yatırımlarla Avrupa’da güneş enerjisinde varlıklarını güçlendireceklerini söyledi.",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/sirketler/avrupa-gunesinde-hedef-buyuttu-haberi-838263",
+          "publishedAt": "2026-08-31T21:00:00.000Z"
+        },
+        {
+          "id": "yapay-zek-n-n-enerji-faturas-80-kat-b-y-yecek-6",
+          "title": "Yapay zekânın enerji faturası 80 kat büyüyecek",
+          "summary": "Milyarlarca parametreli yapay zekâmodellerin eğitimi için artan işlem gücü enerji ihtiyacını katlıyor. Sadece GPT- 3’ün eğitimi 1.287 MWh elektrik tüketti. Bu, yaklaşık 112 benzinli aracın yıllık karbon emisyonuna eşdeğe…",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/ekonomi/yapay-zekanin-enerji-faturasi-80-kat-buyuyecek-haberi-838269",
+          "publishedAt": "2026-08-31T21:00:00.000Z"
+        },
+        {
+          "id": "ya-meyve-ve-sebzede-hedef-d-nya-pazar-7",
+          "title": "Yaş meyve ve sebzede hedef dünya pazarı",
+          "summary": "Türkiye’nin yaş meyve sebze ve meyve sebze mamulleri sektörleri, 8-10 Eylül’de İzmir’de düzenlenecek Interfresh Eurasia’da uluslararası alıcılarla buluşacak. Son bir yılda 7 milyar doların üzerinde ihracat yapan sektör, …",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/ekonomi/yas-meyve-ve-sebzede-hedef-dunya-pazari-haberi-838270",
+          "publishedAt": "2026-08-31T21:00:00.000Z"
+        },
+        {
+          "id": "bursa-da-niversite-sanayi-e-itiminde-yeni-d-nem-8",
+          "title": "Bursa’da üniversite-sanayi eğitiminde yeni dönem",
+          "summary": "Bursa Ticaret ve Sanayi Odası (BTSO) ile Yükseköğretim Kurulu (YÖK), üniversite-sanayi iş birliğinde işletmede mesleki eğitimi merkeze alan yeni bir model için iş birliği yapacak.",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/egitim/bursada-universite-sanayi-egitiminde-yeni-donem-haberi-838272",
+          "publishedAt": "2026-08-31T21:00:00.000Z"
         }
       ]
     }
