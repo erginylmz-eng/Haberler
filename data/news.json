@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-08-31T08:00:00.000Z",
+  "categories": {
+    "dunya-lojistik": {
+      "label": "Dünya Lojistik",
+      "items": [
+        {
+          "id": "seed-wl-1",
+          "title": "Kızıldeniz'de gemi trafiği toparlanma sinyali veriyor",
+          "summary": "Bölgedeki güvenlik operasyonlarının ardından büyük konteyner taşıyıcıları Süveyş güzergâhına kademeli dönüş için değerlendirme yapıyor. Analistler navlun fiyatlarında orta vadede yumuşama bekliyor.",
+          "source": "gCaptain",
+          "sourceUrl": "https://gcaptain.com/",
+          "link": "https://gcaptain.com/",
+          "publishedAt": "2026-08-31T06:30:00.000Z"
+        },
+        {
+          "id": "seed-wl-2",
+          "title": "Küresel konteyner navlun endeksinde hafif düşüş",
+          "summary": "Asya-Avrupa hatlarında kapasite artışı ve talep normalleşmesi spot navlun fiyatlarını aşağı çekiyor. Forwarder'lar dördüncü çeyrek için temkinli iyimser.",
+          "source": "The Loadstar",
+          "sourceUrl": "https://theloadstar.com/",
+          "link": "https://theloadstar.com/",
+          "publishedAt": "2026-08-30T16:00:00.000Z"
+        },
+        {
+          "id": "seed-wl-3",
+          "title": "Büyük hat taşıyıcıları filo yenileme yatırımlarını artırıyor",
+          "summary": "Yakıt verimliliği ve emisyon regülasyonlarına uyum için yeni nesil gemi siparişleri hızlanıyor. Tedarik zincirinde kapasite planlaması yeniden şekilleniyor.",
+          "source": "Splash247",
+          "sourceUrl": "https://splash247.com/",
+          "link": "https://splash247.com/",
+          "publishedAt": "2026-08-30T09:15:00.000Z"
+        }
+      ]
+    },
+    "turkiye-lojistik": {
+      "label": "Türkiye Lojistik",
+      "items": [
+        {
+          "id": "seed-tl-1",
+          "title": "Türkiye'nin dış ticaretinde lojistik altyapı yatırımları öne çıkıyor",
+          "summary": "Liman ve demiryolu bağlantılarına yönelik yeni yatırımlar, ihracatçıların taşıma sürelerini kısaltmayı hedefliyor. Sektör temsilcileri kapasite artışını olumlu değerlendiriyor.",
+          "source": "LojiPort",
+          "sourceUrl": "https://www.lojiport.com/",
+          "link": "https://www.lojiport.com/",
+          "publishedAt": "2026-08-31T06:38:00.000Z"
+        },
+        {
+          "id": "seed-tl-2",
+          "title": "Karayolu taşımacılığında filo yenileme teşvikleri gündemde",
+          "summary": "Sektör dernekleri, yakıt maliyetleri ve Avrupa emisyon standartlarına uyum için filo yenilemeyi destekleyecek teşvik paketleri talep ediyor.",
+          "source": "Taşıma Dünyası Gazetesi",
+          "sourceUrl": "https://www.tasimadunyasi.com/",
+          "link": "https://www.tasimadunyasi.com/",
+          "publishedAt": "2026-08-29T00:00:00.000Z"
+        },
+        {
+          "id": "seed-tl-3",
+          "title": "Türkiye'nin TDT ülkeleriyle ticaret hacmi genişliyor",
+          "summary": "Türk Devletleri Teşkilatı üyesi ülkelerle ticaret hacmindeki artış, lojistik koridorlarında yeni güzergâh ve depolama yatırımı ihtiyacını gündeme taşıyor.",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com/",
+          "link": "https://www.dunya.com/",
+          "publishedAt": "2026-08-31T05:00:00.000Z"
+        }
+      ]
+    },
+    "finans-dunya": {
+      "label": "Dünya Finans",
+      "items": [
+        {
+          "id": "seed-fw-1",
+          "title": "Küresel piyasalarda faiz beklentileri fiyatlamayı yönlendiriyor",
+          "summary": "Yatırımcılar merkez bankalarının önümüzdeki toplantılarında izleyeceği patikayı fiyatlamaya devam ediyor. ABD vadeli endekslerinde temkinli seyir hâkim.",
+          "source": "MarketWatch",
+          "sourceUrl": "https://www.marketwatch.com/",
+          "link": "https://www.marketwatch.com/",
+          "publishedAt": "2026-08-31T01:01:00.000Z"
+        },
+        {
+          "id": "seed-fw-2",
+          "title": "Enerji ve doğal gaz yatırımlarında Orta Doğu odaklı büyüme",
+          "summary": "Bölgedeki enerji şirketleri, arz güvenliğini artırmak amacıyla doğal gaz kapasitesine yönelik yatırımlarını hızlandırıyor.",
+          "source": "Forbes",
+          "sourceUrl": "https://www.forbes.com/business/",
+          "link": "https://www.forbes.com/business/",
+          "publishedAt": "2026-08-31T07:08:00.000Z"
+        }
+      ]
+    },
+    "finans-turkiye": {
+      "label": "Türkiye Finans",
+      "items": [
+        {
+          "id": "seed-ft-1",
+          "title": "Türkiye ekonomisi ikinci çeyrekte büyüme kaydetti",
+          "summary": "Açıklanan büyüme verileri iç talep ve ihracat performansındaki toparlanmaya işaret ediyor. Ekonomistler yılın geri kalanı için tahminlerini güncelliyor.",
+          "source": "Habertürk Ekonomi",
+          "sourceUrl": "https://www.haberturk.com/ekonomi",
+          "link": "https://www.haberturk.com/ekonomi",
+          "publishedAt": "2026-08-31T07:24:00.000Z"
+        },
+        {
+          "id": "seed-ft-2",
+          "title": "TÜİK işsizlik verilerini açıkladı",
+          "summary": "İşsizlik oranındaki değişim, istihdam piyasasındaki mevsimsel hareketlilik ve sektörel dağılım açısından değerlendiriliyor.",
+          "source": "Sabah Ekonomi",
+          "sourceUrl": "https://www.sabah.com.tr/ekonomi",
+          "link": "https://www.sabah.com.tr/ekonomi",
+          "publishedAt": "2026-08-31T10:29:00.000Z"
+        },
+        {
+          "id": "seed-ft-3",
+          "title": "Bankacılık sektöründe kaynak çeşitlendirme adımları sürüyor",
+          "summary": "Kamu bankalarının uluslararası piyasalardan sağladığı ilave kaynaklar, kredi büyümesini destekleyecek şekilde değerlendiriliyor.",
+          "source": "Bloomberg HT",
+          "sourceUrl": "https://www.bloomberght.com/",
+          "link": "https://www.bloomberght.com/",
+          "publishedAt": "2026-08-25T18:31:00.000Z"
+        }
+      ]
+    }
+  }
+}

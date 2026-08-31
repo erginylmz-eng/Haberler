@@ -1,0 +1,28 @@
+{
+  "name": "movus-haber",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Movus Lojistik - Lojistik ve Finans Haber Özetleri",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "preview": "npx serve@latest out",
+    "lint": "next lint",
+    "fetch-news": "node scripts/fetch-news.mjs"
+  },
+  "dependencies": {
+    "next": "14.2.35",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@google/genai": "^2.19.0",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "rss-parser": "^3.13.0",
+    "tailwindcss": "^3.4.19"
+  },
+  "engines": {
+    "node": ">=18.18.0"
+  }
+}

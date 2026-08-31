@@ -1,0 +1,47 @@
+name: Haberleri Güncelle
+
+on:
+  schedule:
+    # Her 4 saatte bir çalışır (UTC). İhtiyaca göre değiştirilebilir.
+    - cron: '0 */4 * * *'
+  workflow_dispatch: {} # Actions sekmesinden manuel tetikleme için
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-news
+  cancel-in-progress: false
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kodu al
+        uses: actions/checkout@v4
+
+      - name: Node.js kur
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Bağımlılıkları yükle
+        run: npm ci
+
+      - name: Haberleri çek ve özetle
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: npm run fetch-news
+
+      - name: Değişiklik varsa commit'le ve gönder
+        run: |
+          git config user.name "movus-haber-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if git diff --quiet -- data/news.json; then
+            echo "Değişiklik yok, commit atlanıyor."
+          else
+            git add data/news.json
+            git commit -m "chore: haberleri otomatik güncelle"
+            git push
+          fi
