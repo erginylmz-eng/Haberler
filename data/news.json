@@ -1,89 +1,89 @@
 {
-  "generatedAt": "2026-09-01T15:59:44.447Z",
+  "generatedAt": "2026-09-01T19:20:54.651Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "items": [
         {
-          "id": "carriers-will-feel-pressure-to-hasten-suez-return-sea-intell-0",
-          "title": "Carriers will feel pressure to hasten Suez return: Sea-Intelligence",
-          "summary": "The latest move in that direction came Monday with MSC announcing it is shifting its Albatros, Jade, Himalaya and Tiger strings back to Red Sea transits, following similar moves by competitors.",
+          "id": "macgregor-opens-new-service-hub-in-trieste-0",
+          "title": "MacGregor opens new service hub in Trieste",
+          "summary": "MacGregor has opened a new service engineer hub in Trieste, Italy, expanding its service network in Europe. The new hub opened on 1 September 2026. It will increase MacGregor’s engineering capacity and provide support fo…",
+          "source": "Container News",
+          "sourceUrl": "https://container-news.com",
+          "link": "https://container-news.com/macgregor-opens-new-service-hub-in-trieste/",
+          "publishedAt": "2026-09-01T19:00:41.000Z"
+        },
+        {
+          "id": "multiple-us-agencies-strengthen-dot-crackdown-on-illegal-tru-1",
+          "title": "Multiple US agencies strengthen DOT crackdown on illegal trucking",
+          "summary": "Shippers should expect more pressure on truck capacity as Homeland Security and the Justice Department join DOT in shutting down CDL schools and targeting illegal drivers.",
           "source": "Journal of Commerce",
           "sourceUrl": "https://joc.com",
-          "link": "https://joc.com/article/carriers-will-feel-pressure-to-hasten-suez-return-sea-intelligence-6279785",
-          "publishedAt": "2026-09-01T15:28:16.000Z"
+          "link": "https://joc.com/article/multiple-us-agencies-strengthen-dot-crackdown-on-illegal-trucking-6279868",
+          "publishedAt": "2026-09-01T18:56:16.000Z"
         },
         {
-          "id": "cotopaxi-repays-workers-at-taiwan-mills-for-predatory-recrui-1",
-          "title": "Cotopaxi repays workers at Taiwan mills for predatory recruitment fees",
-          "summary": "The outdoor apparel and accessories brand has been working to remediate unethical recruitment practices initially identified at two fabric mills in the country 2024.",
-          "source": "Supply Chain Dive",
-          "sourceUrl": "https://www.supplychaindive.com",
-          "link": "https://www.supplychaindive.com/news/cotopaxi-repays-workers-at-taiwan-mills-for-predatory-recruitment-fees/829192/",
-          "publishedAt": "2026-09-01T15:09:00.000Z"
-        },
-        {
-          "id": "maersk-cma-cgm-and-hapag-lloyd-drive-charter-activity-2",
-          "title": "Maersk, CMA CGM and Hapag-Lloyd drive charter activity",
-          "summary": "Containership charter activity remained strong among major liner operators, with Maersk, CMA CGM and Hapag-Lloyd among the carriers securing tonnage, according to the August 2026 edition of DynaLiners Monthly. The latest…",
-          "source": "Container News",
-          "sourceUrl": "https://container-news.com",
-          "link": "https://container-news.com/maersk-cma-cgm-and-hapag-lloyd-drive-charter-activity/",
-          "publishedAt": "2026-09-01T15:00:20.000Z"
-        },
-        {
-          "id": "texas-pennsylvania-lead-states-in-cdl-school-shutdowns-3",
-          "title": "Texas, Pennsylvania lead states in CDL school shutdowns",
-          "summary": "Texas and Pennsylvania each had 13 commercial driver training schools affected by the Department of Transportation's emergency enforcement action on Monday. The post Texas, Pennsylvania lead states in CDL school shutdown…",
+          "id": "florida-ag-calls-semi-truck-a-rolling-dungeon-after-4-childr-2",
+          "title": "Florida AG calls semi-truck a ‘rolling dungeon’ after 4 children confined for 6 years",
+          "summary": "The victims, ages 5 to 9, shared one sleeper bunk while traveling commercial routes between Atlanta and Miami. Authorities say they used cups and paper bags as toilets. The post Florida AG calls semi-truck a ‘rolling dun…",
           "source": "FreightWaves",
           "sourceUrl": "https://www.freightwaves.com",
-          "link": "https://www.freightwaves.com/news/texas-pennsylvania-lead-states-in-cdl-school-shutdowns",
-          "publishedAt": "2026-09-01T14:59:56.000Z"
+          "link": "https://www.freightwaves.com/news/florida-ag-calls-semi-truck-a-rolling-dungeon-after-4-children-confined-for-6-years",
+          "publishedAt": "2026-09-01T18:14:26.000Z"
         },
         {
-          "id": "dhl-acquires-freight-forwarder-in-uruguay-4",
-          "title": "DHL acquires freight forwarder in Uruguay",
-          "summary": "DHL Global Forwarding has established a direct presence in Uruguay through an acquisition as the country’s trade and data center buildout grows. The post DHL acquires freight forwarder in Uruguay appeared first on Freigh…",
-          "source": "FreightWaves",
-          "sourceUrl": "https://www.freightwaves.com",
-          "link": "https://www.freightwaves.com/news/dhl-acquires-freight-forwarder-in-uruguay",
-          "publishedAt": "2026-09-01T14:58:24.000Z"
-        },
-        {
-          "id": "sapporo-usa-to-close-craft-brewing-facilities-following-sale-5",
-          "title": "Sapporo USA to close craft brewing facilities following sale",
-          "summary": "The beer maker, which will also lay off 220 workers, sold Stone Brewing earlier this year and is transitioning its brewing operations away from California.",
-          "source": "Supply Chain Dive",
-          "sourceUrl": "https://www.supplychaindive.com",
-          "link": "https://www.supplychaindive.com/news/sapporo-usa-to-close-craft-brewing-facilities-following-sale/828932/",
-          "publishedAt": "2026-09-01T14:06:00.000Z"
-        },
-        {
-          "id": "overlooked-lusaka-airport-suddenly-attracts-dedicated-freigh-6",
-          "title": "‘Overlooked’ Lusaka Airport suddenly attracts dedicated freighter capacity",
-          "summary": "Lusaka Airport is attracting dedicated freighter capacity from two very different airlines, raising questions over whether a previously overlooked air cargo market is beginning to change. The post ‘Overlooked’ Lusaka Air…",
-          "source": "The Loadstar",
-          "sourceUrl": "https://theloadstar.com",
-          "link": "https://theloadstar.com/overlooked-lusaka-airport-suddenly-attracts-dedicated-freighter-capacity/",
-          "publishedAt": "2026-09-01T14:00:50.000Z"
-        },
-        {
-          "id": "when-decarbonization-policy-outruns-port-infrastructure-7",
-          "title": "When decarbonization policy outruns port infrastructure",
-          "summary": "A UK Department for Transport report released in late August has quietly confirmed what analysis has been warning about for over a year: the gap between decarbonization ambition and physical infrastructure capacity has b…",
+          "id": "maersk-revises-service-fees-for-shipments-to-and-from-greece-3",
+          "title": "Maersk revises service fees for shipments to and from Greece",
+          "summary": "Maersk will revise its export and import service fees for container shipments to and from Greece from 1 October 2026. The updated Export Service fee (EXP) and Import Service fee (IMP) will apply at Piraeus and Thessaloni…",
           "source": "Container News",
           "sourceUrl": "https://container-news.com",
-          "link": "https://container-news.com/when-decarbonization-policy-outruns-port-infrastructure/",
-          "publishedAt": "2026-09-01T14:00:33.000Z"
+          "link": "https://container-news.com/maersk-revises-service-fees-for-shipments-to-and-from-greece/",
+          "publishedAt": "2026-09-01T18:00:27.000Z"
         },
         {
-          "id": "africa-latam-trade-on-the-up-but-is-mainly-one-way-traffic-8",
-          "title": "Africa-LatAm trade on the up – but is mainly one-way traffic",
-          "summary": "Brazilian forwarders appear optimistic about the way trade opportunities are shaping up in Africa, and it seems there is certainly an appetite on the other side of the Atlantic to foster stronger relations. The post Afri…",
-          "source": "The Loadstar",
-          "sourceUrl": "https://theloadstar.com",
-          "link": "https://theloadstar.com/africa-latam-trade-on-the-up-but-is-mainly-one-way-traffic/",
-          "publishedAt": "2026-09-01T14:00:09.000Z"
+          "id": "manufacturing-growth-slows-in-august-as-economic-concerns-lo-4",
+          "title": "Manufacturing growth slows in August as economic concerns loom: ISM",
+          "summary": "Although the sector remained in expansion, \"warning signs\" are starting to appear, said Susan Spence, chair of the Institute for Supply Management.",
+          "source": "Supply Chain Dive",
+          "sourceUrl": "https://www.supplychaindive.com",
+          "link": "https://www.supplychaindive.com/news/manufacturing-growth-slows-in-august-as-economic-concerns-loom-ism/829327/",
+          "publishedAt": "2026-09-01T17:39:00.000Z"
+        },
+        {
+          "id": "chinese-shipper-cosco-collects-intel-for-beijing-with-concea-5",
+          "title": "Chinese Shipper COSCO Collects Intel for Beijing With Concealed Equipment",
+          "summary": "WASHINGTON, Sept 1 (Reuters) – China’s state-owned shipping giant COSCO uses concealed equipment on board its ships to spy on military communications near the coastlines of target nations including the U.S., two...",
+          "source": "gCaptain",
+          "sourceUrl": "https://gcaptain.com",
+          "link": "https://gcaptain.com/chinese-shipper-cosco-collects-intel-for-beijing-with-concealed-equipment/",
+          "publishedAt": "2026-09-01T17:13:03.000Z"
+        },
+        {
+          "id": "msc-revises-sentosa-service-with-megamax-ship-calls-to-long--6",
+          "title": "MSC revises Sentosa service with ‘megamax’ ship calls to Long Beach",
+          "summary": "The revamped service from Southeast Asia and South China will also be notable because the vessels will completely discharge their inbound containers in Long Beach and reload for the backhaul without calling Oakland.",
+          "source": "Journal of Commerce",
+          "sourceUrl": "https://joc.com",
+          "link": "https://joc.com/article/msc-revises-sentosa-service-with-megamax-ship-calls-to-long-beach-6279832",
+          "publishedAt": "2026-09-01T17:01:24.000Z"
+        },
+        {
+          "id": "apm-terminals-breaks-ground-on-laldia-terminal-in-chattogram-7",
+          "title": "APM Terminals breaks ground on Laldia terminal in Chattogram",
+          "summary": "APM Terminals has marked the official groundbreaking for APM Terminals Laldia in Chattogram, Bangladesh, transitioning one of the largest Public-Private Partnership investments in the country’s history from signing to co…",
+          "source": "Container News",
+          "sourceUrl": "https://container-news.com",
+          "link": "https://container-news.com/apm-terminals-breaks-ground-on-laldia-terminal-in-chattogram/",
+          "publishedAt": "2026-09-01T17:00:10.000Z"
+        },
+        {
+          "id": "el-ni-o-strengthens-raising-new-concerns-for-panama-canal-8",
+          "title": "El Niño Strengthens, Raising New Concerns for Panama Canal",
+          "summary": "El Niño is strengthening across the tropical Pacific, with U.S. forecasters now seeing a greater than 90% chance it becomes a very strong event this fall and winter. The latest...",
+          "source": "gCaptain",
+          "sourceUrl": "https://gcaptain.com",
+          "link": "https://gcaptain.com/el-nino-strengthens-raising-new-concerns-for-panama-canal/",
+          "publishedAt": "2026-09-01T16:50:41.000Z"
         }
       ]
     },
@@ -91,16 +91,34 @@
       "label": "Türkiye Lojistik",
       "items": [
         {
-          "id": "girne-de-batan-yolcu-gemisinin-yeri-tespit-edildi-0",
-          "title": "Girne'de batan yolcu gemisinin yeri tespit edildi",
-          "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Cumhurbaşkanı Tufan Erhürman Girne'de batan yolcu gemisinin 550 metrede tespit edildiğini açıkladı.",
-          "source": "Dünya Gazetesi",
-          "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/gundem/girnede-batan-yolcu-gemisinin-yeri-tespit-edildi-haberi-838363",
-          "publishedAt": "2026-09-01T13:48:00.000Z"
+          "id": "t-rsan-avrupa-treyler-i-novasyonunda-11-d-l-n-ald-0",
+          "title": "Tırsan Avrupa Treyler İnovasyonunda 11. Ödülünü Aldı",
+          "summary": "Tırsan, Avrupa Treyler İnovasyon Ödülleri’nde 7 kategorinin tamamında en kısa sürede ödül alan ilk ve tek üretici oldu. International Trailer Award 2027'de Komponent kategorisindeki birincilikle toplam ödül sayısı 11’e y…",
+          "source": "Taşımacılar.com",
+          "sourceUrl": "https://www.tasimacilar.com",
+          "link": "https://www.tasimacilar.com/treyler/tirsan-avrupa-treyler-inovasyonunda-11-odulunu-aldi-27719h",
+          "publishedAt": "2026-09-01T16:31:08.000Z"
         },
         {
-          "id": "t-rsan-international-trailer-award-2027-de-11-d-le-ula-t-1",
+          "id": "anadolu-isuzu-big-e-i-ngiltere-de-sat-ta-1",
+          "title": "Anadolu Isuzu BIG.e İngiltere’de Satışta",
+          "summary": "Anadolu Isuzu’nun tamamen elektrikli hafif ticari aracı BIG.e, yüzde 70’e varan yerlilik oranı ve 170 kilometreye ulaşan menzil seçenekleriyle İngiltere pazarında satışa sunuldu.",
+          "source": "Taşımacılar.com",
+          "sourceUrl": "https://www.tasimacilar.com",
+          "link": "https://www.tasimacilar.com/ticari-arac/anadolu-isuzu-big-e-ingilterede-satista-27718h",
+          "publishedAt": "2026-09-01T16:28:05.000Z"
+        },
+        {
+          "id": "almanya-rusya-gerilimi-art-yor-konsolosluk-ve-rusya-evi-kapa-2",
+          "title": "Almanya-Rusya gerilimi artıyor: Konsolosluk ve Rusya Evi kapatılacak",
+          "summary": "Almanya Dışişleri Bakanlığı, Leipzig Havalimanı'ndaki 4 Ağustos tarihli dron saldırısı girişiminden Rusya'yı sorumlu tutarak Bonn'daki Rus Konsolosluğu ile Berlin'deki Rusya Evi'nin kapatılacağını açıkladı. NATO Genel Se…",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/dunya/almanya-rusya-gerilimi-artiyor-konsolosluk-ve-rusya-evi-kapatilacak-haberi-838395",
+          "publishedAt": "2026-09-01T16:14:00.000Z"
+        },
+        {
+          "id": "t-rsan-international-trailer-award-2027-de-11-d-le-ula-t-3",
           "title": "Tırsan, International Trailer Award 2027'de 11. ödüle ulaştı",
           "summary": "Tırsan, Avrupa Treyler İnovasyon Ödülleri’nde şasi, gövde, güvenlik, çevre, konsept, komponent ve akıllı treyler kategorilerinin tamamında en kısa sürede ödül alan Avrupa’daki ilk ve tek üretici olarak treyler inovasyon …",
           "source": "LojiPort",
@@ -109,7 +127,7 @@
           "publishedAt": "2026-09-01T10:05:31.000Z"
         },
         {
-          "id": "t-rsan-dan-avrupa-da-i-novasyon-ba-ar-s-7-kategoride-11-d-l-2",
+          "id": "t-rsan-dan-avrupa-da-i-novasyon-ba-ar-s-7-kategoride-11-d-l-4",
           "title": "Tırsan’dan Avrupa’da İnovasyon Başarısı: 7 Kategoride 11 Ödül",
           "summary": "Tırsan, Avrupa Treyler İnovasyon Ödülleri’nin yedi kategorisinde 11 ödüle ulaşırken Modüler Taban Sistemi ile ağır nakliyede yüzde 29 verimlilik sağladı.",
           "source": "Taşıma Dünyası Gazetesi",
@@ -118,7 +136,7 @@
           "publishedAt": "2026-09-01T08:45:00.000Z"
         },
         {
-          "id": "timelog-lojistik-20-renault-trucks-t-480-ekici-ile-ara-park--3",
+          "id": "timelog-lojistik-20-renault-trucks-t-480-ekici-ile-ara-park--5",
           "title": "Timelog Lojistik, 20 Renault Trucks T 480 çekici ile araç parkını gençleştirdi",
           "summary": "Timelog Global Lojistik, filosuna 20 adet Renault Trucks T 480 çekici katarak araç parkını gençleştiriyor ve büyüyen Avrupa operasyonları için kapasite artırıyor. Yeni katılımlarla Timelog filosunun yaklaşık yarısını Ren…",
           "source": "LojiPort",
@@ -127,7 +145,7 @@
           "publishedAt": "2026-09-01T05:14:31.000Z"
         },
         {
-          "id": "zf-aftermarket-iki-inovasyon-d-l-ne-birden-aday-g-sterildi-4",
+          "id": "zf-aftermarket-iki-inovasyon-d-l-ne-birden-aday-g-sterildi-6",
           "title": "ZF Aftermarket iki inovasyon ödülüne birden aday gösterildi",
           "summary": "ZF Bus Connect “Veri, Bağlantı ve Siber Güvenlik” kategorisinde, ZF SCALAR ise, “Ticari Araç ve Filo İnovasyonu” kategorisinde aday gösterildi. Ziyaretçiler, ödüle aday gösterilen her iki çözümü de 8-12 Eylül 2026 tarihl…",
           "source": "Taşıma Dünyası Gazetesi",
@@ -136,7 +154,7 @@
           "publishedAt": "2026-08-31T15:10:00.000Z"
         },
         {
-          "id": "zf-cvs-t-rkiye-den-ihracatta-424-basamakl-k-y-kseli-5",
+          "id": "zf-cvs-t-rkiye-den-ihracatta-424-basamakl-k-y-kseli-7",
           "title": "ZF CVS Türkiye’den ihracatta 424 basamaklık yükseliş",
           "summary": "ZF CVS Türkiye, Türkiye’nin önde gelen sanayi ve ihracat şirketlerinin sıralandığı iki önemli listede yer aldı. İSO İkinci 500 Büyük Sanayi Kuruluşu listesine 364’üncü sıradan giren şirket, TİM’in “Türkiye’nin İlk 1000 İ…",
           "source": "Taşıma Dünyası Gazetesi",
@@ -145,31 +163,13 @@
           "publishedAt": "2026-08-31T15:05:00.000Z"
         },
         {
-          "id": "timelog-lojistik-filosuna-20-adet-renault-trucks-t-480-katt-6",
+          "id": "timelog-lojistik-filosuna-20-adet-renault-trucks-t-480-katt-8",
           "title": "Timelog Lojistik filosuna 20 adet Renault Trucks T 480 kattı",
           "summary": "Timelog Global Lojistik, filosuna 20 adet Renault Trucks T 480 çekici katarak araç parkını gençleştiriyor ve büyüyen Avrupa operasyonları için kapasitesini artırıyor. Yeni teslimatla birlikte Timelog filosunun yaklaşık y…",
           "source": "Taşıma Dünyası Gazetesi",
           "sourceUrl": "https://www.tasimadunyasi.com",
           "link": "https://www.tasimadunyasi.com/timelog-lojistik-filosuna-20-adet-renault-trucks-t-480-katti",
           "publishedAt": "2026-08-31T14:04:00.000Z"
-        },
-        {
-          "id": "descartes-freight-broker-yaz-l-m-tai-yi-100-milyon-dolara-sa-7",
-          "title": "Descartes, freight broker yazılımı Tai’yi 100 milyon dolara satın aldı",
-          "summary": "Tedarik zinciri yazılım devi Descartes, navlun brokerlarına yönelik yapay zeka destekli TMS sağlayıcısı Tai'yi 100 milyon dolarlık nakit işlemle satın alarak küresel lojistik ağındaki veri ve operasyon gücünü artırdı.",
-          "source": "LojiPort",
-          "sourceUrl": "https://www.lojiport.com",
-          "link": "https://www.lojiport.com/descartes-freight-broker-yazilimi-taiyi-100-milyon-dolara-satin-aldi-120071h.htm",
-          "publishedAt": "2026-08-31T08:43:24.000Z"
-        },
-        {
-          "id": "t-rk-sahipli-gemi-kurtar-ld-14-korsan-ld-r-ld-8",
-          "title": "Türk sahipli gemi kurtarıldı; 14 korsan öldürüldü",
-          "summary": "Somali açıklarında korsanlar tarafından kaçırılan, Türkiye’ye ait silah ile askeri iletişim ve uydu ekipmanı taşıdığı iddia edilen MV Lutuf kargo gemisi, Türk ve Somali güçlerinin ortak operasyonu ile kurtarıldı.",
-          "source": "LojiPort",
-          "sourceUrl": "https://www.lojiport.com",
-          "link": "https://www.lojiport.com/turk-sahipli-gemi-kurtarildi-14-korsan-olduruldu-120070h.htm",
-          "publishedAt": "2026-08-31T08:15:21.000Z"
         }
       ]
     },
@@ -177,85 +177,85 @@
       "label": "Dünya Finans",
       "items": [
         {
-          "id": "volkswagen-management-proposes-shutdown-of-four-german-plant-0",
-          "title": "Volkswagen management proposes shutdown of four German plants by 2034, WiWo reports",
+          "id": "bank-of-israel-may-cut-rates-further-if-inflation-stays-stab-0",
+          "title": "Bank of Israel may cut rates further if inflation stays stable",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/stock-market-news/volkswagen-management-proposes-shutdown-of-four-german-plants-by-2034-wiwo-reports-4884253",
-          "publishedAt": "2026-09-01T15:55:04.000Z"
+          "link": "https://www.investing.com/news/economy-news/bank-of-israel-may-cut-rates-further-if-inflation-stays-stable-93CH-4884499",
+          "publishedAt": "2026-09-01T19:14:55.000Z"
         },
         {
-          "id": "government-borrowing-costs-rise-again-in-fresh-headache-for--1",
-          "title": "Government borrowing costs rise again in fresh headache for global policymakers",
+          "id": "billionaire-rams-owner-stan-kroenke-buys-los-angeles-angels-1",
+          "title": "Billionaire Rams Owner Stan Kroenke Buys Los Angeles Angels",
+          "summary": "The billionaire’s company agreed to purchase a controlling interest in the MLB franchise from another billionaire, Arte Moreno.",
+          "source": "Forbes Business",
+          "sourceUrl": "https://www.forbes.com",
+          "link": "https://www.forbes.com/sites/zacharyfolk/2026/09/01/billionaire-rams-owner-stan-kroenke-buys-los-angeles-angels/",
+          "publishedAt": "2026-09-01T19:07:37.000Z"
+        },
+        {
+          "id": "donald-sternoff-beyer-jr-invests-in-california-st-and-long-i-2",
+          "title": "Donald Sternoff Beyer Jr invests in California St and Long Is Pwr Auth, sells Washington St",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-japan-yield-hits-key-threshold-4883562",
-          "publishedAt": "2026-09-01T15:54:47.000Z"
+          "link": "https://www.investing.com/news/company-news/donald-sternoff-beyer-jr-invests-in-california-st-and-long-is-pwr-auth-sells-washington-st-93CH-4884498",
+          "publishedAt": "2026-09-01T19:06:16.000Z"
         },
         {
-          "id": "automotive-supplier-yfore-opens-us-manufacturing-base-in-geo-2",
-          "title": "Automotive supplier YFore opens US manufacturing base in Georgia",
-          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
-          "source": "Yahoo Finance",
-          "sourceUrl": "https://finance.yahoo.com",
-          "link": "https://finance.yahoo.com/technology/articles/automotive-supplier-yfore-opens-us-154959460.html",
-          "publishedAt": "2026-09-01T15:49:59.000Z"
+          "id": "deceased-child-identity-theft-unknown-man-steals-child-s-ide-3",
+          "title": "Deceased Child Identity Theft: “Unknown Man” Steals Child’s Identity",
+          "summary": "An identity thief stole the identity of a deceased teenager and used it for decades to obtain government benefits. Learn how deceased identity theft works.",
+          "source": "Forbes Business",
+          "sourceUrl": "https://www.forbes.com",
+          "link": "https://www.forbes.com/sites/steveweisman/2026/09/01/deceased-child-identity-theft-unknown-man-steals-childs-identity/",
+          "publishedAt": "2026-09-01T19:05:00.000Z"
         },
         {
-          "id": "france-targets-shein-and-temu-with-fast-fashion-fees-3",
-          "title": "France targets Shein and Temu with fast fashion fees",
-          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
-          "source": "Investing.com",
-          "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/stock-market-news/france-targets-shein-and-temu-with-fast-fashion-fines-4883500",
-          "publishedAt": "2026-09-01T15:48:57.000Z"
-        },
-        {
-          "id": "nyse-texas-grand-opening-cements-dallas-financial-hub-4",
-          "title": "NYSE Texas Grand Opening Cements Dallas Financial Hub",
-          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
-          "source": "Yahoo Finance",
-          "sourceUrl": "https://finance.yahoo.com",
-          "link": "https://finance.yahoo.com/real-estate/articles/nyse-texas-grand-opening-cements-154851547.html",
-          "publishedAt": "2026-09-01T15:48:51.000Z"
-        },
-        {
-          "id": "struggling-gopro-sells-majority-stake-to-optical-maker-starm-5",
-          "title": "Struggling GoPro sells majority stake to optical maker Starman for $285 million",
+          "id": "vir-biotechnology-stock-hits-52-week-high-at-11-66-usd-4",
+          "title": "Vir Biotechnology stock hits 52-week high at 11.66 USD",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/stock-market-news/gopro-to-be-acquired-by-starman-optical-in-285-million-deal-4884255",
-          "publishedAt": "2026-09-01T15:48:35.000Z"
+          "link": "https://www.investing.com/news/company-news/vir-biotechnology-stock-hits-52week-high-at-1166-usd-93CH-4884497",
+          "publishedAt": "2026-09-01T19:04:41.000Z"
         },
         {
-          "id": "coinbase-at-188-just-hold-tight-now-6",
-          "title": "Coinbase at $188: Just Hold Tight Now",
-          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
-          "source": "Yahoo Finance",
-          "sourceUrl": "https://finance.yahoo.com",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/coinbase-188-just-hold-tight-154731794.html",
-          "publishedAt": "2026-09-01T15:47:31.000Z"
-        },
-        {
-          "id": "mizuho-names-top-oil-and-gas-stocks-7",
-          "title": "Mizuho Names Top Oil and Gas Stocks",
+          "id": "venezuela-s-assembly-backs-oil-deal-announced-with-u-s-5",
+          "title": "Venezuela’s assembly backs oil deal announced with U.S",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/stock-market-news/mizuho-names-top-oil-and-gas-stocks-devon-permian-resources-eqt-lead-93CH-4884353",
-          "publishedAt": "2026-09-01T15:46:25.000Z"
+          "link": "https://www.investing.com/news/commodities-news/venezuelas-assembly-backs-oil-deal-announced-with-us-4884495",
+          "publishedAt": "2026-09-01T19:00:54.000Z"
         },
         {
-          "id": "glen-eagle-acquires-option-for-70-stake-in-morrison-silver-p-8",
-          "title": "Glen Eagle acquires option for 70% stake in Morrison silver property",
+          "id": "finland-plans-2027-budget-to-support-recovery-and-cut-defici-6",
+          "title": "Finland plans 2027 budget to support recovery and cut deficit",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/company-news/glen-eagle-acquires-option-for-70-stake-in-morrison-silver-property-93CH-4884352",
-          "publishedAt": "2026-09-01T15:44:37.000Z"
+          "link": "https://www.investing.com/news/economy-news/finland-plans-2027-budget-to-support-recovery-and-cut-deficit-93CH-4884493",
+          "publishedAt": "2026-09-01T18:59:54.000Z"
+        },
+        {
+          "id": "broadcom-earnings-need-to-answer-these-questions-for-the-sto-7",
+          "title": "Broadcom earnings need to answer these questions for the stock to rally again",
+          "summary": "Investors are wondering if Broadcom will update its AI revenue guidance, and how durable growth in its AI business will be going forward, J.P. Morgan says.",
+          "source": "MarketWatch",
+          "sourceUrl": "https://www.marketwatch.com",
+          "link": "https://www.marketwatch.com/story/broadcom-earnings-need-to-answer-these-questions-for-the-stock-to-rally-again-f4e8f4f0?mod=mw_rss_topstories",
+          "publishedAt": "2026-09-01T18:54:00.000Z"
+        },
+        {
+          "id": "dell-technologies-options-activity-ahead-of-earnings-what-th-8",
+          "title": "Dell Technologies options activity ahead of earnings: what the contracts reveal",
+          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
+          "source": "Investing.com",
+          "sourceUrl": "https://www.investing.com",
+          "link": "https://www.investing.com/news/stock-market-news/dell-technologies-options-activity-ahead-of-earnings-what-the-contracts-reveal-93CH-4884492",
+          "publishedAt": "2026-09-01T18:53:50.000Z"
         }
       ]
     },
@@ -263,85 +263,85 @@
       "label": "Türkiye Finans",
       "items": [
         {
-          "id": "abd-hazine-bakan-bessent-bu-hafta-bir-bankaya-yapt-r-m-a-kla-0",
-          "title": "ABD Hazine Bakanı Bessent, bu hafta bir bankaya yaptırım açıklanabileceğini söyledi",
-          "summary": "ABD Hazine Bakanı Scott Bessent, İran'a karşı yürütülen ekonomik operasyon kapsamında bu hafta bir bankaya yönelik yaptırım açıklanabileceğini kaydetti.",
+          "id": "bakan-im-ek-in-ac-g-n-ye-enini-son-yolculu-una-u-urlad-0",
+          "title": "Bakan Şimşek’in acı günü: Yeğenini son yolculuğuna uğurladı",
+          "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, Batman'da özel bir spor salonunda çıkan yangında hayatını kaybeden yeğeni Emine Yani'nin (42) taziyesine katıldı.",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/gundem/bakan-simsekin-aci-gunu-yegenini-son-yolculuguna-ugurladi-haberi-838416",
+          "publishedAt": "2026-09-01T19:07:00.000Z"
+        },
+        {
+          "id": "bakan-g-rlek-yunan-mevkida-dan-su-lular-n-iadesini-talep-ett-1",
+          "title": "Bakan Gürlek Yunan mevkidaşıdan suçluların iadesini talep etti",
+          "summary": "Adalet Bakanı Akın Gürlek, Yunanistan Adalet Bakanı Yorgos Floridis ile video konferans yöntemiyle görüşerek adli yardımlaşma, sınır aşan organize suçlarla mücadele ve suçluların iadesi konularını ele aldıklarını açıklad…",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/gundem/bakan-gurlek-yunan-mevkidasidan-suclularin-iadesini-talep-etti-haberi-838415",
+          "publishedAt": "2026-09-01T19:04:00.000Z"
+        },
+        {
+          "id": "bolat-tar-mda-ift-haneli-b-y-me-bekliyoruz-2",
+          "title": "Bolat: Tarımda çift haneli büyüme bekliyoruz",
+          "summary": "Ticaret Bakanı Ömer Bolat, tarım sektörünün ikinci çeyrekte yüzde 13,3 büyüdüğünü belirterek, 2026 sonunda tarımda yüzde 10’un üzerinde çift haneli büyüme beklediklerini söyledi.",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/ekonomi/bolat-tarimda-cift-haneli-buyume-bekliyoruz-haberi-838414",
+          "publishedAt": "2026-09-01T18:47:00.000Z"
+        },
+        {
+          "id": "ticaret-bakan-bolat-d-nyan-n-7-nci-b-y-k-tar-msal-reticisi-l-3",
+          "title": "Ticaret Bakanı Bolat: Dünyanın 7'nci büyük tarımsal üreticisi ülkeyiz",
+          "summary": "Ticaret Bakanı Ömer Bolat, \"Dünyanın 7’nci büyük tarımsal üreticisi ülkeyiz ve dünyada kendi kendine yeterli olabilen ilk 10 ülke arasında tarımda yer alıyoruz.\" dedi.",
           "source": "Anadolu Ajansı Ekonomi",
           "sourceUrl": "https://www.aa.com.tr",
-          "link": "https://www.aa.com.tr/tr/ekonomi/abd-hazine-bakani-bessent-bu-hafta-bir-bankaya-yaptirim-aciklanabilecegini-soyledi/4044250",
-          "publishedAt": "2026-09-01T15:54:27.000Z"
+          "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-dunyanin-7nci-buyuk-tarimsal-ureticisi-ulkeyiz-/4044427",
+          "publishedAt": "2026-09-01T18:26:21.000Z"
         },
         {
-          "id": "borsa-g-n-d-le-tamamlad-1",
-          "title": "Borsa günü düşüşle tamamladı",
-          "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,73 değer kaybederek 14.229,01 puandan tamamladı.",
-          "source": "Habertürk Ekonomi",
-          "sourceUrl": "https://www.haberturk.com",
-          "link": "https://www.haberturk.com/borsa-gunu-dususle-tamamladi-3909598-ekonomi",
-          "publishedAt": "2026-09-01T15:52:35.000Z"
-        },
-        {
-          "id": "abd-de-in-aat-harcamalar-temmuzda-d-t-2",
-          "title": "ABD'de inşaat harcamaları temmuzda düştü",
-          "summary": "ABD'de inşaat harcamaları temmuzda aylık bazda yüzde 0,5 azaldı.",
-          "source": "Dünya Gazetesi",
-          "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/ekonomi/abdde-insaat-harcamalari-temmuzda-dustu-haberi-838389",
-          "publishedAt": "2026-09-01T15:45:00.000Z"
-        },
-        {
-          "id": "borsa-g-n-d-le-tamamlad-3",
-          "title": "Borsa günü düşüşle tamamladı",
-          "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,73 değer kaybederek 14.229,01 puandan tamamladı.",
+          "id": "avrupa-borsalar-k-resel-faiz-bask-s-ve-jeopolitik-gerilimler-4",
+          "title": "Avrupa borsaları küresel faiz baskısı ve jeopolitik gerilimlerle günü düşüşle kapattı",
+          "summary": "Avrupa pay piyasaları, küresel faiz baskısı, makroekonomik belirsizlikler ve Orta Doğu'da tırmanan jeopolitik risklerin gölgesinde günü düşüşle tamamladı.",
           "source": "Anadolu Ajansı Ekonomi",
           "sourceUrl": "https://www.aa.com.tr",
-          "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4044230",
-          "publishedAt": "2026-09-01T15:32:56.000Z"
+          "link": "https://www.aa.com.tr/tr/ekonomi/avrupa-borsalari-kuresel-faiz-baskisi-ve-jeopolitik-gerilimlerle-gunu-dususle-kapatti/4044424",
+          "publishedAt": "2026-09-01T18:24:16.000Z"
         },
         {
-          "id": "borsa-i-stanbul-g-n-d-le-tamamlad-4",
-          "title": "Borsa İstanbul günü düşüşle tamamladı",
-          "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,73 değer kaybederek 14.229,01 puandan tamamladı.",
+          "id": "i-stanbul-havaliman-2025-s-rd-r-lebilirlik-raporu-yay-mland-5",
+          "title": "İstanbul Havalimanı 2025 Sürdürülebilirlik Raporu yayımlandı",
+          "summary": "İGA İstanbul Havalimanı, 2025'te toplam su tüketiminin yüzde 42'sini geri kazanılmış sudan karşılarken, Kapsam 1 ve Kapsam 2 emisyonlarını 2019 baz yılına göre yüzde 27,8 azalttı.",
+          "source": "Anadolu Ajansı Ekonomi",
+          "sourceUrl": "https://www.aa.com.tr",
+          "link": "https://www.aa.com.tr/tr/ekonomi/istanbul-havalimani-2025-surdurulebilirlik-raporu-yayimlandi/4044418",
+          "publishedAt": "2026-09-01T18:22:14.000Z"
+        },
+        {
+          "id": "avrupa-borsalar-k-resel-faiz-bask-s-ve-jeopolitik-gerilimler-6",
+          "title": "Avrupa borsaları küresel faiz baskısı ve jeopolitik gerilimlerle günü düşüşle kapattı",
+          "summary": "Avrupa pay piyasaları, küresel faiz baskısı, makroekonomik belirsizlikler ve Orta Doğu'da tırmanan jeopolitik risklerin gölgesinde günü düşüşle tamamladı.",
           "source": "Dünya Gazetesi",
           "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-838386",
-          "publishedAt": "2026-09-01T15:31:00.000Z"
+          "link": "https://www.dunya.com/finans/borsa/avrupa-borsalari-kuresel-faiz-baskisi-ve-jeopolitik-gerilimlerle-gunu-dususle-kapatti-haberi-838413",
+          "publishedAt": "2026-09-01T18:19:00.000Z"
         },
         {
-          "id": "abd-de-ism-imalat-endeksi-a-ustosta-geriledi-5",
-          "title": "ABD'de ISM imalat endeksi ağustosta geriledi",
-          "summary": "ABD'de Tedarik Yönetim Enstitüsünün (ISM) imalat sanayi Satınalma Yöneticileri Endeksi (PMI), ağustosta 54,6'ya düşerek imalat sektöründeki büyümenin yavaşladığına işaret etti.",
+          "id": "eski-bakan-ahin-adli-kontrol-tedbiri-ile-serbest-b-rak-ld-7",
+          "title": "Eski Bakan Şahin, adli kontrol tedbiri ile serbest bırakıldı",
+          "summary": "Alihan Kuriş Suç Örgütü soruşturması kapsamında adli kontrol talebiyle hakimliğe sevk edilen eski İçişleri Bakanı İdris Naim Şahin, yurt dışı çıkış yasağı uygulanarak serbest bırakıldı.",
           "source": "Dünya Gazetesi",
           "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/ekonomi/abdde-ism-imalat-endeksi-agustosta-geriledi-haberi-838385",
-          "publishedAt": "2026-09-01T15:29:00.000Z"
+          "link": "https://www.dunya.com/gundem/eski-bakan-sahin-adli-kontrol-tedbiri-ile-serbest-birakildi-haberi-838412",
+          "publishedAt": "2026-09-01T18:16:00.000Z"
         },
         {
-          "id": "bakan-uralo-lu-trabzon-rayl-sistem-hatt-evre-dostu-olacak-6",
-          "title": "Bakan Uraloğlu: Trabzon Raylı Sistem Hattı çevre dostu olacak",
-          "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Trabzon Raylı Sistem Hattı'nın çevre dostu teknolojisiyle hava kirliliğini azaltacağını, karbon salınımını düşüreceğini, böylece Trabzon'un temiz havasını, yeşilini, mavis…",
+          "id": "filenin-sultanlar-eyrek-finale-y-kseldi-8",
+          "title": "Filenin Sultanları çeyrek finale yükseldi",
+          "summary": "A Milli Kadın Voleybol Takımı, Trendyol 2026 Avrupa Şampiyonasında Azerbaycan'ı 3-0 yenerek çeyrek finale yükseldi.",
           "source": "Dünya Gazetesi",
           "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/ekonomi/bakan-uraloglu-trabzon-rayli-sistem-hatti-cevre-dostu-olacak-haberi-838383",
-          "publishedAt": "2026-09-01T15:20:00.000Z"
-        },
-        {
-          "id": "k-rg-zistan-n-ev-sahipli-inde-d-zenlenen-i-zirvesi-sona-erdi-7",
-          "title": "Kırgızistan'ın ev sahipliğinde düzenlenen ŞİÖ Zirvesi sona erdi",
-          "summary": "Kırgızistan'ın dönem başkanlığında düzenlenen Şanghay İşbirliği Örgütü (ŞİÖ) Devlet Başkanları Konseyi Toplantısı'nda Bişkek Deklarasyonu kabul edildi.",
-          "source": "Dünya Gazetesi",
-          "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/dunya/kirgizistanin-ev-sahipliginde-duzenlenen-sio-zirvesi-sona-erdi-haberi-838379",
-          "publishedAt": "2026-09-01T15:09:00.000Z"
-        },
-        {
-          "id": "baz-pazarlarda-nemli-kazan-mlar-elde-ettik-8",
-          "title": "\"Bazı pazarlarda önemli kazanımlar elde ettik\"",
-          "summary": "Gıda ve tarımda teknik engeller çıkaran ülkelerle ticaret diplomasisi yaptıklarını ve pazarları açmaya gayret ettiklerini ifade eden Bolat, \"Bazı ürünlerde Kanada, Filipinler, Çin ve Endonezya gibi pazarlarda önemli kaza…",
-          "source": "Habertürk Ekonomi",
-          "sourceUrl": "https://www.haberturk.com",
-          "link": "https://www.haberturk.com/ticaret-bakani-omer-bolat-bazi-pazarlarda-onemli-kazanimlar-elde-ettik-3909589-ekonomi",
-          "publishedAt": "2026-09-01T15:04:41.000Z"
+          "link": "https://www.dunya.com/spor/filenin-sultanlari-ceyrek-finale-yukseldi-haberi-838411",
+          "publishedAt": "2026-09-01T17:50:00.000Z"
         }
       ]
     }
