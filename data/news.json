@@ -1,11 +1,56 @@
 {
-  "generatedAt": "2026-08-31T21:59:43.969Z",
+  "generatedAt": "2026-09-01T03:20:31.072Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "items": [
         {
-          "id": "port-of-klaip-da-develops-green-methanol-bunkering-vessel-co-0",
+          "id": "h-egh-autoliners-orders-six-more-aurora-class-vessels-0",
+          "title": "Höegh Autoliners orders six more Aurora class vessels",
+          "summary": "Höegh Autoliners has ordered six additional Aurora class vessels as it expands its fleet renewal programme. The dual-fuel LNG and zero-carbon-ready vessels will be delivered between 2029 and 2031. The new order will incr…",
+          "source": "Container News",
+          "sourceUrl": "https://container-news.com",
+          "link": "https://container-news.com/hoegh-autoliners-orders-six-more-aurora-class-vessels/",
+          "publishedAt": "2026-09-01T01:52:52.000Z"
+        },
+        {
+          "id": "port-of-drammen-joins-portchain-connect-network-1",
+          "title": "Port of Drammen joins Portchain Connect network",
+          "summary": "The Port of Drammen in Norway has joined the Portchain Connect network. Greenport Services, which provides terminal operations at the port, will use the digital platform to improve berth planning with shipping lines. The…",
+          "source": "Container News",
+          "sourceUrl": "https://container-news.com",
+          "link": "https://container-news.com/port-of-drammen-joins-portchain-connect-network/",
+          "publishedAt": "2026-08-31T23:43:35.000Z"
+        },
+        {
+          "id": "ups-reorganization-prioritizes-global-logistics-over-parcel--2",
+          "title": "UPS reorganization prioritizes global logistics over parcel delivery",
+          "summary": "UPS said it is reorganizing how it operates under a new set of global standards that emphasizes its cross-border logistics capabilities rather than its domestic parcel business. The post UPS reorganization prioritizes gl…",
+          "source": "FreightWaves",
+          "sourceUrl": "https://www.freightwaves.com",
+          "link": "https://www.freightwaves.com/news/ups-reorganization-prioritizes-global-logistics-over-parcel-delivery",
+          "publishedAt": "2026-08-31T22:30:04.000Z"
+        },
+        {
+          "id": "tanker-incident-involving-military-forces-reported-off-oman--3",
+          "title": "Tanker Incident Involving Military Forces Reported Off Oman Amid U.S.-Iran Escalation",
+          "summary": "A tanker has been involved in an incident with military forces in the Indian Ocean off Oman, according to a new UK Maritime Trade Operations advisory, raising the possibility of...",
+          "source": "gCaptain",
+          "sourceUrl": "https://gcaptain.com",
+          "link": "https://gcaptain.com/tanker-incident-involving-military-forces-reported-off-oman-amid-u-s-iran-escalation/",
+          "publishedAt": "2026-08-31T21:44:39.000Z"
+        },
+        {
+          "id": "10-75-million-in-meth-found-inside-leek-shipment-at-texas-bo-4",
+          "title": "$10.75 million in meth found inside leek shipment at Texas border bridge",
+          "summary": "A tractor-trailer declared as carrying leeks entered Texas through the Pharr International Bridge. CBP officers found 395 packages of suspected methamphetamine worth $10.75 million. The post $10.75 million in meth found …",
+          "source": "FreightWaves",
+          "sourceUrl": "https://www.freightwaves.com",
+          "link": "https://www.freightwaves.com/news/10-75-million-in-meth-found-inside-leek-shipment-at-texas-border-bridge",
+          "publishedAt": "2026-08-31T21:25:57.000Z"
+        },
+        {
+          "id": "port-of-klaip-da-develops-green-methanol-bunkering-vessel-co-5",
           "title": "Port of Klaipėda develops green methanol bunkering vessel concept",
           "summary": "The Port of Klaipėda has developed a green methanol bunkering vessel concept as it prepares for growing demand for alternative marine fuels. The proposed vessel would have capacity for 800 tonnes of green methanol. It co…",
           "source": "Container News",
@@ -14,7 +59,7 @@
           "publishedAt": "2026-08-31T21:23:13.000Z"
         },
         {
-          "id": "unseat-unlicensed-truck-drivers-supporting-shadow-fleet-1",
+          "id": "unseat-unlicensed-truck-drivers-supporting-shadow-fleet-6",
           "title": "Unseat unlicensed truck drivers supporting ‘shadow fleet’",
           "summary": "The number of truckers on US highways without any type of commercial driver’s license should be as big a concern as non-domiciled CDLs and English language proficiency.",
           "source": "Journal of Commerce",
@@ -23,7 +68,7 @@
           "publishedAt": "2026-08-31T20:58:35.000Z"
         },
         {
-          "id": "delays-hampering-csx-intermodal-customers-in-atlanta-2",
+          "id": "delays-hampering-csx-intermodal-customers-in-atlanta-7",
           "title": "Delays hampering CSX intermodal customers in Atlanta",
           "summary": "The congestion has affected both international and domestic intermodal shipments moving through the railroad’s Fairburn terminal southwest of Atlanta, sources say.",
           "source": "Journal of Commerce",
@@ -32,58 +77,13 @@
           "publishedAt": "2026-08-31T20:54:14.000Z"
         },
         {
-          "id": "ports-america-adds-jones-act-cargo-handling-at-jaxport-3",
+          "id": "ports-america-adds-jones-act-cargo-handling-at-jaxport-8",
           "title": "Ports America adds Jones Act cargo handling at Jaxport",
           "summary": "The carrier Trailer Bridge has reached an agreement with the terminal operator and stevedore to take over cargo handling for its main service to Puerto Rico.",
           "source": "Journal of Commerce",
           "sourceUrl": "https://joc.com",
           "link": "https://joc.com/article/ports-america-adds-jones-act-cargo-handling-at-jaxport-6278917",
           "publishedAt": "2026-08-31T20:34:14.000Z"
-        },
-        {
-          "id": "hamburg-shifts-more-empty-container-movements-to-rail-4",
-          "title": "Hamburg shifts more empty container movements to rail",
-          "summary": "The Port of Hamburg is seeing more empty containers move by rail as operators seek to reduce truck traffic and improve hinterland logistics. Hamburg Container and Chassis Repair (HCCR), a subsidiary of HHLA, is expanding…",
-          "source": "Container News",
-          "sourceUrl": "https://container-news.com",
-          "link": "https://container-news.com/hamburg-shifts-more-empty-container-movements-to-rail/",
-          "publishedAt": "2026-08-31T20:00:33.000Z"
-        },
-        {
-          "id": "north-america-must-join-forces-to-compete-as-global-trade-fr-5",
-          "title": "North America must ‘join forces’ to compete as global trade fragments, expert says",
-          "summary": "Experts say deeper North American integration, infrastructure investment and workforce development will be critical to competing in a global economy shaped by protectionism, geopolitical tensions and AI. The post North A…",
-          "source": "FreightWaves",
-          "sourceUrl": "https://www.freightwaves.com",
-          "link": "https://www.freightwaves.com/news/north-america-must-join-forces-to-compete-as-global-trade-fragments-expert-says",
-          "publishedAt": "2026-08-31T19:47:07.000Z"
-        },
-        {
-          "id": "trump-vows-to-hit-iran-hard-after-first-exchanges-of-fire-in-6",
-          "title": "Trump Vows to Hit Iran Hard After First Exchanges of Fire in a Month",
-          "summary": "U.S. President Donald Trump was quoted on Monday as promising to \"hit them hard\" after Iran launched missiles overnight at two U.S. air bases in Jordan in response to a U.S. attack on Iran's Larak island.",
-          "source": "gCaptain",
-          "sourceUrl": "https://gcaptain.com",
-          "link": "https://gcaptain.com/trump-vows-to-hit-iran-hard-after-first-exchanges-of-fire-in-a-month/",
-          "publishedAt": "2026-08-31T19:33:43.000Z"
-        },
-        {
-          "id": "shippers-see-fresh-disruption-from-china-as-new-typhoon-agai-7",
-          "title": "Shippers see fresh disruption from China as new typhoon again closes key ports",
-          "summary": "Sources say there are growing instances of transshipment, rolled cargo and skipped calls in the wake of Saudel, while yard density at ports in north and east Asia is becoming another chokepoint.",
-          "source": "Journal of Commerce",
-          "sourceUrl": "https://joc.com",
-          "link": "https://joc.com/article/shippers-see-fresh-disruption-from-china-as-new-typhoon-again-closes-key-ports-6278823",
-          "publishedAt": "2026-08-31T19:08:15.000Z"
-        },
-        {
-          "id": "dp-world-names-first-methanol-dual-fuel-vessel-8",
-          "title": "DP World names first methanol dual-fuel vessel",
-          "summary": "DP World has named its first methanol dual-fuel containership, DP World London, at a ceremony in Aarhus, Denmark. The 1,250 TEU vessel will operate on a North Europe service. Its introduction marks another step in DP Wor…",
-          "source": "Container News",
-          "sourceUrl": "https://container-news.com",
-          "link": "https://container-news.com/dp-world-names-first-methanol-dual-fuel-vessel/",
-          "publishedAt": "2026-08-31T19:00:32.000Z"
         }
       ]
     },
@@ -177,85 +177,85 @@
       "label": "Dünya Finans",
       "items": [
         {
-          "id": "why-is-metallus-stock-sliding-today-0",
-          "title": "Why is Metallus stock sliding today?",
+          "id": "shein-shares-slide-in-hong-kong-debut-on-worries-about-trade-0",
+          "title": "Shein shares slide in Hong Kong debut on worries about trade and regulatory risks",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/stock-market-news/why-is-metallus-stock-sliding-today-93CH-4883332",
-          "publishedAt": "2026-08-31T21:52:55.000Z"
+          "link": "https://www.investing.com/news/stock-market-news/shein-set-for-lacklustre-debut-after-setbacks-cause-huge-drop-in-valuation-4883337",
+          "publishedAt": "2026-09-01T03:06:27.000Z"
         },
         {
-          "id": "metallus-stock-falls-on-ceo-retirement-announcement-1",
-          "title": "Metallus stock falls on CEO retirement announcement",
+          "id": "shein-shares-slide-10-in-hong-kong-debut-after-valuation-res-1",
+          "title": "Shein shares slide 10% in Hong Kong debut after valuation reset",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/stock-market-news/metallus-stock-falls-on-ceo-retirement-announcement-93CH-4883331",
-          "publishedAt": "2026-08-31T21:51:38.000Z"
+          "link": "https://www.investing.com/news/stock-market-news/shein-shares-slide-10-in-hong-kong-debut-after-valuation-reset-4883462",
+          "publishedAt": "2026-09-01T03:04:36.000Z"
         },
         {
-          "id": "with-us-bill-s-fate-in-balance-ukraine-to-lobby-us-on-russia-2",
-          "title": "With US bill’s fate in balance, Ukraine to lobby US on Russia sanctions",
+          "id": "hsbc-joins-pe-firms-in-race-to-acquire-nuvama-wealth-et-repo-2",
+          "title": "HSBC joins PE firms in race to acquire Nuvama Wealth, ET reports",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/commodities-news/with-us-bills-fate-in-balance-ukraine-to-lobby-us-on-russia-sanctions-4883325",
-          "publishedAt": "2026-08-31T21:49:11.000Z"
+          "link": "https://www.investing.com/news/stock-market-news/hsbc-joins-pe-firms-in-race-to-acquire-nuvama-wealth-et-reports-4883461",
+          "publishedAt": "2026-09-01T03:02:53.000Z"
         },
         {
-          "id": "amazon-sued-by-ftc-22-us-states-over-ad-sales-practices-3",
-          "title": "Amazon sued by FTC, 22 US states over ad sales practices",
-          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
-          "source": "Investing.com",
-          "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/stock-market-news/ftc-to-file-lawsuit-alleging-amazon-deceived-advertisers-wsj-reports-4883140",
-          "publishedAt": "2026-08-31T21:48:53.000Z"
+          "id": "my-wearables-track-my-health-they-still-do-not-understand-me-3",
+          "title": "My Wearables Track My Health. They Still Do Not Understand Me",
+          "summary": "Apple Watch, Oura Ring and ReSound Sensia each understand part of my health. Can the iPhone connect their data into a more complete picture of me?",
+          "source": "Forbes Business",
+          "sourceUrl": "https://www.forbes.com",
+          "link": "https://www.forbes.com/sites/billschiffmiller/2026/08/31/my-wearables-track-my-health-they-still-do-not-understand-me/",
+          "publishedAt": "2026-09-01T03:01:19.000Z"
         },
         {
-          "id": "innsuites-completes-3m-debt-to-equity-conversion-4",
-          "title": "InnSuites completes $3M debt-to-equity conversion",
+          "id": "stablestock-expands-to-korea-bringing-300-korean-stocks-and--4",
+          "title": "StableStock Expands to Korea, Bringing 300+ Korean Stocks and ETFs to Stablecoin Users",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/company-news/innsuites-completes-3m-debttoequity-conversion-93CH-4883330",
-          "publishedAt": "2026-08-31T21:48:52.000Z"
+          "link": "https://www.investing.com/news/cryptocurrency-news/stablestock-expands-to-korea-bringing-300-korean-stocks-and-etfs-to-stablecoin-users-4883460",
+          "publishedAt": "2026-09-01T03:00:37.000Z"
         },
         {
-          "id": "defi-development-plans-20-million-preferred-stock-offering-5",
-          "title": "DeFi Development plans $20 million preferred stock offering",
+          "id": "global-ai-boom-fuels-asia-factory-expansion-in-august-5",
+          "title": "Global AI boom fuels Asia factory expansion in August",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/company-news/defi-development-plans-20-million-preferred-stock-offering-93CH-4883329",
-          "publishedAt": "2026-08-31T21:48:36.000Z"
+          "link": "https://www.investing.com/news/economy-news/global-ai-boom-fuels-asia-factory-expansion-in-august-4883456",
+          "publishedAt": "2026-09-01T02:54:53.000Z"
         },
         {
-          "id": "bitcoin-set-for-huge-august-gain-despite-iran-escalation-and-6",
-          "title": "Bitcoin set for huge August gain despite Iran escalation and rate jitters",
+          "id": "e2e-networks-signs-105-million-ai-deal-through-june-2029-6",
+          "title": "E2E Networks signs $105 million AI deal through June 2029",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-78k-as-rate-jitters-iran-escalation-weigh-4882178",
-          "publishedAt": "2026-08-31T21:48:13.000Z"
+          "link": "https://www.investing.com/news/stock-market-news/e2e-networks-signs-105-million-ai-deal-through-june-2029-93CH-4883459",
+          "publishedAt": "2026-09-01T02:46:57.000Z"
         },
         {
-          "id": "trump-says-exxon-is-going-in-to-venezuela-as-us-pushes-oil-d-7",
-          "title": "Trump says Exxon is ’going in’ to Venezuela as US pushes oil deals",
+          "id": "ooma-svp-chief-legal-officer-jenny-yeh-sells-504-320-in-ooma-7",
+          "title": "Ooma SVP & chief legal officer Jenny Yeh sells $504,320 in Ooma stock",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/stock-market-news/trump-says-exxon-is-going-in-to-venezuela-as-us-pushes-oil-deals-4883326",
-          "publishedAt": "2026-08-31T21:44:04.000Z"
+          "link": "https://www.investing.com/news/insider-trading-news/ooma-svp--chief-legal-officer-jenny-yeh-sells-504320-in-ooma-stock-93CH-4883457",
+          "publishedAt": "2026-09-01T02:46:15.000Z"
         },
         {
-          "id": "kkr-backed-opi-nail-polish-owner-wella-co-files-for-us-ipo-8",
-          "title": "KKR-backed OPI nail polish owner Wella Co files for US IPO",
+          "id": "ooma-svp-jenny-yeh-sells-504-320-in-company-stock-8",
+          "title": "Ooma SVP Jenny Yeh sells $504,320 in company stock",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/stock-market-news/kkrbacked-opi-nail-polish-owner-wella-co-files-for-us-ipo-4883284",
-          "publishedAt": "2026-08-31T21:42:58.000Z"
+          "link": "https://www.investing.com/news/insider-trading-news/ooma-svp-jenny-yeh-sells-504320-in-company-stock-93CH-4883458",
+          "publishedAt": "2026-09-01T02:46:15.000Z"
         }
       ]
     },
