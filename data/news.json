@@ -1,11 +1,56 @@
 {
-  "generatedAt": "2026-09-02T04:21:19.349Z",
+  "generatedAt": "2026-09-02T08:21:02.275Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "items": [
         {
-          "id": "maersk-updates-intermodal-fuel-fees-across-southeast-europe-0",
+          "id": "indian-register-of-shipping-plans-new-hamburg-office-0",
+          "title": "Indian Register of Shipping plans new Hamburg office",
+          "summary": "Indian Register of Shipping (IRS) is planning to establish a new office in Hamburg as it expands its presence in Europe. The German entity is currently being registered. The new office will give IRS a base in one of Euro…",
+          "source": "Container News",
+          "sourceUrl": "https://container-news.com",
+          "link": "https://container-news.com/indian-register-of-shipping-plans-new-hamburg-office/",
+          "publishedAt": "2026-09-02T08:00:21.000Z"
+        },
+        {
+          "id": "pwc-global-investment-in-ai-infrastructure-to-hit-31-6-trill-1",
+          "title": "PwC: Global investment in AI infrastructure to hit $31.6 trillion through 2050",
+          "summary": "PRESS RELEASE The post PwC: Global investment in AI infrastructure to hit $31.6 trillion through 2050 appeared first on The Loadstar.",
+          "source": "The Loadstar",
+          "sourceUrl": "https://theloadstar.com",
+          "link": "https://theloadstar.com/pwc-global-investment-in-ai-infrastructure-to-hit-31-6-trillion-through-2050/",
+          "publishedAt": "2026-09-02T06:55:12.000Z"
+        },
+        {
+          "id": "us-officials-accuse-cosco-of-intelligence-gathering-with-con-2",
+          "title": "US officials accuse COSCO of intelligence gathering with concealed ship equipment",
+          "summary": "U.S. officials have accused Chinese shipping giant COSCO of using concealed equipment aboard its vessels to collect intelligence for Beijing, according to Reuters. Two senior Trump administration officials told Reuters t…",
+          "source": "Container News",
+          "sourceUrl": "https://container-news.com",
+          "link": "https://container-news.com/us-officials-accuse-cosco-of-intelligence-gathering-with-concealed-ship-equipment/",
+          "publishedAt": "2026-09-02T06:50:58.000Z"
+        },
+        {
+          "id": "hapag-lloyd-raises-east-mediterranean-latin-america-rates-3",
+          "title": "Hapag-Lloyd raises East Mediterranean–Latin America rates",
+          "summary": "Hapag-Lloyd will increase its ocean tariff rates from the East Mediterranean, excluding Greece, to the Caribbean, Central America and the west coast of South America. The new Hapag-Lloyd East Mediterranean–Latin America …",
+          "source": "Container News",
+          "sourceUrl": "https://container-news.com",
+          "link": "https://container-news.com/hapag-lloyd-raises-east-mediterranean-latin-america-rates/",
+          "publishedAt": "2026-09-02T06:00:23.000Z"
+        },
+        {
+          "id": "one-updates-europe-environment-surcharge-for-fourth-quarter-4",
+          "title": "ONE updates Europe Environment Surcharge for fourth quarter",
+          "summary": "Ocean Network Express (ONE) has announced its Europe Environment Surcharge tariff for the fourth quarter of 2026. The updated Europe Environment Surcharge will apply from 1 October to 31 December 2026. It covers all cont…",
+          "source": "Container News",
+          "sourceUrl": "https://container-news.com",
+          "link": "https://container-news.com/one-updates-europe-environment-surcharge-for-fourth-quarter/",
+          "publishedAt": "2026-09-02T05:00:21.000Z"
+        },
+        {
+          "id": "maersk-updates-intermodal-fuel-fees-across-southeast-europe-5",
           "title": "Maersk updates intermodal fuel fees across Southeast Europe",
           "summary": "Maersk will update its Intermodal Fuel Fee for truck transportation across five Southeast European markets from 7 September 2026. The revised fees will apply in Croatia, Bosnia and Herzegovina, Slovenia, Montenegro and S…",
           "source": "Container News",
@@ -14,7 +59,7 @@
           "publishedAt": "2026-09-02T04:00:48.000Z"
         },
         {
-          "id": "x-press-feeders-appoints-alex-h-as-deputy-chairman-1",
+          "id": "x-press-feeders-appoints-alex-h-as-deputy-chairman-6",
           "title": "X-Press Feeders appoints Alex H. as Deputy Chairman",
           "summary": "X-Press Feeders has appointed Alex H. as Deputy Chairman, following more than a decade with the company. Alex joined X-Press Feeders in 2014 and has since held several leadership positions across Europe and Asia. Most re…",
           "source": "Container News",
@@ -23,7 +68,7 @@
           "publishedAt": "2026-09-02T03:00:23.000Z"
         },
         {
-          "id": "oocl-updates-online-vgm-declaration-function-2",
+          "id": "oocl-updates-online-vgm-declaration-function-7",
           "title": "OOCL updates online VGM declaration function",
           "summary": "Orient Overseas Container Line (OOCL) will update the Verified Gross Mass declaration function in My OOCL Center from 7 September 2026. The VGM submission process will remain unchanged. However, OOCL has redesigned the p…",
           "source": "Container News",
@@ -32,58 +77,13 @@
           "publishedAt": "2026-09-02T01:54:35.000Z"
         },
         {
-          "id": "hapag-lloyd-raises-mediterranean-north-america-rates-3",
+          "id": "hapag-lloyd-raises-mediterranean-north-america-rates-8",
           "title": "Hapag-Lloyd raises Mediterranean–North America rates",
           "summary": "Hapag-Lloyd will increase its ocean tariff rates from the Mediterranean, including southern France, to Canada, the United States and Mexico. The new Hapag-Lloyd Mediterranean–North America rates will apply to sailings wi…",
           "source": "Container News",
           "sourceUrl": "https://container-news.com",
           "link": "https://container-news.com/hapag-lloyd-raises-mediterranean-north-america-rates/",
           "publishedAt": "2026-09-01T23:34:34.000Z"
-        },
-        {
-          "id": "seasonal-ag-truckers-from-mexico-face-same-english-language--4",
-          "title": "Seasonal ag truckers from Mexico face same English-language rules, DOL says",
-          "summary": "H-2A visa status does not shield seasonal agriculture commercial drivers from English-language requirements or the possibility of roadside out-of-service enforcement, DOL says. The post Seasonal ag truckers from Mexico f…",
-          "source": "FreightWaves",
-          "sourceUrl": "https://www.freightwaves.com",
-          "link": "https://www.freightwaves.com/news/seasonal-ag-truckers-from-mexico-face-same-english-language-rules-dol-says",
-          "publishedAt": "2026-09-01T23:23:32.000Z"
-        },
-        {
-          "id": "inmarsat-launches-maritime-safety-data-hub-with-new-risk-ins-5",
-          "title": "Inmarsat launches Maritime Safety Data Hub with new risk insights",
-          "summary": "Inmarsat Maritime has launched a Maritime Safety Data Hub that combines distress call and safety broadcast data to identify risks affecting global shipping. The platform uses three years of Global Maritime Distress and S…",
-          "source": "Container News",
-          "sourceUrl": "https://container-news.com",
-          "link": "https://container-news.com/inmarsat-launches-maritime-safety-data-hub-with-new-risk-insights/",
-          "publishedAt": "2026-09-01T21:34:12.000Z"
-        },
-        {
-          "id": "strike-disrupts-empty-container-yard-operations-at-mundra-po-6",
-          "title": "Strike disrupts empty container yard operations at Mundra Port",
-          "summary": "A strike is disrupting empty container yard operations connected to Mundra Port in India, according to Hapag-Lloyd. Until further notice, the affected empty container yards have suspended: Empty container allotments for …",
-          "source": "Container News",
-          "sourceUrl": "https://container-news.com",
-          "link": "https://container-news.com/strike-disrupts-empty-container-yard-operations-at-mundra-port/",
-          "publishedAt": "2026-09-01T20:00:55.000Z"
-        },
-        {
-          "id": "shipper-paid-us-truckload-spot-rates-drop-despite-tightening-7",
-          "title": "Shipper-paid US truckload spot rates drop despite tightening market",
-          "summary": "Journal of Commerce data on shipper-paid spot rates supports suggestions the truckload market flattened in the late summer, but it may resume its climb shortly.",
-          "source": "Journal of Commerce",
-          "sourceUrl": "https://joc.com",
-          "link": "https://joc.com/article/shipper-paid-us-truckload-spot-rates-drop-despite-tightening-market-6279889",
-          "publishedAt": "2026-09-01T19:55:15.000Z"
-        },
-        {
-          "id": "string-of-deals-sets-up-ocean-carriers-to-dominate-terminal--8",
-          "title": "String of deals sets up ocean carriers to dominate terminal ownership: analyst",
-          "summary": "There is a good business case for buying assets that will reduce costs and increase efficiency, but the cycle that generates the cash for those deals doesn’t last forever, writes Jeremy Masters.",
-          "source": "Journal of Commerce",
-          "sourceUrl": "https://joc.com",
-          "link": "https://joc.com/article/string-of-deals-sets-up-ocean-carriers-to-dominate-terminal-ownership-analyst-6279885",
-          "publishedAt": "2026-09-01T19:36:15.000Z"
         }
       ]
     },
@@ -91,25 +91,70 @@
       "label": "Türkiye Lojistik",
       "items": [
         {
-          "id": "alt-nda-4-g-nl-k-sat-kritik-e-i-i-k-rd-s-rada-hangi-seviye-v-0",
-          "title": "Altında 4 günlük satış kritik eşiği kırdı, sırada hangi seviye var?",
-          "summary": "Altının ons fiyatı dört günlük satış dalgasında üç haftanın en düşük seviyesine gerilerken 200 günlük hareketli ortalamanın da altına indi. Petrol, tahvil faizleri ve Fed beklentileri güvenli liman talebini gölgede bırak…",
-          "source": "Dünya Gazetesi",
-          "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/foto-galeri/ekonomi/altinda-4-gunluk-satis-kritik-esigi-kirdi-sirada-hangi-seviye-var-galeri-838425",
-          "publishedAt": "2026-09-02T03:06:00.000Z"
+          "id": "marmara-da-iki-gemi-arp-t-10-ki-iyle-irtibat-kurulam-yor-0",
+          "title": "Marmara'da iki gemi çarpıştı, 10 kişiyle irtibat kurulamıyor",
+          "summary": "İstanbul Silivri açıklarında iki gemi çarpıştı. Kargo gemisi Tuğberk İmamoğlu isimli gemi ve 10 kişi ile irtibat kurulamıyor.",
+          "source": "LojiPort",
+          "sourceUrl": "https://www.lojiport.com",
+          "link": "https://www.lojiport.com/marmarada-iki-gemi-carpisti-10-kisiyle-irtibat-kurulamiyor-120076h.htm",
+          "publishedAt": "2026-09-02T07:53:29.000Z"
         },
         {
-          "id": "mersin-de-ihracat-rakamlar-n-n-yan-nda-ithalat-dengesi-de-iz-1",
-          "title": "“Mersin’de ihracat rakamlarının yanında ithalat dengesi de izlenmeli”",
-          "summary": "Mersin’in dış ticaret perfor­mansına ilişkin değerlen­dirmelerde farklı veri setleri­nin ortaya koyduğu sonuçların birlikte ele alınması gerektiği­ni belirten Mersin Ticaret Bor­sası Yönetim Kurulu Başkanı Ö. Abdullah Öz…",
+          "id": "silivri-a-klar-ndaki-gemi-kazas-nda-arama-s-r-yor-1",
+          "title": "Silivri açıklarındaki gemi kazasında arama sürüyor",
+          "summary": "Silivri’nin 35 kilometre açığında Tuğberk İmamoğlu ile Alsu tankerinin karıştığı kazanın ardından arama kurtarma çalışmaları sürüyor. Bölgede 2 helikopter ve 12 deniz aracı görev yaparken, deniz derinliğinin 800-900 metr…",
           "source": "Dünya Gazetesi",
           "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/is-dunyasi/mersinde-ihracat-rakamlarinin-yaninda-ithalat-dengesi-de-izlenmeli-haberi-838404",
-          "publishedAt": "2026-09-01T21:00:00.000Z"
+          "link": "https://www.dunya.com/video-galeri/gundem/silivri-aciklarindaki-gemi-kazasinda-arama-suruyor-video-838459",
+          "publishedAt": "2026-09-02T07:53:00.000Z"
         },
         {
-          "id": "t-rsan-avrupa-treyler-i-novasyonunda-11-d-l-n-ald-2",
+          "id": "lojistik-sekt-r-global-krizler-a-nda-yeniden-ekilleniyor-2",
+          "title": "Lojistik Sektörü Global Krizler Çağında Yeniden Şekilleniyor",
+          "summary": "FIATA Başkanı Dr. Thomas Sim ve IRU Başkanı Radu Dinescu, 11. Ekonomi ve Lojistik Zirvesi’nde küresel tedarik zincirindeki dönüşümü değerlendirdi: \"Krizlerin yeni normal olduğu bu çağda, verimlilik kadar esneklik ve çok …",
+          "source": "LojiPort",
+          "sourceUrl": "https://www.lojiport.com",
+          "link": "https://www.lojiport.com/lojistik-sektoru-global-krizler-caginda-yeniden-sekilleniyor-120075h.htm",
+          "publishedAt": "2026-09-02T07:41:22.000Z"
+        },
+        {
+          "id": "karadeniz-de-palamut-bollu-u-tekneler-kasalar-n-doldurdu-3",
+          "title": "Karadeniz'de palamut bolluğu: Tekneler kasalarını doldurdu",
+          "summary": "Av yasağının kalkmasının ardından Batı Karadeniz'e açılan Akçakocalı balıkçılar, sezonun ilk gününde kasalar dolusu palamutla limana döndü. Gırgır teknelerinden indirilen palamutlar, çevre illerin yanı sıra İstanbul ve A…",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/foto-galeri/gundem/karadenizde-palamut-bollugu-tekneler-kasalarini-doldurdu-galeri-838448",
+          "publishedAt": "2026-09-02T06:46:00.000Z"
+        },
+        {
+          "id": "sava-havac-l-n-haritas-n-de-i-tirdi-i-stanbul-6-nc-s-raya-ge-4",
+          "title": "Savaş havacılığın haritasını değiştirdi: İstanbul 6’ncı sıraya geriledi",
+          "summary": "Orta Doğu’daki savaş küresel havacılıkta dengeleri değiştirirken İstanbul Havalimanı, kapasitesini artırmasına rağmen dünya sıralamasında 4’üncülükten 6’ncılığa geriledi. Dubai ise yüzde 15’lik kayıpla 2’ncilikten 7’ncil…",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/foto-galeri/ekonomi/savas-havaciligin-haritasini-degistirdi-istanbul-6nci-siraya-geriledi-galeri-838438",
+          "publishedAt": "2026-09-02T05:43:00.000Z"
+        },
+        {
+          "id": "ip-retiminde-para-abd-ye-ak-yor-5",
+          "title": "Çip üretiminde para ABD’ye akıyor",
+          "summary": "Yapay zekâ çiplerine yönelik talep büyürken Tayvanlı şirketler ABD’de yeni üretim, paketleme ve teknoloji tesisleri için yaklaşık 20 milyar dolarlık ek yatırım planlıyor. Hamle, yarı iletken tedarik zincirinin coğrafyası…",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/ekonomi/cip-uretiminde-para-abdye-akiyor-haberi-838435",
+          "publishedAt": "2026-09-02T05:16:00.000Z"
+        },
+        {
+          "id": "i-hracat-y-k-s-n-r-kap-lar-n-a-am-yor-6",
+          "title": "İhracat yükü sınır kapılarını aşamıyor",
+          "summary": "Bulgaristan’ın Kapitan Andreevo Sınır Kapısı’ndaki peron genişletme ve yenileme çalışmaları, Kapıkule’nin çıkış kapasitesini yarı yarıya düşürdü. TIR’ların alternatif kapıya yönelmesiyle Hamzabeyli’de TIR kuyrukları 20 k…",
+          "source": "LojiPort",
+          "sourceUrl": "https://www.lojiport.com",
+          "link": "https://www.lojiport.com/ihracat-yuku-sinir-kapilarini-asamiyor-120074h.htm",
+          "publishedAt": "2026-09-02T04:48:18.000Z"
+        },
+        {
+          "id": "t-rsan-avrupa-treyler-i-novasyonunda-11-d-l-n-ald-7",
           "title": "Tırsan Avrupa Treyler İnovasyonunda 11. Ödülünü Aldı",
           "summary": "Tırsan, Avrupa Treyler İnovasyon Ödülleri’nde 7 kategorinin tamamında en kısa sürede ödül alan ilk ve tek üretici oldu. International Trailer Award 2027'de Komponent kategorisindeki birincilikle toplam ödül sayısı 11’e y…",
           "source": "Taşımacılar.com",
@@ -118,58 +163,13 @@
           "publishedAt": "2026-09-01T16:31:08.000Z"
         },
         {
-          "id": "anadolu-isuzu-big-e-i-ngiltere-de-sat-ta-3",
+          "id": "anadolu-isuzu-big-e-i-ngiltere-de-sat-ta-8",
           "title": "Anadolu Isuzu BIG.e İngiltere’de Satışta",
           "summary": "Anadolu Isuzu’nun tamamen elektrikli hafif ticari aracı BIG.e, yüzde 70’e varan yerlilik oranı ve 170 kilometreye ulaşan menzil seçenekleriyle İngiltere pazarında satışa sunuldu.",
           "source": "Taşımacılar.com",
           "sourceUrl": "https://www.tasimacilar.com",
           "link": "https://www.tasimacilar.com/ticari-arac/anadolu-isuzu-big-e-ingilterede-satista-27718h",
           "publishedAt": "2026-09-01T16:28:05.000Z"
-        },
-        {
-          "id": "t-rsan-international-trailer-award-2027-de-11-d-le-ula-t-4",
-          "title": "Tırsan, International Trailer Award 2027'de 11. ödüle ulaştı",
-          "summary": "Tırsan, Avrupa Treyler İnovasyon Ödülleri’nde şasi, gövde, güvenlik, çevre, konsept, komponent ve akıllı treyler kategorilerinin tamamında en kısa sürede ödül alan Avrupa’daki ilk ve tek üretici olarak treyler inovasyon …",
-          "source": "LojiPort",
-          "sourceUrl": "https://www.lojiport.com",
-          "link": "https://www.lojiport.com/tirsan-international-trailer-award-2027de-11-odule-ulasti-120073h.htm",
-          "publishedAt": "2026-09-01T10:05:31.000Z"
-        },
-        {
-          "id": "t-rsan-dan-avrupa-da-i-novasyon-ba-ar-s-7-kategoride-11-d-l-5",
-          "title": "Tırsan’dan Avrupa’da İnovasyon Başarısı: 7 Kategoride 11 Ödül",
-          "summary": "Tırsan, Avrupa Treyler İnovasyon Ödülleri’nin yedi kategorisinde 11 ödüle ulaşırken Modüler Taban Sistemi ile ağır nakliyede yüzde 29 verimlilik sağladı.",
-          "source": "Taşıma Dünyası Gazetesi",
-          "sourceUrl": "https://www.tasimadunyasi.com",
-          "link": "https://www.tasimadunyasi.com/tirsandan-avrupada-inovasyon-basarisi-7-kategoride-11-odul",
-          "publishedAt": "2026-09-01T08:45:00.000Z"
-        },
-        {
-          "id": "timelog-lojistik-20-renault-trucks-t-480-ekici-ile-ara-park--6",
-          "title": "Timelog Lojistik, 20 Renault Trucks T 480 çekici ile araç parkını gençleştirdi",
-          "summary": "Timelog Global Lojistik, filosuna 20 adet Renault Trucks T 480 çekici katarak araç parkını gençleştiriyor ve büyüyen Avrupa operasyonları için kapasite artırıyor. Yeni katılımlarla Timelog filosunun yaklaşık yarısını Ren…",
-          "source": "LojiPort",
-          "sourceUrl": "https://www.lojiport.com",
-          "link": "https://www.lojiport.com/timelog-lojistik-20-renault-trucks-t-480-cekici-ile-arac-parkini-genclestirdi-120072h.htm",
-          "publishedAt": "2026-09-01T05:14:31.000Z"
-        },
-        {
-          "id": "zf-aftermarket-iki-inovasyon-d-l-ne-birden-aday-g-sterildi-7",
-          "title": "ZF Aftermarket iki inovasyon ödülüne birden aday gösterildi",
-          "summary": "ZF Bus Connect “Veri, Bağlantı ve Siber Güvenlik” kategorisinde, ZF SCALAR ise, “Ticari Araç ve Filo İnovasyonu” kategorisinde aday gösterildi. Ziyaretçiler, ödüle aday gösterilen her iki çözümü de 8-12 Eylül 2026 tarihl…",
-          "source": "Taşıma Dünyası Gazetesi",
-          "sourceUrl": "https://www.tasimadunyasi.com",
-          "link": "https://www.tasimadunyasi.com/zf-aftermarket-iki-inovasyon-odulune-birden-aday-gosterildi",
-          "publishedAt": "2026-08-31T15:10:00.000Z"
-        },
-        {
-          "id": "zf-cvs-t-rkiye-den-ihracatta-424-basamakl-k-y-kseli-8",
-          "title": "ZF CVS Türkiye’den ihracatta 424 basamaklık yükseliş",
-          "summary": "ZF CVS Türkiye, Türkiye’nin önde gelen sanayi ve ihracat şirketlerinin sıralandığı iki önemli listede yer aldı. İSO İkinci 500 Büyük Sanayi Kuruluşu listesine 364’üncü sıradan giren şirket, TİM’in “Türkiye’nin İlk 1000 İ…",
-          "source": "Taşıma Dünyası Gazetesi",
-          "sourceUrl": "https://www.tasimadunyasi.com",
-          "link": "https://www.tasimadunyasi.com/zf-cvs-turkiyeden-ihracatta-424-basamaklik-yukselis",
-          "publishedAt": "2026-08-31T15:05:00.000Z"
         }
       ]
     },
@@ -177,85 +177,85 @@
       "label": "Dünya Finans",
       "items": [
         {
-          "id": "gift-nifty-50-breaks-support-near-double-top-live-levels-0",
-          "title": "Gift Nifty 50 breaks support near Double Top: Live levels",
+          "id": "morgan-stanley-downgrades-smith-nephew-stock-rating-on-guida-0",
+          "title": "Morgan Stanley downgrades Smith & Nephew stock rating on guidance concerns",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/stock-market-news/gift-nifty-50-coiled-in-2410024500-range-live-levels-93CH-4882127",
-          "publishedAt": "2026-09-02T04:03:10.000Z"
+          "link": "https://www.investing.com/news/analyst-ratings/morgan-stanley-downgrades-smith--nephew-stock-rating-on-guidance-concerns-93CH-4885457",
+          "publishedAt": "2026-09-02T08:03:00.000Z"
         },
         {
-          "id": "lenovo-shares-fall-after-dropbox-hack-exposes-flaw-in-legacy-1",
-          "title": "Lenovo shares fall after Dropbox hack exposes flaw in legacy integration",
+          "id": "morgan-stanley-upgrades-coloplast-stock-rating-on-ceo-transi-1",
+          "title": "Morgan Stanley upgrades Coloplast stock rating on CEO transition",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/stock-market-news/lenovo-shares-fall-after-dropbox-hack-exposes-flaw-in-legacy-integration-4885298",
-          "publishedAt": "2026-09-02T04:02:09.000Z"
+          "link": "https://www.investing.com/news/analyst-ratings/morgan-stanley-upgrades-coloplast-stock-rating-on-ceo-transition-93CH-4885456",
+          "publishedAt": "2026-09-02T08:02:56.000Z"
         },
         {
-          "id": "oil-prices-extend-gains-as-us-and-iran-trade-fresh-strikes-2",
-          "title": "Oil prices extend gains as US and Iran trade fresh strikes",
+          "id": "estithmar-holding-launches-exchange-offer-for-qar-900m-sukuk-2",
+          "title": "Estithmar Holding launches exchange offer for QAR 900m sukuk",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/commodities-news/oil-up-nearly-1-as-us-and-iran-trade-fresh-strikes-4885234",
-          "publishedAt": "2026-09-02T03:54:39.000Z"
+          "link": "https://www.investing.com/news/company-news/estithmar-holding-launches-exchange-offer-for-qar-900m-sukuk-93CH-4885455",
+          "publishedAt": "2026-09-02T08:02:54.000Z"
         },
         {
-          "id": "the-top-10-movies-new-to-netflix-in-september-2026-3",
-          "title": "The Top 10 Movies New To Netflix In September 2026",
-          "summary": "The 10 best movies new to Netflix in September 2026, from Jaws and Alien to Ready or Not, Smile 2, Scarface and more.",
+          "id": "sovereign-debt-plummets-as-inflation-fears-push-yields-to-mu-3",
+          "title": "Sovereign debt plummets as inflation fears push yields to multi-year peaks",
+          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
+          "source": "Investing.com",
+          "sourceUrl": "https://www.investing.com",
+          "link": "https://www.investing.com/news/forex-news/sovereign-debt-plummets--as-inflation-fears-push-yields-to-multiyear-peaks-4885454",
+          "publishedAt": "2026-09-02T08:01:03.000Z"
+        },
+        {
+          "id": "morgan-stanley-reiterates-tesla-stock-equalweight-ahead-of-c-4",
+          "title": "Morgan Stanley reiterates Tesla stock Equalweight ahead of Cybercab event",
+          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
+          "source": "Investing.com",
+          "sourceUrl": "https://www.investing.com",
+          "link": "https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-tesla-stock-equalweight-ahead-of-cybercab-event-93CH-4885450",
+          "publishedAt": "2026-09-02T07:57:06.000Z"
+        },
+        {
+          "id": "earnings-call-transcript-premier-energy-posts-strong-h1-2026-5",
+          "title": "Earnings call transcript: Premier Energy posts strong H1 2026 growth",
+          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
+          "source": "Investing.com",
+          "sourceUrl": "https://www.investing.com",
+          "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-premier-energy-posts-strong-h1-2026-growth-93CH-4885449",
+          "publishedAt": "2026-09-02T07:56:22.000Z"
+        },
+        {
+          "id": "uss-abraham-lincoln-docks-in-thailand-after-nearly-nine-mont-6",
+          "title": "USS Abraham Lincoln Docks In Thailand After Nearly Nine Months At Sea",
+          "summary": "The aircraft carrier had been at sea for more than 250 days without a port call amid concerns about the living conditions for the crew and fears of a mental health crisis on board.",
           "source": "Forbes Business",
           "sourceUrl": "https://www.forbes.com",
-          "link": "https://www.forbes.com/sites/erikkain/2026/09/01/the-top-10-movies-new-to-netflix-in-september-2026/",
-          "publishedAt": "2026-09-02T03:37:28.000Z"
+          "link": "https://www.forbes.com/sites/siladityaray/2026/09/02/uss-abraham-lincoln-docks-in-thailand-after-nearly-nine-months-at-sea/",
+          "publishedAt": "2026-09-02T07:56:22.000Z"
         },
         {
-          "id": "australia-q2-gdp-beats-forecast-strengthens-case-for-rba-rat-4",
-          "title": "Australia Q2 GDP beats forecast, strengthens case for RBA rate hike",
+          "id": "berenberg-starts-eutelsat-at-hold-as-higher-capex-clouds-one-7",
+          "title": "Berenberg starts Eutelsat at Hold as higher capex clouds OneWeb, IRIS2 outlook",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/economic-indicators/australia-q2-gdp-beats-forecast-but-growth-remains-subdued-4885251",
-          "publishedAt": "2026-09-02T03:37:03.000Z"
+          "link": "https://www.investing.com/news/stock-market-news/berenberg-starts-eutelsat-at-hold-as-higher-capex-clouds-oneweb-iris2-outlook-4885448",
+          "publishedAt": "2026-09-02T07:56:00.000Z"
         },
         {
-          "id": "exclusive-honda-tells-suppliers-to-cut-costs-in-9-billion-pu-5",
-          "title": "Exclusive-Honda tells suppliers to cut costs in $9 billion push to fend off China, documents show",
+          "id": "explainer-what-are-iran-s-options-to-retaliate-as-open-warfa-8",
+          "title": "Explainer-What are Iran’s options to retaliate as open warfare resumes with the US?",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/stock-market-news/exclusivehonda-tells-suppliers-to-cut-costs-in-9-billion-push-to-fend-off-china-documents-show-4885295",
-          "publishedAt": "2026-09-02T03:36:24.000Z"
-        },
-        {
-          "id": "why-is-softbank-group-stock-sliding-today-6",
-          "title": "Why is SoftBank Group stock sliding today?",
-          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
-          "source": "Investing.com",
-          "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/stock-market-news/why-is-softbank-group-stock-sliding-today-93CH-4885297",
-          "publishedAt": "2026-09-02T03:29:33.000Z"
-        },
-        {
-          "id": "morgan-stanley-expects-nintendo-direct-in-september-sees-zel-7",
-          "title": "Morgan Stanley expects Nintendo Direct in September, sees Zelda, Mario upside",
-          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
-          "source": "Investing.com",
-          "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-expects-nintendo-direct-in-september-sees-zelda-mario-upside-4885296",
-          "publishedAt": "2026-09-02T03:25:34.000Z"
-        },
-        {
-          "id": "dollar-holds-firm-at-nearly-two-week-high-as-middle-east-hos-8",
-          "title": "Dollar holds firm at nearly two-week high as Middle East hostilities lift oil",
-          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
-          "source": "Investing.com",
-          "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/economy-news/dollar-holds-firm-as-middle-east-hostilities-lift-oil-4885236",
-          "publishedAt": "2026-09-02T03:18:53.000Z"
+          "link": "https://www.investing.com/news/commodities-news/explainerwhat-are-irans-options-to-retaliate-as-open-warfare-resumes-with-the-us-4885444",
+          "publishedAt": "2026-09-02T07:54:33.000Z"
         }
       ]
     },
@@ -263,85 +263,85 @@
       "label": "Türkiye Finans",
       "items": [
         {
-          "id": "g20-maliye-bakanlar-toplant-s-nda-mutabakat-sa-lanamad-0",
-          "title": "G20 Maliye Bakanları Toplantısı'nda mutabakat sağlanamadı",
-          "summary": "ABD'nin ev sahipliğinde düzenlenen G20 Maliye Bakanları ve Merkez Bankası Başkanları Toplantısı, Çin'in kritik ekonomik ve jeopolitik maddelere şerh düşmesi nedeniyle ortak bir bildiri üzerinde mutabakat sağlanamadan son…",
+          "id": "i-stanbul-da-kentsel-d-n-m-evden-eve-nakliyat-sekt-r-n-n-i-h-0",
+          "title": "İstanbul'da kentsel dönüşüm evden eve nakliyat sektörünün iş hacmini artırıyor",
+          "summary": "İstanbul'da kentsel dönüşüm çalışmalarının hız kazanmasının etkisiyle evden eve nakliyat sektöründe hareketliliği artırırken sektör temsilcileri geçen yılın aynı dönemine göre yüzde 60-70 civarında iş hacmi artışı yaşand…",
+          "source": "Anadolu Ajansı Ekonomi",
+          "sourceUrl": "https://www.aa.com.tr",
+          "link": "https://www.aa.com.tr/tr/ekonomi/istanbulda-kentsel-donusum-evden-eve-nakliyat-sektorunun-is-hacmini-artiriyor/4044850",
+          "publishedAt": "2026-09-02T08:09:41.000Z"
+        },
+        {
+          "id": "bilgi-ve-ileti-im-sekt-r-b-y-me-serisini-5g-nin-etkisiyle-10-1",
+          "title": "Bilgi ve iletişim sektörü büyüme serisini 5G'nin etkisiyle 10'uncu çeyreğe taşıdı",
+          "summary": "Türkiye ekonomisi yılın ikinci çeyreğinde yüzde 2,3 büyürken bilgi ve iletişim faaliyetlerinin büyüme serisi 5G yatırımlarının da etkisiyle 10'uncu çeyreğe çıktı.",
+          "source": "Anadolu Ajansı Ekonomi",
+          "sourceUrl": "https://www.aa.com.tr",
+          "link": "https://www.aa.com.tr/tr/ekonomi/bilgi-ve-iletisim-sektoru-buyume-serisini-5gnin-etkisiyle-10uncu-ceyrege-tasidi/4044837",
+          "publishedAt": "2026-09-02T08:04:01.000Z"
+        },
+        {
+          "id": "g-ne-enerjisi-santrallerinde-do-al-otlatma-projesi-karbon-sa-2",
+          "title": "Güneş enerjisi santrallerinde doğal otlatma projesi karbon salımını azaltıyor",
+          "summary": "Güneş panellerinin bulunduğu arazilerde ot temizliği için uygulanan kontrollü küçükbaş hayvan otlatma modeli fosil yakıt kullanımını ve karbondioksit emisyonunu azaltıyor.",
+          "source": "Anadolu Ajansı Ekonomi",
+          "sourceUrl": "https://www.aa.com.tr",
+          "link": "https://www.aa.com.tr/tr/ekonomi/gunes-enerjisi-santrallerinde-dogal-otlatma-projesi-karbon-salimini-azaltiyor/4044835",
+          "publishedAt": "2026-09-02T08:03:28.000Z"
+        },
+        {
+          "id": "eyl-lde-ak-ll-telefon-ya-muru-3",
+          "title": "Eylülde akıllı telefon yağmuru",
+          "summary": "Eylül ayı teknoloji dünyasında yeniden “Techtember” (TeknoEylül) heyecanını yaşatıyor. Xiaomi, Apple, Huawei, Vivo, Honor, Oppo ve OnePlus gibi dev markalar, yeni amiral gemisi telefonlarını bu ay tanıtacak. Berlin’deki …",
           "source": "Habertürk Ekonomi",
           "sourceUrl": "https://www.haberturk.com",
-          "link": "https://www.haberturk.com/g20-maliye-bakanlari-toplantisi-nda-mutabakat-saglanamadi-3909660-ekonomi",
-          "publishedAt": "2026-09-02T03:48:12.000Z"
+          "link": "https://www.haberturk.com/eylulde-akilli-telefon-yagmuru-xiaomi-apple-huawei-ve-daha-fazlasi-pes-pese-geliyor-3909703-teknoloji",
+          "publishedAt": "2026-09-02T07:57:34.000Z"
         },
         {
-          "id": "suriye-nin-gizli-n-kleer-dosyas-a-ld-iaea-reakt-r-do-rulad-1",
-          "title": "Suriye’nin gizli nükleer dosyası açıldı: IAEA reaktörü doğruladı",
-          "summary": "IAEA’nın yeni bulguları, 2007’de İsrail’in vurduğu Deyrizor’daki tesisin gizli bir nükleer reaktör olarak inşa edildiğini doğruladı. Suriye’de yaklaşık 73 ton doğal uranyum metali de şimdi uluslararası denetim altına alı…",
+          "id": "silivri-a-klar-ndaki-gemi-kazas-nda-arama-s-r-yor-4",
+          "title": "Silivri açıklarındaki gemi kazasında arama sürüyor",
+          "summary": "Silivri’nin 35 kilometre açığında Tuğberk İmamoğlu ile Alsu tankerinin karıştığı kazanın ardından arama kurtarma çalışmaları sürüyor. Bölgede 2 helikopter ve 12 deniz aracı görev yaparken, deniz derinliğinin 800-900 metr…",
           "source": "Dünya Gazetesi",
           "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/gundem/suriyenin-gizli-nukleer-dosyasi-acildi-iaea-reaktoru-dogruladi-haberi-838428",
-          "publishedAt": "2026-09-02T03:48:00.000Z"
+          "link": "https://www.dunya.com/video-galeri/gundem/silivri-aciklarindaki-gemi-kazasinda-arama-suruyor-video-838459",
+          "publishedAt": "2026-09-02T07:53:00.000Z"
         },
         {
-          "id": "in-den-m-s-r-hamlesi-xi-10-y-l-sonra-kahire-de-2",
-          "title": "Çin’den Mısır hamlesi: Xi 10 yıl sonra Kahire’de",
-          "summary": "Çin Devlet Başkanı Xi Jinping, 10 yıl aradan sonra Mısır’a gitti. Hürmüz’de enerji trafiğinin sekteye uğradığı, ABD-İran savaşının sürdüğü dönemde yapılan ziyaret; Süveyş, yatırımlar ve askeri işbirliği nedeniyle yeni bi…",
+          "id": "k-yakla-rken-avrupa-da-gaz-alarm-fatura-kabar-yor-5",
+          "title": "Kış yaklaşırken Avrupa'da gaz alarmı: Fatura kabarıyor",
+          "summary": "Orta Doğu'da tırmanan gerilim, Hürmüz Boğazı üzerinden LNG arzının kesintiye uğrayabileceği endişesini artırınca Avrupa'da doğal gaz fiyatları yeniden yükseldi. TTF'de ekim vadeli kontratların megavatsaat fiyatı yüzde 2,…",
           "source": "Dünya Gazetesi",
           "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/gundem/cinden-misir-hamlesi-xi-10-yil-sonra-kahirede-haberi-838427",
-          "publishedAt": "2026-09-02T03:37:00.000Z"
+          "link": "https://www.dunya.com/enerji/kis-yaklasirken-avrupada-gaz-alarmi-fatura-kabariyor-haberi-838460",
+          "publishedAt": "2026-09-02T07:49:00.000Z"
         },
         {
-          "id": "sava-denize-ta-nd-abd-iki-i-ran-tankerini-vurdu-3",
-          "title": "Savaş denize taşındı: ABD iki İran tankerini vurdu",
-          "summary": "ABD’nin İran’a yönelik son saldırılarında iki devlet tankerinin hedef alınması, Hürmüz hattında yeni bir askeri aşamaya geçildiğini gösterdi. Washington’un yeni misilleme yöntemi enerji arzı ve petrol fiyatları açısından…",
+          "id": "kyk-burs-ba-vurular-ne-zaman-ba-l-yor-renim-kredisi-ba-vuru--6",
+          "title": "KYK burs başvuruları ne zaman başlıyor? Öğrenim kredisi başvuru tarihi belli oldu mu?",
+          "summary": "KYK yurt başvuruları tamamlanırken burs ve öğrenim kredisi için ise bekleyiş devam ediyor. Gençlik ve Spor Bakanlığının sağlamış olduğu imkandan yararlanmak isteyenler sabırsızlıkla duyuru beklerken her geçen gün artan s…",
           "source": "Dünya Gazetesi",
           "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/gundem/savas-denize-tasindi-abd-iki-iran-tankerini-vurdu-haberi-838426",
-          "publishedAt": "2026-09-02T03:30:00.000Z"
+          "link": "https://www.dunya.com/ekonomi/kyk-burs-basvurulari-ne-zaman-basliyor-ogrenim-kredisi-basvuru-tarihi-belli-oldu-mu-haberi-838457",
+          "publishedAt": "2026-09-02T07:41:00.000Z"
         },
         {
-          "id": "alt-nda-4-g-nl-k-sat-kritik-e-i-i-k-rd-s-rada-hangi-seviye-v-4",
-          "title": "Altında 4 günlük satış kritik eşiği kırdı, sırada hangi seviye var?",
-          "summary": "Altının ons fiyatı dört günlük satış dalgasında üç haftanın en düşük seviyesine gerilerken 200 günlük hareketli ortalamanın da altına indi. Petrol, tahvil faizleri ve Fed beklentileri güvenli liman talebini gölgede bırak…",
+          "id": "kavurucu-s-ca-a-kar-yeni-z-m-i-nsan-buzdolab-sat-a-kt-7",
+          "title": "Kavurucu sıcağa karşı yeni çözüm! İnsan buzdolabı satışa çıktı",
+          "summary": "Japonya'da yaz aylarında artan sıcak çarpması riskine karşı geliştirilen \"insan buzdolabı\", kamuoyunun dikkatini çekti. SDRS ve Trusco Nakayama ortaklığında üretilen Dohiemon Box, kullanıcının tüm vücudunu en az 5 derece…",
           "source": "Dünya Gazetesi",
           "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/foto-galeri/ekonomi/altinda-4-gunluk-satis-kritik-esigi-kirdi-sirada-hangi-seviye-var-galeri-838425",
-          "publishedAt": "2026-09-02T03:06:00.000Z"
+          "link": "https://www.dunya.com/foto-galeri/gundem/kavurucu-sicaga-karsi-yeni-cozum-insan-buzdolabi-satisa-cikti-galeri-838456",
+          "publishedAt": "2026-09-02T07:36:00.000Z"
         },
         {
-          "id": "rafael-leao-galatasaray-da-ilk-antrenman-na-kt-5",
-          "title": "Rafael Leao, Galatasaray'da ilk antrenmanına çıktı",
-          "summary": "Galatasaray, Trendyol Süper Lig'in 4. haftasında oynayacağı Başakşehir maçı hazırlıklarını sürdürdü. Yeni transfer Rafael Leao da ilk antrenmanına çıktı.",
+          "id": "domatesin-fiyat-bir-y-lda-y-zde-75-artt-8",
+          "title": "Domatesin fiyatı bir yılda yüzde 75 arttı",
+          "summary": "Antalya Ticaret Borsası’nın Ağustos 2026 verilerine göre, Antalya hallerinde domates, meyve ve sebzede işlem miktarları aylık bazda gerilerken; fiyat endekslerinde özellikle domates ve sebzede yıllık artış dikkat çekti.",
           "source": "Dünya Gazetesi",
           "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/spor/rafael-leao-galatasarayda-ilk-antrenmanina-cikti-haberi-838424",
-          "publishedAt": "2026-09-01T21:36:00.000Z"
-        },
-        {
-          "id": "l-ksemburg-i-srail-tahvillerine-onay-sonland-rd-6",
-          "title": "Lüksemburg, İsrail tahvillerine onayı sonlandırdı",
-          "summary": "Lüksemburg, İsrail'in Avrupa Birliği (AB) ülkelerindeki yatırımcılara tahvil satmasına imkan sağlayan onayı sonlandırdı.Devamı için tıklayınız",
-          "source": "Sabah Ekonomi",
-          "sourceUrl": "https://www.sabah.com.tr",
-          "link": "https://www.sabah.com.tr/ekonomi/luksemburg-israil-tahvillerine-onayi-sonlandirdi-7652705",
-          "publishedAt": "2026-09-01T21:31:10.000Z"
-        },
-        {
-          "id": "b-t-n-yollar-roma-ya-de-il-t-rkiye-ye-kacak-7",
-          "title": "Bütün yollar Roma’ya değil, Türkiye’ye çıkacak",
-          "summary": "Türkiye’nin hikâyesi artık yalnızca bir dönem coğrafya kitaplarında okuduğumuz “Avrupa ile Asya arasında köprü” olmakla açıklanamayacak kadar büyüyor. Küresel ticaretin, dünya ekonomisinin birbirine bağlanmasında Türkiye…",
-          "source": "Dünya Gazetesi",
-          "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/sektorler/butun-yollar-romaya-degil-turkiyeye-cikacak-haberi-838375",
-          "publishedAt": "2026-09-01T21:00:00.000Z"
-        },
-        {
-          "id": "savunma-devleri-ligine-5-t-rk-irketi-girdi-8",
-          "title": "Savunma devleri ligine 5 Türk şirketi girdi",
-          "summary": "Dünyanın önde gelen savunma sanayisi şirketlerinin sıralandığı Defense News Top 100 listesine 5 Türk şirketi girdi. Listede ASELSAN 40, Türk Havacılık ve Uzay Sanayii (TUSAŞ) 48, ARCA 53, ROKETSAN 64 ve MKE 81. sırada ye…",
-          "source": "Dünya Gazetesi",
-          "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/sirketler/savunma-devleri-ligine-5-turk-sirketi-girdi-haberi-838380",
-          "publishedAt": "2026-09-01T21:00:00.000Z"
+          "link": "https://www.dunya.com/ekonomi/domatesin-fiyati-bir-yilda-yuzde-75-artti-haberi-838455",
+          "publishedAt": "2026-09-02T07:25:00.000Z"
         }
       ]
     }
