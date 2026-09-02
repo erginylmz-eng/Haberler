@@ -1,89 +1,89 @@
 {
-  "generatedAt": "2026-09-02T15:53:24.358Z",
+  "generatedAt": "2026-09-02T19:11:18.756Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "items": [
         {
-          "id": "yang-ming-inks-1-2-billion-newbuild-deal-for-six-13-000-teu--0",
-          "title": "Yang Ming inks $1.2 billion newbuild deal for six 13,000-TEU LNG ships",
-          "summary": "The contract with South Korean shipyard Hanwha Ocean pushes the global order book for LNG-fueled vessels to more than 6.8 million TEUs.",
-          "source": "Journal of Commerce",
-          "sourceUrl": "https://joc.com",
-          "link": "https://joc.com/article/yang-ming-inks-12-billion-newbuild-deal-for-six-13000-teu-lng-ships-6280352",
-          "publishedAt": "2026-09-02T15:02:14.000Z"
-        },
-        {
-          "id": "jebel-ali-s-fall-is-not-a-failure-it-s-a-relocation-1",
-          "title": "Jebel Ali’s fall is not a failure it’s a relocation",
-          "summary": "In late August, Alphaliner released a number that maritime analysts had been quietly expecting for months: Jebel Ali, for years the Middle East’s flagship container hub, had fallen from 10th to 32nd place in the global p…",
+          "id": "h-egh-autoliners-to-equip-entire-fleet-with-navigation-resil-0",
+          "title": "Höegh Autoliners to equip entire fleet with navigation resilience technology",
+          "summary": "Höegh Autoliners has signed a five-year agreement with Norwegian technology company SGM Technology to strengthen navigation resilience across its fleet. The agreement covers the company’s current fleet of 38 vessels, as …",
           "source": "Container News",
           "sourceUrl": "https://container-news.com",
-          "link": "https://container-news.com/jebel-alis-fall-is-not-a-failure-its-a-relocation/",
-          "publishedAt": "2026-09-02T15:00:37.000Z"
+          "link": "https://container-news.com/hoegh-autoliners-to-equip-entire-fleet-with-navigation-resilience-technology/",
+          "publishedAt": "2026-09-02T19:00:32.000Z"
         },
         {
-          "id": "epcs-ride-wave-of-global-energy-project-boom-to-boost-work-b-2",
-          "title": "EPCs ride wave of global energy project boom to boost work backlog",
-          "summary": "Developments linked to multiple energy sources — including data center-driven gas, nuclear, LNG, and offshore oil and gas exploration — are among projects in the works for major EPCs Fluor, KBR, TechnipFMC and Worley.",
-          "source": "Journal of Commerce",
-          "sourceUrl": "https://joc.com",
-          "link": "https://joc.com/article/epcs-ride-wave-of-global-energy-project-boom-to-boost-work-backlog-6280343",
-          "publishedAt": "2026-09-02T15:00:19.000Z"
-        },
-        {
-          "id": "new-truck-blitzes-uncover-thousands-of-safety-violations-pla-3",
-          "title": "New truck blitzes uncover thousands of safety violations, place 99 drivers out of service",
-          "summary": "Recent commercial vehicle enforcement operations across six states placed at least 99 truck drivers out of service. The post New truck blitzes uncover thousands of safety violations, place 99 drivers out of service appea…",
+          "id": "northeast-port-breaks-ground-on-3-2-million-in-new-upgrades-1",
+          "title": "Northeast port breaks ground on $3.2 million in new upgrades",
+          "summary": "A $3.2-million project is upgrading Portland's International Marine Terminal facilities. The post Northeast port breaks ground on $3.2 million in new upgrades appeared first on FreightWaves.",
           "source": "FreightWaves",
           "sourceUrl": "https://www.freightwaves.com",
-          "link": "https://www.freightwaves.com/news/new-truck-blitzes-uncover-thousands-of-safety-violations-place-99-drivers-out-of-service",
-          "publishedAt": "2026-09-02T14:49:18.000Z"
+          "link": "https://www.freightwaves.com/news/northeast-port-breaks-ground-on-3-2-million-in-new-upgrades",
+          "publishedAt": "2026-09-02T18:39:08.000Z"
         },
         {
-          "id": "the-perfect-mix-how-convenience-stores-can-balance-human-ide-4",
-          "title": "The perfect mix: How convenience stores can balance human ideas and AI in SKU planning",
-          "summary": "The right technology can spot sales patterns and flag gaps, but supply chain leaders still need to make the final call about adding and cutting items, one expert said.",
-          "source": "Supply Chain Dive",
-          "sourceUrl": "https://www.supplychaindive.com",
-          "link": "https://www.supplychaindive.com/news/ai-can-help-c-stores-get-their-product-mix-right-but-merchants-still-have/829277/",
-          "publishedAt": "2026-09-02T14:39:00.000Z"
-        },
-        {
-          "id": "trans-pacific-spot-rates-reach-new-highs-on-resilient-demand-5",
-          "title": "Trans-Pacific spot rates reach new highs on resilient demand, port congestion",
-          "summary": "Trans-Pacific freight rates hit record highs due to strong, early peak-season demand. The post Trans-Pacific spot rates reach new highs on resilient demand, port congestion appeared first on FreightWaves.",
+          "id": "fitzmark-s-latest-broker-acquisition-adds-trade-show-logisti-2",
+          "title": "FitzMark’s latest broker acquisition adds trade show logistics capabilities",
+          "summary": "Broker FitzMark has acquired United Transportation Services, which specializes in third-party logistics for trade shows. The post FitzMark’s latest broker acquisition adds trade show logistics capabilities appeared first…",
           "source": "FreightWaves",
           "sourceUrl": "https://www.freightwaves.com",
-          "link": "https://www.freightwaves.com/news/trans-pacific-spot-rates-reach-new-highs-on-resilient-demand-port-congestion",
-          "publishedAt": "2026-09-02T14:22:26.000Z"
+          "link": "https://www.freightwaves.com/news/fitzmarks-latest-broker-acquisition-adds-trade-show-logistics-capabilities",
+          "publishedAt": "2026-09-02T18:32:11.000Z"
         },
         {
-          "id": "gap-kohl-s-among-retailers-adding-doordash-delivery-option-6",
-          "title": "Gap, Kohl’s among retailers adding DoorDash delivery option",
-          "summary": "With the new partnerships, DoorDash said it now has more than half a million products eligible for sub-hour delivery.",
-          "source": "Supply Chain Dive",
-          "sourceUrl": "https://www.supplychaindive.com",
-          "link": "https://www.supplychaindive.com/news/gap-kohls-among-retailers-adding-doordash-delivery-option/829329/",
-          "publishedAt": "2026-09-02T14:06:43.000Z"
-        },
-        {
-          "id": "titan-and-sogestran-partner-on-6-000-cbm-lng-bunker-vessel-7",
-          "title": "Titan and Sogestran partner on 6,000 cbm LNG bunker vessel",
-          "summary": "Titan Clean Fuels and Sogestran Group have signed a long-term agreement for a new 6,000 cbm LNG bunker vessel. The agreement covers the construction, charter and operation of the vessel. Titan, part of Molgas Group, plan…",
+          "id": "greek-ferry-sinks-off-sifnos-during-towage-operation-3",
+          "title": "Greek ferry sinks off Sifnos during towage operation",
+          "summary": "The Greek-flagged passenger and vehicle ferry Irini K sank approximately one nautical mile off the island of Sifnos, Greece. The vessel was under tow from Kalymnos to Perama when it sank. The two people aboard were rescu…",
           "source": "Container News",
           "sourceUrl": "https://container-news.com",
-          "link": "https://container-news.com/titan-and-sogestran-partner-on-6000-cbm-lng-bunker-vessel/",
-          "publishedAt": "2026-09-02T14:00:10.000Z"
+          "link": "https://container-news.com/greek-ferry-sinks-off-sifnos-during-towage-operation/",
+          "publishedAt": "2026-09-02T18:00:52.000Z"
         },
         {
-          "id": "bath-body-works-rethinks-promotional-inventory-purchases-8",
-          "title": "Bath & Body Works rethinks promotional inventory purchases",
-          "summary": "CEO Daniel Heaf said a reduction in distressed inventory came from “buying our seasonal business correctly.”",
-          "source": "Supply Chain Dive",
-          "sourceUrl": "https://www.supplychaindive.com",
-          "link": "https://www.supplychaindive.com/news/bath-body-works-rethinks-promotional-inventory-purchases/829233/",
-          "publishedAt": "2026-09-02T13:45:00.000Z"
+          "id": "saudi-oil-exports-dive-as-tankers-at-risk-from-hormuz-to-red-4",
+          "title": "Saudi Oil Exports Dive as Tankers at Risk From Hormuz to Red Sea",
+          "summary": "Saudi Arabia’s observed crude exports last month slumped to the lowest in at least nine years, as tankers were attacked following rising tensions in the Middle East.",
+          "source": "gCaptain",
+          "sourceUrl": "https://gcaptain.com",
+          "link": "https://gcaptain.com/saudi-oil-exports-dive-as-tankers-at-risk-from-hormuz-to-red-sea/",
+          "publishedAt": "2026-09-02T17:26:34.000Z"
+        },
+        {
+          "id": "us-pounds-iran-tehran-strikes-back-at-bases-in-biggest-excha-5",
+          "title": "US Pounds Iran, Tehran Strikes Back at Bases in Biggest Exchange Since July",
+          "summary": "Iranians and their Arab neighbors feared a return of war on Wednesday after the biggest exchange of fire between Tehran and Washington since July, with U.S. forces striking Iran's southern coast and Iran firing at Americ…",
+          "source": "gCaptain",
+          "sourceUrl": "https://gcaptain.com",
+          "link": "https://gcaptain.com/us-pounds-iran-tehran-strikes-back-at-bases-in-biggest-exchange-since-july/",
+          "publishedAt": "2026-09-02T17:16:25.000Z"
+        },
+        {
+          "id": "ai-cuts-gate-dwell-to-30-seconds-as-eagle-grows-350-6",
+          "title": "AI Cuts Gate Dwell to 30 Seconds as Eagle Grows 350%",
+          "summary": "AI gate automation cut dwell times to under 30 seconds while EAIGLE posted 350% year-over-year growth. CEO Amir Hoss explains how the company uses existing security cameras and computer vision to automate gate, yard and …",
+          "source": "FreightWaves",
+          "sourceUrl": "https://www.freightwaves.com",
+          "link": "https://www.freightwaves.com/news/ai-cuts-gate-dwell-to-30-seconds-as-eagle-grows-350",
+          "publishedAt": "2026-09-02T17:11:08.000Z"
+        },
+        {
+          "id": "maersk-begins-operations-at-new-apm-terminals-suape-facility-7",
+          "title": "Maersk begins operations at new APM Terminals Suape facility",
+          "summary": "Maersk will begin operating at the new APM Terminals Suape facility in Pernambuco, Brazil, on 1 September 2026. The carrier will use Aliança services at the terminal, strengthening logistics efficiency and expanding conn…",
+          "source": "Container News",
+          "sourceUrl": "https://container-news.com",
+          "link": "https://container-news.com/maersk-begins-operations-at-new-apm-terminals-suape-facility/",
+          "publishedAt": "2026-09-02T17:00:36.000Z"
+        },
+        {
+          "id": "maersk-to-test-rotor-sail-on-containership-in-industry-first-8",
+          "title": "Maersk to Test Rotor Sail on Containership in Industry First",
+          "summary": "A.P. Moller-Maersk is preparing to test wind-assisted propulsion on one of its containerships, with plans to install a large Rotor Sail on an 8,700-TEU vessel next year. UK-based Anemoi Marine...",
+          "source": "gCaptain",
+          "sourceUrl": "https://gcaptain.com",
+          "link": "https://gcaptain.com/maersk-to-test-rotor-sail-on-containership-in-industry-first/",
+          "publishedAt": "2026-09-02T16:33:34.000Z"
         }
       ]
     },
@@ -91,7 +91,34 @@
       "label": "Türkiye Lojistik",
       "items": [
         {
-          "id": "son-dakika-girne-de-gemi-facias-kay-p-20-ki-iden-birinin-naa-0",
+          "id": "kktc-de-5-eyl-l-e-kadar-m-zik-ve-e-lence-faaliyetleri-yasakl-0",
+          "title": "KKTC'de 5 Eylül'e kadar müzik ve eğlence faaliyetleri yasaklandı",
+          "summary": "Kuzey Kıbrıs Türk Cumhuriyeti'nde (KKTC), Girne açıklarında meydana gelen gemi kazası nedeniyle ilan edilen yas kapsamında, 5 Eylül Cumartesi sabahına kadar müzik ve eğlence faaliyetlerine yasak getirildi.",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/dunya/kktcde-5-eylule-kadar-muzik-ve-eglence-faaliyetleri-yasaklandi-haberi-838545",
+          "publishedAt": "2026-09-02T16:55:00.000Z"
+        },
+        {
+          "id": "rusya-almanya-n-n-eylemlerine-sert-kar-l-k-verilecek-1",
+          "title": "Rusya: Almanya'nın eylemlerine sert karşılık verilecek",
+          "summary": "Rusya Dışişleri Bakanlığı, Almanya'nın Leipzig-Halle Havalimanı'nda insansız hava aracı (İHA) bulunması nedeniyle Rusya'ya yönelik aldığı kararlara sert karşılık verileceğini bildirdi.",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/dunya/rusya-almanyanin-eylemlerine-sert-karsilik-verilecek-haberi-838539",
+          "publishedAt": "2026-09-02T16:29:00.000Z"
+        },
+        {
+          "id": "son-dakika-kktc-ula-t-rma-bakan-ar-kl-g-revden-al-nd-2",
+          "title": "Son dakika: KKTC Ulaştırma Bakanı Arıklı görevden alındı",
+          "summary": "Son dakika haberine göre, Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Bayındırlık ve Ulaştırma Bakanı Erhan Arıklı görevden alındı. Arıklı, gemi kazasına ilişkin yürütülen soruşturma kapsamında adli makamların rahat hareket ede…",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/dunya/son-dakika-kktc-ulastirma-bakani-arikli-gorevden-alindi-haberi-838529",
+          "publishedAt": "2026-09-02T15:49:00.000Z"
+        },
+        {
+          "id": "son-dakika-girne-de-gemi-facias-kay-p-20-ki-iden-birinin-naa-3",
           "title": "Son dakika: Girne'de gemi faciası: Kayıp 20 kişiden birinin naaşına ulaşıldı",
           "summary": "Son dakika haberine göre, KKTC Başbakanı Ünal Üstel, Girne açıklarında meydana gelen gemi kazasında kayıp 20 kişiden 1'inin naaşına ulaşıldığını açıkladı. Naaşı bulunan kişinin 50 yaşlarında bir erkek olduğu belirtilirke…",
           "source": "Dünya Gazetesi",
@@ -100,16 +127,7 @@
           "publishedAt": "2026-09-02T15:28:00.000Z"
         },
         {
-          "id": "marmara-da-batan-geminin-i-skenderun-dan-k-g-r-nt-s-ne-ula-l-1",
-          "title": "Marmara'da batan geminin İskenderun'dan çıkış görüntüsüne ulaşıldı",
-          "summary": "Marmara Denizi'nde bir ticari gemiyle çarpıştıktan sonra batan \"Tuğberk İmamoğlu\" adlı kuru yük gemisinin, 27 Ağustos'ta İskenderun Limanı'ndan ayrılışının güvenlik kamerası görüntüsüne ulaşıldı.",
-          "source": "Dünya Gazetesi",
-          "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/video-galeri/gundem/marmarada-batan-geminin-iskenderundan-cikis-goruntusune-ulasildi-video-838493",
-          "publishedAt": "2026-09-02T11:58:00.000Z"
-        },
-        {
-          "id": "t-rkiye-nin-en-etkin-50-chro-su-belli-oldu-2",
+          "id": "t-rkiye-nin-en-etkin-50-chro-su-belli-oldu-4",
           "title": "Türkiye’nin en etkin 50 CHRO’su belli oldu",
           "summary": "Türkiye’nin insan kaynakları alanında en önemli karar alıcılarının belirlendiği ‘En Etkin 50 CHRO’ araştırması sonuçlandı.",
           "source": "Taşıma Dünyası Gazetesi",
@@ -118,7 +136,7 @@
           "publishedAt": "2026-09-02T11:39:00.000Z"
         },
         {
-          "id": "hidromas-rusya-pazar-nda-b-y-yor-3",
+          "id": "hidromas-rusya-pazar-nda-b-y-yor-5",
           "title": "Hidromas, Rusya pazarında büyüyor",
           "summary": "Globalde büyüme stratejilerini başarıyla yürüten Hidromas, Rusya’da açtığı yeni depo ve ofisle buradaki varlığını güçlendirdi. Moskova’da düzenlenen açılış törenine Hidromas Genel Müdürü Erhan Başoğlu, Yurt Dışı Satış ve…",
           "source": "Taşıma Dünyası Gazetesi",
@@ -127,7 +145,7 @@
           "publishedAt": "2026-09-02T11:10:00.000Z"
         },
         {
-          "id": "trabzon-rayl-sisteminin-temeli-at-ld-4",
+          "id": "trabzon-rayl-sisteminin-temeli-at-ld-6",
           "title": "Trabzon raylı sisteminin temeli atıldı",
           "summary": "Trabzon’un ilk raylı sistem projesinin yapımına resmen başlandı. Akçaabat ilçe sınırlarındaki Karayolları 10. Bölge Müdürlüğü’nden başlayarak Trabzon Havalimanı’na kadar uzanacak hattın ilk etapta 16,2 kilometrelik bölüm…",
           "source": "Taşıma Dünyası Gazetesi",
@@ -136,7 +154,7 @@
           "publishedAt": "2026-09-02T10:55:00.000Z"
         },
         {
-          "id": "lojistik-sekt-r-nde-12-kurumdan-tarihi-i-ttifak-5",
+          "id": "lojistik-sekt-r-nde-12-kurumdan-tarihi-i-ttifak-7",
           "title": "Lojistik Sektöründe 12 Kurumdan Tarihi İttifak",
           "summary": "Türkiye ekonomisinin ve küresel ticaretinin kritik unsurlarından biri olan lojistik sektörü, İstanbul Ticaret Odası (İTO) 24. Taşımacılık ve Lojistik Hizmetleri Meslek Komitesi seçimleri öncesinde dikkat çeken bir güç bi…",
           "source": "Taşıma Dünyası Gazetesi",
@@ -145,31 +163,13 @@
           "publishedAt": "2026-09-02T10:27:00.000Z"
         },
         {
-          "id": "petronas-automechanika-frankfurt-2026-da-yenilik-i-ya-lar-n--6",
+          "id": "petronas-automechanika-frankfurt-2026-da-yenilik-i-ya-lar-n--8",
           "title": "PETRONAS Automechanika Frankfurt 2026’da Yenilikçi Yağlarını Tanıtacak",
           "summary": "PETRONAS Madeni Yağlar, 8-12 Eylül 2026’da Automechanika Frankfurt’ta Fluid Technology Solutions™ ile içten yanmalı, hibrit ve elektrikli araçlara yönelik gelişmiş ürünlerini sergileyecek.",
           "source": "Taşımacılar.com",
           "sourceUrl": "https://www.tasimacilar.com",
           "link": "https://www.tasimacilar.com/sektorel/petronas-automechanika-frankfurt-2026da-yenilikci-yaglarini-tanitacak-27722h",
           "publishedAt": "2026-09-02T10:15:37.000Z"
-        },
-        {
-          "id": "karbon-emisyonunu-l-emeyen-sekt-r-rekabet-dezavantaj-ya-ayac-7",
-          "title": "\"Karbon Emisyonunu Ölçemeyen Sektör Rekabet Dezavantajı Yaşayacak!\"",
-          "summary": "UTİKAD Başkanı Bilgehan Engin, 11. Ekonomi ve Lojistik Zirvesi’nde uyardı: \"AB’nin 2030 yeşil hedefleri doğrudan ihracatımızı etkiliyor. Karbon emisyonunu standart şekilde ölçüp yönetemezsek, Türk lojistik sektörü ağır m…",
-          "source": "LojiPort",
-          "sourceUrl": "https://www.lojiport.com",
-          "link": "https://www.lojiport.com/karbon-emisyonunu-olcemeyen-sektor-rekabet-dezavantaji-yasayacak-120081h.htm",
-          "publishedAt": "2026-09-02T10:06:16.000Z"
-        },
-        {
-          "id": "lojistikte-tek-kayna-a-ba-ml-l-k-d-nemi-kapanm-t-r-8",
-          "title": "“Lojistikte Tek Kaynağa Bağımlılık Dönemi Kapanmıştır”",
-          "summary": "Kıta Lojistik Yöneticisi Emre Eldener ve Oturum Başkanı Turgut Erkeskin, 11. Ekonomi ve Lojistik Zirvesi’nde konuştu: \"Tek bir ülkeye bağımlılık bitti. Farklı dijital sistemleri konuşturup alternatif rotaları hızlı devre…",
-          "source": "LojiPort",
-          "sourceUrl": "https://www.lojiport.com",
-          "link": "https://www.lojiport.com/lojistikte-tek-kaynaga-bagimlilik-donemi-kapanmistir-120080h.htm",
-          "publishedAt": "2026-09-02T10:04:37.000Z"
         }
       ]
     },
@@ -177,85 +177,85 @@
       "label": "Dünya Finans",
       "items": [
         {
-          "id": "affirm-rallies-6-on-104-price-target-from-bofa-sezzle-climbs-0",
-          "title": "Affirm Rallies 6% on $104 Price Target From BofA, Sezzle Climbs 4%, PayPal Rises 3%",
-          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
-          "source": "Yahoo Finance",
-          "sourceUrl": "https://finance.yahoo.com",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/affirm-rallies-6-104-price-154536121.html",
-          "publishedAt": "2026-09-02T15:45:36.000Z"
-        },
-        {
-          "id": "g42-explores-multibillion-dollar-fundraising-round-bloomberg-1",
-          "title": "G42 explores multibillion-dollar fundraising round - Bloomberg",
+          "id": "united-states-antimony-evp-bardswich-buys-92-700-in-stock-0",
+          "title": "United States Antimony EVP Bardswich buys $92,700 in stock",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/stock-market-news/g42-explores-multibilliondollar-fundraising-round--bloomberg-93CH-4886508",
-          "publishedAt": "2026-09-02T15:45:03.000Z"
+          "link": "https://www.investing.com/news/insider-trading-news/united-states-antimony-evp-bardswich-buys-92700-in-stock-93CH-4886642",
+          "publishedAt": "2026-09-02T19:01:06.000Z"
         },
         {
-          "id": "fubotv-rallies-7-disney-ticks-up-is-the-hulu-live-tv-deal-fi-2",
-          "title": "FuboTV Rallies 7%, Disney Ticks Up: Is the Hulu Live TV Deal Finally Getting Credit?",
-          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
-          "source": "Yahoo Finance",
-          "sourceUrl": "https://finance.yahoo.com",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/fubotv-rallies-7-disney-ticks-154335400.html",
-          "publishedAt": "2026-09-02T15:43:35.000Z"
-        },
-        {
-          "id": "should-tesla-be-kicked-out-of-magnificent-7-3",
-          "title": "Should Tesla Be Kicked Out Of Magnificent 7?",
-          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
-          "source": "Yahoo Finance",
-          "sourceUrl": "https://finance.yahoo.com",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-kicked-magnificent-7-154317128.html",
-          "publishedAt": "2026-09-02T15:43:17.000Z"
-        },
-        {
-          "id": "us-urges-g20-countries-to-allow-ai-training-on-creators-work-4",
-          "title": "US urges G20 countries to allow AI training on creators’ work",
+          "id": "teradyne-director-mercedes-johnson-sells-56-997-in-company-s-1",
+          "title": "Teradyne director Mercedes Johnson sells $56,997 in company stock",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/stock-market-news/nvidia-ceo-urges-g20-to-avoid-ai-rules-on-theoretical-harms-4886204",
-          "publishedAt": "2026-09-02T15:42:35.000Z"
+          "link": "https://www.investing.com/news/insider-trading-news/teradyne-director-mercedes-johnson-sells-56997-in-company-stock-93CH-4886641",
+          "publishedAt": "2026-09-02T19:01:03.000Z"
         },
         {
-          "id": "offerpad-rallies-7-opendoor-edges-higher-is-rate-relief-reac-5",
-          "title": "Offerpad Rallies 7%, Opendoor Edges Higher: Is Rate Relief Reaching the iBuyers?",
-          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
-          "source": "Yahoo Finance",
-          "sourceUrl": "https://finance.yahoo.com",
-          "link": "https://finance.yahoo.com/real-estate/articles/offerpad-rallies-7-opendoor-edges-154125040.html",
-          "publishedAt": "2026-09-02T15:41:25.000Z"
+          "id": "i-m-leaving-money-on-the-table-i-m-64-and-my-husband-is-70-s-2",
+          "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
+          "summary": "“I paid a significant amount into Social Security.”",
+          "source": "MarketWatch",
+          "sourceUrl": "https://www.marketwatch.com",
+          "link": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
+          "publishedAt": "2026-09-02T19:00:00.000Z"
         },
         {
-          "id": "snowflake-options-flow-points-to-rebound-toward-330-360-but--6",
-          "title": "Snowflake options flow points to rebound toward $330–$360, but near-term risk remains",
+          "id": "west-african-crude-oil-differentials-hold-steady-amid-demand-3",
+          "title": "West African crude oil differentials hold steady amid demand concerns",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/stock-market-news/snowflake-options-flow-points-to-rebound-toward-330360-but-nearterm-risk-remains-93CH-4886507",
-          "publishedAt": "2026-09-02T15:40:53.000Z"
+          "link": "https://www.investing.com/news/commodities-news/west-african-crude-oil-differentials-hold-steady-amid-demand-concerns-93CH-4886639",
+          "publishedAt": "2026-09-02T18:55:50.000Z"
         },
         {
-          "id": "microstrategy-resumes-bitcoin-accumulation-after-extended-bu-7",
-          "title": "MicroStrategy Resumes Bitcoin Accumulation After Extended Buying Gap",
+          "id": "diw-raises-german-economic-growth-forecasts-as-exports-beat--4",
+          "title": "DIW raises German economic growth forecasts as exports beat expectations",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
-          "source": "Yahoo Finance",
-          "sourceUrl": "https://finance.yahoo.com",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/microstrategy-resumes-bitcoin-accumulation-extended-154032645.html",
-          "publishedAt": "2026-09-02T15:40:32.000Z"
+          "source": "Investing.com",
+          "sourceUrl": "https://www.investing.com",
+          "link": "https://www.investing.com/news/economic-indicators/diw-raises-german-economic-growth-forecasts-as-exports-beat-expectations-4886638",
+          "publishedAt": "2026-09-02T18:54:43.000Z"
         },
         {
-          "id": "quantumscape-is-down-96-from-its-high-is-2027-finally-the-so-8",
-          "title": "QuantumScape Is Down 96% From Its High. Is 2027 Finally the Solid-State Battery Year?",
+          "id": "european-diesel-margins-hold-steady-despite-us-inventory-ris-5",
+          "title": "European diesel margins hold steady despite US inventory rise",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
-          "source": "Yahoo Finance",
-          "sourceUrl": "https://finance.yahoo.com",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/quantumscape-down-96-high-2027-154000503.html",
-          "publishedAt": "2026-09-02T15:40:00.000Z"
+          "source": "Investing.com",
+          "sourceUrl": "https://www.investing.com",
+          "link": "https://www.investing.com/news/commodities-news/european-diesel-margins-hold-steady-despite-us-inventory-rise-93CH-4886636",
+          "publishedAt": "2026-09-02T18:48:57.000Z"
+        },
+        {
+          "id": "fed-survey-shows-economic-activity-edged-up-prices-rose-mode-6",
+          "title": "Fed survey shows economic activity edged up, prices rose moderately in recent weeks",
+          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
+          "source": "Investing.com",
+          "sourceUrl": "https://www.investing.com",
+          "link": "https://www.investing.com/news/economy-news/economic-activity-edged-up-and-prices-rose-moderately-in-recent-weeks-fed-survey-shows-4886620",
+          "publishedAt": "2026-09-02T18:48:30.000Z"
+        },
+        {
+          "id": "sunrun-options-flow-shows-strong-call-dominance-at-94-6-of-v-7",
+          "title": "Sunrun options flow shows strong call dominance at 94.6% of volume",
+          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
+          "source": "Investing.com",
+          "sourceUrl": "https://www.investing.com",
+          "link": "https://www.investing.com/news/stock-market-news/sunrun-options-flow-shows-strong-call-dominance-at-946-of-volume-93CH-4886635",
+          "publishedAt": "2026-09-02T18:47:08.000Z"
+        },
+        {
+          "id": "jfrog-at-swampup-2026-betting-on-trust-in-the-ai-era-8",
+          "title": "JFrog at swampUP 2026: betting on trust in the AI era",
+          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
+          "source": "Investing.com",
+          "sourceUrl": "https://www.investing.com",
+          "link": "https://www.investing.com/news/transcripts/jfrog-at-swampup-2026-betting-on-trust-in-the-ai-era-93CH-4886634",
+          "publishedAt": "2026-09-02T18:46:11.000Z"
         }
       ]
     },
@@ -263,85 +263,85 @@
       "label": "Türkiye Finans",
       "items": [
         {
-          "id": "borsa-g-n-d-le-tamamlad-0",
-          "title": "Borsa günü düşüşle tamamladı",
-          "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,25 değer kaybederek 14.050,56 puandan tamamladı.",
+          "id": "fed-in-bej-kitab-ekonomik-faaliyetin-l-ml-ekilde-artt-n-orta-0",
+          "title": "Fed'in Bej Kitabı, ekonomik faaliyetin \"ılımlı\" şekilde arttığını ortaya koydu",
+          "summary": "ABD Merkez Bankası (Fed), ekonomik faaliyetin son haftalarda ılımlı artış gösterdiğini bildirdi.",
+          "source": "Anadolu Ajansı Ekonomi",
+          "sourceUrl": "https://www.aa.com.tr",
+          "link": "https://www.aa.com.tr/tr/ekonomi/fedin-bej-kitabi-ekonomik-faaliyetin-ilimli-sekilde-arttigini-ortaya-koydu/4045744",
+          "publishedAt": "2026-09-02T19:02:05.000Z"
+        },
+        {
+          "id": "fed-bej-kitap-raporu-yay-mland-b-y-me-l-ml-belirsizlik-y-kse-1",
+          "title": "Fed Bej Kitap raporu yayımlandı: Büyüme ılımlı, belirsizlik yüksek",
+          "summary": "ABD Merkez Bankası (Fed), ekonomik faaliyetin temmuz başından bu yana ılımlı artış gösterdiğini bildirdi. Fed'in Bej Kitap raporunda, yüksek enerji fiyatları, uygulanan politikalar ve uluslararası çatışmaların etkilerine…",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/ekonomi/fed-bej-kitap-raporu-yayimlandi-buyume-ilimli-belirsizlik-yuksek-haberi-838552",
+          "publishedAt": "2026-09-02T18:57:00.000Z"
+        },
+        {
+          "id": "trump-tan-h-rm-z-a-klamas-t-m-ekipmanlar-imha-ettik-2",
+          "title": "Trump'tan Hürmüz açıklaması: Tüm ekipmanları imha ettik",
+          "summary": "ABD Başkanı Donald Trump, İran'a yönelik düzenlenen saldırılara ilişkin, \"Hürmüz Boğazı boyunca inşa etmeye çalıştıkları tüm yeni ekipmanları imha ettik\" dedi.",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/dunya/trumptan-hurmuz-aciklamasi-tum-ekipmanlari-imha-ettik-haberi-838551",
+          "publishedAt": "2026-09-02T18:51:00.000Z"
+        },
+        {
+          "id": "galatasaray-bitshiabu-nun-transferini-tff-ye-bildirdi-3",
+          "title": "Galatasaray, Bitshiabu'nun transferini TFF'ye bildirdi",
+          "summary": "Galatasaray, 21 yaşındaki El-Chadaille Bitshiabu'yu kiralık olarak kadrosuna kattı.",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/spor/galatasaray-bitshiabunun-transferini-tffye-bildirdi-haberi-838550",
+          "publishedAt": "2026-09-02T18:26:00.000Z"
+        },
+        {
+          "id": "be-ar-esad-d-neminin-n-kleer-s-rr-ortaya-kt-4",
+          "title": "Beşar Esad döneminin nükleer sırrı ortaya çıktı",
+          "summary": "Uluslararası Atom Enerjisi Ajansı (UAEA), Suriye’de devrik Beşar Esad rejimi döneminde Deyrizor yakınlarında gizli nükleer reaktör projesi yürütüldüğünü ve sahada yaklaşık 73 ton doğal uranyum bulunduğunu bildirdi.",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/dunya/besar-esad-doneminin-nukleer-sirri-ortaya-cikti-haberi-838549",
+          "publishedAt": "2026-09-02T17:56:00.000Z"
+        },
+        {
+          "id": "guterres-abd-i-ran-sald-r-lar-ndan-endi-eliyim-5",
+          "title": "Guterres: ABD-İran saldırılarından endişeliyim",
+          "summary": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, ABD ile İran arasında yeniden başlayan saldırılardan dolayı \"son derece endişe\" duyduğunu bildirdi.",
+          "source": "Dünya Gazetesi",
+          "sourceUrl": "https://www.dunya.com",
+          "link": "https://www.dunya.com/dunya/guterres-abd-iran-saldirilarindan-endiseliyim-haberi-838548",
+          "publishedAt": "2026-09-02T17:42:00.000Z"
+        },
+        {
+          "id": "nceli-imiz-s-rd-r-lebilir-ve-nitelikli-b-y-me-6",
+          "title": "\"Önceliğimiz sürdürülebilir ve nitelikli büyüme\"",
+          "summary": "Pusula Portföy, değişen piyasa koşullarına uyum sağlamak amacıyla planlı şekilde yürüttüğü sadeleşme ve dengelenme sürecinde gelinen noktayı kamuoyuyla paylaştı. Pusula Portföy, gerektiğinde bugünün büyüklüğünden vazgeçe…",
           "source": "Habertürk Ekonomi",
           "sourceUrl": "https://www.haberturk.com",
-          "link": "https://www.haberturk.com/borsa-gunu-dususle-tamamladi-3909836-ekonomi",
-          "publishedAt": "2026-09-02T15:34:40.000Z"
+          "link": "https://www.haberturk.com/pusula-portfoyden-planli-sadelesme-hamlesi-3909820-ekonomi",
+          "publishedAt": "2026-09-02T17:39:59.000Z"
         },
         {
-          "id": "borsa-i-stanbul-g-n-d-le-tamamlad-1",
-          "title": "Borsa İstanbul günü düşüşle tamamladı",
-          "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,25 değer kaybederek 14.050,56 puandan tamamladı.",
+          "id": "avrupa-borsalar-orta-do-u-daki-gerilim-ve-enflasyon-endi-ele-7",
+          "title": "Avrupa borsaları Orta Doğu'daki gerilim ve enflasyon endişeleriyle geriledi",
+          "summary": "Avrupa pay piyasaları, Orta Doğu'da tırmanan jeopolitik risklerin petrol fiyatlarını yükseltmesi ve küresel enflasyon endişelerinin tahvil piyasalarını sarsmasıyla haftanın üçüncü gününü düşüşle tamamladı.",
           "source": "Dünya Gazetesi",
           "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-838524",
-          "publishedAt": "2026-09-02T15:31:00.000Z"
+          "link": "https://www.dunya.com/finans/borsa/avrupa-borsalari-orta-dogudaki-gerilim-ve-enflasyon-endiseleriyle-geriledi-haberi-838547",
+          "publishedAt": "2026-09-02T17:31:00.000Z"
         },
         {
-          "id": "son-dakika-girne-de-gemi-facias-kay-p-20-ki-iden-birinin-naa-2",
-          "title": "Son dakika: Girne'de gemi faciası: Kayıp 20 kişiden birinin naaşına ulaşıldı",
-          "summary": "Son dakika haberine göre, KKTC Başbakanı Ünal Üstel, Girne açıklarında meydana gelen gemi kazasında kayıp 20 kişiden 1'inin naaşına ulaşıldığını açıkladı. Naaşı bulunan kişinin 50 yaşlarında bir erkek olduğu belirtilirke…",
+          "id": "bakan-fidan-katarl-ve-rd-nl-mevkida-lar-yla-g-r-t-8",
+          "title": "Bakan Fidan, Katarlı ve Ürdünlü mevkidaşlarıyla görüştü",
+          "summary": "Dışişleri Bakanı Hakan Fidan, Katar Başbakanı ve Dışişleri Bakanı Muhammed bin Abdurrahman Al Sani ve Ürdün Dışişleri Bakanı Eymen es-Safedi ile telefon görüşmeleri yaptı.",
           "source": "Dünya Gazetesi",
           "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/dunya/son-dakika-girnede-gemi-faciasi-kayip-20-kisiden-birinin-naasina-ulasildi-haberi-838521",
-          "publishedAt": "2026-09-02T15:28:00.000Z"
-        },
-        {
-          "id": "borsa-g-n-d-le-tamamlad-3",
-          "title": "Borsa günü düşüşle tamamladı",
-          "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,25 değer kaybederek 14.050,56 puandan tamamladı.",
-          "source": "Anadolu Ajansı Ekonomi",
-          "sourceUrl": "https://www.aa.com.tr",
-          "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4045596",
-          "publishedAt": "2026-09-02T15:26:16.000Z"
-        },
-        {
-          "id": "bayraktar-l-bnanl-mevkida-yla-enerji-i-birli-ini-g-r-t-4",
-          "title": "Bayraktar, Lübnanlı mevkidaşıyla enerji işbirliğini görüştü",
-          "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Lübnan Enerji ve Su Bakanı Joseph Saddi ile iki ülke arasında elektrik, petrol ve doğal gaz alanında enterkonneksiyonun güçlendirilmesi ve kapsamlı işbirliklerini ele…",
-          "source": "Dünya Gazetesi",
-          "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/ekonomi/bayraktar-lubnanli-mevkidasiyla-enerji-isbirligini-gorustu-haberi-838518",
-          "publishedAt": "2026-09-02T15:17:00.000Z"
-        },
-        {
-          "id": "milli-ma-ne-zaman-t-rkiye-fransa-ma-ne-zaman-saat-ka-ta-hang-5",
-          "title": "Milli maç ne zaman? Türkiye - Fransa maçı ne zaman, saat kaçta, hangi kanalda?",
-          "summary": "UEFA Uluslar Ligi A Grubu ilk maçında Türkiye, Fransa ile karşılaşacak. A Milli Futbol Takımı'mız güçlü Fransa karşısında puan ya da puanlar almak istiyor. Mücadele tarihi gün geçtikçe daha sık araştırılıyor ve \"Milli ma…",
-          "source": "Dünya Gazetesi",
-          "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/spor/milli-mac-ne-zaman-turkiye-fransa-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-838514",
-          "publishedAt": "2026-09-02T14:51:00.000Z"
-        },
-        {
-          "id": "bakan-i-khan-engelli-ve-eski-h-k-ml-vatanda-lar-m-z-n-yan-nd-6",
-          "title": "Bakan Işıkhan: Engelli ve eski hükümlü vatandaşlarımızın yanında oluyoruz",
-          "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, \"Engelli vatandaşlarımızın ve eski hükümlü vatandaşlarımızın yanında oluyoruz. Bu yılın temmuz ve ağustos aylarında 308 proje için toplam 161,5 milyon lira tahsis ettik.\" …",
-          "source": "Anadolu Ajansı Ekonomi",
-          "sourceUrl": "https://www.aa.com.tr",
-          "link": "https://www.aa.com.tr/tr/ekonomi/bakan-isikhan-engelli-ve-eski-hukumlu-vatandaslarimizin-yaninda-oluyoruz/4045561",
-          "publishedAt": "2026-09-02T14:48:21.000Z"
-        },
-        {
-          "id": "sk-dar-belediye-ba-kan-vekili-se-imi-yeniden-yap-lacak-7",
-          "title": "Üsküdar Belediye Başkan Vekili seçimi yeniden yapılacak",
-          "summary": "Üsküdar Belediye Meclisi, belediye başkan vekilini seçmek üzere 5 Eylül Cumartesi günü yeniden toplanacak. İstanbul Valiliği, toplantının saat 10.00’da yapılmasının uygun görüldüğünü açıkladı.",
-          "source": "Dünya Gazetesi",
-          "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/gundem/uskudar-belediye-baskan-vekili-secimi-yeniden-yapilacak-haberi-838513",
-          "publishedAt": "2026-09-02T14:46:00.000Z"
-        },
-        {
-          "id": "abd-de-imalat-sanayi-yeni-sipari-leri-temmuzda-artt-8",
-          "title": "ABD'de imalat sanayi yeni siparişleri temmuzda arttı",
-          "summary": "ABD'de imalat sanayi yeni siparişleri temmuzda yüzde 0,9 artarak 663,6 milyar dolara yükseldi ve piyasa beklentilerinin üzerinde gerçekleşti.",
-          "source": "Dünya Gazetesi",
-          "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/dunya/abdde-imalat-sanayi-yeni-siparisleri-temmuzda-artti-haberi-838512",
-          "publishedAt": "2026-09-02T14:41:00.000Z"
+          "link": "https://www.dunya.com/gundem/bakan-fidan-katarli-ve-urdunlu-mevkidaslariyla-gorustu-haberi-838546",
+          "publishedAt": "2026-09-02T17:15:00.000Z"
         }
       ]
     }
