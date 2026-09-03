@@ -1,17 +1,21 @@
 #!/usr/bin/env node
 /**
- * Lojistik ve finans RSS kaynaklarından haber çeker, Google Gemini API'sinin
- * ÜCRETSİZ katmanı ile Türkçe kısa özet çıkarır ve sonucu data/news.json'a
- * yazar. Bu sistem tamamen ücretsiz kalacak şekilde tasarlanmıştır: Gemini
- * API'nin ücretsiz katmanı kredi kartı gerektirmez (bkz. README "Bu sistem
- * neden tamamen ücretsiz?" bölümü).
+ * Lojistik ve finans RSS kaynaklarından haber çeker ve Google Gemini
+ * API'sinin ÜCRETSİZ katmanını kullanarak, her kategori için TEK BİR
+ * TÜRKÇE BRİFİNG METNİNE derler (kaynak başlıkları ne dilde olursa olsun).
+ * Amaç: kullanıcının kaynak haber sitelerine gitmesine gerek kalmadan,
+ * o kategoride neler olduğunu Türkçe olarak anlaması. Bu sistem tamamen
+ * ücretsiz kalacak şekilde tasarlanmıştır: Gemini API'nin ücretsiz katmanı
+ * kredi kartı gerektirmez (bkz. README "Bu sistem neden tamamen ücretsiz?"
+ * bölümü).
  *
  * Kullanım:
  *   GEMINI_API_KEY=... node scripts/fetch-news.mjs
  *
- * GEMINI_API_KEY tanımlı değilse script çalışmaya devam eder, ancak AI
- * özeti yerine kaynağın kendi özetini (varsa) kısaltarak kullanır — yani
- * anahtar olmadan da site tamamen çalışır durumda kalır.
+ * GEMINI_API_KEY tanımlı değilse script çalışmaya devam eder, ancak
+ * derleme/çeviri yapılamaz — ham kaynak metinleri (orijinal dilinde)
+ * kısaltılarak kullanılır. Site yine de çalışır durumda kalır, ama asıl
+ * değer (Türkçe derleme) için anahtar eklenmesi şiddetle önerilir.
  */
 
 import fs from 'node:fs/promises';
@@ -108,33 +112,61 @@ async function collectCategoryItems(categoryKey) {
     return db - da;
   });
 
-  return items.slice(0, MAX_ITEMS_PER_CATEGORY * 2); // özetlemeden önce biraz pay bırak
+  return items.slice(0, MAX_ITEMS_PER_CATEGORY * 2); // derlemeden önce biraz pay bırak
 }
 
-async function summarizeBatch(genAI, items) {
+function uniqueSources(items) {
+  const byName = new Map();
+  for (const item of items) {
+    if (!byName.has(item.source)) {
+      byName.set(item.source, { name: item.source, url: item.sourceUrl });
+    }
+  }
+  return Array.from(byName.values());
+}
+
+/**
+ * Bir kategorideki ham haberleri TEK BİR Türkçe brifinge derler.
+ * Döndürülen paragraflar birbirinden bağımsız, 2-4 cümlelik, nesnel
+ * metinlerdir — kullanıcı bunları okuyarak kaynağa gitmeden habere hakim
+ * olabilmelidir.
+ */
+async function compileBriefing(genAI, items, categoryLabel) {
   if (items.length === 0) return [];
+
   if (!genAI) {
-    // API anahtarı yoksa kaynağın kendi özetini kısaltarak kullan.
-    return items.map((item) => ({
-      summary: item.snippet
-        ? item.snippet.slice(0, 220) + (item.snippet.length > 220 ? '…' : '')
-        : 'Özet mevcut değil, haberin tamamı için kaynağa gidin.',
-    }));
+    // API anahtarı yoksa çeviri/derleme yapılamaz; en iyi ihtimalle her
+    // kaynağın kendi özetini (orijinal dilinde) kısaltarak sırala.
+    return items
+      .slice(0, MAX_ITEMS_PER_CATEGORY)
+      .map(
+        (item) =>
+          `[${item.source}] ${item.title}${item.snippet ? ' — ' + item.snippet.slice(0, 200) : ''}`
+      );
   }
 
   const payload = items.map((item, index) => ({
     index,
     title: item.title,
     snippet: item.snippet,
+    source: item.source,
   }));
 
-  const prompt = `Aşağıda lojistik/finans sektörüyle ilgili haber başlıkları ve kısa içerik parçaları JSON formatında verilmiştir. Her haber için, sadece verilen bilgiye dayanarak 2-3 cümlelik, nesnel ve profesyonel bir TÜRKÇE özet yaz. Yorum katma, abartma, spekülasyon yapma; sadece haberde geçen bilgiyi özetle. Şirket/kişi/rakam isimlerini olduğu gibi koru.
+  const prompt = `Aşağıda "${categoryLabel}" kategorisiyle ilgili, çeşitli kaynaklardan (bazıları İngilizce) toplanmış ham haber başlıkları ve kısa içerik parçaları JSON formatında verilmiştir.
 
-Girdi:
-${JSON.stringify(payload, null, 2)}
+Görevin: Bunları TÜRKÇE, profesyonel bir "haber brifingi" hâline DERLEMEK. Bu brifingi okuyan bir kişi, kaynak sitelere hiç gitmeden o kategoride neler olup bittiğini anlamalıdır — yani bu bir link listesi değil, gerçek bir özet/derleme olmalı.
 
-Sadece şu formatta bir JSON dizisi döndür, başka hiçbir açıklama ekleme:
-[{"index": 0, "summary": "..."}, {"index": 1, "summary": "..."}, ...]`;
+Kurallar:
+- Türkçe dışında hiçbir dilde metin üretme; İngilizce (veya başka dildeki) başlık ve içerikleri tamamen Türkçeye çevirerek derle.
+- Sadece verilen bilgiye dayan; yorum katma, abartma, spekülasyon yapma.
+- Birbiriyle ilgili haberleri gerekirse tek bir paragrafta birleştir; aynı konuyu tekrar tekrar yazma.
+- Her paragraf 2-4 cümle olsun, nesnel ve bilgilendirici bir üslupla yazılsın. Şirket/kişi/rakam isimlerini olduğu gibi koru.
+- Kaç farklı önemli gelişme varsa o kadar paragraf yaz (genelde 3-8 arası); önemsiz/tekrarlayan haberleri eleyebilirsin.
+- Yanıtını SADECE şu JSON formatında ver, başka hiçbir açıklama ekleme:
+{"paragraphs": ["...", "...", ...]}
+
+Girdi haberleri:
+${JSON.stringify(payload, null, 2)}`;
 
   try {
     const response = await genAI.models.generateContent({
@@ -143,35 +175,23 @@ Sadece şu formatta bir JSON dizisi döndür, başka hiçbir açıklama ekleme:
     });
 
     const text = response.text || '';
-    const jsonMatch = text.match(/\[[\s\S]*\]/);
-    if (!jsonMatch) throw new Error('Model yanıtında JSON dizisi bulunamadı');
+    const jsonMatch = text.match(/\{[\s\S]*\}/);
+    if (!jsonMatch) throw new Error('Model yanıtında JSON nesnesi bulunamadı');
 
     const parsed = JSON.parse(jsonMatch[0]);
-    const byIndex = new Map(parsed.map((p) => [p.index, p.summary]));
+    const paragraphs = Array.isArray(parsed.paragraphs) ? parsed.paragraphs : [];
+    if (paragraphs.length === 0) throw new Error('Model boş brifing döndürdü');
 
-    return items.map((item, index) => ({
-      summary:
-        byIndex.get(index) ||
-        item.snippet?.slice(0, 220) ||
-        'Özet oluşturulamadı, kaynağa gidin.',
-    }));
+    return paragraphs;
   } catch (err) {
-    console.warn(`[uyarı] AI özetleme başarısız oldu, ham özet kullanılacak: ${err.message}`);
-    return items.map((item) => ({
-      summary: item.snippet
-        ? item.snippet.slice(0, 220) + (item.snippet.length > 220 ? '…' : '')
-        : 'Özet mevcut değil, haberin tamamı için kaynağa gidin.',
-    }));
+    console.warn(`[uyarı] AI derlemesi başarısız oldu, ham başlıklar kullanılacak: ${err.message}`);
+    return items
+      .slice(0, MAX_ITEMS_PER_CATEGORY)
+      .map(
+        (item) =>
+          `[${item.source}] ${item.title}${item.snippet ? ' — ' + item.snippet.slice(0, 200) : ''}`
+      );
   }
-}
-
-function slugify(input, index) {
-  const base = (input || '')
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '')
-    .slice(0, 60);
-  return `${base || 'haber'}-${index}`;
 }
 
 async function loadPreviousData() {
@@ -189,7 +209,7 @@ async function main() {
 
   if (!genAI) {
     console.warn(
-      '[uyarı] GEMINI_API_KEY tanımlı değil. AI özetleme atlanacak, kaynak özetleri kullanılacak.'
+      '[uyarı] GEMINI_API_KEY tanımlı değil. Türkçe derleme atlanacak, ham başlıklar kullanılacak.'
     );
   }
 
@@ -202,45 +222,38 @@ async function main() {
     console.log(`${rawItems.length} aday haber bulundu.`);
 
     const topItems = rawItems.slice(0, MAX_ITEMS_PER_CATEGORY);
-    const summaries = await summarizeBatch(genAI, topItems);
-
-    let finalItems = topItems.map((item, index) => ({
-      id: slugify(item.title, index),
-      title: item.title,
-      summary: summaries[index]?.summary || '',
-      source: item.source,
-      sourceUrl: item.sourceUrl,
-      link: item.link,
-      publishedAt: item.publishedAt || new Date().toISOString(),
-    }));
+    let paragraphs = await compileBriefing(genAI, topItems, CATEGORY_LABELS[categoryKey]);
+    let sources = uniqueSources(topItems);
 
     // Bu kategoride hiç yeni haber bulunamadıysa (kaynaklar geçici olarak
-    // erişilemez olabilir), önceki çalıştırmadaki veriyi koru; kategoriyi
+    // erişilemez olabilir), önceki çalıştırmadaki brifingi koru; kategoriyi
     // boşaltma.
-    const previousItems = previous?.categories?.[categoryKey]?.items;
-    if (finalItems.length === 0 && previousItems?.length) {
+    const previousCategory = previous?.categories?.[categoryKey];
+    if (paragraphs.length === 0 && previousCategory?.paragraphs?.length) {
       console.warn(
-        `[uyarı] "${CATEGORY_LABELS[categoryKey]}" için yeni haber bulunamadı, önceki veri korunuyor.`
+        `[uyarı] "${CATEGORY_LABELS[categoryKey]}" için yeni haber bulunamadı, önceki brifing korunuyor.`
       );
-      finalItems = previousItems;
+      paragraphs = previousCategory.paragraphs;
+      sources = previousCategory.sources || [];
     }
 
     categories[categoryKey] = {
       label: CATEGORY_LABELS[categoryKey],
-      items: finalItems,
+      paragraphs,
+      sources,
     };
 
-    console.log(`${finalItems.length} haber özetlendi.`);
+    console.log(`${paragraphs.length} paragraflık brifing oluşturuldu.`);
   }
 
-  const totalItems = Object.values(categories).reduce(
-    (sum, cat) => sum + cat.items.length,
+  const totalParagraphs = Object.values(categories).reduce(
+    (sum, cat) => sum + cat.paragraphs.length,
     0
   );
 
-  if (totalItems === 0) {
+  if (totalParagraphs === 0) {
     console.error(
-      '\n[durduruldu] Hiçbir kategoride haber bulunamadı (muhtemelen ağ erişimi ' +
+      '\n[durduruldu] Hiçbir kategoride brifing oluşturulamadı (muhtemelen ağ erişimi ' +
         'engellendi ya da tüm kaynaklar geçici olarak erişilemez durumda). ' +
         'Mevcut data/news.json korunuyor, üzerine boş veri yazılmadı.'
     );
@@ -254,7 +267,7 @@ async function main() {
   };
 
   await fs.writeFile(OUTPUT_PATH, JSON.stringify(output, null, 2) + '\n', 'utf-8');
-  console.log(`\nnews.json güncellendi: ${OUTPUT_PATH} (toplam ${totalItems} haber)`);
+  console.log(`\nnews.json güncellendi: ${OUTPUT_PATH} (toplam ${totalParagraphs} paragraf)`);
 }
 
 main().catch((err) => {

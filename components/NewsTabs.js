@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import NewsGrid from './NewsGrid';
+import NewsBriefing from './NewsBriefing';
 
 const MAIN_TABS = [
   { key: 'dunya-lojistik', label: 'Dünya Lojistik' },
@@ -18,10 +18,8 @@ export default function NewsTabs({ categories }) {
   const [activeTab, setActiveTab] = useState(MAIN_TABS[0].key);
   const [financeSubTab, setFinanceSubTab] = useState(FINANS_SUB_TABS[0].key);
 
-  const activeItems =
-    activeTab === 'finans'
-      ? categories[financeSubTab]?.items
-      : categories[activeTab]?.items;
+  const activeCategory =
+    activeTab === 'finans' ? categories[financeSubTab] : categories[activeTab];
 
   return (
     <div>
@@ -59,7 +57,7 @@ export default function NewsTabs({ categories }) {
         </div>
       )}
 
-      <NewsGrid items={activeItems} />
+      <NewsBriefing category={activeCategory} />
     </div>
   );
 }
