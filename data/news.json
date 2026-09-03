@@ -1,89 +1,89 @@
 {
-  "generatedAt": "2026-09-03T02:44:43.043Z",
+  "generatedAt": "2026-09-03T08:30:30.321Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "items": [
         {
-          "id": "maersk-to-test-rotor-sail-technology-on-8-700-teu-containers-0",
-          "title": "Maersk to test rotor sail technology on 8,700 TEU containership",
-          "summary": "Maersk has selected Anemoi Marine Technologies to install a rotor sail on an 8,700 TEU containership. The project will mark the first installation of Anemoi’s Rotor Sail technology on a container vessel. The system is de…",
+          "id": "panama-takes-full-control-of-its-cross-country-oil-corridor-0",
+          "title": "Panama takes full control of its cross-country oil corridor",
+          "summary": "Panama has completed the acquisition of Petroterminal de Panamá, giving the state full ownership of a strategic oil transport system that functions as a specialised second Panama Canal for hydrocarbons. The government pa…",
+          "source": "Splash247",
+          "sourceUrl": "https://splash247.com",
+          "link": "https://splash247.com/panama-takes-full-control-of-its-cross-country-oil-corridor/",
+          "publishedAt": "2026-09-03T08:13:46.000Z"
+        },
+        {
+          "id": "hapag-lloyd-adds-us-import-demurrage-visibility-1",
+          "title": "Hapag-Lloyd adds US import demurrage visibility",
+          "summary": "Hapag-Lloyd has enhanced its Import Overview tool to provide US customers with greater visibility into port demurrage deadlines. Eligible customers can now view the Import Demurrage Last Free Day (LFD) for their containe…",
           "source": "Container News",
           "sourceUrl": "https://container-news.com",
-          "link": "https://container-news.com/maersk-to-test-rotor-sail-technology-on-8700-teu-containership/",
-          "publishedAt": "2026-09-03T02:30:18.000Z"
+          "link": "https://container-news.com/hapag-lloyd-adds-us-import-demurrage-visibility/",
+          "publishedAt": "2026-09-03T08:00:01.000Z"
         },
         {
-          "id": "hapag-lloyd-raises-north-europe-rates-to-north-america-and-m-1",
-          "title": "Hapag-Lloyd raises North Europe rates to North America and Mexico",
-          "summary": "Hapag-Lloyd will increase its ocean tariff rates from North Europe to North America and Mexico. The new rates will apply to 20-foot and 40-foot dry containers, including high-cube equipment. They will take effect for con…",
+          "id": "stx-architect-plots-shipbuilding-comeback-2",
+          "title": "STX architect plots shipbuilding comeback",
+          "summary": "One of the most spectacular boom-and-bust figures from shipping’s last great shipbuilding cycle is back. Kang Duk-soo, the architect of South Korea’s former STX empire, is returning to the industry through D-Ocean Asset …",
+          "source": "Splash247",
+          "sourceUrl": "https://splash247.com",
+          "link": "https://splash247.com/stx-architect-plots-shipbuilding-comeback/",
+          "publishedAt": "2026-09-03T07:52:24.000Z"
+        },
+        {
+          "id": "norway-seizes-russian-ship-3",
+          "title": "Norway seizes Russian ship",
+          "summary": "Norwegian authorities have seized the Russian state-owned Professor Molchanov in Svalbard as Ukraine steps up efforts to recover billions of dollars awarded over assets confiscated by Moscow following its annexation of C…",
+          "source": "Splash247",
+          "sourceUrl": "https://splash247.com",
+          "link": "https://splash247.com/norway-seizes-russian-ship/",
+          "publishedAt": "2026-09-03T07:31:04.000Z"
+        },
+        {
+          "id": "us-customs-push-threatens-fresh-supply-chain-headaches-for-i-4",
+          "title": "US customs push threatens fresh supply chain headaches for importers",
+          "summary": "US importers could face a new layer of paperwork, technology requirements and potential cargo delays under plans being considered by US Customs and Border Protection to gain far greater visibility into international supp…",
+          "source": "Splash247",
+          "sourceUrl": "https://splash247.com",
+          "link": "https://splash247.com/us-customs-push-threatens-fresh-supply-chain-headaches-for-importers/",
+          "publishedAt": "2026-09-03T07:23:40.000Z"
+        },
+        {
+          "id": "six-missing-after-tug-capsizes-off-busan-5",
+          "title": "Six missing after tug capsizes off Busan",
+          "summary": "One seafarer has died and six remain missing after the tug TNS Catcher capsized while assisting a containership off Busan yesterday. The 286-tonne tug overturned at around 1.29pm, about 9 km east of Oryukdo, while workin…",
+          "source": "Splash247",
+          "sourceUrl": "https://splash247.com",
+          "link": "https://splash247.com/six-missing-after-tug-capsizes-off-busan/",
+          "publishedAt": "2026-09-03T07:16:13.000Z"
+        },
+        {
+          "id": "maersk-raises-ecuador-reefer-cooling-service-fees-6",
+          "title": "Maersk raises Ecuador reefer cooling service fees",
+          "summary": "Maersk will increase its origin and destination cooling service fees for refrigerated containers moving to and from Ecuador. Both charges will rise from US$130 to US$140 per container. The revised fees will apply from 27…",
           "source": "Container News",
           "sourceUrl": "https://container-news.com",
-          "link": "https://container-news.com/hapag-lloyd-raises-north-europe-rates-to-north-america-and-mexico/",
-          "publishedAt": "2026-09-03T00:47:55.000Z"
+          "link": "https://container-news.com/maersk-raises-ecuador-reefer-cooling-service-fees/",
+          "publishedAt": "2026-09-03T07:00:41.000Z"
         },
         {
-          "id": "u-s-lawmakers-push-tax-break-for-merchant-mariners-working-o-2",
-          "title": "U.S. Lawmakers Push Tax Break for Merchant Mariners Working Overseas",
-          "summary": "A bipartisan group of House lawmakers has introduced legislation that would give U.S. merchant mariners working in international trade a tax break similar to the one available to other Americans...",
-          "source": "gCaptain",
-          "sourceUrl": "https://gcaptain.com",
-          "link": "https://gcaptain.com/u-s-lawmakers-push-tax-break-for-merchant-mariners-working-overseas/",
-          "publishedAt": "2026-09-02T23:56:24.000Z"
+          "id": "what-the-price-cap-did-to-old-tanker-values-7",
+          "title": "What the price cap did to old tanker values",
+          "summary": "Simon Lunde and Fredrick Henriksen of BI Norwegian Business School went looking for the G7 price cap in the secondhand market rather than in trade flows. What they found was not a crude-only break, but a broad re-rating …",
+          "source": "Splash247",
+          "sourceUrl": "https://splash247.com",
+          "link": "https://splash247.com/what-the-price-cap-did-to-old-tanker-values/",
+          "publishedAt": "2026-09-03T06:55:46.000Z"
         },
         {
-          "id": "august-lmi-capacity-at-40-yet-prices-soar-why-this-disconnec-3",
-          "title": "August LMI: Capacity at 40, Yet Prices Soar. Why This Disconnect?",
-          "summary": "The August Logistics Managers’ Index (LMI) reveals a striking paradox in the freight market: transportation capacity continues its deep contraction with a reading of 40, yet prices are surging. This disconnect creates a …",
-          "source": "FreightWaves",
-          "sourceUrl": "https://www.freightwaves.com",
-          "link": "https://www.freightwaves.com/news/august-lmi-capacity-at-40-yet-prices-soar-why-this-disconnect",
-          "publishedAt": "2026-09-02T23:35:32.000Z"
-        },
-        {
-          "id": "diesel-at-5-year-highs-why-this-surge-isn-t-a-blip-4",
-          "title": "Diesel at 5-Year Highs: Why This Surge Isn’t a Blip",
-          "summary": "Diesel prices are near record highs, and this spike may have more staying power than 2008 or 2022. John Kingston breaks down what’s driving the run-up: refinery outages, Russian supply hits, maintenance season and heatin…",
-          "source": "FreightWaves",
-          "sourceUrl": "https://www.freightwaves.com",
-          "link": "https://www.freightwaves.com/news/diesel-at-5-year-highs-why-this-surge-isnt-a-blip",
-          "publishedAt": "2026-09-02T23:32:39.000Z"
-        },
-        {
-          "id": "200-000-railcars-face-retirement-what-comes-next-5",
-          "title": "200,000 Railcars Face Retirement — What Comes Next?",
-          "summary": "200,000 railcars could retire over the next few years — and that’s the real railcar market story. TrinityRail CCO Charley Moore joins FreightWaves Today to break down what rising retirements, high lease fleet utilization…",
-          "source": "FreightWaves",
-          "sourceUrl": "https://www.freightwaves.com",
-          "link": "https://www.freightwaves.com/news/200000-railcars-face-retirement-what-comes-next",
-          "publishedAt": "2026-09-02T23:31:17.000Z"
-        },
-        {
-          "id": "agentic-ai-in-logistics-why-55-accuracy-fails-6",
-          "title": "Agentic AI in Logistics: Why 55% Accuracy Fails",
-          "summary": "Agentic AI in logistics still breaks when spatial reasoning enters the picture. HERE Technologies’ Bart Coppelmans explains why general AI models can understand language but still fail on truck routing, low-clearance bri…",
-          "source": "FreightWaves",
-          "sourceUrl": "https://www.freightwaves.com",
-          "link": "https://www.freightwaves.com/news/agentic-ai-in-logistics-why-55-accuracy-fails",
-          "publishedAt": "2026-09-02T23:29:29.000Z"
-        },
-        {
-          "id": "fedex-freight-fires-chief-commercial-officer-following-inter-7",
-          "title": "FedEx Freight fires chief commercial officer following internal probe",
-          "summary": "FedEx Freight announced that it has terminated Chief Specialized Services and Commercial Officer Mike Lyons, who was appointed to the role ahead of the company’s spinoff from FedEx Corp. The post FedEx Freight fires chie…",
-          "source": "FreightWaves",
-          "sourceUrl": "https://www.freightwaves.com",
-          "link": "https://www.freightwaves.com/news/fedex-freight-fires-chief-commercial-officer-following-internal-probe",
-          "publishedAt": "2026-09-02T23:08:40.000Z"
-        },
-        {
-          "id": "maersk-revises-pss-from-indian-subcontinent-and-middle-east--8",
-          "title": "Maersk revises PSS from Indian Subcontinent and Middle East to North America",
-          "summary": "Maersk will revise its Peak Season Surcharge (PSS) for shipments from the Indian Subcontinent and Middle East to the US and Canadian East and Gulf coasts. The revised surcharge will take effect on 1 October 2026 and appl…",
-          "source": "Container News",
-          "sourceUrl": "https://container-news.com",
-          "link": "https://container-news.com/maersk-revises-pss-from-indian-subcontinent-and-middle-east-to-north-america/",
-          "publishedAt": "2026-09-02T22:51:45.000Z"
+          "id": "pink-corridor-puts-nuclear-shipping-on-transatlantic-map-8",
+          "title": "Pink corridor puts nuclear shipping on transatlantic map",
+          "summary": "Shipping’s proliferation of so-called green corridors is getting a new hue, with plans unveiled for a pink corridor between the UK and US designed to explore what would be required to operate nuclear-powered containershi…",
+          "source": "Splash247",
+          "sourceUrl": "https://splash247.com",
+          "link": "https://splash247.com/pink-corridor-puts-nuclear-shipping-on-transatlantic-map/",
+          "publishedAt": "2026-09-03T06:33:01.000Z"
         }
       ]
     },
@@ -91,34 +91,25 @@
       "label": "Türkiye Lojistik",
       "items": [
         {
-          "id": "12-lojistik-kurulu-undan-g-birli-i-0",
-          "title": "12 lojistik kuruluşundan güç birliği",
-          "summary": "Türkiye lojistik sektörü­nün farklı alanlarını tem­sil eden 12 kuruluş, “Lojistik­te Birlik Platformu” çatısı al­tında buluştu. Kuruluşlar, İTO 24. Taşımacılık ve Lojistik Hiz­metleri Meslek Komitesi se­çimlerinde ortak …",
-          "source": "Dünya Gazetesi",
-          "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/sektorler/lojistik/12-lojistik-kurulusundan-guc-birligi-haberi-838517",
-          "publishedAt": "2026-09-02T21:00:00.000Z"
+          "id": "narenciye-ihracat-kilitlendi-liman-ithal-p-bast-0",
+          "title": "“Narenciye ihracatı kilitlendi, limanı ithal çöp bastı”",
+          "summary": "MTSO Başkanı Hakan Sefa Çakır, \"Bölgedeki bazı kalitesiz, merdiven altı tesisler bu atıkları geri dönüştürmeye çalışıyor ancak dönüştürülemeyen büyük bir kısım toprağa, derelere ve Seyhan Nehri üzerinden Alanya’ya kadar …",
+          "source": "LojiPort",
+          "sourceUrl": "https://www.lojiport.com",
+          "link": "https://www.lojiport.com/narenciye-ihracati-kilitlendi-limani-ithal-cop-basti-120082h.htm",
+          "publishedAt": "2026-09-03T07:20:23.000Z"
         },
         {
-          "id": "i-stanbul-havaliman-nda-4-pistte-sona-gelindi-1",
-          "title": "İstanbul Havalimanı'nda 4. pistte sona gelindi",
-          "summary": "İstanbul Havalimanı’nın 4’üncü ana pistinde çalışmaların son aşamasına gelindi. Ulaştırma ve Altyapı Bakanı Uraloğlu, 2 bin 820 metre uzunluğundaki pistin teknik testlerin ardından önümüzdeki günlerde operasyona başlamas…",
+          "id": "bitcoin-deki-ralli-yava-lad-piyasalar-n-g-z-yar-na-evrildi-1",
+          "title": "Bitcoin’deki ralli yavaşladı: Piyasaların gözü yarına çevrildi",
+          "summary": "Bitcoin, ağustostaki güçlü yükselişin ardından 77 bin dolar sınırına çekildi. ABD-İran geriliminin petrol fiyatlarını yukarı taşıması ve faiz beklentilerinin değişmesi kripto piyasasında baskıyı artırırken, gözler ABD’de…",
           "source": "Dünya Gazetesi",
           "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/gundem/istanbul-havalimaninda-4-pistte-sona-gelindi-haberi-838527",
-          "publishedAt": "2026-09-02T21:00:00.000Z"
+          "link": "https://www.dunya.com/foto-galeri/ekonomi/bitcoindeki-ralli-yavasladi-piyasalarin-gozu-yarina-cevrildi-galeri-838570",
+          "publishedAt": "2026-09-03T06:01:00.000Z"
         },
         {
-          "id": "norve-rus-gemisine-el-koydu-2",
-          "title": "Norveç, Rus gemisine el koydu",
-          "summary": "Norveçli yetkililer, ülkenin Svalbard Takımadaları’ndaki Rusya tarafından işletilen Barentsburg madencilik yerleşkesinde Rusya’ya ait ticari keşif ve yolcu gemisine el koydu. Ukrayna devlet enerji şirketi Naftogaz, müdah…",
-          "source": "Dünya Gazetesi",
-          "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/dunya/norvec-rus-gemisine-el-koydu-haberi-838554",
-          "publishedAt": "2026-09-02T20:09:00.000Z"
-        },
-        {
-          "id": "t-rkiye-nin-en-etkin-50-chro-su-belli-oldu-3",
+          "id": "t-rkiye-nin-en-etkin-50-chro-su-belli-oldu-2",
           "title": "Türkiye’nin en etkin 50 CHRO’su belli oldu",
           "summary": "Türkiye’nin insan kaynakları alanında en önemli karar alıcılarının belirlendiği ‘En Etkin 50 CHRO’ araştırması sonuçlandı.",
           "source": "Taşıma Dünyası Gazetesi",
@@ -127,7 +118,7 @@
           "publishedAt": "2026-09-02T11:39:00.000Z"
         },
         {
-          "id": "hidromas-rusya-pazar-nda-b-y-yor-4",
+          "id": "hidromas-rusya-pazar-nda-b-y-yor-3",
           "title": "Hidromas, Rusya pazarında büyüyor",
           "summary": "Globalde büyüme stratejilerini başarıyla yürüten Hidromas, Rusya’da açtığı yeni depo ve ofisle buradaki varlığını güçlendirdi. Moskova’da düzenlenen açılış törenine Hidromas Genel Müdürü Erhan Başoğlu, Yurt Dışı Satış ve…",
           "source": "Taşıma Dünyası Gazetesi",
@@ -136,7 +127,7 @@
           "publishedAt": "2026-09-02T11:10:00.000Z"
         },
         {
-          "id": "trabzon-rayl-sisteminin-temeli-at-ld-5",
+          "id": "trabzon-rayl-sisteminin-temeli-at-ld-4",
           "title": "Trabzon raylı sisteminin temeli atıldı",
           "summary": "Trabzon’un ilk raylı sistem projesinin yapımına resmen başlandı. Akçaabat ilçe sınırlarındaki Karayolları 10. Bölge Müdürlüğü’nden başlayarak Trabzon Havalimanı’na kadar uzanacak hattın ilk etapta 16,2 kilometrelik bölüm…",
           "source": "Taşıma Dünyası Gazetesi",
@@ -145,7 +136,7 @@
           "publishedAt": "2026-09-02T10:55:00.000Z"
         },
         {
-          "id": "lojistik-sekt-r-nde-12-kurumdan-tarihi-i-ttifak-6",
+          "id": "lojistik-sekt-r-nde-12-kurumdan-tarihi-i-ttifak-5",
           "title": "Lojistik Sektöründe 12 Kurumdan Tarihi İttifak",
           "summary": "Türkiye ekonomisinin ve küresel ticaretinin kritik unsurlarından biri olan lojistik sektörü, İstanbul Ticaret Odası (İTO) 24. Taşımacılık ve Lojistik Hizmetleri Meslek Komitesi seçimleri öncesinde dikkat çeken bir güç bi…",
           "source": "Taşıma Dünyası Gazetesi",
@@ -154,7 +145,7 @@
           "publishedAt": "2026-09-02T10:27:00.000Z"
         },
         {
-          "id": "petronas-automechanika-frankfurt-2026-da-yenilik-i-ya-lar-n--7",
+          "id": "petronas-automechanika-frankfurt-2026-da-yenilik-i-ya-lar-n--6",
           "title": "PETRONAS Automechanika Frankfurt 2026’da Yenilikçi Yağlarını Tanıtacak",
           "summary": "PETRONAS Madeni Yağlar, 8-12 Eylül 2026’da Automechanika Frankfurt’ta Fluid Technology Solutions™ ile içten yanmalı, hibrit ve elektrikli araçlara yönelik gelişmiş ürünlerini sergileyecek.",
           "source": "Taşımacılar.com",
@@ -163,13 +154,22 @@
           "publishedAt": "2026-09-02T10:15:37.000Z"
         },
         {
-          "id": "karbon-emisyonunu-l-emeyen-sekt-r-rekabet-dezavantaj-ya-ayac-8",
+          "id": "karbon-emisyonunu-l-emeyen-sekt-r-rekabet-dezavantaj-ya-ayac-7",
           "title": "\"Karbon Emisyonunu Ölçemeyen Sektör Rekabet Dezavantajı Yaşayacak!\"",
           "summary": "UTİKAD Başkanı Bilgehan Engin, 11. Ekonomi ve Lojistik Zirvesi’nde uyardı: \"AB’nin 2030 yeşil hedefleri doğrudan ihracatımızı etkiliyor. Karbon emisyonunu standart şekilde ölçüp yönetemezsek, Türk lojistik sektörü ağır m…",
           "source": "LojiPort",
           "sourceUrl": "https://www.lojiport.com",
           "link": "https://www.lojiport.com/karbon-emisyonunu-olcemeyen-sektor-rekabet-dezavantaji-yasayacak-120081h.htm",
           "publishedAt": "2026-09-02T10:06:16.000Z"
+        },
+        {
+          "id": "lojistikte-tek-kayna-a-ba-ml-l-k-d-nemi-kapanm-t-r-8",
+          "title": "“Lojistikte Tek Kaynağa Bağımlılık Dönemi Kapanmıştır”",
+          "summary": "Kıta Lojistik Yöneticisi Emre Eldener ve Oturum Başkanı Turgut Erkeskin, 11. Ekonomi ve Lojistik Zirvesi’nde konuştu: \"Tek bir ülkeye bağımlılık bitti. Farklı dijital sistemleri konuşturup alternatif rotaları hızlı devre…",
+          "source": "LojiPort",
+          "sourceUrl": "https://www.lojiport.com",
+          "link": "https://www.lojiport.com/lojistikte-tek-kaynaga-bagimlilik-donemi-kapanmistir-120080h.htm",
+          "publishedAt": "2026-09-02T10:04:37.000Z"
         }
       ]
     },
@@ -177,85 +177,85 @@
       "label": "Dünya Finans",
       "items": [
         {
-          "id": "ming-shing-completes-510m-acquisition-of-meals-through-seaso-0",
-          "title": "Ming Shing completes $510m acquisition of Meals Through Seasons",
+          "id": "soitec-shares-jump-as-much-as-15-1-after-boosting-q2-outlook-0",
+          "title": "Soitec shares jump as much as 15.1% after boosting Q2 outlook on Photonics demand",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/company-news/ming-shing-completes-510m-acquisition-of-meals-through-seasons-93CH-4886935",
-          "publishedAt": "2026-09-03T02:16:35.000Z"
+          "link": "https://www.investing.com/news/earnings/soitec-shares-jump-as-much-as-151-after-boosting-q2-outlook-on-photonics-demand-4887144",
+          "publishedAt": "2026-09-03T08:16:49.000Z"
         },
         {
-          "id": "vaxcyte-coo-jim-wassil-sells-over-212-000-in-company-stock-1",
-          "title": "Vaxcyte COO Jim Wassil sells over $212,000 in company stock",
+          "id": "maven-income-growth-vct-admits-543-680-shares-to-trading-1",
+          "title": "Maven Income & Growth VCT admits 543,680 shares to trading",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/insider-trading-news/vaxcyte-coo-jim-wassil-sells-over-212000-in-company-stock-93CH-4886934",
-          "publishedAt": "2026-09-03T02:16:01.000Z"
+          "link": "https://www.investing.com/news/company-news/maven-income--growth-vct-admits-543680-shares-to-trading-93CH-4887143",
+          "publishedAt": "2026-09-03T08:16:31.000Z"
         },
         {
-          "id": "shares-bonds-rally-as-markets-await-signals-for-fed-rates-2",
-          "title": "Shares, bonds rally as markets await signals for Fed rates",
+          "id": "mediaalpha-director-nonko-sells-389-059-in-shares-2",
+          "title": "MediaAlpha director Nonko sells $389,059 in shares",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/economy-news/shares-bonds-rally-as-markets-await-signals-for-fed-rates-4886931",
-          "publishedAt": "2026-09-03T02:13:09.000Z"
+          "link": "https://www.investing.com/news/insider-trading-news/mediaalpha-director-nonko-sells-389059-in-shares-93CH-4887142",
+          "publishedAt": "2026-09-03T08:16:19.000Z"
         },
         {
-          "id": "us-judge-bars-epa-effort-to-send-california-vehicle-emission-3",
-          "title": "US judge bars EPA effort to send California vehicle emissions rules to Congress",
+          "id": "mediaalpha-ceo-steven-yi-sells-594-364-in-company-stock-3",
+          "title": "MediaAlpha CEO Steven Yi sells $594,364 in company stock",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/stock-market-news/us-judge-bars-epa-effort-to-send-california-vehicle-emissions-rules-to-congress-4886912",
-          "publishedAt": "2026-09-03T02:12:51.000Z"
+          "link": "https://www.investing.com/news/insider-trading-news/mediaalpha-ceo-steven-yi-sells-594364-in-company-stock-93CH-4887139",
+          "publishedAt": "2026-09-03T08:16:18.000Z"
         },
         {
-          "id": "china-services-activity-beats-forecast-in-aug-as-new-orders--4",
-          "title": "China services activity beats forecast in Aug as new orders rise - RatingDog PMI",
+          "id": "innsuites-hospitality-trust-ceo-wirth-sells-215m-in-stock-4",
+          "title": "Innsuites Hospitality Trust CEO Wirth sells $215m in stock",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/economic-indicators/china-services-pmi-beats-forecast-in-aug-as-new-orders-rise--ratingdog-pmi-4886930",
-          "publishedAt": "2026-09-03T02:05:25.000Z"
+          "link": "https://www.investing.com/news/insider-trading-news/innsuites-hospitality-trust-ceo-wirth-sells-215m-in-stock-93CH-4887140",
+          "publishedAt": "2026-09-03T08:16:18.000Z"
         },
         {
-          "id": "hang-seng-stuck-in-24-950-25-600-range-live-levels-5",
-          "title": "Hang Seng stuck in 24,950-25,600 range: Live levels",
+          "id": "insteel-industries-svp-coo-wagner-sells-49-703-in-stock-5",
+          "title": "Insteel industries SVP & COO Wagner sells $49,703 in stock",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/stock-market-news/hang-seng-stuck-in-2520026200-squeeze-live-levels-93CH-4882112",
-          "publishedAt": "2026-09-03T02:02:22.000Z"
+          "link": "https://www.investing.com/news/insider-trading-news/insteel-industries-svp--coo-wagner-sells-49703-in-stock-93CH-4887141",
+          "publishedAt": "2026-09-03T08:16:18.000Z"
         },
         {
-          "id": "australia-trade-surplus-beats-forecasts-in-july-despite-weak-6",
-          "title": "Australia trade surplus beats forecasts in July despite weaker exports",
+          "id": "why-is-five-below-stock-surging-today-6",
+          "title": "Why is Five Below stock surging today?",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/economic-indicators/australia-trade-surplus-beats-forecasts-in-july-despite-weaker-exports-4886929",
-          "publishedAt": "2026-09-03T02:01:30.000Z"
+          "link": "https://www.investing.com/news/stock-market-news/why-is-five-below-stock-surging-today-93CH-4887138",
+          "publishedAt": "2026-09-03T08:15:54.000Z"
         },
         {
-          "id": "rxsight-chief-business-development-officer-eric-weinberg-sel-7",
-          "title": "RxSight chief business development officer Eric Weinberg sells $14,205 in stock",
+          "id": "why-is-snowflake-stock-surging-today-7",
+          "title": "Why is Snowflake stock surging today?",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/insider-trading-news/rxsight-chief-business-development-officer-eric-weinberg-sells-14205-in-stock-93CH-4886928",
-          "publishedAt": "2026-09-03T02:01:23.000Z"
+          "link": "https://www.investing.com/news/stock-market-news/why-is-snowflake-stock-surging-today-93CH-4887137",
+          "publishedAt": "2026-09-03T08:14:53.000Z"
         },
         {
-          "id": "virnetx-president-ceo-kendall-larsen-sells-163-484-in-compan-8",
-          "title": "VirnetX president & CEO Kendall Larsen sells $163,484 in company stock",
+          "id": "why-is-hewlett-packard-enterprise-stock-falling-today-8",
+          "title": "Why is Hewlett Packard Enterprise stock falling today?",
           "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Investing.com",
           "sourceUrl": "https://www.investing.com",
-          "link": "https://www.investing.com/news/insider-trading-news/virnetx-president--ceo-kendall-larsen-sells-163484-in-company-stock-93CH-4886927",
-          "publishedAt": "2026-09-03T02:01:15.000Z"
+          "link": "https://www.investing.com/news/stock-market-news/why-is-hewlett-packard-enterprise-stock-falling-today-93CH-4887136",
+          "publishedAt": "2026-09-03T08:14:29.000Z"
         }
       ]
     },
@@ -263,85 +263,85 @@
       "label": "Türkiye Finans",
       "items": [
         {
-          "id": "venezuela-abd-li-irketlerle-petrol-retimini-art-racak-yeni-a-0",
-          "title": "Venezuela, ABD'li şirketlerle petrol üretimini artıracak yeni anlaşmalar imzaladı",
-          "summary": "Venezuela hükümeti, petrol üretimini artırmak amacıyla ABD'li petrol şirketi Chevron ve İtalyan Eni ile mevcut ortaklıkların kapsamını genişleten yeni anlaşmalar imzaladı.",
+          "id": "ticaret-bakan-bolat-ocak-a-ustos-d-nemi-ihracat-m-z-cumhuriy-0",
+          "title": "Ticaret Bakanı Bolat: Ocak-ağustos dönemi ihracatımız Cumhuriyet tarihimizin en yükseği oldu",
+          "summary": "Ticaret Bakanı Ömer Bolat, \"Ocak-ağustos dönemi ihracatımız 185 milyar dolarla rekor kırdı, ağustosta yıllıklandırılmış ihracatımız 280,3 milyar dolarla Cumhuriyet tarihimizin en yükseği oldu\" dedi.",
           "source": "Anadolu Ajansı Ekonomi",
           "sourceUrl": "https://www.aa.com.tr",
-          "link": "https://www.aa.com.tr/tr/ekonomi/venezuela-abdli-sirketlerle-petrol-uretimini-artiracak-yeni-anlasmalar-imzaladi/4045865",
-          "publishedAt": "2026-09-03T00:14:44.000Z"
+          "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-ocak-agustos-donemi-ihracatimiz-cumhuriyet-tarihimizin-en-yuksegi-oldu/4046087",
+          "publishedAt": "2026-09-03T08:25:10.000Z"
         },
         {
-          "id": "alternatif-r-n-olarak-yeti-tirilen-ahududu-ve-b-rtlen-ift-iy-1",
-          "title": "Alternatif ürün olarak yetiştirilen ahududu ve böğürtlen çiftçiye yeni gelir kapısı oldu",
-          "summary": "Edirne’nin merkeze bağlı Kemalköy köyünde çiftçilik yapan Mehmet Ceylan, geleneksel tarıma alternatif olarak başladığı ahududu ve böğürtlen yetiştiriciliğinde üretim alanını genişletti.",
+          "id": "tmo-hububat-al-m-miktar-ve-r-n-demesinde-rekor-k-rd-1",
+          "title": "TMO, hububat alım miktarı ve ürün ödemesinde rekor kırdı",
+          "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, \"TMO, hasat sezonunun başından bugüne kadar 12,1 milyon ton ürün aldı, 170 milyar liralık ödeme yaptı. Bu hububat alım miktarı ve ürün ödemesinde yeni bir rekor.\" ifadelerini kullan…",
           "source": "Anadolu Ajansı Ekonomi",
           "sourceUrl": "https://www.aa.com.tr",
-          "link": "https://www.aa.com.tr/tr/ekonomi/alternatif-urun-olarak-yetistirilen-ahududu-ve-bogurtlen-ciftciye-yeni-gelir-kapisi-oldu/4045834",
-          "publishedAt": "2026-09-02T21:33:15.000Z"
+          "link": "https://www.aa.com.tr/tr/ekonomi/tmo-hububat-alim-miktari-ve-urun-odemesinde-rekor-kirdi/4046079",
+          "publishedAt": "2026-09-03T08:22:28.000Z"
         },
         {
-          "id": "g20-yelerinden-inovasyon-i-in-ortak-bildiri-2",
-          "title": "G20 üyelerinden inovasyon için ortak bildiri",
-          "summary": "G20 ülkelerinin inovasyondan sorumlu bakanları, gelişmekte olan teknolojilerin ekonomik refahı artırma ve fırsatları genişletme potansiyeline dikkati çeken ortak bir bildiri yayımladı.",
-          "source": "Dünya Gazetesi",
-          "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/gundem/g20-uyelerinden-inovasyon-icin-ortak-bildiri-haberi-838559",
-          "publishedAt": "2026-09-02T21:30:00.000Z"
+          "id": "tmo-dan-hububat-al-m-nda-rekor-12-1-milyon-ton-r-n-al-nd-170-2",
+          "title": "TMO’dan hububat alımında rekor: 12,1 milyon ton ürün alındı, 170 milyar lira ödendi",
+          "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, Toprak Mahsulleri Ofisi’nin (TMO) ülke genelinde sürdürdüğü hububat alımları kapsamında rekor kırdığını, bugüne kadar 12,1 milyon ton ürün alındığını, üreticilere...Devamı için tıkl…",
+          "source": "Sabah Ekonomi",
+          "sourceUrl": "https://www.sabah.com.tr",
+          "link": "https://www.sabah.com.tr/ekonomi/tmodan-hububat-aliminda-rekor-121-milyon-ton-urun-alindi-170-milyar-lira-odendi-7653575",
+          "publishedAt": "2026-09-03T08:20:07.000Z"
         },
         {
-          "id": "spk-dan-yat-r-m-ve-kripto-i-lemlerinde-yeni-d-zenleme-yabanc-3",
-          "title": "SPK'dan yatırım ve kripto işlemlerinde yeni düzenleme: Yabancılara pasaportla işlem imkanı",
-          "summary": "Sermaye Piyasası Kurulu (SPK), aracı kurumlar, portföy yönetim şirketleri ve kripto varlık hizmet sağlayıcılarının uzaktan kimlik tespiti uygulamalarında değişikliğe gitti. Düzenlemeyle Türk vatandaşı olmayan gerçek kişi…",
-          "source": "Dünya Gazetesi",
-          "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/ekonomi/spkdan-yatirim-ve-kripto-islemlerinde-yeni-duzenleme-yabancilara-pasaportla-islem-imkani-haberi-838558",
-          "publishedAt": "2026-09-02T21:22:00.000Z"
+          "id": "retici-enflasyonu-a-ustosta-y-ll-k-y-zde-27-95-oldu-3",
+          "title": "Üretici enflasyonu ağustosta yıllık yüzde 27,95 oldu",
+          "summary": "Yurt İçi Üretici Fiyat Endeksi (Yİ-ÜFE), 2026 yılı ağustos ayında aylık bazda yüzde 2,57, yıllık bazda yüzde 27,95 arttı. Yıllık artış imalat ürünlerinde yüzde 29,68 olarak gerçekleşti",
+          "source": "Habertürk Ekonomi",
+          "sourceUrl": "https://www.haberturk.com",
+          "link": "https://www.haberturk.com/uretici-enflasyonu-agustosta-yillik-yuzde-27-95-oldu-3909956-ekonomi",
+          "publishedAt": "2026-09-03T08:14:34.000Z"
         },
         {
-          "id": "g20-yelerinden-inovasyon-i-in-ortak-bildiri-4",
-          "title": "G20 üyelerinden inovasyon için ortak bildiri",
-          "summary": "G20 ülkelerinin inovasyondan sorumlu bakanları, gelişmekte olan teknolojilerin ekonomik refahı artırma ve fırsatları genişletme potansiyeline dikkati çeken ortak bir bildiri yayımladı.",
+          "id": "bakan-im-ek-y-ll-k-kira-enflasyonu-son-46-ay-n-en-d-k-seviye-4",
+          "title": "Bakan Şimşek: Yıllık kira enflasyonu son 46 ayın en düşük seviyesine indi",
+          "summary": "Özet mevcut değil, haberin tamamı için kaynağa gidin.",
           "source": "Anadolu Ajansı Ekonomi",
           "sourceUrl": "https://www.aa.com.tr",
-          "link": "https://www.aa.com.tr/tr/ekonomi/g20-uyelerinden-inovasyon-icin-ortak-bildiri/4045832",
-          "publishedAt": "2026-09-02T21:21:55.000Z"
+          "link": "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-yillik-kira-enflasyonu-son-46-ayin-en-dusuk-seviyesine-indi/4046056",
+          "publishedAt": "2026-09-03T08:13:56.000Z"
         },
         {
-          "id": "i-ki-tiktok-fenomeni-cansum-kaya-ve-sinan-kaya-g-zalt-na-al--5",
-          "title": "İki TikTok fenomeni Cansum Kaya ve Sinan Kaya gözaltına alındı",
-          "summary": "Sosyal medya fenomenleri Cansum Kaya ve Sinan Kaya, \"halkı kin ve düşmanlığa tahrik veya aşağılama\" suçundan gözaltına alındı.",
+          "id": "ahmet-davuto-lu-hakk-nda-soru-turma-5",
+          "title": "Ahmet Davutoğlu hakkında soruşturma",
+          "summary": "Son dakika: Ankara Cumhuriyet Başsavcılığınca, feshedilen Gelecek Partisi’nin eski genel başkanı Ahmet Davutoğlu hakkında, ‘Cumhurbaşkanına hakaret’ suçundan soruşturma başlatıldı. Davutoğlu'nun söz konusu ifadeleri köy …",
           "source": "Dünya Gazetesi",
           "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/gundem/iki-tiktok-fenomeni-cansum-kaya-ve-sinan-kaya-gozaltina-alindi-haberi-838557",
-          "publishedAt": "2026-09-02T21:09:00.000Z"
+          "link": "https://www.dunya.com/gundem/ahmet-davutoglu-hakkinda-sorusturma-haberi-838586",
+          "publishedAt": "2026-09-03T08:13:00.000Z"
         },
         {
-          "id": "12-lojistik-kurulu-undan-g-birli-i-6",
-          "title": "12 lojistik kuruluşundan güç birliği",
-          "summary": "Türkiye lojistik sektörü­nün farklı alanlarını tem­sil eden 12 kuruluş, “Lojistik­te Birlik Platformu” çatısı al­tında buluştu. Kuruluşlar, İTO 24. Taşımacılık ve Lojistik Hiz­metleri Meslek Komitesi se­çimlerinde ortak …",
-          "source": "Dünya Gazetesi",
-          "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/sektorler/lojistik/12-lojistik-kurulusundan-guc-birligi-haberi-838517",
-          "publishedAt": "2026-09-02T21:00:00.000Z"
+          "id": "bakan-im-ek-ten-enflasyon-de-erlendirmesi-e-itim-fiyat-art-l-6",
+          "title": "Bakan Şimşek'ten enflasyon değerlendirmesi: Eğitim fiyat artışlarına ve akaryakıt fiyatlarına rağmen düşüş devam etti",
+          "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, ağustos ayı enflasyon verilerine işaret ederek \"Dönemsel eğitim fiyat artışlarına ve savaşın etkilediği akaryakıt fiyatlarına rağmen enflasyonda düşüş devam etti\"...Devamı için tıkl…",
+          "source": "Sabah Ekonomi",
+          "sourceUrl": "https://www.sabah.com.tr",
+          "link": "https://www.sabah.com.tr/ekonomi/bakan-simsekten-enflasyon-degerlendirmesi-egitim-fiyat-artislarina-ve-akaryakit-fiyatlarina-ragmen-dusus-devam-etti-7653566",
+          "publishedAt": "2026-09-03T08:11:19.000Z"
         },
         {
-          "id": "pazar-y-ll-k-y-zde-12-darald-rekor-bitti-normale-d-n-ba-lad-7",
-          "title": "Pazar yıllık yüzde 12 daraldı: Rekor bitti ‘normale dönüş’ başladı",
-          "summary": "Türkiye’de otomobil ve hafif ticari araç satışları, ocak-ağustos döneminde yıllık bazda yüzde 11,91 azalarak 719 bin 996 oldu. Pazardaki bu daralmaya rağmen, satışların 10 ve 5 yıllık tarihi ortalamaların üzerinde seyret…",
+          "id": "im-ek-ten-enflasyon-sonras-ilk-a-klama-2020-den-bu-yana-en-d-7",
+          "title": "Şimşek'ten enflasyon sonrası ilk açıklama: 2020'den bu yana en düşük seviyede",
+          "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, ağustos ayı enflasyon verilerinin ardından yaptığı değerlendirmede, dönemsel eğitim fiyat artışları ve savaşın akaryakıt fiyatları üzerindeki etkisine rağmen enflasyondaki düşüşün s…",
           "source": "Dünya Gazetesi",
           "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/sektorler/otomotiv/pazar-yillik-yuzde-12-daraldi-rekor-bitti-normale-donus-basladi-haberi-838520",
-          "publishedAt": "2026-09-02T21:00:00.000Z"
+          "link": "https://www.dunya.com/ekonomi/simsekten-enflasyon-sonrasi-ilk-aciklama-2020den-bu-yana-en-dusuk-seviyede-haberi-838587",
+          "publishedAt": "2026-09-03T08:10:00.000Z"
         },
         {
-          "id": "i-stanbul-da-kirac-lardan-talep-edilen-artlar-a-rla-yor-8",
-          "title": "İstanbul’da kiracılardan talep edilen şartlar ağırlaşıyor",
-          "summary": "İstanbul’da kiracılardan talep edilen şartlar ağırlaşıyor. Bazı mal sahipleri kişinin ne kadar maaş aldığı, mesleği, çalıştığı yerin adı, işe başlama tarihi, otomobilinin markası, eski ev sahibinin referansının da istend…",
+          "id": "2026-kpss-lisans-s-nav-alan-bilgisi-s-nav-giri-belgesi-yay-m-8",
+          "title": "2026-KPSS Lisans Sınavı Alan Bilgisi sınav giriş belgesi yayımlandı",
+          "summary": "2026-KPSS Lisans Sınavı Alan Bilgisi oturumu 12 Eylül'de gerçekleşecek. Adayların gündeminde sınav giriş belgesi vardı. ÖSYM bugün beklenen duyuruyu geçti ve sınav yerleri belli oldu.",
           "source": "Dünya Gazetesi",
           "sourceUrl": "https://www.dunya.com",
-          "link": "https://www.dunya.com/sektorler/emlak/istanbulda-kiracilardan-talep-edilen-sartlar-agirlasiyor-haberi-838525",
-          "publishedAt": "2026-09-02T21:00:00.000Z"
+          "link": "https://www.dunya.com/gundem/2026-kpss-lisans-sinavi-alan-bilgisi-sinav-giris-belgesi-yayimlandi-haberi-838584",
+          "publishedAt": "2026-09-03T08:05:00.000Z"
         }
       ]
     }
