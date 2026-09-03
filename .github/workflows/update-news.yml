@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  actions: write # siteyi yayınlama workflow'unu tetikleyebilmek için
 
 concurrency:
   group: update-news
@@ -34,7 +35,9 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: npm run fetch-news
 
-      - name: Değişiklik varsa commit'le ve gönder
+      - name: Değişiklik varsa commit'le, gönder ve siteyi yeniden yayınla
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "movus-haber-bot"
           git config user.email "actions@users.noreply.github.com"
@@ -44,4 +47,10 @@ jobs:
             git add data/news.json
             git commit -m "chore: haberleri otomatik güncelle"
             git push
+            # ÖNEMLİ: GITHUB_TOKEN ile yapılan bir push, GitHub'ın sonsuz
+            # döngüyü önleme kuralı gereği başka workflow'ları OTOMATİK
+            # tetiklemez. Bu yüzden "Siteyi Yayınla" workflow'unu burada
+            # elle (API üzerinden) tetikliyoruz — aksi halde haberler
+            # güncellenir ama site eski haliyle kalırdı.
+            gh workflow run deploy-pages.yml --ref main
           fi
