@@ -1,23 +1,27 @@
 {
-  "generatedAt": "2026-09-04T11:40:04.225Z",
+  "generatedAt": "2026-09-04T15:41:36.323Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
-        "[The Loadstar] Congestion and ship delays take 2.3m teu capacity off the market — Container shipping’s deteriorating schedule reliability has effectively taken 2.3m teu of vessel capacity out of the market. The post Congestion and ship delays take 2.3m teu capacity off the market a",
-        "[Container News] Explainer:When does a political port bacomes bankable? — Four projects are less a set of port deals than a test case for a harder question: when does a corridor built for political reasons start behaving like a bankable commercial network? Post-2025 sanctio",
-        "[FreightWaves] Trailer builder Fruehauf wants parts makers as co-defendants in suit — A dispute over allegations of defective work that resulted in trailers catching fire now is threatening to drag in the manufacturers of some of those components that may be at the root of the incident",
-        "[The Loadstar] CargoWise is becoming the AI that runs freight – so what happens to the TMS? — In the second of a two-part interview with WiseTech CEO Zubin Appoo, The Loadstar examines WiseTech’s plans to turn CargoWise into an AI ‘system of execution’ – and what that could mean for the future",
-        "[The Loadstar] Car-carrier owners pivot towards China as vehicle export boom continues — Amid China’s vehicle export boom, car-carrier owners in the west are prioritising their vessels to transport Chinese new-energy vehicles, and commissioning more newbuildings to target this market. The",
-        "[The Loadstar] As we chase M&A rumours – AD Ports’ brief listing nears its end — Key takeaway: Abu Dhabi’s sovereign owner is offering AED6.25 a share for the nearly 24.6% of AD Ports Group it does not already own. The offer has board support and may attract significant tenders, b",
-        "[FreightWaves] Hung jury for pair accused of murder in NOLA accident scam — Two men facing murder charges in the Louisiana staged accident conspiracy case were neither convicted nor acquitted. The post Hung jury for pair accused of murder in NOLA accident scam appeared first ",
-        "[gCaptain] China-Russia Arctic Shipping Push Accelerates With New Ice-Class Container Ships — China’s NewNew Shipping Line and Russia’s state nuclear corporation Rosatom are advancing plans to build five large ice-class container ships aimed at making commercial shipping on the Northern Sea Ro",
-        "[Container News] Global container fleet capacity set to reach 34 million TEU — Global container fleet capacity is set to reach a new record of 34 million TEU, driven by high levels of new ship deliveries and limited recycling activity, according to BIMCO. At the beginning of Sep"
+        "Greek yogurt üreticisi Chobani, Keurig Dr Pepper’dan satın alacağı Pennsylvania tesisini 1,2 milyar dolar karşılığında alarak yeni bir büyüme merkezi haline getirmeyi planlıyor. Tesis, şirketin üretim kapasitesini genişletmek ve dağıtım ağına güç katmak amacıyla dönüştürülecek.",
+        "Urban Outfitters’in kiralık abone hizmeti Nuuly, Kansas City alanındaki tesisinde otomatik sipariş sıralama ve seçme sistemine geçmeyi hedefliyor. Böylece lojistik süreçleri otomasyonla optimize ederek teslimat sürelerini kısaltmayı amaçlıyor.",
+        "Reshoring Initiative raporuna göre, üreticilerin %36’sı aktif olarak yeniden yerelleştiriyor, %31’i ise bu konuda planı bulunmamakta. Bu veriler, ABD içindeki üretim dağılımında belirsizlik ve ticaret politikalarının etkisini yansıtıyor.",
+        "Asya ihracatlarının artmasıyla havayolu kargo talebi yaz döneminin yavaşlamasına rağmen yükselişe devam ediyor. Yarıyılın dayanıklılığı yıl sonu zirve sezonuna kadar sürüp sürmeyeceği belirsizliğini korurken, tarifeler hafiflemeye başladı.",
+        "ABD'de drayaj fiyatları, kapasite sıkışıklığı ve fiyat baskısı arasında artan bir endişe yarattı. Birleşen faktörlerin etkisiyle drayaj piyasasında sıkıntı belirtileri gözlemleniyor.",
+        "CMA CGM, Manaus’a gönderilen kargolar için düşük su seviyesi primi (Low Water Surcharge)’ı 2 315 ABD doları/TEU olarak yükseltti. Bu ücret, 2 Ekim 2026’dan itibaren tüm ekipman tiplerine uygulanacak.",
+        "İtalyan gemi yapımcısı Fincantieri ve Türkiye merkezli TKMS, sualtı ve denizaltı sektöründe işbirliğini derinleştirmek üzere bir anlaştı. 2026 sonuna kadar resmi bir İşbirliği Çerçevesi oluşturmayı planlıyorlar ve bu süreç düzenleyici onaylara tabidir.",
+        "AAA tarafından yayınlanan ölçümler, perakende dizel fiyatlarının 5,85 ABD doları/gallon ile rekor seviyeye ulaştığını gösteriyor. Bu fiyat, 2024’ün başından itibaren İran’a yönelik askeri eylemlere başladıktan sonra en yüksek seviyeye yükseldi.",
+        "Premier Trailer Leasing’in Satış İkincil Başkan Yardımcısı Ed Behnen, kentsel taşıma şirketlerinin trailer esnekliğinin hızla azaldığını belirtiyor. Sektördeki talep dalgalanmalarına karşı daha az seçenek kalıyor ve bu durum lojistik planlamasını zorlaştırıyor."
       ],
       "sources": [
         {
-          "name": "The Loadstar",
-          "url": "https://theloadstar.com"
+          "name": "Supply Chain Dive",
+          "url": "https://www.supplychaindive.com"
+        },
+        {
+          "name": "Journal of Commerce",
+          "url": "https://joc.com"
         },
         {
           "name": "Container News",
@@ -28,20 +32,26 @@
           "url": "https://www.freightwaves.com"
         },
         {
-          "name": "gCaptain",
-          "url": "https://gcaptain.com"
+          "name": "The Loadstar",
+          "url": "https://theloadstar.com"
         }
       ]
     },
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "Silivri açıklarında, Alsu tankeriyle çarpıştıktan sonra batmış olan Tuğberk İmamoğlu adlı kuru yük gemisinin yeri, Milli Savunma Bakanlığı (MSB) ve Deniz Kuvvetlerine ait TCG Akın kurtarma gemisinin yürüttüğü çalışmalar sonucunda tespit edildi.",
-        "İstanbul, Türkiye’de kruvaziyer turizminin ana merkezi olarak karşımıza çıkarken, 2026‑2027 kış sezonu için MSC Cruises ve AROYA Cruises ile 51 seferin Galataport İstanbul’dan gerçekleşmesi ve 150 bin yolcunun ulaşması planlanıyor. Bu gelişme, liman operasyonlarının yoğunluğunu ve lojistik altyapısının kapasite gereksinimlerini artırıyor.",
-        "Ticaret Bakanı Ömer Bolat, 2026 sonuna kadar e-ihracatın 6 milyar dolara ulaşacağını açıkladı. E‑ticaretin toplam ticaretteki payının 4,5 porsandan 20 porsaya yükseldiği ve 2019‑2025 dönemindeki yıllık büyüme oranının %80 olduğu vurgulandı.",
-        "Türkiye’de otomotiv satış kampanyaları kapsamında Suzuki, Škoda, MG, Citroën ve MAXUS markaları, eylül ayına özel fiyat, finansman ve takas avantajları sundu. Bu kampanyalar, yerli otomotiv tedarik zinciri ve dağıtım lojistiği açısından dönemsel bir talep artışına işaret ediyor."
+        "Eyüp Lojistik Yönetim Kurulu Başkanı Eyüp Bartık, şirketin Kuveyt hattındaki taşıma hacminin son 8 ayda yüzde 100 arttığını belirtti. Artan talep doğrultusunda şirket, Kuveyt taşımalarını iki kat büyütmüş ve bu gelişme Türk ihracatçıları için önemli yatırım fırsatları barındırıyor.",
+        "Türkiye'nin süs bitkileri ve mamuller ihracatının ilk sekiz ayında Antalya'nın payı yüzde 41,6'ya yükseldi. Aynı dönemde Antalya'nın toplam ihracatı geçen yılın aynı dönemine göre yüzde 12,3 artarak rekabet avantajı sağladı.",
+        "Volvo Trucks, uluslararası frigorifik taşımacılığa hizmet veren ADES Uluslararası Nakliyat’a 30 adet FH 500 HP 4x2 çekici teslim etti. Bu teslimatla ADES'in Volvo Trucks filosu 41'a ulaştı ve şirketin lojistik kapasitesi güçlendi.",
+        "Avusturya’da düzenlenen Avrupa Forumu Alpbach 2026’da Otonom Otokar e Centro, belirlenen güzergâhta yolcuları taşıyor. Pilot uygulama kapsamında yolculuk ücretsiz olarak sunuluyor ve Avrupa’da otonom otobüs hizmeti deneyimleniyor.",
+        "ULTRAND, Türkiye pick-up ve hafif ticari araç pazarına T08 pick-up (4x2/4x4) ve X5 kamyonet modelleriyle giriş yaptı. Şirket, ülkenin hafif ticaret taşımacılığında yeni bir soluk getirmeyi hedefliyor.",
+        "İstanbul, 2026-2027 kış sezonunda MSC Cruises ve AROYA Cruises’ın ortaklaşa düzenleyeceği 51 seferle 150 bin yolcu hedefleyerek kruvaziyer turizminin ana limanı konumunu güçlendiriyor. Şehir, seferlerin başlayıp sona erdiği ana liman olarak konumunu pekiştiriyor."
       ],
       "sources": [
+        {
+          "name": "LojiPort",
+          "url": "https://www.lojiport.com"
+        },
         {
           "name": "Dünya Gazetesi",
           "url": "https://www.dunya.com"
@@ -55,20 +65,18 @@
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "[MarketWatch] Six reasons that the risk of a stock-market selloff is rising. Here’s what investors should be doing. — Many markets are priced for perfection warns Longview Economics.",
-        "[MarketWatch] Governments keep trying to calm global markets. Why that should worry investors. — Government interventions, such as currency buying and bond buybacks, are supposed to reassure markets. But lately, they are doing the opposite.",
-        "[MarketWatch] Potential midterm-election chaos can roil markets. Here’s one trader’s play. — Buying portfolio insurance to protect against falls in the market — if the outcome of the midterm elections is disputed — is so obvious to Kevin Muir, he regards it as a “chip shot.”",
-        "[Investing.com] Why is Experian stock sliding today?",
-        "[Investing.com] Canaccord initiates Belite Bio stock with buy on Stargardt therapy",
-        "[Investing.com] Why is Fair Isaac stock sliding today?",
-        "[Investing.com] Canadian stock futures flatline as TSX caps muted week following BoC hold",
-        "[Investing.com] Why is Equifax stock sliding today?",
-        "[Investing.com] European shares pause after bruising week as Fed’s Waller tempers rate hike fears"
+        "Larry Fink, BlackRock CEO, önceki ‘para aklama endeksi’ ifadesinin ardından Bitcoin’i ‘dijital altın’ olarak nitelendirdi, bu da kurumsal bakış açısındaki önemli değişikliği işaret ediyor.",
+        "Tesla’nın Cybercab robotaxi hizmeti, Musk’un düzenleyici sınırları zorlamaya devam ettiği bir girişim olarak dikkat çekiyor; pilot uygulama için gerekli izinleri almaya çalışıyor.",
+        "Aurora Innovation, McLane ile ortaklık kurarak sürücüsüz ticari taşıma hizmetleri başlattı ve ABD genelinde otonom lojistik akışını hızlandırmayı hedefliyor.",
+        "Ballard Power, GeoPura’yı yaklaşık 400 milyon dolarlık bir kurumsal değerle satın alırken 14% pro forma payın, GeoPura’nın yinelenen gelir modeliyle desteklenip desteklenmediği sorusunu gündeme getiriyor.",
+        "Palo Alto Networks hisseleri yıl içinde %80 artarken, artan gelir büyümesiyle birlikte son düşüş döneminin bir alım fırsatı olup olmadığı tartışılıyor.",
+        "Energy Fuels, yaklaşık 243 milyon dolarlık bir yatırımla nadir toprak alaşımı üretimini ekleyerek maden‑magnet stratejisi geliştirmeye çalışıyor, bu da kritik mineraller tedarik zincirindeki rolünü genişletebilir.",
+        "PG&E’nin bir alt yüklenicisi, Kaliforniya yangın faturalarının finansman riskini çözemediğini ve eksik koruma kaldığını belirtiyor; aynı zamanda Medigap sigortacıları, sağlık sorularını doğrulamak için eczane kayıtlarına ve reçete cevaplarına bakıyor, tüketici gizliliği konusunda endişeleri gündeme getiriyor."
       ],
       "sources": [
         {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com"
         },
         {
           "name": "Investing.com",
@@ -79,18 +87,24 @@
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "2026 Eylül 10 tarihli Türkiye Cumhuriyet Merkez Bankası'nın faiz kararı öncesinde, 27 ekonomistin beklentileri güncellendi. Matriks Haber anketinde 21 ekonomist politika faizinin yüzde 37’de sabit tutulmasını öngörürken, 6 ekonomist faiz indirimi bekliyor. 2026 yıl sonu için medyan tahmin ise yüzde 35.",
-        "Banka Düzenleme ve Denetleme Kurumu (BDDK) tarafından 1 Ekim 2026’da yürürlüğe girecek yeni tasarruf finansman sistemine ilişkin kurallar belirlendi. Yeni düzenleme, ev ve otomobil finansmanı sözleşmelerinden finansman limitlerine kadar birçok başlığı kapsıyor.",
-        "Türkiye’nin Otomobili Girişim Grubu (TOGG) Yönetim Kurulu Başkanı Fuat Tosyalı, İskenderun Teknik Üniversitesi (İSTE) tarafından fahri doktora unvanı alarak takdir ediliyor."
+        "[Dünya Gazetesi] Borsa günü yükselişle tamamladı — Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,57 değer kazanarak 14.012,42 puandan tamamladı.",
+        "[Anadolu Ajansı Ekonomi] Borsa günü yükselişle tamamladı — Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,57 değer kazanarak 14.012,42 puandan tamamladı.",
+        "[Dünya Gazetesi] Bakan Ersoy’dan Sivas Kongresi’nin 107. yıl dönümünde anlamlı mesaj — Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Sivas Kongresi'nin 107. yıl dönümü dolayısıyla mesaj yayımladı.",
+        "[Dünya Gazetesi] Çiftçilere 450 milyon liralık tarımsal destek ödemesi — Tarım ve Orman Bakanı İbrahim Yumaklı, hayvan hastalıkları tazminatı ve kırsal kalkınma yatırımları kapsamında 450 milyon 11 bin 586 liralık tarımsal destek ödemesinin üreticilerin hesaplarına aktarıl",
+        "[Anadolu Ajansı Ekonomi] Çiftçilere tarımsal destekleme ödemeleri yapılıyor — Tarım ve Orman Bakanı İbrahim Yumaklı, tarımsal destek ödemesi olarak toplam 450 milyon 11 bin 586 liranın çiftçilerin hesaplarına aktarılacağını bildirdi.",
+        "[Dünya Gazetesi] Kontrolmatik’te ödeme krizi derinleşti, 100 milyon liralık bono da ödenemedi — Kontrolmatik’in 4 Eylül vadeli 100 milyon TL nominal değerli finansman bonosunda itfa ve kupon ödemesi yapılamadı. Aynı gün bir başka tahvilin kuponu da ödenmezken, şirketin Mayıs ayında başlayan ödem",
+        "[Dünya Gazetesi] New York borsası karışık seyirle açıldı — New York borsası, ABD'de güçlü gelen istihdam verilerinin faiz artışı beklentilerini yeniden canlandırmasıyla haftanın son işlem gününe karışık seyirle başladı.",
+        "[Dünya Gazetesi] Süs bitkileri ihracatında Antalya'nın payı yüzde 41,6'ya ulaştı — Türkiye'nin süs bitkileri ve mamulleri ihracatının yılın ilk 8 ayında yüzde 41,6'sı Antalya'dan gerçekleştirildi. Kentin toplam ihracatı ise aynı dönemde geçen yılın aynı dönemine göre yüzde 12,3 artt",
+        "[Dünya Gazetesi] 2027 BAYRAM TARİHLERİ: 2026 Kurban Bayramı, Ramazan Bayramı ne zaman? — 2027 Kurban Bayramı ve Ramazan Bayramı tarihleri merak ediliyor. İslam alemi yeni yıl yaklaştıkça sorgulamalar artıyor. Zaman zaman gelen soru \"2027 Kurban Bayramı, Ramazan Bayramı ne zaman\" oluyor."
       ],
       "sources": [
         {
-          "name": "Anadolu Ajansı Ekonomi",
-          "url": "https://www.aa.com.tr"
-        },
-        {
           "name": "Dünya Gazetesi",
           "url": "https://www.dunya.com"
+        },
+        {
+          "name": "Anadolu Ajansı Ekonomi",
+          "url": "https://www.aa.com.tr"
         }
       ]
     }
