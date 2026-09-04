@@ -1,24 +1,20 @@
 {
-  "generatedAt": "2026-09-04T18:47:27.105Z",
+  "generatedAt": "2026-09-04T22:04:08.625Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
+        "[Container News] NORDEN delivers first maritime emissions reductions through RSB Book & Claim — NORDEN has delivered the first verified maritime emissions reductions through the RSB Book & Claim registry in a pilot with Microsoft and the Roundtable on Sustainable Biomaterials (RSB). According to",
+        "[Container News] Tug service strike at Rotterdam, Amsterdam and Zeeland ports — FNV Havens has called on union members in the seaports of Rotterdam, Amsterdam and Zeeland to participate in a coordinated strike on Friday, September 4, 2026. The strike is scheduled to run from 11:1",
+        "[gCaptain] Coast Guard Key Bridge Inquiry Finds U.S. Ports Facing Growing Risks from Larger Ships — The U.S. Coast Guard has released a sweeping review of risks facing critical U.S. port infrastructure following the 2024 collapse of Baltimore’s Francis Scott Key Bridge, finding that existing waterwa",
+        "[Container News] GXO appoints new Chief Information Officer — GXO Logistics has announced an expansion of its technology organisation, appointing Balaji Rangaswamy to the newly created role of Chief Information Officer effective immediately. Rangaswamy will repo",
+        "[Container News] APSEZ launches empty container yard at Mundra Port — Adani Ports and Special Economic Zone has announced the launch of a dedicated Empty Container Yard with integrated warehousing at Mundra Port, addressing the significant volume of empty container move",
         "[FreightWaves] Big jump in truck transportation jobs in latest BLS report — Truck transportation jobs showed a strong upward move in the latest monthly report. The post Big jump in truck transportation jobs in latest BLS report appeared first on FreightWaves.",
         "[Container News] Hapag-Lloyd revises West Africa Express service — Hapag-Lloyd will revise its West Africa Express (WAX) service from September 2026, introducing a direct connection between Damietta and key West African ports. The updated service will connect the Med",
         "[Container News] MSC introduces piracy and Suez surcharges on Asia-Mediterranean cargo — MSC will introduce new Piracy Risk and Suez Canal surcharges on cargo moving from Asia to the East Mediterranean and Black Sea. The charges will apply from 15 September 2026, based on the proforma dat",
-        "[gCaptain] COSCO Denies Its Ships Collected Intelligence for Beijing — China's state-owned shipping giant COSCO rejected allegations it used concealed equipment on its vessels to collect intelligence for Beijing, calling the claims \"totally unfounded\" and false.",
-        "[gCaptain] ‘We Are Stalled’: US-Iran War Stuck With No End in Sight — The US and Iran have intensified tit-for-tat military strikes in recent days, remaining locked between ceasefire and all-out war as the White House struggles to end the six-month conflict.",
-        "[gCaptain] Diana Shipping Cuts Genco Stake Below 10% Weeks After Abandoning Takeover Bid — Diana Shipping has begun selling down its stake in Genco Shipping & Trading, dropping below the 10% ownership threshold just weeks after abandoning its contentious effort to acquire the U.S.-listed...",
-        "[Journal of Commerce] Samsung targets CMA CGM in latest FMC complaint — The electronics maker, seeking $186 million in restitution, alleges the ocean carrier did not perform its promised merchant haulage moves across US ports during the pandemic, saddling Samsung with exc",
-        "[The Loadstar] Samsung looks to FMC for record-breaking $186m from CMA CGM — South Korean consumer electronics giant Samsung has lodged the largest claim to be put before US maritime regulators at the FMC and is seeking $186m in damages from French carrier CMA CGM over erroneo",
-        "[Journal of Commerce] Shippers to face longer wait for containers on 25 CSX intermodal lanes — The revised schedules are intended to improve network fluidity around Atlanta and northwest Ohio, according to a notice the railroad sent to customers this week."
+        "[gCaptain] COSCO Denies Its Ships Collected Intelligence for Beijing — China's state-owned shipping giant COSCO rejected allegations it used concealed equipment on its vessels to collect intelligence for Beijing, calling the claims \"totally unfounded\" and false."
       ],
       "sources": [
-        {
-          "name": "FreightWaves",
-          "url": "https://www.freightwaves.com"
-        },
         {
           "name": "Container News",
           "url": "https://container-news.com"
@@ -28,23 +24,20 @@
           "url": "https://gcaptain.com"
         },
         {
-          "name": "Journal of Commerce",
-          "url": "https://joc.com"
-        },
-        {
-          "name": "The Loadstar",
-          "url": "https://theloadstar.com"
+          "name": "FreightWaves",
+          "url": "https://www.freightwaves.com"
         }
       ]
     },
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "Mercan Oto Dizayn, okul servis araçları için yapay zekâ destekli IP kameralar, yolcu sayma, yüz tanıma, SMS ile veli bilgilendirme, hareket duyarlı koltuk kontrol sistemi ve 112 entegrasyonlu panik butonu içeren yeni nesil güvenlik sistemini tanıttı. Personel paketi yerine okul paketi sunan araç, öğrenci takibini ve acil durum müdahalesini önemli ölçüde artırmayı hedefliyor.",
-        "Eyüp Lojistik, Körfez hattındaki Kuveyt seferlerini hızlandırarak son 8 ayda taşıma hacmini geçen yıla göre yüzde 100 artırdı. Yönetim Kurulu Başkanı Eyüp Bartık, artan talebin Türk ihracatçıları için önemli yatırım fırsatları sunduğunu belirtti.",
-        "Volvo Trucks, uluslararası frigorifik taşımacılık alanında faaliyet gösteren ADES Uluslararası Nakliyat’a 30 adet Volvo FH 500 HP 4x2 çekici teslim etti. Bu teslimatla birlikte ADES’in Volvo Trucks filosu 41’e ulaştı, şirketin taşıma kapasitesini genişletti.",
-        "Antalya, Türkiye'nin süs bitkileri ve mamuller ihracatının ilk 8 ayında yüzde 41,6’sını gerçekleştirdi. Aynı dönemde kentin toplam ihracatı geçen yılın aynı dönemine göre yüzde 12,3 artış gösterdi, bu da bölgenin ihracat performansının güçlendiğini gösteriyor.",
-        "Avusturya’da düzenlenen Avrupa Forumu Alpbach 2026’da Otonom Otokar e-Centro, belirlenmiş bir güzergâhta yolcuları taşıyor. Pilot uygulama kapsamında hizmet ücretsiz olarak sunuluyor, bu da otomasyonun toplu taşıma sektöründe uygulanabilirliğini test ediyor."
+        "PEUGEOT, eylül ayında binek ve hafif ticari araç modelleri için avantajlı finansman seçenekleri sunarak satışlarını desteklemeyi amaçlıyor. Şirket, tüketicilere cazip ödeme planları ve düşük faiz oranları ile geniş bir seçenek yelpazesi sağlamayı planlıyor.",
+        "Ford Otosan, Tohum Otizm Vakfı iş birliği ve İŞKUR desteğiyle başlattığı Destekli İstihdam Programı'nın Eskişehir Fabrikası'ndaki uygulamasını iş dünyasıyla paylaştı. Program, nöro-çeşitli bireylerin ağır sanayi ortamında sürdürülebilir istihdamını sağlayacak doğru pozisyon eşleştirmesi, iş koçluğu, ekip hazırlığı ve düzenli takip mekanizmalarını birleştiriyor.",
+        "Jeep, yenilenmiş Avenger modelini Türkiye'de satışa sunarak kompakt SUV segmentindeki portföyünü genişletti. Yeni model, modern tasarım ve gelişmiş güvenlik özellikleriyle yerel müşterilere hitap ediyor.",
+        "Mercan Oto Dizayn, okul servis araçları için yapay zekâ destekli IP kameralar, yolcu sayma, yüz tanıma, SMS ile veli bilgilendirme, hareket duyarlı koltuk kontrol sistemi ve 112 entegrasyonu içeren bir güvenlik sistemi geliştirdi. Sistem, öğrenci takibini artırarak güvenlik seviyesini yükseltiyor.",
+        "Volvo Trucks, ADES Uluslararası Nakliyat'a 30 adet Volvo FH 500 HP 4x2 çekici teslim ederek filo sayısını 41'e çıkardı. Teslimat, şirketin uluslararası frigorifik taşımacılık alanındaki operasyonlarını güçlendirmeyi hedefliyor.",
+        "Eyüp Lojistik, Kuveyt seferlerini hızlandırarak son 8 ayda taşıma hacmini geçen yıla göre %100 artırdı. Yönetim Kurulu Başkanı Eyüp Bartık, bu artışın Türk ihracatçılarına önemli yatırım fırsatları sunduğunu belirtti."
       ],
       "sources": [
         {
@@ -54,28 +47,19 @@
         {
           "name": "LojiPort",
           "url": "https://www.lojiport.com"
-        },
-        {
-          "name": "Dünya Gazetesi",
-          "url": "https://www.dunya.com"
         }
       ]
     },
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "İşgücü raporuna ilişkin Wall Street tartışmalarında, işgücü piyasasının güçlü olduğu ancak gerçek verilerin bu algıdan daha karmaşık olduğu vurgulandı. Bu durum, tahvil piyasaları için olumlu bir sinyal olarak yorumlanabilir, çünkü güçlü istihdam verileri genellikle sabit faiz beklentilerine işaret eder.",
-        "ABD Başkanı Donald Trump, Federal Reserve’in faiz oranlarını düşürmemesi halinde, ticaret fazlası olan ülkelerle ticaretini durdurma tehdidiyle piyasaya sürülen fikir, uzmanlar tarafından eleştirildi. Analistler bu önerinin ABD ekonomisini olumsuz etkileyebileceğini ve ticaret dengelerinde ani şoklara yol açabileceğini belirtti.",
-        "ABD, İran’a yönelik yaptırımlarını genişleterek bir Türk bankası ve iki alt şirketi hedef alan yeni yaptırım paketini uyguladı. Bu hamle, Türkiye’de faaliyet gösteren finansal kuruluşların faaliyet alanını sınırlayabilir ve uluslararası ticaret ilişkilerini yeniden şekillendirebilir.",
-        "BNY Mellon (BNY) hisse fiyatı 165,69 USD ile tarihsel en yüksek seviyeye ulaştı, bu da piyasalardaki artan güveni yansıtıyor. Şirketin hisse performansı, finans sektöründeki güçlü büyüme beklentilerinin bir göstergesi olarak değerlendirilebilir.",
-        "Elon Musk, Tesla’nın Cybercab robotaxi hizmetiyle ve xAI’nin yapay zeka ‘nudification’ yasağına karşı yasal mücadelesiyle düzenleyici sınırları zorlamaya devam ediyor. Minnesota mahkemesi, xAI’nin yasağı engelleme girişimini reddetmiş durumda. Bu gelişmeler, otomotiv ve AI sektörlerinde düzenleyici ortamın karmaşıklaşacağını gösteriyor.",
-        "Smith Midland’in CEO’su Ashley Smith, şirketin 9,804 USD değerinde hisselerini satın aldı. Bu insider alım, şirket içi yatırımcının güvenine işaret edebilir ve piyasa beklentilerini etkileyebilir."
+        "S&P 500 endeksine Bloom Energy yeni eklendi. Molson Coors Beverage, Builders FirstSource ve Trade Desk ise endeksten çıkarıldı. Endeksteki bu değişiklikler, şirketlerin piyasa değerindeki performanslarını yansıtmaktadır.",
+        "Remitly direktörü Nigel Morris, 170.289 dolar tutarında hisse satışı gerçekleştirdi. Squadron Capital LLC, 525.000 dolar değerinde Orthopediatrics (çocuk) hisselerini satarken, Soluna Holdings direktörü Phelan 13.481 dolar hisse satarak portföyünü yeniden yapılandırdı. Ayrıca Miami International Holdings başkanı ve CEO'su 1.99 milyon dolar değerinde hisseleri elden çıkardı.",
+        "Golden Minerals, yeni CEO'su olarak David Watkins'i atadı. Mizuho, en üst düzey yazılım büyük sermaye hissesini tanıyarak sektör liderliği konusundaki öne çıkan varlıkları belirledi. Bu hamle, şirketin stratejik odak alanlarını netleştirmeye devam etti.",
+        "Lion Copper, 1‑a‑27 ters hisse bölünmesi (reverse split) uygulayacak. Bu işlem, tek bir hisse başına 27 hissenin birleştirilmesiyle piyasa fiyatını dengelemeyi hedefliyor.",
+        "EOS kripto parası, bir satış baskısı sırasında yüzde 10 düşüş yaşadı. Bu düşüş, piyasanın genel volatilitesine işaret eden bir sinyaldir."
       ],
       "sources": [
-        {
-          "name": "Forbes Business",
-          "url": "https://www.forbes.com"
-        },
         {
           "name": "MarketWatch",
           "url": "https://www.marketwatch.com"
@@ -89,15 +73,11 @@
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "[Dünya Gazetesi] Cumhurbaşkanı Erdoğan, BAE Devlet Başkanı Al Nahyan ile görüştü — Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşik Arap Emirlikleri Devlet Başkanı Muhammed bin Zayed Al Nahyan ile telefon görüşmesi gerçekleştirdi. Görüşmede, Türkiye ile Birleşik Arap Emirlikleri ikili i",
-        "[Dünya Gazetesi] 2 bin 34 sosyal medya hesabına erişim engeli — İletişim Başkanı Burhanettin Duran, milli güvenliği hedef alan, terör ve suç örgütleriyle bağlantılı olduğu tespit edilen 2 bin 34 sosyal medya hesabına erişim engeli getirildiğini açıkladı.",
-        "[Dünya Gazetesi] TCMB beklenen raporu açıkladı: Enflasyonun ana eğilimi Ağustos'ta sınırlı arttı — Türkiye Cumhuriyet Merkez Bankasının (TCMB) \"Ağustos Ayı Fiyat Gelişmeleri\" raporuna göre, tüketici fiyatları ağustosta yüzde 1,84 artarken yıllık enflasyon 0,24 puan gerileyerek yüzde 31,51'e indi. R",
-        "[Dünya Gazetesi] Galatasaray'da Victor Osimhen sakatlandı — Galatasaray’ın Nijeryalı futbolcusu Victor Osimhen, Başakşehir maçında 33. dakikasında sakatlığından dolayı oyundan çıkarken, Osimhen'in yerine Barış Alper Yılmaz oyuna girdi.",
-        "[Dünya Gazetesi] Rojin Kabaiş soruşturmasında yeni talepler savcılığa iletildi — Van'da 27 Eylül 2024'te kaybolan ve 15 Ekim 2024'te göl kıyısında cesedi bulunan 21 yaşındaki üniversite öğrencisi Rojin Kabaiş'in ailesinin avukatları, olayla ilgili soruşturmaya ilişkin yeni taleple",
-        "[Dünya Gazetesi] Eski Ankara Büyükşehir Belediye Başkanı Gökçek ifadesini verdi — Eski Ankara Büyükşehir Belediye Başkanı Melih Gökçek, Ankara Adliyesinde \"şüpheli\" sıfatıyla ifade verdi.",
-        "[Dünya Gazetesi] Avrupa borsaları Almanya hariç karışık kapandı — Avrupa borsaları, haftanın son işlem gününü ABD'de açıklanan güçlü istihdam verilerinin ardından artan faiz endişelerinin etkisiyle karışık tamamladı.",
-        "[Dünya Gazetesi] Fenerbahçe’ye UEFA şoku! Olaylı maçın ardından cezalar açıklandı — UEFA, Lyon-Fenerbahçe karşılaşmasının ardından Matteo Guendouzi ve Mason Greenwood hakkında verilen cezaları açıkladı.",
-        "[Dünya Gazetesi] Yumaklı: Bal üretiminde dünyada ikinci sıradayız — Tarım ve Orman Bakanı İbrahim Yumaklı, Türkiye'nin bal üretiminde dünyada ikinci sırada olduğunu belirterek, bu yıl 97 bin ile 100 bin ton arasında bal üretimi beklediklerini açıkladı. Yumaklı, Türkiy"
+        "Afrika, petrol odaklı \"petro-devlet\" modelinden elektriği kalkınmanın merkezine koyan \"elektro-devlet\" modeline doğru ilerliyor. Bu dönüşüm ABD‑Çin rekabetinin yeni cephelerini oluştururken, Türkiye için Afrika’da yatırım fırsatlarını genişletti. Özellikle enerji altyapısı ve temiz teknoloji projeleri, Türk yatırımcıları için cazip pazarlar sunuyor.",
+        "Dünya ekonomisinin teknoloji ve sanayiye odaklanmasıyla birlikte yaratıcı ekonomi, giderek daha belirgin bir ekonomik sermaye haline geliyor. Kültür sektörünün değer üretme kapasitesi, yaratıcı ekonominin temel kaynağı olarak kabul ediliyor. Bu bağlamda, kültür ve yaratıcılık yatırımları, uzun vadeli ekonomik büyüme için kritik bir rol oynuyor.",
+        "Vodafone ve DAMAC Digital iş birliğiyle kurulan İzmir Veri Merkezi’nin ilk fazı, yaklaşık 100 milyon dolarlık yatırımla hizmete açıldı. Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu’nun katılımıyla açılan tesis, bölgedeki dijital altyapı ihtiyaçlarını uluslararası standartlarda karşılamayı hedefliyor. Proje, Ege bölgesinin dijital otobanyına önemli bir katkı sağlayarak, veri altyapısı yatırımının stratejik önemini vurguluyor.",
+        "Yüksek faiz oranları, daralan finansman imkanları ve artan maliyetler, Türk imalat sanayisinde yatırım tercihlerinde köklü değişikliklere yol açıyor. Şirketler, yeni ekipman satın almak yerine mevcut verimliliklerini artırmayı tercih ediyor. Bu durum, üretim süreçlerinin optimize edilmesi ve teknoloji yoğun yatırımların yeniden değerlendirilmesi gerektiğini gösteriyor.",
+        "İstanbul İklim Finansmanı Zirvesi’nde konuşan Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, düşük maliyetli ve uzun vadeli iklim finansmanının, özellikle gelişmekte olan ekonomiler için hayati önem taşıdığını belirtti. Bayraktar, \"Enerji talebinin ve yatırım ihtiyacının en hızlı arttığı ülkelerde finansman pahalı ya da erişilemez kaldığı sürece küresel enerji dönüşümünün başarıya ulaşması mümkün değil\" dedi. Bu açıklama, Türkiye’nin enerji dönüşüm projelerinin sürdürülebilir finansman modellerine ihtiyaç duyduğunu vurguluyor."
       ],
       "sources": [
         {
