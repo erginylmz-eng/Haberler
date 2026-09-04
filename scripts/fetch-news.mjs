@@ -128,6 +128,22 @@ function uniqueSources(items) {
 }
 
 /**
+ * Bir promise'i verilen süre (ms) içinde tamamlanmazsa reddeden bir
+ * yarışa sokar. Gemini API çağrısı bazen (nadiren) hiç yanıt vermeden
+ * askıda kalabiliyor (bkz. run geçmişindeki 6 saatlik "askıda kalma"
+ * vakaları) — bu sarmalayıcı olmadan tüm job, GitHub Actions'ın
+ * varsayılan 6 saatlik job timeout'una kadar takılı kalıyordu.
+ */
+function withTimeout(promise, ms, label) {
+  return Promise.race([
+    promise,
+    new Promise((_, reject) =>
+      setTimeout(() => reject(new Error(`${label} zaman aşımına uğradı (${ms}ms)`)), ms)
+    ),
+  ]);
+}
+
+/**
  * Bir kategorideki ham haberleri TEK BİR Türkçe brifinge derler.
  * Döndürülen paragraflar birbirinden bağımsız, 2-4 cümlelik, nesnel
  * metinlerdir — kullanıcı bunları okuyarak kaynağa gitmeden habere hakim
@@ -171,10 +187,11 @@ Girdi haberleri:
 ${JSON.stringify(payload, null, 2)}`;
 
   try {
-    const response = await genAI.models.generateContent({
-      model: MODEL,
-      contents: prompt,
-    });
+    const response = await withTimeout(
+      genAI.models.generateContent({ model: MODEL, contents: prompt }),
+      45000,
+      'Gemini API çağrısı'
+    );
 
     const text = response.text || '';
     const jsonMatch = text.match(/\{[\s\S]*\}/);
