@@ -17,6 +17,11 @@ concurrency:
 jobs:
   update-news:
     runs-on: ubuntu-latest
+    # Güvenlik ağı: Gemini API çağrısı beklenmedik şekilde askıda kalırsa
+    # (bkz. scripts/fetch-news.mjs içindeki withTimeout), job GitHub'ın
+    # varsayılan 6 saatlik timeout'unu beklemeden burada durdurulur —
+    # concurrency grubu da bu sayede uzun süre kilitli kalmaz.
+    timeout-minutes: 20
     steps:
       - name: Kodu al
         uses: actions/checkout@v4
