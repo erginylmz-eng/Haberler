@@ -1,20 +1,24 @@
 {
-  "generatedAt": "2026-09-04T06:29:47.637Z",
+  "generatedAt": "2026-09-04T10:17:54.145Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
-        "[Container News] Port Otago orders 10 hybrid straddle carriers from Konecranes — Port Otago in New Zealand has ordered 10 hybrid Konecranes Noell Straddle Carriers as part of the modernization of its container handling operations. The order also includes Konecranes’ complete Noell",
-        "[Container News] CMA CGM, ONE add capacity as Wan Hai expands orderbook — Containership fleet capacity continued to expand as new vessels were delivered for CMA CGM, ONE and other major operators, while Wan Hai added further ships to its orderbook, according to the August 2",
-        "[Splash247] Maritime technology’s annual bible launches — SplashTech is a new magazine launching today examining how technology is reshaping the way shipping operates, competes and makes decisions. Built around original interviews, industry data and practica",
-        "[Container News] Kongsberg-led project targets wider adoption of wind propulsion in shipping — Kongsberg Maritime and a group of Norwegian maritime companies and research institutions have launched WINTEGRATE, a project aimed at accelerating the use of wind propulsion in commercial shipping. Th",
-        "[Splash247] Shipfix co-founder swaps freight screens for synths — Antoine Grisay, best known in shipping as the co-founder of maritime software platform Shipfix, has resurfaced with a rather different launch: electronic music under the nautical artist name Handysize",
-        "[FreightWaves] How Supply Chain Leaders Should Approach Their Next AI Investment — AI investment in supply chain is accelerating — but so is the gap between companies seeing real returns and those still figuring out where to start. This white paper brings together the latest researc",
-        "[Container News] Roberta Duarte to join Maersk as Chief People Officer — A.P. Moller – Maersk has appointed Roberta Duarte as its new Chief People Officer. Duarte will also join Maersk’s Executive Leadership Team when she assumes the role on 1 November 2026. The appointmen",
-        "[FreightWaves] Samsara Q2 revenue jumps 30% as transportation, Mexico fuel growth — Samsara's transportation business accelerated for the third straight quarter as the technology company increased revenue 30%. The post Samsara Q2 revenue jumps 30% as transportation, Mexico fuel growt",
-        "[Container News] Swire Shipping revises Emergency Bunker Surcharge — Swire Shipping will revise its Emergency Bunker Surcharge (EBS) for several regional trades from 15 September 2026. The revised surcharge will apply to shipments with a Bill of Lading dated on or afte"
+        "[The Loadstar] As we chase M&A rumours – AD Ports’ brief listing nears its end — Key takeaway: Abu Dhabi’s sovereign owner is offering AED6.25 a share for the nearly 24.6% of AD Ports Group it does not already own. The offer has board support and may attract significant tenders, b",
+        "[Container News] Global container fleet capacity set to reach 34 million TEU — Global container fleet capacity is set to reach a new record of 34 million TEU, driven by high levels of new ship deliveries and limited recycling activity, according to BIMCO. At the beginning of Sep",
+        "[The Loadstar] New UK cyber bill to force logistics operators to rip out their tech? — A piece of legislation working its way through the House of Lords right now could hand British ministers the authority to order transport and logistics operators to remove technology from vendors deem",
+        "[Splash247] COSCO brands US spying claims ‘totally unfounded’ — COSCO, the world’s largest shipowner by fleet size, has strongly rejected allegations that its commercial vessels are being used to collect military intelligence for Beijing. The Chinese state-control",
+        "[Splash247] Nanjing Shenghang lines up six chemical tankers at China Merchants yard — Chinese chemical tanker owner Nanjing Shenghang Shipping is scaling up its fleet renewal programme with plans to spend CNY994.8m ($148m) on six 13,500 dwt stainless-steel chemical and product tanker n",
+        "[Splash247] Scorpio puts three tankers on three-year charters — Monaco-based Scorpio Tankers has put three product tankers on three-year charters carrying more than $110m in aggregate gross revenue at the disclosed headline rates. The Emanuele Lauro-led owner has ",
+        "[The Loadstar] Seko commercial chief Brian Bourke departs after 14 years — Seko Logistics global chief commercial officer Brian Bourke is leaving the company after more than 14 years, and is set to launch his own consultancy. The post Seko commercial chief Brian Bourke depar",
+        "[Container News] Container shipping stocks surge in August — Most major container shipping stocks moved higher in August, with the rally spreading across listed carriers in Asia, Europe and the United States. Twelve of the 13 companies tracked by Container News",
+        "[Splash247] Splash Wrap: Hormuz, Hamburg and the ghosts of the last boom — The war around the Strait of Hormuz entered an increasingly dangerous tanker-for-tanker phase this week, with the US striking Iranian state tankers in retaliation for attacks on commercial shipping wh"
       ],
       "sources": [
+        {
+          "name": "The Loadstar",
+          "url": "https://theloadstar.com"
+        },
         {
           "name": "Container News",
           "url": "https://container-news.com"
@@ -22,55 +26,51 @@
         {
           "name": "Splash247",
           "url": "https://splash247.com"
-        },
-        {
-          "name": "FreightWaves",
-          "url": "https://www.freightwaves.com"
         }
       ]
     },
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "[Dünya Gazetesi] Savaş petrolü yeniden ateşledi: Brent 96 dolara dayandı — ABD ile İran arasındaki çatışmanın yeniden sertleşmesi ve Hürmüz Boğazı’ndaki gemi trafiğinin savaş öncesinin altında kalması petrolü yeniden yukarı taşıdı. Brent 96 dolara yaklaşırken enerji ithalatç",
-        "[Taşıma Dünyası Gazetesi] Allison donanımlı Volvo R100E taş ocağında verimliliği artırıyor — Avusturya merkezli mineral yapı malzemeleri üreticisi Deisl-Beton, Salzburg yakınlarındaki Sulzau taş ocağında Allison 9610 Off Road Series (ORS) tam otomatik şanzıman donanımlı Volvo R100E rijit şasi",
-        "[Taşıma Dünyası Gazetesi] PETRONAS, Automechanika Frankfurt’ta yeni çözümlerini tanıtacak — PETRONAS Madeni Yağlar, 8-12 Eylül tarihlerinde düzenlenecek Automechanika Frankfurt 2026’da yeni nesil madeni yağ ve sıvı teknolojilerini sergileyecek.",
-        "[Taşıma Dünyası Gazetesi] Škoda Peaq’tan 936 kilometrelik menzil rekoru — Škoda’nın tamamen elektrikli yeni amiral gemisi Peaq, tek şarjla 936 kilometre yol kat ederek yedi koltuklu elektrikli SUV’lar arasında menzil rekoru kırdı.",
-        "[Taşıma Dünyası Gazetesi] Opel’den eylüle özel finansman fırsatları — Opel, eylül ayında binek, SUV ve hafif ticari araç modellerinde avantajlı finansman seçenekleri sunuyor.",
-        "[Taşıma Dünyası Gazetesi] Arnaud Belloni, FIAT, Abarth ve Lancia’nın yeni CEO’su oldu — Stellantis, yönetim kadrosunda önemli bir atamaya imza attı.",
-        "[Taşıma Dünyası Gazetesi] Zemzem Turizm’den Tourismo yatırımı — Mercedes-Benz Türk bayi Hastalya Otomotiv turizm taşımacılığ alanının önde gelen şirketleri arasında yer alan Antalya merkezli Zemzem Turizm’e Tourismo teslimatı gerçekleştirdi.",
-        "[Taşıma Dünyası Gazetesi] TOBB 2027 yılı Ana Fuar Takvimi’ni yayımladı — Türkiye Odalar ve Borsalar Birliği (TOBB), iş dünyasının ve ticaretin can damarı olan \"2027 Yılı Ana Fuar Takvimi\"ni yayımladı. Takvime göre, önümüzdeki yıl Türkiye genelinde 99’u uluslararası olmak ü",
-        "[LojiPort] Deponuzu bugün doldurursanız 5 bin lira karlı çıkarsınız — Motorine bu gece yarısından itibaren geçerli olmak üzere litre başına 8,5 TL zam gelmesi bekleniyor. Deposu 500-600 litre yakıt alan bir TIR’ın deposunu zam öncesinde doldurarak en azından bir günlük "
+        "[Taşıma Dünyası Gazetesi] Suzuki’den eylül ayına özel fırsatlar — Suzuki, eylül ayında Vitara ve S-Cross modellerine yönelik avantajlı satın alma kampanyaları sunuyor.",
+        "[Taşıma Dünyası Gazetesi] Škoda’dan eylüle özel avantajlar — Škoda, eylül ayında binek otomobil ürün gamına yönelik fiyat ve finansman kampanyalarını duyurdu. Kampanyalar 30 Eylül’e kadar geçerli olacak.",
+        "[Taşıma Dünyası Gazetesi] MG’den eylüle özel fiyat ve finansman fırsatları — MG, eylül ayına özel fiyat, takas desteği ve finansman kampanyalarını duyurdu.",
+        "[Taşıma Dünyası Gazetesi] Citroën’den eylül ayına özel finansman fırsatları — Citroën, eylül ayında binek ve hafif ticari araç modellerinde avantajlı finansman seçenekleri sunuyor.",
+        "[Taşıma Dünyası Gazetesi] MAXUS’tan Eylül’e özel faizsiz kredi ve indirimli fiyat — Doğan Trend Otomotiv’in Türkiye’de temsil ettiği MAXUS, Eylül ayına özel hafif ticari araç kampanyasını duyurdu.",
+        "[Dünya Gazetesi] Fındık ihracatında miktar düştü, gelir korundu — Türkiye, fındık ihracatında miktar kaybına rağmen 2025-2026 sezonunu 2,5 milyar dolarlık gelirle kapattı. Yurt dışına gönderilen fındık miktarı önceki sezona göre yüzde 36 azalırken, ihracat gelirinde",
+        "[Taşıma Dünyası Gazetesi] ROMANTİKA / Bir Ömrün Seyrüseferi Nâzım Hikmet sergisi açıldı — İzmir Büyükşehir Belediyesi ev sahipliğinde, 95. İzmir Enternasyonal Fuarı kapsamında hazırlanan “ROMANTİKA / Bir Ömrün Seyrüseferi” sergisi sanatseverlerle buluştu. Nâzım Hikmet’in yaşamını, sanatını",
+        "[Dünya Gazetesi] Türkiye ihracatta G20'yi solladı — Türkiye'nin mal ihracatında yılın ikinci çeyreğinde yaşanan güçlü artış, G20 tablosunda dikkat çekici bir sonuç ortaya çıkardı. İlk çeyrekte gerileyen ihracat üç ay sonra hızla yön değiştirirken Türki",
+        "[Taşıma Dünyası Gazetesi] Nissan Türkiye'nin Yeni Pazarlama Direktörü Sertaç Aydın oldu — Nissan Türkiye'de Pazarlama Direktörlüğü görevine Sertaç Aydın atandı. Daha önce dokuz yılı aşkın süre Nissan Türkiye bünyesinde görev yapan ve son bir buçuk yıldır aile girişiminde çalışan Aydın, yen"
       ],
       "sources": [
-        {
-          "name": "Dünya Gazetesi",
-          "url": "https://www.dunya.com"
-        },
         {
           "name": "Taşıma Dünyası Gazetesi",
           "url": "https://www.tasimadunyasi.com"
         },
         {
-          "name": "LojiPort",
-          "url": "https://www.lojiport.com"
+          "name": "Dünya Gazetesi",
+          "url": "https://www.dunya.com"
         }
       ]
     },
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "[Investing.com] Kazera Global schedules shareholder vote on share issuance",
-        "[Investing.com] Shares rally ahead of US jobs data, Fed’s Waller soothes bonds",
-        "[Investing.com] Yellow Cake grants share awards to CEO and CFO",
-        "[Investing.com] Neoterra terminates growth capital facility with Zeus",
-        "[Investing.com] Oil heads for sharp weekly gains on escalating U.S.-Iran tensions",
-        "[Investing.com] Metals One secures £4m funding via promissory note",
-        "[Investing.com] UK-EU alignment is a “problem” for U.S. trade deal, Greer says - report",
-        "[Investing.com] Empyrean Energy sets AGM for Sept. 29, changes registered address",
-        "[Investing.com] One year after its founder’s death, Armani faces challenge of ’inevitable evolution’"
+        "[MarketWatch] My wife and I are in our 70s. Should we move to California and take on a bigger mortgage to be near our kids? — “We currently live in a relatively low-cost, lower-tax Northwest state.”",
+        "[Investing.com] European gas inches up to lock in fourth weekly gain after breaching war-era peaks",
+        "[Investing.com] Exclusive-OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
+        "[Investing.com] Morgan Stanley sees Fed holding rates despite hawkish speech",
+        "[Investing.com] Factbox-US companies face rise in cyber attacks",
+        "[Investing.com] Oppenheimer reiterates Perform rating on Ambarella stock",
+        "[Investing.com] Wells Fargo raises UiPath stock price target on solid quarter",
+        "[Investing.com] Wells Fargo raises Samsara stock price target on strong growth",
+        "[Investing.com] Wells Fargo raises Guidewire stock price target on ARR growth"
       ],
       "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com"
+        },
         {
           "name": "Investing.com",
           "url": "https://www.investing.com"
@@ -80,15 +80,15 @@
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "[Dünya Gazetesi] Nijerya'da korkunç facia: Yakıt çalmaya çalışan 43 kişi hayatını kaybetti — Nijerya'nın Rivers eyaletinde boru hattından yasa dışı yollarla yakıt çekmeye çalışan kişiler zehirli gaza maruz kaldı. Olayda 43 kişinin hayatını kaybettiği bildirilirken, çok sayıda kişinin ise kayı",
-        "[Anadolu Ajansı Ekonomi] Küresel piyasalar, ABD'de açıklanacak tarım dışı istihdam verisine odaklandı — Küresel piyasalar, ABD Merkez Bankasının (Fed) faiz artırımına gideceğine yönelik öngörülerin azalması ve tahvil faizlerindeki hafif gerilemenin etkisiyle pozitif seyrederken, gözler bugün ABD'de açık",
-        "[Dünya Gazetesi] KYK yurt sonuçları açıklandı mı, ne zaman açıklanacak? GSB yurt sonuç duyurusu geldi mi? — Günün en çok yöneltilen sorusu \"KYK yurt sonuçları açıklandı mı\" şeklinde. Yüz binlerin başvurusu sonrası sonuç tarihi gün geçtikçe daha yoğun şekilde araştırılıyor. Geçen sene 5 gün içinde açıklanan ",
-        "[Dünya Gazetesi] BBVA'dan enflasyon sonrası kritik tahmin: Faiz indirimi beklentisi öne çekildi — Türkiye İstatistik Kurumu'nun (TÜİK) ağustos enflasyonu verisinin ardından BBVA Research, yıl sonu enflasyon tahminini korurken Merkez Bankası için faiz beklentisini öne çekti. Kurum, eylülde fiyat ay",
-        "[Habertürk Ekonomi] Akaryakıtta çifte zam! — Motorinin litresine ortalama 7 lira 79 kuruş benzinin litresine ise 2 lira 57 kuruş zam geldi. Zamlı fiyatlar bugün itibarıyla pompaya yansıdı. Son artışla birlikte motorin fiyatları bugün itibarıyla ",
-        "[Dünya Gazetesi] Alihan Kuriş suç örgütü soruşturmasında yeni gelişme: 5 şirkete el konuldu — Ankara Cumhuriyet Başsavcılığının Alihan Kuriş suç örgütüne yönelik soruşturmasında MASAK incelemeleri sonrası 5 şirkete el konuldu. Şirketlerin sahibi İrfan Yılmaz hakkında ise üç ayrı suçtan gözaltı",
-        "[Dünya Gazetesi] Falkland Adaları petrol gerilimi büyüyor Milei'den yaptırım ve üs hamlesi — Arjantin, Falkland çevresindeki Sea Lion petrol projesine karşı yaptırım ve savunma baskısını artırıyor. Javier Milei, şirketlerin yanı sıra hissedar ve tedarikçileri de hedef alacak yeni adımlar ile ",
-        "[Dünya Gazetesi] Gümüş kritik eşikte! Yatırımcılar alım için harekete geçiyor — Gümüşte zirveden başlayan geri çekilme hız kazanırken, ons fiyatındaki kayıp yüzde 10'u aştı. Sert düşüşün ardından yatırımcıların gözü fiyatların tutunmaya çalıştığı seviyeye odaklanırken, \"bu düşüş ",
-        "[Habertürk Ekonomi] Kira sözleşmelerinde yeni dönem — Hazine ve Maliye Bakanlığınca devreye alınan 'kira sözleşmelerinin e-Devlet üzerinden yapılması' uygulamasıyla ev sahibi-kiracı bilgilerinin dijital ortamda kayıt altına alınması ve kilitlenen anlaşma"
+        "[Dünya Gazetesi] Palamut tezgâhta hızla ucuzladı: Birkaç günde 70 TL düştü — Karadeniz'de sezonun ilk günlerinde palamut bolluğu tezgâhlara yansımaya başladı. 1 Eylül'de tanesi 150 liradan satılan palamut, kısa sürede 80 liraya kadar geriledi; dört adet alanlar için fiyat 300 ",
+        "[Habertürk Ekonomi] 25 kış seferi yapacak — Galataport İstanbul, AROYA Cruises'ın kış programında 25 yeni sefere ev sahipliği yapacağını duyurdu. Aroya Cruises’ın yeni seferlerinin eklenmesiyle, geçen yıla göre sefer sayısında yüzde 143, yolcu ",
+        "[Anadolu Ajansı Ekonomi] Bakan Bolat: Yıl sonuna kadar 6 milyar dolarlık e-ihracat rakamına ulaşmayı hedefliyoruz — Ticaret Bakanı Ömer Bolat, bu yıl sonuna kadar 6 milyar dolarlık e-ihracat rakamına ulaşmayı hedeflediklerini bildirdi.",
+        "[Dünya Gazetesi] Ruhi Çenet’in belgeseli sonrası merak arttı: Hasidik Yahudileri anlatan 10 film ve dizi — YouTuber Ruhi Çenet’in Hasidik Yahudilerin yaşamını konu alan belgeseli milyonlarca izlenmeye ulaşırken, bu kapalı topluluğun yaşam biçimi de merak konusu oldu. Peki Hasidik Yahudileri ve Haredi, Ultr",
+        "[Dünya Gazetesi] Dünyanın en büyük varlık fonu rotayı değiştiriyor: Paranın yeni adresi belli oldu — Dünyanın en büyük varlık fonu olan Norveç'in 2,3 trilyon dolarlık devlet varlık fonu rotayı değiştiriyor. Fonu yöneten Norges Bank Investment Management (NBIM), daha yüksek getiri ve daha geniş çeşitl",
+        "[Dünya Gazetesi] Taşacak Bu Deniz yeni sezon ne zaman başlayacak? Yeni bölüm tarihi belli oldu mu? — TRT 1'in geçen sezon ilgiyle izlenen dizisi Taşacak Bu Deniz'in yeni sezon tarihi merak ediliyor. Eylül ayının gelişi ile birlikte de aramalar hızlandı. Binlerce kişi \"Taşacak Bu Deniz yeni sezon ne z",
+        "[Dünya Gazetesi] Fındık ihracatında miktar düştü, gelir korundu — Türkiye, fındık ihracatında miktar kaybına rağmen 2025-2026 sezonunu 2,5 milyar dolarlık gelirle kapattı. Yurt dışına gönderilen fındık miktarı önceki sezona göre yüzde 36 azalırken, ihracat gelirinde",
+        "[Habertürk Ekonomi] Küresel gıda fiyatları 4 yılın zirvesinde — Birleşmiş Milletler Gıda ve Tarım Örgütü (FAO) endeksi aylık bazda yüzde 1,9 artarken, yıllık artış yüzde 2,5 oldu. FAO olumsuz hava koşulları ile Körfez ve Karadeniz’deki savaşların yol açtığı aksakl",
+        "[Sabah Ekonomi] İstanbul kruvaziyer turizminin yeni merkezi oldu: Kış sezonunda 150 bin yolcu hedefi — Türkiye’de kruvaziyer turizminin ana merkezi haline gelen İstanbul, uluslararası kruvaziyer şirketlerinin yeni sefer ve ana liman tercihleriyle öne çıkıyor. Uluslararası kruvaziyer şirketleri İstanbul"
       ],
       "sources": [
         {
@@ -96,12 +96,16 @@
           "url": "https://www.dunya.com"
         },
         {
+          "name": "Habertürk Ekonomi",
+          "url": "https://www.haberturk.com"
+        },
+        {
           "name": "Anadolu Ajansı Ekonomi",
           "url": "https://www.aa.com.tr"
         },
         {
-          "name": "Habertürk Ekonomi",
-          "url": "https://www.haberturk.com"
+          "name": "Sabah Ekonomi",
+          "url": "https://www.sabah.com.tr"
         }
       ]
     }
