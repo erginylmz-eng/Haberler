@@ -33,8 +33,10 @@ import {
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUTPUT_PATH = path.join(__dirname, '..', 'data', 'news.json');
 // Gemini'nin ücretsiz katımındaki en bütçe dostu modellerden biri.
+// NOT: gemini-2.5-flash-lite yeni kullanıcılar için kaldırıldı (Google'ın
+// kendi API hatası bunu belirtip gemini-3.5-flash-lite'a yönlendiriyor).
 // Güncel model adları için https://ai.google.dev/gemini-api/docs/models
-const MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-flash-lite';
+const MODEL = process.env.GEMINI_MODEL || 'gemini-3.5-flash-lite';
 
 const parser = new Parser({
   timeout: 15000,
