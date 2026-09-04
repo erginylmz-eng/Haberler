@@ -1,54 +1,104 @@
 {
-  "generatedAt": "2026-08-31T08:00:00.000Z",
+  "generatedAt": "2026-09-04T03:48:11.957Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
-        "Kızıldeniz'de gemi trafiği toparlanma sinyali veriyor: bölgedeki güvenlik operasyonlarının ardından büyük konteyner taşıyıcıları Süveyş güzergâhına kademeli dönüş için değerlendirme yapıyor. Analistler navlun fiyatlarında orta vadede yumuşama bekliyor.",
-        "Küresel konteyner navlun endeksinde hafif bir düşüş gözleniyor. Asya-Avrupa hatlarında kapasite artışı ve talep normalleşmesi spot navlun fiyatlarını aşağı çekiyor; forwarder'lar dördüncü çeyrek için temkinli iyimser.",
-        "Büyük hat taşıyıcıları filo yenileme yatırımlarını artırıyor. Yakıt verimliliği ve emisyon regülasyonlarına uyum için yeni nesil gemi siparişleri hızlanıyor, bu da tedarik zincirinde kapasite planlamasını yeniden şekillendiriyor."
+        "[Container News] Kongsberg-led project targets wider adoption of wind propulsion in shipping — Kongsberg Maritime and a group of Norwegian maritime companies and research institutions have launched WINTEGRATE, a project aimed at accelerating the use of wind propulsion in commercial shipping. Th",
+        "[FreightWaves] How Supply Chain Leaders Should Approach Their Next AI Investment — AI investment in supply chain is accelerating — but so is the gap between companies seeing real returns and those still figuring out where to start. This white paper brings together the latest researc",
+        "[Container News] Roberta Duarte to join Maersk as Chief People Officer — A.P. Moller – Maersk has appointed Roberta Duarte as its new Chief People Officer. Duarte will also join Maersk’s Executive Leadership Team when she assumes the role on 1 November 2026. The appointmen",
+        "[FreightWaves] Samsara Q2 revenue jumps 30% as transportation, Mexico fuel growth — Samsara's transportation business accelerated for the third straight quarter as the technology company increased revenue 30%. The post Samsara Q2 revenue jumps 30% as transportation, Mexico fuel growt",
+        "[Container News] Swire Shipping revises Emergency Bunker Surcharge — Swire Shipping will revise its Emergency Bunker Surcharge (EBS) for several regional trades from 15 September 2026. The revised surcharge will apply to shipments with a Bill of Lading dated on or afte",
+        "[FreightWaves] XPO’s August metrics align with Q3 guidance — Less-than-truckload carrier XPO remains positioned to hit its third-quarter guidance after releasing its August operating metrics Thursday after the market closed. The post XPO’s August metrics align ",
+        "[FreightWaves] Cheapest Freight Isn’t Best When Delays Cost Millions — Cheapest freight isn’t always best, especially when a late shipment can cost millions. ShipStation Global CEO Tom Madine breaks down why SMB shippers need parcel, LTL and truckload in one workflow, an",
+        "[FreightWaves] NASCAR Engine Logistics: 9-12 Engines a Week — 850-pound NASCAR engines, moved cross-country on a tight build schedule and ground freight beat air. FreightWaves Today sits down with ShipStation Global and Toyota Racing Development (TRD) to break d",
+        "[FreightWaves] ShipStation LTL Launch: The Time-Saving Play for SMBs — ShipStation’s LTL launch could be a real time-saver for SMB shipping teams. In this discussion, Spiceology and ShipStation break down how manual shipping tasks eat up hours, how label time dropped fro"
       ],
       "sources": [
-        { "name": "gCaptain", "url": "https://gcaptain.com/" },
-        { "name": "The Loadstar", "url": "https://theloadstar.com/" },
-        { "name": "Splash247", "url": "https://splash247.com/" }
+        {
+          "name": "Container News",
+          "url": "https://container-news.com"
+        },
+        {
+          "name": "FreightWaves",
+          "url": "https://www.freightwaves.com"
+        }
       ]
     },
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "Türkiye'nin dış ticaretinde lojistik altyapı yatırımları öne çıkıyor. Liman ve demiryolu bağlantılarına yönelik yeni yatırımlar, ihracatçıların taşıma sürelerini kısaltmayı hedefliyor; sektör temsilcileri kapasite artışını olumlu değerlendiriyor.",
-        "Karayolu taşımacılığında filo yenileme teşvikleri gündemde. Sektör dernekleri, yakıt maliyetleri ve Avrupa emisyon standartlarına uyum için filo yenilemeyi destekleyecek teşvik paketleri talep ediyor.",
-        "Türkiye'nin Türk Devletleri Teşkilatı üyesi ülkelerle ticaret hacmindeki artış, lojistik koridorlarında yeni güzergâh ve depolama yatırımı ihtiyacını gündeme taşıyor."
+        "[Dünya Gazetesi] Son dakika: Alsu gemisinin 2 kaptanı tutuklandı — Son dakika haberine göre, Silivri'deki gemi kazasına ilişkin soruşturma kapsamında, kazaya karışan Alsu gemisinin 1. ve 3. kaptanı tutuklandı.",
+        "[Dünya Gazetesi] Silivri gemi kazasının ön bilirkişi raporu hazırlandı — Silivri açıklarında iki Türk bayraklı ticari geminin çarpıştığı kazaya ilişkin ön bilirkişi raporu hazırlandı.",
+        "[Taşıma Dünyası Gazetesi] Allison donanımlı Volvo R100E taş ocağında verimliliği artırıyor — Avusturya merkezli mineral yapı malzemeleri üreticisi Deisl-Beton, Salzburg yakınlarındaki Sulzau taş ocağında Allison 9610 Off Road Series (ORS) tam otomatik şanzıman donanımlı Volvo R100E rijit şasi",
+        "[Taşıma Dünyası Gazetesi] PETRONAS, Automechanika Frankfurt’ta yeni çözümlerini tanıtacak — PETRONAS Madeni Yağlar, 8-12 Eylül tarihlerinde düzenlenecek Automechanika Frankfurt 2026’da yeni nesil madeni yağ ve sıvı teknolojilerini sergileyecek.",
+        "[Taşıma Dünyası Gazetesi] Škoda Peaq’tan 936 kilometrelik menzil rekoru — Škoda’nın tamamen elektrikli yeni amiral gemisi Peaq, tek şarjla 936 kilometre yol kat ederek yedi koltuklu elektrikli SUV’lar arasında menzil rekoru kırdı.",
+        "[Taşıma Dünyası Gazetesi] Opel’den eylüle özel finansman fırsatları — Opel, eylül ayında binek, SUV ve hafif ticari araç modellerinde avantajlı finansman seçenekleri sunuyor.",
+        "[Taşıma Dünyası Gazetesi] Arnaud Belloni, FIAT, Abarth ve Lancia’nın yeni CEO’su oldu — Stellantis, yönetim kadrosunda önemli bir atamaya imza attı.",
+        "[Taşıma Dünyası Gazetesi] Zemzem Turizm’den Tourismo yatırımı — Mercedes-Benz Türk bayi Hastalya Otomotiv turizm taşımacılığ alanının önde gelen şirketleri arasında yer alan Antalya merkezli Zemzem Turizm’e Tourismo teslimatı gerçekleştirdi.",
+        "[Taşıma Dünyası Gazetesi] TOBB 2027 yılı Ana Fuar Takvimi’ni yayımladı — Türkiye Odalar ve Borsalar Birliği (TOBB), iş dünyasının ve ticaretin can damarı olan \"2027 Yılı Ana Fuar Takvimi\"ni yayımladı. Takvime göre, önümüzdeki yıl Türkiye genelinde 99’u uluslararası olmak ü"
       ],
       "sources": [
-        { "name": "LojiPort", "url": "https://www.lojiport.com/" },
-        { "name": "Taşıma Dünyası Gazetesi", "url": "https://www.tasimadunyasi.com/" },
-        { "name": "Dünya Gazetesi", "url": "https://www.dunya.com/" }
+        {
+          "name": "Dünya Gazetesi",
+          "url": "https://www.dunya.com"
+        },
+        {
+          "name": "Taşıma Dünyası Gazetesi",
+          "url": "https://www.tasimadunyasi.com"
+        }
       ]
     },
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "Küresel piyasalarda faiz beklentileri fiyatlamayı yönlendiriyor. Yatırımcılar merkez bankalarının önümüzdeki toplantılarında izleyeceği patikayı fiyatlamaya devam ediyor; ABD vadeli endekslerinde temkinli bir seyir hâkim.",
-        "Enerji ve doğal gaz yatırımlarında Orta Doğu odaklı büyüme dikkat çekiyor. Bölgedeki enerji şirketleri, arz güvenliğini artırmak amacıyla doğal gaz kapasitesine yönelik yatırımlarını hızlandırıyor."
+        "[Investing.com] Direct Digital Holdings chairman and CEO sells $4,315 in shares",
+        "[Investing.com] GoDaddy director Sigal Zarmi sells $34,104 in company stock",
+        "[Investing.com] Palantir director Lauren Stat sells $244,915 in stock",
+        "[Investing.com] DigitalOcean SVP, CAO Cherie Barrett sells $421,334 of stock",
+        "[Investing.com] Asian shares climb ahead of US jobs data, Fed’s Waller soothes bonds",
+        "[Investing.com] Asia stocks rise as reduced Fed hike bets lift tech; U.S. jobs data awaited",
+        "[Forbes Business] 2026 Walker Cup: TV/Streaming Schedule, Formats, And How To Watch — The Walker Cup, pitting the United States against Great Britain and Ireland returns to Lahinch. How to watch and formats.",
+        "[Investing.com] Spyre Therapeutics officer Heidy King-Jones sells $2.48m in shares",
+        "[Investing.com] Spyre Therapeutics CFO Scott Burrows sells $2.28m in shares"
       ],
       "sources": [
-        { "name": "MarketWatch", "url": "https://www.marketwatch.com/" },
-        { "name": "Forbes", "url": "https://www.forbes.com/business/" }
+        {
+          "name": "Investing.com",
+          "url": "https://www.investing.com"
+        },
+        {
+          "name": "Forbes Business",
+          "url": "https://www.forbes.com"
+        }
       ]
     },
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "Türkiye ekonomisi ikinci çeyrekte büyüme kaydetti. Açıklanan büyüme verileri iç talep ve ihracat performansındaki toparlanmaya işaret ediyor; ekonomistler yılın geri kalanı için tahminlerini güncelliyor.",
-        "TÜİK işsizlik verilerini açıkladı. İşsizlik oranındaki değişim, istihdam piyasasındaki mevsimsel hareketlilik ve sektörel dağılım açısından değerlendiriliyor.",
-        "Bankacılık sektöründe kaynak çeşitlendirme adımları sürüyor. Kamu bankalarının uluslararası piyasalardan sağladığı ilave kaynaklar, kredi büyümesini destekleyecek şekilde değerlendiriliyor."
+        "[Dünya Gazetesi] Altında kritik saat 15.30, tek veri fiyatı sert oynatabilir — Altın, perşembe günkü yüzde 2’yi aşan sıçramanın ardından 4 bin 480 dolar çevresinde tutunurken gram fiyatı 6 bin 900 lira bandında. Piyasada şimdi tüm dikkat, Fed beklentisini yeniden şekillendirebil",
+        "[Habertürk Ekonomi] Volkswagen, 50 bin kişiyi işten çıkaracak — Volkswagen Denetleme Kurulu, şirketin rekabet gücünü artırmak ve maliyetleri düşürmek adına 50 bin kişinin daha işten çıkarılmasını öngören kapsamlı revizyon planına onay verdi",
+        "[Dünya Gazetesi] Volkswagen 50 bin kişiyi işten çıkarma planını onayladı — Volkswagen Denetleme Kurulu, şirketin rekabet gücünü artırmak ve maliyetleri düşürmek amacıyla hazırlanan kapsamlı yeniden yapılanma planına onay verdi. Plan kapsamında dünya genelinde 50 bin ek istih",
+        "[Anadolu Ajansı Ekonomi] Volkswagen Denetleme Kurulu, 50 bin kişiyi daha işten çıkarma planını onayladı — Volkswagen Denetleme Kurulu, şirketin rekabet gücünü artırmak ve maliyetleri düşürmek adına 50 bin kişinin daha işten çıkarılmasını öngören kapsamlı revizyon planına onay verdi.",
+        "[Dünya Gazetesi] ABD Gizli Servis'inde güvenlik açığı: Politikalar yıllardır güncellenmemiş — ABD'de, Başkan Donald Trump'a yönelik 2024'teki suikast girişimi de dahil olmak üzere yaşanan güvenlik olaylarına rağmen, Gizli Servis'in güvenlik politikalarını uzun yıllar güncellemediği ortaya çıkt",
+        "[Dünya Gazetesi] Türk şirketlerden Rakka’da yatırım atağı — Suriye'nin Rakka kentinde 1500 dönümlük arazi üzerine sanayi ve zanaat bölgesi kurulması için Rakka Valiliği, Suriye Yatırım Kurumu ve Türk şirketleri arasında anlaşma imzalandı. Projenin üretim, isti",
+        "[Dünya Gazetesi] Sürdürülebilir Finans Çerçevesi’ne ‘tam uyum’ onayı — JCR Avrasya Derecelen­dirme (JCR-ER) tara­fından değerlendirilen Va­kıfBank’ın Sürdürülebilir Finans Çerçevesi, sürdürü­lebilir finans ilke ve prensip­leriyle “çok yüksek düzeyde uyumlu” olduğunu göst",
+        "[Dünya Gazetesi] Bilinmeyen Kapadokya’nın izinde — Kapadokya denildiğinde çoğumuzun zihninde aynı manzara beliriyor: Peri bacaları, vadiler, sıcak hava balonları ve Göreme’nin kartpostallara sığmayan görüntüsü… Oysa Kapadokya’nın hikâyesi, en çok bili",
+        "[Dünya Gazetesi] Gözler en zengin turnuvada — ABD Açık Tenis Turnuvası 1 milyonu aşkın seyircisi ve 600 milyon dolara yaklaşan geliriyle dünyanın en büyük spor etkinliklerinden birisi. Yine de turnuvanın yöneticileri bu rakamları daha da büyütebi"
       ],
       "sources": [
-        { "name": "Habertürk Ekonomi", "url": "https://www.haberturk.com/ekonomi" },
-        { "name": "Sabah Ekonomi", "url": "https://www.sabah.com.tr/ekonomi" },
-        { "name": "Bloomberg HT", "url": "https://www.bloomberght.com/" }
+        {
+          "name": "Dünya Gazetesi",
+          "url": "https://www.dunya.com"
+        },
+        {
+          "name": "Habertürk Ekonomi",
+          "url": "https://www.haberturk.com"
+        },
+        {
+          "name": "Anadolu Ajansı Ekonomi",
+          "url": "https://www.aa.com.tr"
+        }
       ]
     }
   }
