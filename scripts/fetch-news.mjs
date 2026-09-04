@@ -40,7 +40,12 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUTPUT_PATH = path.join(__dirname, '..', 'data', 'news.json');
 // Groq'un ücretsiz katmanında sunulan, çok dilli/Türkçe talimat takibi
 // güçlü bir model. Güncel model listesi için https://console.groq.com/docs/models
-const MODEL = process.env.GROQ_MODEL || 'llama-3.3-70b-versatile';
+// Groq'un ücretsiz katmanında sunulan, groq-sdk'nin kendi resmi
+// örneğinde de kullanılan model. NOT (2026-09-04): önce
+// 'llama-3.3-70b-versatile' denendi, "does not exist or you do not have
+// access to it" (404) hatası verdi — bu hesapta/katmanda artık erişilebilir
+// değil. Güncel model listesi için https://console.groq.com/docs/models
+const MODEL = process.env.GROQ_MODEL || 'openai/gpt-oss-20b';
 
 const parser = new Parser({
   timeout: 15000,
@@ -283,8 +288,13 @@ async function main() {
         'engellendi ya da tüm kaynaklar geçici olarak erişilemez durumda). ' +
         'Mevcut data/news.json korunuyor, üzerine boş veri yazılmadı.'
     );
-    process.exitCode = 1;
-    return;
+        // process.exit(...) burada (ve aşağıda başarı durumunda) BİLİNÇLİ olarak
+    // çağrılıyor: Groq/rss-parser'ın altında kullandığı HTTP istemcisi bazen
+    // bağlantıyı canlı tutan bir handle açık bırakıyor, script işini bitirse
+    // bile Node process'i kendiliğinden kapanmıyor. Bu durumda GitHub
+    // Actions job'ı, iş bittiği hâlde timeout-minutes'a kadar (görüldüğü gibi
+    // 20 dakika) "devam ediyor" görünüyordu. process.exit() bunu garantiler.
+    process.exit(1);
   }
 
   const output = {
@@ -294,6 +304,7 @@ async function main() {
 
   await fs.writeFile(OUTPUT_PATH, JSON.stringify(output, null, 2) + '\n', 'utf-8');
   console.log(`\nnews.json güncellendi: ${OUTPUT_PATH} (toplam ${totalParagraphs} paragraf)`);
+  process.exit(0);
 }
 
 main().catch((err) => {
