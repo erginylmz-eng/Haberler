@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-09-04T15:41:36.323Z",
+  "generatedAt": "2026-09-04T18:47:27.105Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
-        "Greek yogurt üreticisi Chobani, Keurig Dr Pepper’dan satın alacağı Pennsylvania tesisini 1,2 milyar dolar karşılığında alarak yeni bir büyüme merkezi haline getirmeyi planlıyor. Tesis, şirketin üretim kapasitesini genişletmek ve dağıtım ağına güç katmak amacıyla dönüştürülecek.",
-        "Urban Outfitters’in kiralık abone hizmeti Nuuly, Kansas City alanındaki tesisinde otomatik sipariş sıralama ve seçme sistemine geçmeyi hedefliyor. Böylece lojistik süreçleri otomasyonla optimize ederek teslimat sürelerini kısaltmayı amaçlıyor.",
-        "Reshoring Initiative raporuna göre, üreticilerin %36’sı aktif olarak yeniden yerelleştiriyor, %31’i ise bu konuda planı bulunmamakta. Bu veriler, ABD içindeki üretim dağılımında belirsizlik ve ticaret politikalarının etkisini yansıtıyor.",
-        "Asya ihracatlarının artmasıyla havayolu kargo talebi yaz döneminin yavaşlamasına rağmen yükselişe devam ediyor. Yarıyılın dayanıklılığı yıl sonu zirve sezonuna kadar sürüp sürmeyeceği belirsizliğini korurken, tarifeler hafiflemeye başladı.",
-        "ABD'de drayaj fiyatları, kapasite sıkışıklığı ve fiyat baskısı arasında artan bir endişe yarattı. Birleşen faktörlerin etkisiyle drayaj piyasasında sıkıntı belirtileri gözlemleniyor.",
-        "CMA CGM, Manaus’a gönderilen kargolar için düşük su seviyesi primi (Low Water Surcharge)’ı 2 315 ABD doları/TEU olarak yükseltti. Bu ücret, 2 Ekim 2026’dan itibaren tüm ekipman tiplerine uygulanacak.",
-        "İtalyan gemi yapımcısı Fincantieri ve Türkiye merkezli TKMS, sualtı ve denizaltı sektöründe işbirliğini derinleştirmek üzere bir anlaştı. 2026 sonuna kadar resmi bir İşbirliği Çerçevesi oluşturmayı planlıyorlar ve bu süreç düzenleyici onaylara tabidir.",
-        "AAA tarafından yayınlanan ölçümler, perakende dizel fiyatlarının 5,85 ABD doları/gallon ile rekor seviyeye ulaştığını gösteriyor. Bu fiyat, 2024’ün başından itibaren İran’a yönelik askeri eylemlere başladıktan sonra en yüksek seviyeye yükseldi.",
-        "Premier Trailer Leasing’in Satış İkincil Başkan Yardımcısı Ed Behnen, kentsel taşıma şirketlerinin trailer esnekliğinin hızla azaldığını belirtiyor. Sektördeki talep dalgalanmalarına karşı daha az seçenek kalıyor ve bu durum lojistik planlamasını zorlaştırıyor."
+        "[FreightWaves] Big jump in truck transportation jobs in latest BLS report — Truck transportation jobs showed a strong upward move in the latest monthly report. The post Big jump in truck transportation jobs in latest BLS report appeared first on FreightWaves.",
+        "[Container News] Hapag-Lloyd revises West Africa Express service — Hapag-Lloyd will revise its West Africa Express (WAX) service from September 2026, introducing a direct connection between Damietta and key West African ports. The updated service will connect the Med",
+        "[Container News] MSC introduces piracy and Suez surcharges on Asia-Mediterranean cargo — MSC will introduce new Piracy Risk and Suez Canal surcharges on cargo moving from Asia to the East Mediterranean and Black Sea. The charges will apply from 15 September 2026, based on the proforma dat",
+        "[gCaptain] COSCO Denies Its Ships Collected Intelligence for Beijing — China's state-owned shipping giant COSCO rejected allegations it used concealed equipment on its vessels to collect intelligence for Beijing, calling the claims \"totally unfounded\" and false.",
+        "[gCaptain] ‘We Are Stalled’: US-Iran War Stuck With No End in Sight — The US and Iran have intensified tit-for-tat military strikes in recent days, remaining locked between ceasefire and all-out war as the White House struggles to end the six-month conflict.",
+        "[gCaptain] Diana Shipping Cuts Genco Stake Below 10% Weeks After Abandoning Takeover Bid — Diana Shipping has begun selling down its stake in Genco Shipping & Trading, dropping below the 10% ownership threshold just weeks after abandoning its contentious effort to acquire the U.S.-listed...",
+        "[Journal of Commerce] Samsung targets CMA CGM in latest FMC complaint — The electronics maker, seeking $186 million in restitution, alleges the ocean carrier did not perform its promised merchant haulage moves across US ports during the pandemic, saddling Samsung with exc",
+        "[The Loadstar] Samsung looks to FMC for record-breaking $186m from CMA CGM — South Korean consumer electronics giant Samsung has lodged the largest claim to be put before US maritime regulators at the FMC and is seeking $186m in damages from French carrier CMA CGM over erroneo",
+        "[Journal of Commerce] Shippers to face longer wait for containers on 25 CSX intermodal lanes — The revised schedules are intended to improve network fluidity around Atlanta and northwest Ohio, according to a notice the railroad sent to customers this week."
       ],
       "sources": [
         {
-          "name": "Supply Chain Dive",
-          "url": "https://www.supplychaindive.com"
-        },
-        {
-          "name": "Journal of Commerce",
-          "url": "https://joc.com"
+          "name": "FreightWaves",
+          "url": "https://www.freightwaves.com"
         },
         {
           "name": "Container News",
           "url": "https://container-news.com"
         },
         {
-          "name": "FreightWaves",
-          "url": "https://www.freightwaves.com"
+          "name": "gCaptain",
+          "url": "https://gcaptain.com"
+        },
+        {
+          "name": "Journal of Commerce",
+          "url": "https://joc.com"
         },
         {
           "name": "The Loadstar",
@@ -40,14 +40,17 @@
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "Eyüp Lojistik Yönetim Kurulu Başkanı Eyüp Bartık, şirketin Kuveyt hattındaki taşıma hacminin son 8 ayda yüzde 100 arttığını belirtti. Artan talep doğrultusunda şirket, Kuveyt taşımalarını iki kat büyütmüş ve bu gelişme Türk ihracatçıları için önemli yatırım fırsatları barındırıyor.",
-        "Türkiye'nin süs bitkileri ve mamuller ihracatının ilk sekiz ayında Antalya'nın payı yüzde 41,6'ya yükseldi. Aynı dönemde Antalya'nın toplam ihracatı geçen yılın aynı dönemine göre yüzde 12,3 artarak rekabet avantajı sağladı.",
-        "Volvo Trucks, uluslararası frigorifik taşımacılığa hizmet veren ADES Uluslararası Nakliyat’a 30 adet FH 500 HP 4x2 çekici teslim etti. Bu teslimatla ADES'in Volvo Trucks filosu 41'a ulaştı ve şirketin lojistik kapasitesi güçlendi.",
-        "Avusturya’da düzenlenen Avrupa Forumu Alpbach 2026’da Otonom Otokar e Centro, belirlenen güzergâhta yolcuları taşıyor. Pilot uygulama kapsamında yolculuk ücretsiz olarak sunuluyor ve Avrupa’da otonom otobüs hizmeti deneyimleniyor.",
-        "ULTRAND, Türkiye pick-up ve hafif ticari araç pazarına T08 pick-up (4x2/4x4) ve X5 kamyonet modelleriyle giriş yaptı. Şirket, ülkenin hafif ticaret taşımacılığında yeni bir soluk getirmeyi hedefliyor.",
-        "İstanbul, 2026-2027 kış sezonunda MSC Cruises ve AROYA Cruises’ın ortaklaşa düzenleyeceği 51 seferle 150 bin yolcu hedefleyerek kruvaziyer turizminin ana limanı konumunu güçlendiriyor. Şehir, seferlerin başlayıp sona erdiği ana liman olarak konumunu pekiştiriyor."
+        "Mercan Oto Dizayn, okul servis araçları için yapay zekâ destekli IP kameralar, yolcu sayma, yüz tanıma, SMS ile veli bilgilendirme, hareket duyarlı koltuk kontrol sistemi ve 112 entegrasyonlu panik butonu içeren yeni nesil güvenlik sistemini tanıttı. Personel paketi yerine okul paketi sunan araç, öğrenci takibini ve acil durum müdahalesini önemli ölçüde artırmayı hedefliyor.",
+        "Eyüp Lojistik, Körfez hattındaki Kuveyt seferlerini hızlandırarak son 8 ayda taşıma hacmini geçen yıla göre yüzde 100 artırdı. Yönetim Kurulu Başkanı Eyüp Bartık, artan talebin Türk ihracatçıları için önemli yatırım fırsatları sunduğunu belirtti.",
+        "Volvo Trucks, uluslararası frigorifik taşımacılık alanında faaliyet gösteren ADES Uluslararası Nakliyat’a 30 adet Volvo FH 500 HP 4x2 çekici teslim etti. Bu teslimatla birlikte ADES’in Volvo Trucks filosu 41’e ulaştı, şirketin taşıma kapasitesini genişletti.",
+        "Antalya, Türkiye'nin süs bitkileri ve mamuller ihracatının ilk 8 ayında yüzde 41,6’sını gerçekleştirdi. Aynı dönemde kentin toplam ihracatı geçen yılın aynı dönemine göre yüzde 12,3 artış gösterdi, bu da bölgenin ihracat performansının güçlendiğini gösteriyor.",
+        "Avusturya’da düzenlenen Avrupa Forumu Alpbach 2026’da Otonom Otokar e-Centro, belirlenmiş bir güzergâhta yolcuları taşıyor. Pilot uygulama kapsamında hizmet ücretsiz olarak sunuluyor, bu da otomasyonun toplu taşıma sektöründe uygulanabilirliğini test ediyor."
       ],
       "sources": [
+        {
+          "name": "Taşıma Dünyası Gazetesi",
+          "url": "https://www.tasimadunyasi.com"
+        },
         {
           "name": "LojiPort",
           "url": "https://www.lojiport.com"
@@ -55,28 +58,27 @@
         {
           "name": "Dünya Gazetesi",
           "url": "https://www.dunya.com"
-        },
-        {
-          "name": "Taşıma Dünyası Gazetesi",
-          "url": "https://www.tasimadunyasi.com"
         }
       ]
     },
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "Larry Fink, BlackRock CEO, önceki ‘para aklama endeksi’ ifadesinin ardından Bitcoin’i ‘dijital altın’ olarak nitelendirdi, bu da kurumsal bakış açısındaki önemli değişikliği işaret ediyor.",
-        "Tesla’nın Cybercab robotaxi hizmeti, Musk’un düzenleyici sınırları zorlamaya devam ettiği bir girişim olarak dikkat çekiyor; pilot uygulama için gerekli izinleri almaya çalışıyor.",
-        "Aurora Innovation, McLane ile ortaklık kurarak sürücüsüz ticari taşıma hizmetleri başlattı ve ABD genelinde otonom lojistik akışını hızlandırmayı hedefliyor.",
-        "Ballard Power, GeoPura’yı yaklaşık 400 milyon dolarlık bir kurumsal değerle satın alırken 14% pro forma payın, GeoPura’nın yinelenen gelir modeliyle desteklenip desteklenmediği sorusunu gündeme getiriyor.",
-        "Palo Alto Networks hisseleri yıl içinde %80 artarken, artan gelir büyümesiyle birlikte son düşüş döneminin bir alım fırsatı olup olmadığı tartışılıyor.",
-        "Energy Fuels, yaklaşık 243 milyon dolarlık bir yatırımla nadir toprak alaşımı üretimini ekleyerek maden‑magnet stratejisi geliştirmeye çalışıyor, bu da kritik mineraller tedarik zincirindeki rolünü genişletebilir.",
-        "PG&E’nin bir alt yüklenicisi, Kaliforniya yangın faturalarının finansman riskini çözemediğini ve eksik koruma kaldığını belirtiyor; aynı zamanda Medigap sigortacıları, sağlık sorularını doğrulamak için eczane kayıtlarına ve reçete cevaplarına bakıyor, tüketici gizliliği konusunda endişeleri gündeme getiriyor."
+        "İşgücü raporuna ilişkin Wall Street tartışmalarında, işgücü piyasasının güçlü olduğu ancak gerçek verilerin bu algıdan daha karmaşık olduğu vurgulandı. Bu durum, tahvil piyasaları için olumlu bir sinyal olarak yorumlanabilir, çünkü güçlü istihdam verileri genellikle sabit faiz beklentilerine işaret eder.",
+        "ABD Başkanı Donald Trump, Federal Reserve’in faiz oranlarını düşürmemesi halinde, ticaret fazlası olan ülkelerle ticaretini durdurma tehdidiyle piyasaya sürülen fikir, uzmanlar tarafından eleştirildi. Analistler bu önerinin ABD ekonomisini olumsuz etkileyebileceğini ve ticaret dengelerinde ani şoklara yol açabileceğini belirtti.",
+        "ABD, İran’a yönelik yaptırımlarını genişleterek bir Türk bankası ve iki alt şirketi hedef alan yeni yaptırım paketini uyguladı. Bu hamle, Türkiye’de faaliyet gösteren finansal kuruluşların faaliyet alanını sınırlayabilir ve uluslararası ticaret ilişkilerini yeniden şekillendirebilir.",
+        "BNY Mellon (BNY) hisse fiyatı 165,69 USD ile tarihsel en yüksek seviyeye ulaştı, bu da piyasalardaki artan güveni yansıtıyor. Şirketin hisse performansı, finans sektöründeki güçlü büyüme beklentilerinin bir göstergesi olarak değerlendirilebilir.",
+        "Elon Musk, Tesla’nın Cybercab robotaxi hizmetiyle ve xAI’nin yapay zeka ‘nudification’ yasağına karşı yasal mücadelesiyle düzenleyici sınırları zorlamaya devam ediyor. Minnesota mahkemesi, xAI’nin yasağı engelleme girişimini reddetmiş durumda. Bu gelişmeler, otomotiv ve AI sektörlerinde düzenleyici ortamın karmaşıklaşacağını gösteriyor.",
+        "Smith Midland’in CEO’su Ashley Smith, şirketin 9,804 USD değerinde hisselerini satın aldı. Bu insider alım, şirket içi yatırımcının güvenine işaret edebilir ve piyasa beklentilerini etkileyebilir."
       ],
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com"
+          "name": "Forbes Business",
+          "url": "https://www.forbes.com"
+        },
+        {
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com"
         },
         {
           "name": "Investing.com",
@@ -87,24 +89,20 @@
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "[Dünya Gazetesi] Borsa günü yükselişle tamamladı — Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,57 değer kazanarak 14.012,42 puandan tamamladı.",
-        "[Anadolu Ajansı Ekonomi] Borsa günü yükselişle tamamladı — Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,57 değer kazanarak 14.012,42 puandan tamamladı.",
-        "[Dünya Gazetesi] Bakan Ersoy’dan Sivas Kongresi’nin 107. yıl dönümünde anlamlı mesaj — Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Sivas Kongresi'nin 107. yıl dönümü dolayısıyla mesaj yayımladı.",
-        "[Dünya Gazetesi] Çiftçilere 450 milyon liralık tarımsal destek ödemesi — Tarım ve Orman Bakanı İbrahim Yumaklı, hayvan hastalıkları tazminatı ve kırsal kalkınma yatırımları kapsamında 450 milyon 11 bin 586 liralık tarımsal destek ödemesinin üreticilerin hesaplarına aktarıl",
-        "[Anadolu Ajansı Ekonomi] Çiftçilere tarımsal destekleme ödemeleri yapılıyor — Tarım ve Orman Bakanı İbrahim Yumaklı, tarımsal destek ödemesi olarak toplam 450 milyon 11 bin 586 liranın çiftçilerin hesaplarına aktarılacağını bildirdi.",
-        "[Dünya Gazetesi] Kontrolmatik’te ödeme krizi derinleşti, 100 milyon liralık bono da ödenemedi — Kontrolmatik’in 4 Eylül vadeli 100 milyon TL nominal değerli finansman bonosunda itfa ve kupon ödemesi yapılamadı. Aynı gün bir başka tahvilin kuponu da ödenmezken, şirketin Mayıs ayında başlayan ödem",
-        "[Dünya Gazetesi] New York borsası karışık seyirle açıldı — New York borsası, ABD'de güçlü gelen istihdam verilerinin faiz artışı beklentilerini yeniden canlandırmasıyla haftanın son işlem gününe karışık seyirle başladı.",
-        "[Dünya Gazetesi] Süs bitkileri ihracatında Antalya'nın payı yüzde 41,6'ya ulaştı — Türkiye'nin süs bitkileri ve mamulleri ihracatının yılın ilk 8 ayında yüzde 41,6'sı Antalya'dan gerçekleştirildi. Kentin toplam ihracatı ise aynı dönemde geçen yılın aynı dönemine göre yüzde 12,3 artt",
-        "[Dünya Gazetesi] 2027 BAYRAM TARİHLERİ: 2026 Kurban Bayramı, Ramazan Bayramı ne zaman? — 2027 Kurban Bayramı ve Ramazan Bayramı tarihleri merak ediliyor. İslam alemi yeni yıl yaklaştıkça sorgulamalar artıyor. Zaman zaman gelen soru \"2027 Kurban Bayramı, Ramazan Bayramı ne zaman\" oluyor."
+        "[Dünya Gazetesi] Cumhurbaşkanı Erdoğan, BAE Devlet Başkanı Al Nahyan ile görüştü — Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşik Arap Emirlikleri Devlet Başkanı Muhammed bin Zayed Al Nahyan ile telefon görüşmesi gerçekleştirdi. Görüşmede, Türkiye ile Birleşik Arap Emirlikleri ikili i",
+        "[Dünya Gazetesi] 2 bin 34 sosyal medya hesabına erişim engeli — İletişim Başkanı Burhanettin Duran, milli güvenliği hedef alan, terör ve suç örgütleriyle bağlantılı olduğu tespit edilen 2 bin 34 sosyal medya hesabına erişim engeli getirildiğini açıkladı.",
+        "[Dünya Gazetesi] TCMB beklenen raporu açıkladı: Enflasyonun ana eğilimi Ağustos'ta sınırlı arttı — Türkiye Cumhuriyet Merkez Bankasının (TCMB) \"Ağustos Ayı Fiyat Gelişmeleri\" raporuna göre, tüketici fiyatları ağustosta yüzde 1,84 artarken yıllık enflasyon 0,24 puan gerileyerek yüzde 31,51'e indi. R",
+        "[Dünya Gazetesi] Galatasaray'da Victor Osimhen sakatlandı — Galatasaray’ın Nijeryalı futbolcusu Victor Osimhen, Başakşehir maçında 33. dakikasında sakatlığından dolayı oyundan çıkarken, Osimhen'in yerine Barış Alper Yılmaz oyuna girdi.",
+        "[Dünya Gazetesi] Rojin Kabaiş soruşturmasında yeni talepler savcılığa iletildi — Van'da 27 Eylül 2024'te kaybolan ve 15 Ekim 2024'te göl kıyısında cesedi bulunan 21 yaşındaki üniversite öğrencisi Rojin Kabaiş'in ailesinin avukatları, olayla ilgili soruşturmaya ilişkin yeni taleple",
+        "[Dünya Gazetesi] Eski Ankara Büyükşehir Belediye Başkanı Gökçek ifadesini verdi — Eski Ankara Büyükşehir Belediye Başkanı Melih Gökçek, Ankara Adliyesinde \"şüpheli\" sıfatıyla ifade verdi.",
+        "[Dünya Gazetesi] Avrupa borsaları Almanya hariç karışık kapandı — Avrupa borsaları, haftanın son işlem gününü ABD'de açıklanan güçlü istihdam verilerinin ardından artan faiz endişelerinin etkisiyle karışık tamamladı.",
+        "[Dünya Gazetesi] Fenerbahçe’ye UEFA şoku! Olaylı maçın ardından cezalar açıklandı — UEFA, Lyon-Fenerbahçe karşılaşmasının ardından Matteo Guendouzi ve Mason Greenwood hakkında verilen cezaları açıkladı.",
+        "[Dünya Gazetesi] Yumaklı: Bal üretiminde dünyada ikinci sıradayız — Tarım ve Orman Bakanı İbrahim Yumaklı, Türkiye'nin bal üretiminde dünyada ikinci sırada olduğunu belirterek, bu yıl 97 bin ile 100 bin ton arasında bal üretimi beklediklerini açıkladı. Yumaklı, Türkiy"
       ],
       "sources": [
         {
           "name": "Dünya Gazetesi",
           "url": "https://www.dunya.com"
-        },
-        {
-          "name": "Anadolu Ajansı Ekonomi",
-          "url": "https://www.aa.com.tr"
         }
       ]
     }
