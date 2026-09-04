@@ -1,23 +1,27 @@
 {
-  "generatedAt": "2026-09-04T03:48:11.957Z",
+  "generatedAt": "2026-09-04T06:29:47.637Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
+        "[Container News] Port Otago orders 10 hybrid straddle carriers from Konecranes — Port Otago in New Zealand has ordered 10 hybrid Konecranes Noell Straddle Carriers as part of the modernization of its container handling operations. The order also includes Konecranes’ complete Noell",
+        "[Container News] CMA CGM, ONE add capacity as Wan Hai expands orderbook — Containership fleet capacity continued to expand as new vessels were delivered for CMA CGM, ONE and other major operators, while Wan Hai added further ships to its orderbook, according to the August 2",
+        "[Splash247] Maritime technology’s annual bible launches — SplashTech is a new magazine launching today examining how technology is reshaping the way shipping operates, competes and makes decisions. Built around original interviews, industry data and practica",
         "[Container News] Kongsberg-led project targets wider adoption of wind propulsion in shipping — Kongsberg Maritime and a group of Norwegian maritime companies and research institutions have launched WINTEGRATE, a project aimed at accelerating the use of wind propulsion in commercial shipping. Th",
+        "[Splash247] Shipfix co-founder swaps freight screens for synths — Antoine Grisay, best known in shipping as the co-founder of maritime software platform Shipfix, has resurfaced with a rather different launch: electronic music under the nautical artist name Handysize",
         "[FreightWaves] How Supply Chain Leaders Should Approach Their Next AI Investment — AI investment in supply chain is accelerating — but so is the gap between companies seeing real returns and those still figuring out where to start. This white paper brings together the latest researc",
         "[Container News] Roberta Duarte to join Maersk as Chief People Officer — A.P. Moller – Maersk has appointed Roberta Duarte as its new Chief People Officer. Duarte will also join Maersk’s Executive Leadership Team when she assumes the role on 1 November 2026. The appointmen",
         "[FreightWaves] Samsara Q2 revenue jumps 30% as transportation, Mexico fuel growth — Samsara's transportation business accelerated for the third straight quarter as the technology company increased revenue 30%. The post Samsara Q2 revenue jumps 30% as transportation, Mexico fuel growt",
-        "[Container News] Swire Shipping revises Emergency Bunker Surcharge — Swire Shipping will revise its Emergency Bunker Surcharge (EBS) for several regional trades from 15 September 2026. The revised surcharge will apply to shipments with a Bill of Lading dated on or afte",
-        "[FreightWaves] XPO’s August metrics align with Q3 guidance — Less-than-truckload carrier XPO remains positioned to hit its third-quarter guidance after releasing its August operating metrics Thursday after the market closed. The post XPO’s August metrics align ",
-        "[FreightWaves] Cheapest Freight Isn’t Best When Delays Cost Millions — Cheapest freight isn’t always best, especially when a late shipment can cost millions. ShipStation Global CEO Tom Madine breaks down why SMB shippers need parcel, LTL and truckload in one workflow, an",
-        "[FreightWaves] NASCAR Engine Logistics: 9-12 Engines a Week — 850-pound NASCAR engines, moved cross-country on a tight build schedule and ground freight beat air. FreightWaves Today sits down with ShipStation Global and Toyota Racing Development (TRD) to break d",
-        "[FreightWaves] ShipStation LTL Launch: The Time-Saving Play for SMBs — ShipStation’s LTL launch could be a real time-saver for SMB shipping teams. In this discussion, Spiceology and ShipStation break down how manual shipping tasks eat up hours, how label time dropped fro"
+        "[Container News] Swire Shipping revises Emergency Bunker Surcharge — Swire Shipping will revise its Emergency Bunker Surcharge (EBS) for several regional trades from 15 September 2026. The revised surcharge will apply to shipments with a Bill of Lading dated on or afte"
       ],
       "sources": [
         {
           "name": "Container News",
           "url": "https://container-news.com"
+        },
+        {
+          "name": "Splash247",
+          "url": "https://splash247.com"
         },
         {
           "name": "FreightWaves",
@@ -28,15 +32,15 @@
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "[Dünya Gazetesi] Son dakika: Alsu gemisinin 2 kaptanı tutuklandı — Son dakika haberine göre, Silivri'deki gemi kazasına ilişkin soruşturma kapsamında, kazaya karışan Alsu gemisinin 1. ve 3. kaptanı tutuklandı.",
-        "[Dünya Gazetesi] Silivri gemi kazasının ön bilirkişi raporu hazırlandı — Silivri açıklarında iki Türk bayraklı ticari geminin çarpıştığı kazaya ilişkin ön bilirkişi raporu hazırlandı.",
+        "[Dünya Gazetesi] Savaş petrolü yeniden ateşledi: Brent 96 dolara dayandı — ABD ile İran arasındaki çatışmanın yeniden sertleşmesi ve Hürmüz Boğazı’ndaki gemi trafiğinin savaş öncesinin altında kalması petrolü yeniden yukarı taşıdı. Brent 96 dolara yaklaşırken enerji ithalatç",
         "[Taşıma Dünyası Gazetesi] Allison donanımlı Volvo R100E taş ocağında verimliliği artırıyor — Avusturya merkezli mineral yapı malzemeleri üreticisi Deisl-Beton, Salzburg yakınlarındaki Sulzau taş ocağında Allison 9610 Off Road Series (ORS) tam otomatik şanzıman donanımlı Volvo R100E rijit şasi",
         "[Taşıma Dünyası Gazetesi] PETRONAS, Automechanika Frankfurt’ta yeni çözümlerini tanıtacak — PETRONAS Madeni Yağlar, 8-12 Eylül tarihlerinde düzenlenecek Automechanika Frankfurt 2026’da yeni nesil madeni yağ ve sıvı teknolojilerini sergileyecek.",
         "[Taşıma Dünyası Gazetesi] Škoda Peaq’tan 936 kilometrelik menzil rekoru — Škoda’nın tamamen elektrikli yeni amiral gemisi Peaq, tek şarjla 936 kilometre yol kat ederek yedi koltuklu elektrikli SUV’lar arasında menzil rekoru kırdı.",
         "[Taşıma Dünyası Gazetesi] Opel’den eylüle özel finansman fırsatları — Opel, eylül ayında binek, SUV ve hafif ticari araç modellerinde avantajlı finansman seçenekleri sunuyor.",
         "[Taşıma Dünyası Gazetesi] Arnaud Belloni, FIAT, Abarth ve Lancia’nın yeni CEO’su oldu — Stellantis, yönetim kadrosunda önemli bir atamaya imza attı.",
         "[Taşıma Dünyası Gazetesi] Zemzem Turizm’den Tourismo yatırımı — Mercedes-Benz Türk bayi Hastalya Otomotiv turizm taşımacılığ alanının önde gelen şirketleri arasında yer alan Antalya merkezli Zemzem Turizm’e Tourismo teslimatı gerçekleştirdi.",
-        "[Taşıma Dünyası Gazetesi] TOBB 2027 yılı Ana Fuar Takvimi’ni yayımladı — Türkiye Odalar ve Borsalar Birliği (TOBB), iş dünyasının ve ticaretin can damarı olan \"2027 Yılı Ana Fuar Takvimi\"ni yayımladı. Takvime göre, önümüzdeki yıl Türkiye genelinde 99’u uluslararası olmak ü"
+        "[Taşıma Dünyası Gazetesi] TOBB 2027 yılı Ana Fuar Takvimi’ni yayımladı — Türkiye Odalar ve Borsalar Birliği (TOBB), iş dünyasının ve ticaretin can damarı olan \"2027 Yılı Ana Fuar Takvimi\"ni yayımladı. Takvime göre, önümüzdeki yıl Türkiye genelinde 99’u uluslararası olmak ü",
+        "[LojiPort] Deponuzu bugün doldurursanız 5 bin lira karlı çıkarsınız — Motorine bu gece yarısından itibaren geçerli olmak üzere litre başına 8,5 TL zam gelmesi bekleniyor. Deposu 500-600 litre yakıt alan bir TIR’ın deposunu zam öncesinde doldurarak en azından bir günlük "
       ],
       "sources": [
         {
@@ -46,45 +50,45 @@
         {
           "name": "Taşıma Dünyası Gazetesi",
           "url": "https://www.tasimadunyasi.com"
+        },
+        {
+          "name": "LojiPort",
+          "url": "https://www.lojiport.com"
         }
       ]
     },
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "[Investing.com] Direct Digital Holdings chairman and CEO sells $4,315 in shares",
-        "[Investing.com] GoDaddy director Sigal Zarmi sells $34,104 in company stock",
-        "[Investing.com] Palantir director Lauren Stat sells $244,915 in stock",
-        "[Investing.com] DigitalOcean SVP, CAO Cherie Barrett sells $421,334 of stock",
-        "[Investing.com] Asian shares climb ahead of US jobs data, Fed’s Waller soothes bonds",
-        "[Investing.com] Asia stocks rise as reduced Fed hike bets lift tech; U.S. jobs data awaited",
-        "[Forbes Business] 2026 Walker Cup: TV/Streaming Schedule, Formats, And How To Watch — The Walker Cup, pitting the United States against Great Britain and Ireland returns to Lahinch. How to watch and formats.",
-        "[Investing.com] Spyre Therapeutics officer Heidy King-Jones sells $2.48m in shares",
-        "[Investing.com] Spyre Therapeutics CFO Scott Burrows sells $2.28m in shares"
+        "[Investing.com] Kazera Global schedules shareholder vote on share issuance",
+        "[Investing.com] Shares rally ahead of US jobs data, Fed’s Waller soothes bonds",
+        "[Investing.com] Yellow Cake grants share awards to CEO and CFO",
+        "[Investing.com] Neoterra terminates growth capital facility with Zeus",
+        "[Investing.com] Oil heads for sharp weekly gains on escalating U.S.-Iran tensions",
+        "[Investing.com] Metals One secures £4m funding via promissory note",
+        "[Investing.com] UK-EU alignment is a “problem” for U.S. trade deal, Greer says - report",
+        "[Investing.com] Empyrean Energy sets AGM for Sept. 29, changes registered address",
+        "[Investing.com] One year after its founder’s death, Armani faces challenge of ’inevitable evolution’"
       ],
       "sources": [
         {
           "name": "Investing.com",
           "url": "https://www.investing.com"
-        },
-        {
-          "name": "Forbes Business",
-          "url": "https://www.forbes.com"
         }
       ]
     },
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "[Dünya Gazetesi] Altında kritik saat 15.30, tek veri fiyatı sert oynatabilir — Altın, perşembe günkü yüzde 2’yi aşan sıçramanın ardından 4 bin 480 dolar çevresinde tutunurken gram fiyatı 6 bin 900 lira bandında. Piyasada şimdi tüm dikkat, Fed beklentisini yeniden şekillendirebil",
-        "[Habertürk Ekonomi] Volkswagen, 50 bin kişiyi işten çıkaracak — Volkswagen Denetleme Kurulu, şirketin rekabet gücünü artırmak ve maliyetleri düşürmek adına 50 bin kişinin daha işten çıkarılmasını öngören kapsamlı revizyon planına onay verdi",
-        "[Dünya Gazetesi] Volkswagen 50 bin kişiyi işten çıkarma planını onayladı — Volkswagen Denetleme Kurulu, şirketin rekabet gücünü artırmak ve maliyetleri düşürmek amacıyla hazırlanan kapsamlı yeniden yapılanma planına onay verdi. Plan kapsamında dünya genelinde 50 bin ek istih",
-        "[Anadolu Ajansı Ekonomi] Volkswagen Denetleme Kurulu, 50 bin kişiyi daha işten çıkarma planını onayladı — Volkswagen Denetleme Kurulu, şirketin rekabet gücünü artırmak ve maliyetleri düşürmek adına 50 bin kişinin daha işten çıkarılmasını öngören kapsamlı revizyon planına onay verdi.",
-        "[Dünya Gazetesi] ABD Gizli Servis'inde güvenlik açığı: Politikalar yıllardır güncellenmemiş — ABD'de, Başkan Donald Trump'a yönelik 2024'teki suikast girişimi de dahil olmak üzere yaşanan güvenlik olaylarına rağmen, Gizli Servis'in güvenlik politikalarını uzun yıllar güncellemediği ortaya çıkt",
-        "[Dünya Gazetesi] Türk şirketlerden Rakka’da yatırım atağı — Suriye'nin Rakka kentinde 1500 dönümlük arazi üzerine sanayi ve zanaat bölgesi kurulması için Rakka Valiliği, Suriye Yatırım Kurumu ve Türk şirketleri arasında anlaşma imzalandı. Projenin üretim, isti",
-        "[Dünya Gazetesi] Sürdürülebilir Finans Çerçevesi’ne ‘tam uyum’ onayı — JCR Avrasya Derecelen­dirme (JCR-ER) tara­fından değerlendirilen Va­kıfBank’ın Sürdürülebilir Finans Çerçevesi, sürdürü­lebilir finans ilke ve prensip­leriyle “çok yüksek düzeyde uyumlu” olduğunu göst",
-        "[Dünya Gazetesi] Bilinmeyen Kapadokya’nın izinde — Kapadokya denildiğinde çoğumuzun zihninde aynı manzara beliriyor: Peri bacaları, vadiler, sıcak hava balonları ve Göreme’nin kartpostallara sığmayan görüntüsü… Oysa Kapadokya’nın hikâyesi, en çok bili",
-        "[Dünya Gazetesi] Gözler en zengin turnuvada — ABD Açık Tenis Turnuvası 1 milyonu aşkın seyircisi ve 600 milyon dolara yaklaşan geliriyle dünyanın en büyük spor etkinliklerinden birisi. Yine de turnuvanın yöneticileri bu rakamları daha da büyütebi"
+        "[Dünya Gazetesi] Nijerya'da korkunç facia: Yakıt çalmaya çalışan 43 kişi hayatını kaybetti — Nijerya'nın Rivers eyaletinde boru hattından yasa dışı yollarla yakıt çekmeye çalışan kişiler zehirli gaza maruz kaldı. Olayda 43 kişinin hayatını kaybettiği bildirilirken, çok sayıda kişinin ise kayı",
+        "[Anadolu Ajansı Ekonomi] Küresel piyasalar, ABD'de açıklanacak tarım dışı istihdam verisine odaklandı — Küresel piyasalar, ABD Merkez Bankasının (Fed) faiz artırımına gideceğine yönelik öngörülerin azalması ve tahvil faizlerindeki hafif gerilemenin etkisiyle pozitif seyrederken, gözler bugün ABD'de açık",
+        "[Dünya Gazetesi] KYK yurt sonuçları açıklandı mı, ne zaman açıklanacak? GSB yurt sonuç duyurusu geldi mi? — Günün en çok yöneltilen sorusu \"KYK yurt sonuçları açıklandı mı\" şeklinde. Yüz binlerin başvurusu sonrası sonuç tarihi gün geçtikçe daha yoğun şekilde araştırılıyor. Geçen sene 5 gün içinde açıklanan ",
+        "[Dünya Gazetesi] BBVA'dan enflasyon sonrası kritik tahmin: Faiz indirimi beklentisi öne çekildi — Türkiye İstatistik Kurumu'nun (TÜİK) ağustos enflasyonu verisinin ardından BBVA Research, yıl sonu enflasyon tahminini korurken Merkez Bankası için faiz beklentisini öne çekti. Kurum, eylülde fiyat ay",
+        "[Habertürk Ekonomi] Akaryakıtta çifte zam! — Motorinin litresine ortalama 7 lira 79 kuruş benzinin litresine ise 2 lira 57 kuruş zam geldi. Zamlı fiyatlar bugün itibarıyla pompaya yansıdı. Son artışla birlikte motorin fiyatları bugün itibarıyla ",
+        "[Dünya Gazetesi] Alihan Kuriş suç örgütü soruşturmasında yeni gelişme: 5 şirkete el konuldu — Ankara Cumhuriyet Başsavcılığının Alihan Kuriş suç örgütüne yönelik soruşturmasında MASAK incelemeleri sonrası 5 şirkete el konuldu. Şirketlerin sahibi İrfan Yılmaz hakkında ise üç ayrı suçtan gözaltı",
+        "[Dünya Gazetesi] Falkland Adaları petrol gerilimi büyüyor Milei'den yaptırım ve üs hamlesi — Arjantin, Falkland çevresindeki Sea Lion petrol projesine karşı yaptırım ve savunma baskısını artırıyor. Javier Milei, şirketlerin yanı sıra hissedar ve tedarikçileri de hedef alacak yeni adımlar ile ",
+        "[Dünya Gazetesi] Gümüş kritik eşikte! Yatırımcılar alım için harekete geçiyor — Gümüşte zirveden başlayan geri çekilme hız kazanırken, ons fiyatındaki kayıp yüzde 10'u aştı. Sert düşüşün ardından yatırımcıların gözü fiyatların tutunmaya çalıştığı seviyeye odaklanırken, \"bu düşüş ",
+        "[Habertürk Ekonomi] Kira sözleşmelerinde yeni dönem — Hazine ve Maliye Bakanlığınca devreye alınan 'kira sözleşmelerinin e-Devlet üzerinden yapılması' uygulamasıyla ev sahibi-kiracı bilgilerinin dijital ortamda kayıt altına alınması ve kilitlenen anlaşma"
       ],
       "sources": [
         {
@@ -92,12 +96,12 @@
           "url": "https://www.dunya.com"
         },
         {
-          "name": "Habertürk Ekonomi",
-          "url": "https://www.haberturk.com"
-        },
-        {
           "name": "Anadolu Ajansı Ekonomi",
           "url": "https://www.aa.com.tr"
+        },
+        {
+          "name": "Habertürk Ekonomi",
+          "url": "https://www.haberturk.com"
         }
       ]
     }
