@@ -1,18 +1,24 @@
 #!/usr/bin/env node
 /**
- * Lojistik ve finans RSS kaynaklarından haber çeker ve Google Gemini
- * API'sinin ÜCRETSİZ katmanını kullanarak, her kategori için TEK BİR
- * TÜRKÇE BRİFİNG METNİNE derler (kaynak başlıkları ne dilde olursa olsun).
- * Amaç: kullanıcının kaynak haber sitelerine gitmesine gerek kalmadan,
- * o kategoride neler olduğunu Türkçe olarak anlaması. Bu sistem tamamen
- * ücretsiz kalacak şekilde tasarlanmıştır: Gemini API'nin ücretsiz katmanı
- * kredi kartı gerektirmez (bkz. README "Bu sistem neden tamamen ücretsiz?"
- * bölümü).
+ * Lojistik ve finans RSS kaynaklarından haber çeker ve Groq API'sinin
+ * ÜCRETSİZ, kredi kartı istemeyen katmanını kullanarak, her kategori için
+ * TEK BİR TÜRKÇE BRİFİNG METNİNE derler (kaynak başlıkları ne dilde olursa
+ * olsun). Amaç: kullanıcının kaynak haber sitelerine gitmesine gerek
+ * kalmadan, o kategoride neler olduğunu Türkçe olarak anlaması. Bu sistem
+ * tamamen ücretsiz kalacak şekilde tasarlanmıştır: Groq'un ücretsiz
+ * geliştirici katmanı kredi kartı gerektirmez, sadece dakika/gün başına
+ * istek kotasıyla sınırlıdır (bkz. README "Bu sistem neden tamamen
+ * ücretsiz?" bölümü).
+ *
+ * NOT (2026-09-04): Bu script önceden Google Gemini API kullanıyordu.
+ * Gemini projesine beklenmedik şekilde bir ödeme hesabı/harcama tavanı
+ * bağlanıp "monthly spending cap exceeded" hatası vermeye başlaması
+ * üzerine, gerçekten ücretsiz ve kredi kartı istemeyen Groq'a geçildi.
  *
  * Kullanım:
- *   GEMINI_API_KEY=... node scripts/fetch-news.mjs
+ *   GROQ_API_KEY=... node scripts/fetch-news.mjs
  *
- * GEMINI_API_KEY tanımlı değilse script çalışmaya devam eder, ancak
+ * GROQ_API_KEY tanımlı değilse script çalışmaya devam eder, ancak
  * derleme/çeviri yapılamaz — ham kaynak metinleri (orijinal dilinde)
  * kısaltılarak kullanılır. Site yine de çalışır durumda kalır, ama asıl
  * değer (Türkçe derleme) için anahtar eklenmesi şiddetle önerilir.
@@ -22,7 +28,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import Parser from 'rss-parser';
-import { GoogleGenAI } from '@google/genai';
+import Groq from 'groq-sdk';
 import {
   SOURCES,
   CATEGORY_LABELS,
@@ -32,11 +38,9 @@ import {
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUTPUT_PATH = path.join(__dirname, '..', 'data', 'news.json');
-// Gemini'nin ücretsiz katımındaki en bütçe dostu modellerden biri.
-// NOT: gemini-2.5-flash-lite yeni kullanıcılar için kaldırıldı (Google'ın
-// kendi API hatası bunu belirtip gemini-3.5-flash-lite'a yönlendiriyor).
-// Güncel model adları için https://ai.google.dev/gemini-api/docs/models
-const MODEL = process.env.GEMINI_MODEL || 'gemini-3.5-flash-lite';
+// Groq'un ücretsiz katmanında sunulan, çok dilli/Türkçe talimat takibi
+// güçlü bir model. Güncel model listesi için https://console.groq.com/docs/models
+const MODEL = process.env.GROQ_MODEL || 'llama-3.3-70b-versatile';
 
 const parser = new Parser({
   timeout: 15000,
@@ -129,7 +133,7 @@ function uniqueSources(items) {
 
 /**
  * Bir promise'i verilen süre (ms) içinde tamamlanmazsa reddeden bir
- * yarışa sokar. Gemini API çağrısı bazen (nadiren) hiç yanıt vermeden
+ * yarışa sokar. AI API çağrısı bazen (nadiren) hiç yanıt vermeden
  * askıda kalabiliyor (bkz. run geçmişindeki 6 saatlik "askıda kalma"
  * vakaları) — bu sarmalayıcı olmadan tüm job, GitHub Actions'ın
  * varsayılan 6 saatlik job timeout'una kadar takılı kalıyordu.
@@ -149,10 +153,10 @@ function withTimeout(promise, ms, label) {
  * metinlerdir — kullanıcı bunları okuyarak kaynağa gitmeden habere hakim
  * olabilmelidir.
  */
-async function compileBriefing(genAI, items, categoryLabel) {
+async function compileBriefing(groq, items, categoryLabel) {
   if (items.length === 0) return [];
 
-  if (!genAI) {
+  if (!groq) {
     // API anahtarı yoksa çeviri/derleme yapılamaz; en iyi ihtimalle her
     // kaynağın kendi özetini (orijinal dilinde) kısaltarak sırala.
     return items
@@ -188,12 +192,15 @@ ${JSON.stringify(payload, null, 2)}`;
 
   try {
     const response = await withTimeout(
-      genAI.models.generateContent({ model: MODEL, contents: prompt }),
+      groq.chat.completions.create({
+        model: MODEL,
+        messages: [{ role: 'user', content: prompt }],
+      }),
       45000,
-      'Gemini API çağrısı'
+      'Groq API çağrısı'
     );
 
-    const text = response.text || '';
+    const text = response.choices?.[0]?.message?.content || '';
     const jsonMatch = text.match(/\{[\s\S]*\}/);
     if (!jsonMatch) throw new Error('Model yanıtında JSON nesnesi bulunamadı');
 
@@ -203,7 +210,7 @@ ${JSON.stringify(payload, null, 2)}`;
 
     return paragraphs;
   } catch (err) {
-    console.warn(`[uyarı] AI derlemesi başarısız oldu, ham başlıklar kullanılacak: ${err.message}`);
+    console.warn(`[uyarı] AI derlemesi başarısız oldu, ham başlıklar kullanılacak: ${err?.message || err}`);
     return items
       .slice(0, MAX_ITEMS_PER_CATEGORY)
       .map(
@@ -223,12 +230,12 @@ async function loadPreviousData() {
 }
 
 async function main() {
-  const apiKey = process.env.GEMINI_API_KEY;
-  const genAI = apiKey ? new GoogleGenAI({ apiKey }) : null;
+  const apiKey = process.env.GROQ_API_KEY;
+  const groq = apiKey ? new Groq({ apiKey }) : null;
 
-  if (!genAI) {
+  if (!groq) {
     console.warn(
-      '[uyarı] GEMINI_API_KEY tanımlı değil. Türkçe derleme atlanacak, ham başlıklar kullanılacak.'
+      '[uyarı] GROQ_API_KEY tanımlı değil. Türkçe derleme atlanacak, ham başlıklar kullanılacak.'
     );
   }
 
@@ -241,7 +248,7 @@ async function main() {
     console.log(`${rawItems.length} aday haber bulundu.`);
 
     const topItems = rawItems.slice(0, MAX_ITEMS_PER_CATEGORY);
-    let paragraphs = await compileBriefing(genAI, topItems, CATEGORY_LABELS[categoryKey]);
+    let paragraphs = await compileBriefing(groq, topItems, CATEGORY_LABELS[categoryKey]);
     let sources = uniqueSources(topItems);
 
     // Bu kategoride hiç yeni haber bulunamadıysa (kaynaklar geçici olarak
