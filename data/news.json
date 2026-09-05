@@ -1,17 +1,18 @@
 {
-  "generatedAt": "2026-09-05T17:53:26.284Z",
+  "generatedAt": "2026-09-05T21:53:20.532Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
-        "DSV, Air ThermoDirect ağı çerçevesinde yeni bir doğrudan bağlantı ekleyerek Lüksemburg ile Shanghai Pudong Uluslararası Havaalanı (PVG) arasında sıcaklık kontrollü hava kargo hizmetini genişletti. Yeni hizmet, özellikle ilaç sektörünün artan talebini karşılamak için tasarlanmış ve DSV'nin sıcaklık kontrollü hava kargo ağına güç katıyor. Şirket, ayrıca ABD'ye yönelik ek Air ThermoDirect bağlantıları planladığını duyurdu.",
-        "GWC Group, Oman'da gerçekleştirilen ilk donmuş hacimli gemi operasyonunu tamamlayarak Körfez bölgesindeki soğuk zincir ağına genişleme sağladı. Operasyon, gemi boşaltımı, sıcaklık kontrollü depolama ve sınır ötesi dağıtım hizmetlerini kapsadı. Ayrıca, Oman üzerinden Katar'a yönelik yeni bir donmuş kargo rotası oluşturdu.",
-        "Ocean Network Express (ONE), Singapur'da konteyner transşipmanları için tehlikeli madde (DG) işlem ücretlerinde değişiklik yapacağını açıkladı. Değişiklikler, PSA Group'un UN numaraları için yeniden düzenlenen sınıflandırmalarına dayanıyor ve özellikle pil ve pil ile ilgili tehlikeli maddelere odaklanıyor. ONE, yeni sınıflandırmaların konteyner işlemleri, ayrım ve diğer gereksinimleri etkileyebileceğini belirtti.",
-        "Alfa Laval, Hukka-5 adında yeni bir egzoz gazı ısı geri kazanım kazanını tanıttı. Sistem, kruvaziyer gemi ve yolcu feribotlarında egzoz gazı atık ısıyı buhar üretmek için kullanıyor. Bu teknoloji, gemilerin yakıt tüketimini ve CO₂ emisyonlarını azaltarak çevresel performansı iyileştirmeyi hedefliyor.",
-        "Neptune Pacific, Ağustos 2026'da Norfolk Adası'na ilk ağır yük taşıma yolculuğunu başarıyla tamamladı. Operasyon, 18,5 tonluk maksimum kaldırma kapasitesine sahip bir vinç kullanarak platform kamyon, itfaiye eğitimi ekipmanı ve bir kazıcı taşıdı. Gemide ayrıca yerel topluluk için kritik olan diğer ekipmanlar da taşındı.",
-        "Hapag-Lloyd, MSW (Mediterranean-South America West Coast) hizmetinde gemi değişikliği yaptı. 16 Eylül 2026'da CAPE CORFU seferi, Tanger Med'de PUERTO LIMON EXPRESS ile değiştirildi. İthalat yükü, CAPE CORFU'dan PUERTO LIMON EXPRESS'e geçerken Tanger Med'de transfer edildi.",
-        "Norveç, Arktik Svalbard adalarında bir gemi esareti sonrasında Rus yolculara ve tedarikçilere yardım sağlamayı planlıyor. Oslo merkezli yetkililer, göçmenlere ve malzemelere ulaşım için gerekli desteği sunacağını açıkladı. Destek, bölgede mahsur kalanların güvenli bir şekilde transfer edilmesini hedefliyor.",
-        "ABD, Hızlı Gelişen Kızılcık Korkusuzluk Savaşı sırasında İran'ın petrol tankerlerini yok edip iki diğer gemiyi devre dışı bıraktı. Bu saldırı, ABD Donanması'na yönelik balistik füze saldırılarına yanıt olarak gerçekleştirildi. Aynı dönemde, Ekvador, ABD'nin haftalık operasyonları sırasında üç Ekvador gemisini boğduğu iddialarına karşı savunma yaptı ve bu eylemlerin ortak uyuşturucu operasyonunun bir parçası olduğunu vurguladı."
+        "[Container News] DynaLiners Shares Index slips after eight weeks of gains — The DynaLiners Shares Index (DLSI) recorded a slight correction after eight consecutive weeks of gains. The Overall index fell 53 points, or 1.9%, to 2,712. The decline came after the index reached an",
+        "[Container News] Maersk outlines new identification requirements for Pakistan imports — Maersk has informed customers of new mandatory consignee identification requirements for all import shipments destined for Pakistan, effective 15 August 2026. The requirements follow Pakistan Customs’",
+        "[Container News] A Caspian sandbar is quietly rewriting the rules of global shipping — New logistics projects are showing the shipping industry that the cheapest route is no longer automatically the right one. The post A Caspian sandbar is quietly rewriting the rules of global shipping ",
+        "[Container News] Maersk updates local charges and fuel surcharges across several markets — Maersk has announced a series of pricing updates covering Brazil, Cyprus and North Macedonia, including revised local charges and inland fuel surcharges. The changes take effect between 7 September an",
+        "[Container News] DSV expands temperature-controlled air freight network to Shanghai — DSV is expanding its Air ThermoDirect network with a new direct connection between Luxembourg and Shanghai Pudong International Airport (PVG). The new service strengthens DSV’s temperature-controlled ",
+        "[gCaptain] Norway To Help Russians Stranded In Arctic After ship Seizure — OSLO, Sept 4 (Reuters) – Norway will provide necessary assistance to Russians in the Arctic Svalbard islands following the arrest of a ship transporting passengers and supplies to the archipelago, the",
+        "[Container News] Hapag-Lloyd replaces vessel on MSW service — Hapag-Lloyd has announced a vessel change on its Mediterranean-South America West Coast (MSW) service in September. The CAPE CORFU voyage 637S will phase out at Tanger Med on 16 September 2026. It wil",
+        "[gCaptain] Ecuador Says US Sinkings Of Vessels Were Part Of Joint Anti-Drug Probe — By Alexandra Valencia and Yury Garcia QUITO, Sept 4 (Reuters) – Ecuador defended on Friday U.S. operations that intercepted and sank three Ecuadorean vessels this week, while relatives of some crew me",
+        "[gCaptain] U.S. Destroys Iranian Tanker, Disables Two Others After Missile Attacks on Navy Warships — U.S. forces struck three Iranian oil tankers on Saturday after Iran’s Islamic Revolutionary Guard Corps launched ballistic missiles at two U.S. Navy warships, marking another sharp escalation in the m"
       ],
       "sources": [
         {
@@ -27,11 +28,10 @@
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "ABD'nin CENTCOM'unun açıklamasına göre, İran 3 petrol tankerini hedef alarak vurdu. Misilleme olarak İran Devrim Muhafızları'na ait bu tankerlerin ABD savaş gemilerine balistik füze saldırısı düzenlediği bildirildi. Operasyon, bölgesel güvenlik geriliminin artmasına işaret ediyor.",
-        "Ankara, yılın ilk sekiz ayında ihracatını %20,7 artırarak 12,156 milyar dolara ulaştırdı. Bu rakam, Türkiye'nin en fazla ihracat yapan üçüncü ili olmasını sağlamış durumda. Ağustos ayında üç yılın aynı ayına ait en yüksek dış satım tutarına erişildi.",
-        "Karayolları Genel Müdürlüğü, Niğde-Pozantı, Gaziantep Çevre Otoyolu ve Bursa Çevre Otoyolu'nun belirli bölümlerini kapsayan 30 yıllık özelleştirme programını Resmî Gazete'de yayımladı. Aynı karar kapsamında İstanbul Boğazı'ndaki 15 Temmuz Şehitler Köprüsü ve Fatih Sultan Mehmet Köprüsü de özelleştirme programına dahil edildi. Sözleşme süresi 30 yıl olarak belirlenirken, mülkiyet devri yapılmayacak.",
-        "Renault, Master serisini 16+1 koltuklı Minibüs ve açık kasa Kamyonet seçenekleriyle genişletti. Yeni Minibüs, Personel ve Okul paketleriyle servis taşımacılığına yönelik çözümler sunuyor. Açık kasa modelleri ise üç farklı seçenekle profesyonel kullanıcılara hitap ediyor.",
-        "MAXUS, DELIVER 7 L1H1 ve DELIVER 9 L3H2 panelvan modelleri için 400 bin TL tutarında 9 ay vadeli, %0 faizli ticari kredi imkânı tanıdı. Bu teklif, hafif ticari araç kullanıcılarının işlevselliği ve konforunu birleştirmeyi amaçlıyor. Kredi, kullanıcıların finansal esneklik kazanmasını sağlayacak."
+        "İran Devrim Muhafızları Ordusu, ABD’nin Basra Körfezi’ndeki İran'a ait ticari gemilere yönelik saldırılara yanıt olarak, Hürmüz Boğazı'ndan izinsiz geçen üç petrol tankeri ve diğer bölgelerde ABD bağlantılı üç gemiyi hedef aldığını duyurdu. CENTCOM, ABD’nin bölgedeki iki savaş gemisine balistik füze saldırısı düzenlemesini açıklarken, aynı zamanda İran Devrim Muhafızları’na ait üç petrol tankeri hedef alındığını bildirdi. Bu gelişmeler, iki ülke arasındaki deniz güvenliği geriliminin devam ettiğini gösteriyor. ",
+        "Karayolları Genel Müdürlüğü, 30 yıllık özelleştirme süresiyle, Niğde‑Pozantı Otoyolu, Gaziantep Çevre Otoyolu ve Bursa Çevre Otoyolu’nun bir bölümü de dahil olmak üzere 2 köprü (15 Temmuz Şehitler Köprüsü ve Fatih Sultan Mehmet Köprüsü) ve 8 otoyolun özelleştirilmesine ilişkin kararı Resmi Gazete’de yayımladı. Mülkiyet devri yapılmayacak, sözleşmelerin süresi 30 yıl olarak belirlendi. Bu karar, Türkiye'nin altyapı projelerinde özel sektör işbirliğini artırmayı hedefliyor. ",
+        "Renault, Türkiye pazarında Master serisini 16+1 kişilik Minibüs ve açık kasa Kamyonet seçenekleriyle genişletti. Yeni Master Minibüs, Personel ve Okul paketleriyle farklı taşımacılık ihtiyaçlarına hizmet ediyor; Master Kamyonet ise üç farklı açık kasa seçeneğiyle profesyonel kullanıcılara yönelik çözümler sunuyor. Ayrıca, Renault ve Peugeot, eylül ayı için binek ve hafif ticari araç modellerinde yüzde 0 faizli 9 aylık ticari kredi imkânı sunarak finansman fırsatlarını genişletiyor. ",
+        "Turizm Taşımacıları Derneği (TTDER) Başkanı Sümer Yığcı, yönetiminde Ağustos ayı toplantısını gerçekleştirdi."
       ],
       "sources": [
         {
@@ -51,13 +51,15 @@
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "Lululemon (LULU) şirketi, analistler tarafından hedeflerinin düşürülmesiyle zorluk içinde. Yeni performans raporları, şirketin büyüme beklentilerinin düşürüldüğünü gösterdi. Hükümetin ve yatırımcıların beklentileri arasındaki farkın, Lululemon'un gelecekteki stratejik kararlarını etkileyebileceği belirtiliyor.",
-        "Ortalama 401(k) bakiyesi 167.970 dolarlık bir değerken, 4% kuralı bu miktarı aylık 560 dolar olarak çeviriyor. Sosyal Güvenlik ödemeleri ise 2.081 dolar olarak bildirildi. Bu rakamlar, emeklilik planlamasında önemli bir referans noktası oluşturuyor.",
-        "Multifamily kredisi veren kurumlar, geleneksel Sun Belt merkezli pazarlardan uzaklaşıp yeni alanlara yöneldi. Bu strateji, daha geniş bir coğrafyada yatırım yapma fırsatını artırmayı hedefliyor. Yeniden konumlandırma, sektörün büyüme dinamiklerini yeniden şekillendirebilir.",
-        "Federal Reserve Beige Book, veri merkezlerinin önderliğinde hafif bir büyüme rapor ediyor. Aynı dönemde Schwab tahvil ETF'leri milyarlarca dolarlık yeni yatırımı çekiyor. Ancak, Eylül ayında CMBS vadesi yaklaşırken yeniden finanse riskinin artacağı uyarısı yapıldı. Bu durum, sabit getirili varlık piyasalarında risk ve fırsat dengesinin yeniden gözden geçirilmesine yol açıyor.",
-        "Lowe's, bir milyon adet altı haneli istihdam yaratmayı hedefleyen bir plan ortaya koydu. Bu girişim, perakende sektöründe istihdamı artırma ve tedarik zincirine katkıda bulunma amacı taşıyor. Şirket, yeni iş alanlarını genişletirken aynı zamanda büyüme stratejisini güçlendirmeyi planlıyor.",
-        "Bir araştırma, sağlık hizmeti, rekreasyon olanakları ve düşük vergi oranları nedeniyle bir eyaleti emekliler için en iyi konum olarak öne çıkardı. Bu faktörler, yaşlı nüfusun yaşam kalitesini artırma potansiyelini vurguluyor. Eyalet, emeklilerin yaşam koşullarını iyileştirmek için önemli bir seçenek olarak kabul ediliyor.",
-        "NYT Connections, 6 Eylül Pazar günü için ipuçları ve cevapları yayınlamış. Oyuncular, günlük bulmaca deneyimini sürdürmek için bu bilgilerden faydalanabilirler."
+        "[Yahoo Finance] Cathie Wood buys surging crypto stock despite latest controversy",
+        "[Investing.com] US, Iranian forces fire at vessels in waters near Iran",
+        "[Yahoo Finance] Over 55 in California, You Can Sell the House and Take Your 1985 Property-Tax Bill With You to the New One, Anywhere in the State, Up to Three Times",
+        "[Yahoo Finance] Coca-Cola Stock at $88: Here's Why Investors Should Pause",
+        "[Investing.com] Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+        "[Yahoo Finance] Insurers Have Already Told Wall Street Which Advantage Plans Die on December 31. Members Are the Last to Know, and the Letter Isn’t Due Until October 2.",
+        "[Yahoo Finance] Prediction: Here's What a $5,000 Investment in Eli Lilly Could Look Like in 5 Years",
+        "[Investing.com] Is TTF gas fairly priced as Hormuz, winter risks keep prices elevated?",
+        "[Yahoo Finance] He Sold His Land to a Data Center Developer and Turned Down the Full Check. The Reason Showed Up Two Years Later."
       ],
       "sources": [
         {
@@ -65,29 +67,27 @@
           "url": "https://finance.yahoo.com"
         },
         {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com"
-        },
-        {
-          "name": "Forbes Business",
-          "url": "https://www.forbes.com"
+          "name": "Investing.com",
+          "url": "https://www.investing.com"
         }
       ]
     },
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "Adalet Bakanı Akın Gürlek, Fenerbahçe‑Beşiktaş derbisi öncesi yürütülen operasyonla 345 yasa dışı bahis sitesine bağlı yaklaşık 98.000 internet sitesinin tespit edildiğini ve yasa dışı bahis ile suç gelirleriyle bağlantılı 1.200 banka hesabına el konulduğunu açıkladı. Operasyon kapsamında elde edilen kanıtlar, yasalara uygun olmayan bahis faaliyetlerinin finansal altyapısının geniş kapsamlı bir şekilde ortadan kaldırılmasına yönelik yürütülen adımları göstermektedir. Bu uygulama, finansal suçların önlenmesi ve bankacılık sektörünün temizlenmesi hedefiyle yürütülmektedir.",
-        "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, ekonominin üç yıllık yol haritasını belirleyecek güncellenmiş Orta Vadeli Programı yarın saat 11.00'de Cumhurbaşkanlığı Külliyesi’nde kamuoyuyla paylaşacağını duyurdu. Program, mali politikalar, büyüme hedefleri ve sürdürülebilir kalkınma stratejilerini içermekte olup, ülke ekonomisinin geleceği için kapsamlı bir plan sunmaktadır. Yarın yapılacak açıklama, yatırımcılar ve sektör aktörleri için önemli bir referans kaynağı olmayı bekliyor."
+        "Fenerbahçe ve Beşiktaş arasında oynanan Süper Lig derbisi 2-1 Beşiktaş lehine sonuçlandı. Derbinin ardından Fenerbahçe Kulübü Başkanı Aziz Yıldırım, hakem kararlarının takımını adaletsiz bir şekilde cezalandırdığını ifade ederek, “Bizim takımımız iyi oynamadı ama takımın hakkını yediler. İnce ince doğradılar” dedi.",
+        "Üsküdar Belediyesi'nde yapı ve iskan ruhsatı işlemlerinde usulsüzlük yapıldığı iddiasıyla yürütülen soruşturma kapsamında, Belediye Başkan Yardımcısı Amine Cansu Çelik'in de dahil olduğu üç şüpheli tutuklandı. Tespit edilen usulsüzlükler, ruhsat işlemlerinin adaletli bir şekilde yürütülmesini sağlamak amacıyla soruşturma kapsamına alınmıştır.",
+        "Dışişleri Bakanı Hakan Fidan, İran Dışişleri Bakanı Abbas Erakçi ile telefon üzerinden görüşme yaptı. Görüşmede, iki ülke arasındaki mevcut ilişkiler ve bölgesel güvenlik konuları ele alındı.",
+        "DEM Parti Ağrı Belediye eş başkanı Mehmet Akkuş, uzun süredir mücadele ettiği kanser nedeniyle hayatını kaybetti. Parti eş başkanları Tülay Hatimoğulları ve Tuncer Bakırhan, vefat haberi üzerine derin üzüntülerini ifade ederek ailesine başsağlığı diledi.",
+        "İran Devrim Muhafızları Ordusu, ABD'nin Basra Körfezi'nde İran ticari gemilerine yönelik saldırılara misilleme olarak Hürmüz Boğazı'ndan geçerek izinsiz geçen üç petrol tankeri ile diğer bölgelerde ABD bağlantılı üç gemiyi hedef aldıklarını duyurdu.",
+        "Trendyol 2026 CEV Kadınlar Avrupa Voleybol Şampiyonası'nda Türkiye'nin finalde karşılaşacağı rakip belirlendi. Türkiye, şampiyonada karşılaşacağı takımın kim olduğuna dair bilgi paylaşıldı.",
+        "İngiltere Premier Lig'in üçüncü haftasında oynanan maçta Hull City, evinde Aston Villa ile 0-0 berabere kaldı.",
+        "İran'ın batısındaki Hamedan-Senendec karayolunda, yakıt taşıyan bir tanker ve diğer araçların kaza yapması sonucu patlama meydana geldi. Olayda toplam 11 kişi hayatını kaybetti."
       ],
       "sources": [
         {
           "name": "Dünya Gazetesi",
           "url": "https://www.dunya.com"
-        },
-        {
-          "name": "Anadolu Ajansı Ekonomi",
-          "url": "https://www.aa.com.tr"
         }
       ]
     }
