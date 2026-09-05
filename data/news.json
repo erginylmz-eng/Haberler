@@ -1,16 +1,17 @@
 {
-  "generatedAt": "2026-09-05T14:29:38.514Z",
+  "generatedAt": "2026-09-05T17:53:26.284Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
-        "GWC Group, Oman’da gerçekleştirilen ilk donmuş kütle gemisi operasyonlarından birini tamamlayarak Körfez bölgesindeki soğuk zincir ağını genişletti. Operasyon, gemi boşaltımı, sıcaklık kontrollü depolama ve sınır ötesi dağıtımı kapsadı ve Qatar’a donmuş kargolar için yeni bir güzergah açtı.",
-        "Ocean Network Express (ONE), Singapur üzerinden geçen konteynerlerde tehlikeli madde (DM) taşıma ücretlerinde değişiklik duyurdu. Değişiklikler, PSA Group’un UN numaraları için güncel sınıflandırmalarına dayanıyor ve özellikle batarya ile ilgili DM’leri etkiliyor. Bu güncellemeler, yükleme, segregasyon ve diğer operasyonel gereksinimleri yeniden şekillendirecek.",
-        "Alfa Laval, Hukka-5 adlı yeni bir egzoz gazı ısı geri kazanım kazanı tanıttı. Bu sistem, kruvaziyer gemi ve yolcu feribotlarında egzoz gazı atık ısısını kullanarak buhar üretiyor ve böylece yakıt tüketimini ile CO₂ emisyonlarını azaltıyor. Proje siparişleri için hemen mevcuttur.",
-        "MacGregor, TT-Line’in iki yeni batarya-hibrit LNG feribotu için RoRo ekipmanı tedarik sözleşmesi imzaladı. Sözleşme, Çinli Jinling Shipyard ile gerçekleştirildi ve şirketin en kapsamlı RoPax ekipmanı kapsamlarından biri olarak tanımlandı.",
-        "MSC, Transpacifik hizmetleri arasında liman çağrılarını yeniden düzenledi. Hai Phong ve Oakland limanları Sentosa döngüsünden Pearl döngüsüne taşındı; Xiamen limanı ise aynı konumda kaldı. Bu değişiklik, Pearl rotasyonunun yapısını güncelledi.",
-        "ABB, Yeni Zelanda’nın Cook Strait Fırılıs Değişim Programı kapsamında Kupe ve Cook adlı iki yeni Ro-Pax feribotuna güç, itici ve otomasyon sistemleri tedarik edecek. Feribotlar Guangzhou Shipyard International tarafından inşa edilecek ve Ferry Holdings Limited tarafından teslim alınacak.",
-        "KfW IPEX-Bank, inşaat malzemesi taşımacılığı için iki yeni nesil, kendiliğinden boşaltan kütle gemisi inşası amacıyla 79,3 milyon Euro’luk bir finansman sağladı. Her geminin maksimum 44.000 ton yük kapasitesi ve düşük karbonlu operasyonlar için çift yakıt motorları bulunacak. Gemiler, Avrupa ve uluslararası ihracat pazarlarını hedef alacak."
+        "DSV, Air ThermoDirect ağı çerçevesinde yeni bir doğrudan bağlantı ekleyerek Lüksemburg ile Shanghai Pudong Uluslararası Havaalanı (PVG) arasında sıcaklık kontrollü hava kargo hizmetini genişletti. Yeni hizmet, özellikle ilaç sektörünün artan talebini karşılamak için tasarlanmış ve DSV'nin sıcaklık kontrollü hava kargo ağına güç katıyor. Şirket, ayrıca ABD'ye yönelik ek Air ThermoDirect bağlantıları planladığını duyurdu.",
+        "GWC Group, Oman'da gerçekleştirilen ilk donmuş hacimli gemi operasyonunu tamamlayarak Körfez bölgesindeki soğuk zincir ağına genişleme sağladı. Operasyon, gemi boşaltımı, sıcaklık kontrollü depolama ve sınır ötesi dağıtım hizmetlerini kapsadı. Ayrıca, Oman üzerinden Katar'a yönelik yeni bir donmuş kargo rotası oluşturdu.",
+        "Ocean Network Express (ONE), Singapur'da konteyner transşipmanları için tehlikeli madde (DG) işlem ücretlerinde değişiklik yapacağını açıkladı. Değişiklikler, PSA Group'un UN numaraları için yeniden düzenlenen sınıflandırmalarına dayanıyor ve özellikle pil ve pil ile ilgili tehlikeli maddelere odaklanıyor. ONE, yeni sınıflandırmaların konteyner işlemleri, ayrım ve diğer gereksinimleri etkileyebileceğini belirtti.",
+        "Alfa Laval, Hukka-5 adında yeni bir egzoz gazı ısı geri kazanım kazanını tanıttı. Sistem, kruvaziyer gemi ve yolcu feribotlarında egzoz gazı atık ısıyı buhar üretmek için kullanıyor. Bu teknoloji, gemilerin yakıt tüketimini ve CO₂ emisyonlarını azaltarak çevresel performansı iyileştirmeyi hedefliyor.",
+        "Neptune Pacific, Ağustos 2026'da Norfolk Adası'na ilk ağır yük taşıma yolculuğunu başarıyla tamamladı. Operasyon, 18,5 tonluk maksimum kaldırma kapasitesine sahip bir vinç kullanarak platform kamyon, itfaiye eğitimi ekipmanı ve bir kazıcı taşıdı. Gemide ayrıca yerel topluluk için kritik olan diğer ekipmanlar da taşındı.",
+        "Hapag-Lloyd, MSW (Mediterranean-South America West Coast) hizmetinde gemi değişikliği yaptı. 16 Eylül 2026'da CAPE CORFU seferi, Tanger Med'de PUERTO LIMON EXPRESS ile değiştirildi. İthalat yükü, CAPE CORFU'dan PUERTO LIMON EXPRESS'e geçerken Tanger Med'de transfer edildi.",
+        "Norveç, Arktik Svalbard adalarında bir gemi esareti sonrasında Rus yolculara ve tedarikçilere yardım sağlamayı planlıyor. Oslo merkezli yetkililer, göçmenlere ve malzemelere ulaşım için gerekli desteği sunacağını açıkladı. Destek, bölgede mahsur kalanların güvenli bir şekilde transfer edilmesini hedefliyor.",
+        "ABD, Hızlı Gelişen Kızılcık Korkusuzluk Savaşı sırasında İran'ın petrol tankerlerini yok edip iki diğer gemiyi devre dışı bıraktı. Bu saldırı, ABD Donanması'na yönelik balistik füze saldırılarına yanıt olarak gerçekleştirildi. Aynı dönemde, Ekvador, ABD'nin haftalık operasyonları sırasında üç Ekvador gemisini boğduğu iddialarına karşı savunma yaptı ve bu eylemlerin ortak uyuşturucu operasyonunun bir parçası olduğunu vurguladı."
       ],
       "sources": [
         {
@@ -18,21 +19,19 @@
           "url": "https://container-news.com"
         },
         {
-          "name": "FreightWaves",
-          "url": "https://www.freightwaves.com"
+          "name": "gCaptain",
+          "url": "https://gcaptain.com"
         }
       ]
     },
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "ABD'nin Kuzeybatı Karadeniz'de gerçekleştirdiği balistik füze saldırısının ardından, CENTCOM'un açıklamasına göre İran Devrim Muhafızları'na ait üç petrol tankeri hedef alındı. Bu gelişme, ABD-İran arasındaki gerginliğin bir misilleme olarak değerlendirilirken, bölgedeki deniz güvenliği ve enerji lojistiği açısından kritik bir gelişme olarak kayda geçti.",
-        "Yunanistan'da un fiyatları yüzde 10 oranında yükselmeye devam ediyor. Büyük un fabrikaları, sanayi tipi gıda üreticileri ve fırınlar, ton başına 40 euro'luk zam bildirdi. Küresel tahıl piyasasındaki kısıtlı tedarik, nakliye maliyetleri ve üretim giderlerinin artması, ekmek ve makarna fiyatlarına yeni bir baskı oluşturuyor.",
-        "Ankara, yılın ilk sekiz ayında ihracatını yüzde 20,7 artırarak 12 milyar 156 milyon dolara yükseltti ve Türkiye'nin en fazla ihracat yapan üçüncü il oldu. Başkentin ülke ihracatındaki payı hızla büyürken, Ağustos ayı son üç yılın aynı ayına ait en yüksek dış satım tutarına ulaştı. Bu artış, Ankara'nın lojistik altyapısının ve ihracat ağlarının etkinliğinin bir göstergesi olarak değerlendiriliyor.",
-        "Karayolları Genel Müdürlüğü'ne bağlı köprü ve otoyollarda 30 yıllık özelleştirme programı Resmî Gazete’de yayımlandı. Niğde-Pozantı Otoyolu, Gaziantep Çevre Otoyolu ve Bursa Çevre Otoyolu’nun bir bölümü de program kapsamında olup, 15 Temmuz Şehitler Köprüsü ve Fatih Sultan Mehmet Köprüsü de dahil olmak üzere 2 köprü ve 8 otoyol özelleştirilecek. Mülkiyet devri yapılmayacak ancak sözleşme süresi 30 yıl olarak belirlendi.",
-        "Renault, Türkiye'de Master serisini 16+1 kişilik Minibüs ve açık kasa Kamyonet seçenekleriyle genişletti. Yeni Master Minibüs, Personel ve Okul paketleriyle servis taşımacılığına yönelik çözümler sunarken, üç farklı açık kasa seçeneği ile Master Kamyonet profesyonel kullanıcıların ihtiyaçlarını karşılamayı hedefliyor. Bu ürün lansmanı, yerel lojistik ve taşımacılık sektöründeki rekabeti güçlendirecek gibi görünüyor.",
-        "Turizm Taşımacıları Derneği (TTDER) Başkanı Sümer Yığcı'nın yönettiği dernek, Ağustos ayı yönetim toplantısını gerçekleştirerek sektörel gelişmeleri ve geleceğe yönelik stratejileri değerlendirdi. Toplantıda, turizm taşımacılığı alanındaki son trendler ve regülasyon değişiklikleri ele alındı.",
-        "KKTC Başbakanı Ünal Üstel, Girne açıklarında batan yolcu gemisinde bir kişinin daha naaşına ulaşıldığını açıkladı. Denizdeki kazada hayatını kaybedenlerin sayısı 13’e yükselirken, 15 kişilik kayıp listesi için arama kurtarma çalışmaları sürüyor."
+        "ABD'nin CENTCOM'unun açıklamasına göre, İran 3 petrol tankerini hedef alarak vurdu. Misilleme olarak İran Devrim Muhafızları'na ait bu tankerlerin ABD savaş gemilerine balistik füze saldırısı düzenlediği bildirildi. Operasyon, bölgesel güvenlik geriliminin artmasına işaret ediyor.",
+        "Ankara, yılın ilk sekiz ayında ihracatını %20,7 artırarak 12,156 milyar dolara ulaştırdı. Bu rakam, Türkiye'nin en fazla ihracat yapan üçüncü ili olmasını sağlamış durumda. Ağustos ayında üç yılın aynı ayına ait en yüksek dış satım tutarına erişildi.",
+        "Karayolları Genel Müdürlüğü, Niğde-Pozantı, Gaziantep Çevre Otoyolu ve Bursa Çevre Otoyolu'nun belirli bölümlerini kapsayan 30 yıllık özelleştirme programını Resmî Gazete'de yayımladı. Aynı karar kapsamında İstanbul Boğazı'ndaki 15 Temmuz Şehitler Köprüsü ve Fatih Sultan Mehmet Köprüsü de özelleştirme programına dahil edildi. Sözleşme süresi 30 yıl olarak belirlenirken, mülkiyet devri yapılmayacak.",
+        "Renault, Master serisini 16+1 koltuklı Minibüs ve açık kasa Kamyonet seçenekleriyle genişletti. Yeni Minibüs, Personel ve Okul paketleriyle servis taşımacılığına yönelik çözümler sunuyor. Açık kasa modelleri ise üç farklı seçenekle profesyonel kullanıcılara hitap ediyor.",
+        "MAXUS, DELIVER 7 L1H1 ve DELIVER 9 L3H2 panelvan modelleri için 400 bin TL tutarında 9 ay vadeli, %0 faizli ticari kredi imkânı tanıdı. Bu teklif, hafif ticari araç kullanıcılarının işlevselliği ve konforunu birleştirmeyi amaçlıyor. Kredi, kullanıcıların finansal esneklik kazanmasını sağlayacak."
       ],
       "sources": [
         {
@@ -52,15 +51,13 @@
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "[Yahoo Finance] Annuities have gotten a bad rap. Here's why Jean Chatzky likes them.",
-        "[Yahoo Finance] 'They're going to need to hike rates': Wall Street weighs in on Fed's next policy decision after blowout jobs report",
-        "[Yahoo Finance] Anthropic's IPO Could Value It at 30 Times Revenue. Here's Why I'm Still Interested Anyway.",
-        "[MarketWatch] Medicare Advantage patients who get diagnosed with Alzheimer’s or other serious diseases are ditching their plans — and it can cost them — The annual Medicare open-enrollment period runs from Oct. 15 to Dec. 7.",
-        "[Yahoo Finance] Morgan Stanley delivers bold Carvana stock verdict",
-        "[Yahoo Finance] 3 Incredible High-Growth Stocks to Buy With $10,000 Right Now",
-        "[Yahoo Finance] Bitcoin Just Exploded 40% From Its July Low — Is $100,000 Back on the Table?",
-        "[Forbes Business] ‘Silo’ Just Set An IMDB Review Score Record — Silo season 3's finale blew away fans, and now the show has set an IMDB record with its review scores ahead of season 4.",
-        "[Yahoo Finance] He Took a Military Pension Lump Sum. His Monthly Retired Pay Stayed Lower Until Social Security’s Full Retirement Age."
+        "Lululemon (LULU) şirketi, analistler tarafından hedeflerinin düşürülmesiyle zorluk içinde. Yeni performans raporları, şirketin büyüme beklentilerinin düşürüldüğünü gösterdi. Hükümetin ve yatırımcıların beklentileri arasındaki farkın, Lululemon'un gelecekteki stratejik kararlarını etkileyebileceği belirtiliyor.",
+        "Ortalama 401(k) bakiyesi 167.970 dolarlık bir değerken, 4% kuralı bu miktarı aylık 560 dolar olarak çeviriyor. Sosyal Güvenlik ödemeleri ise 2.081 dolar olarak bildirildi. Bu rakamlar, emeklilik planlamasında önemli bir referans noktası oluşturuyor.",
+        "Multifamily kredisi veren kurumlar, geleneksel Sun Belt merkezli pazarlardan uzaklaşıp yeni alanlara yöneldi. Bu strateji, daha geniş bir coğrafyada yatırım yapma fırsatını artırmayı hedefliyor. Yeniden konumlandırma, sektörün büyüme dinamiklerini yeniden şekillendirebilir.",
+        "Federal Reserve Beige Book, veri merkezlerinin önderliğinde hafif bir büyüme rapor ediyor. Aynı dönemde Schwab tahvil ETF'leri milyarlarca dolarlık yeni yatırımı çekiyor. Ancak, Eylül ayında CMBS vadesi yaklaşırken yeniden finanse riskinin artacağı uyarısı yapıldı. Bu durum, sabit getirili varlık piyasalarında risk ve fırsat dengesinin yeniden gözden geçirilmesine yol açıyor.",
+        "Lowe's, bir milyon adet altı haneli istihdam yaratmayı hedefleyen bir plan ortaya koydu. Bu girişim, perakende sektöründe istihdamı artırma ve tedarik zincirine katkıda bulunma amacı taşıyor. Şirket, yeni iş alanlarını genişletirken aynı zamanda büyüme stratejisini güçlendirmeyi planlıyor.",
+        "Bir araştırma, sağlık hizmeti, rekreasyon olanakları ve düşük vergi oranları nedeniyle bir eyaleti emekliler için en iyi konum olarak öne çıkardı. Bu faktörler, yaşlı nüfusun yaşam kalitesini artırma potansiyelini vurguluyor. Eyalet, emeklilerin yaşam koşullarını iyileştirmek için önemli bir seçenek olarak kabul ediliyor.",
+        "NYT Connections, 6 Eylül Pazar günü için ipuçları ve cevapları yayınlamış. Oyuncular, günlük bulmaca deneyimini sürdürmek için bu bilgilerden faydalanabilirler."
       ],
       "sources": [
         {
@@ -80,21 +77,13 @@
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "ABD’den İran’a misilleme olarak, CENTCOM’un bildirdiği üzere İran Devrim Muhafızları’na ait 3 petrol tankeri ABD’nin bölgedeki iki savaş gemisine yönelik balistik füze saldırısı sonucunda hedef alındı. Bu saldırı, İran’ın bölgedeki 2 ABD savaş gemisine balistik füze saldırısı düzenlediğini açıklamasının ardından gerçekleşti ve misilleme olarak tanımlandı.",
-        "Cumhurbaşkanı Recep Tayyip Erdoğan, Fenerbahçe, Galatasaray, Beşiktaş ve Trabzonspor kulüplerinin başkanlarını ve yönetim kurulu üyelerini kabul etti. Bu ziyaret, dört büyük Türk futbol kulübünün en üst yönetim kademelerinin resmi olarak karşılanması amacıyla düzenlendi.",
-        "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Hakkari için ‘büyük hedef’ olarak tanımladığı maden, enerji ve istihdam projelerini duyurdu. Bayraktar ayrıca ‘Terörsüz Türkiye, Türkiye Yüzyılı’ çerçevesinde daha güçlü, ihracatı, istihdamı ve üretimi artmış bir Türkiyeye ulaşmayı hedeflediğini belirtti.",
-        "KPSS Lisans (Genel Yetenek-Genel Kültür) sınavı sonrası soru ve cevap anahtarının açıklanması konusunda yoğun merak var. Yüz binlerce adayın bilgi alamaya çalışırken 'KPSS Lisans soruları ne zaman açıklanacak?' sorusu sıklıkla soruluyor.",
-        "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, sosyal güvenlik sisteminde yürütülen çalışmalara ilişkin açıklamalar yaptı. Bakan Işıkhan, vatandaşların sağlık ve sosyal güvenlik hizmetlerine erişiminin artırılacağını vurguladı.",
-        "2026 YKS ek tercihleri ve DGS tercihlerinin sonuçları hakkında soru yoğunlukta. Adaylar ÖSYM’yi ziyaret ederek '2026 YKS ek tercihleri ne zaman başlayacak?' ve 'DGS tercih sonuçları açıklandı mı, ne zaman açıklanıyor?' sorularını yöneltiyor."
+        "Adalet Bakanı Akın Gürlek, Fenerbahçe‑Beşiktaş derbisi öncesi yürütülen operasyonla 345 yasa dışı bahis sitesine bağlı yaklaşık 98.000 internet sitesinin tespit edildiğini ve yasa dışı bahis ile suç gelirleriyle bağlantılı 1.200 banka hesabına el konulduğunu açıkladı. Operasyon kapsamında elde edilen kanıtlar, yasalara uygun olmayan bahis faaliyetlerinin finansal altyapısının geniş kapsamlı bir şekilde ortadan kaldırılmasına yönelik yürütülen adımları göstermektedir. Bu uygulama, finansal suçların önlenmesi ve bankacılık sektörünün temizlenmesi hedefiyle yürütülmektedir.",
+        "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, ekonominin üç yıllık yol haritasını belirleyecek güncellenmiş Orta Vadeli Programı yarın saat 11.00'de Cumhurbaşkanlığı Külliyesi’nde kamuoyuyla paylaşacağını duyurdu. Program, mali politikalar, büyüme hedefleri ve sürdürülebilir kalkınma stratejilerini içermekte olup, ülke ekonomisinin geleceği için kapsamlı bir plan sunmaktadır. Yarın yapılacak açıklama, yatırımcılar ve sektör aktörleri için önemli bir referans kaynağı olmayı bekliyor."
       ],
       "sources": [
         {
           "name": "Dünya Gazetesi",
           "url": "https://www.dunya.com"
-        },
-        {
-          "name": "Sabah Ekonomi",
-          "url": "https://www.sabah.com.tr"
         },
         {
           "name": "Anadolu Ajansı Ekonomi",
