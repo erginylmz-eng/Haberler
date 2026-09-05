@@ -1,18 +1,16 @@
 {
-  "generatedAt": "2026-09-05T08:01:10.692Z",
+  "generatedAt": "2026-09-05T14:29:38.514Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
-        "[Container News] KfW IPEX-Bank finances next-generation bulk carriers — KfW IPEX-Bank will provide €79.3 million to finance two next-generation self-unloading bulk carriers for the transportation of construction materials. The vessels will serve European and international",
-        "[Container News] Maersk keeps Mexico inland fuel surcharge at 2% in September — Maersk will maintain its temporary inland fuel surcharge in Mexico at 2% of inland haulage costs during September 2026. The surcharge remains unchanged from August and applies to all inland services a",
-        "[Container News] Hapag-Lloyd shifts Southeast Asia DG documentation to online tool — Hapag-Lloyd is changing the way customers submit Dangerous Goods (DG) documentation and selected documents for non-dangerous cargo across six Southeast Asian markets. From 7 September 2026, customers ",
-        "[Container News] EU TEN-T coordinator advances Mediterranean corridor rail and infrastructure dialogue — Mathieu Grosch, European Coordinator of the TEN-T Mediterranean Corridor, conducted an on-site visit to the Ports of Genoa accompanied by Matteo Paroli, President of the Western Ligurian Sea Port Auth",
-        "[gCaptain] Panama Canal Scraps Planned October Draft Cut—for Now — The Panama Canal has postponed a planned reduction in the maximum draft for vessels using its Neopanamax locks, offering some near-term relief for ship operators even as the waterway continues...",
-        "[Container News] Tropical cyclones disrupt China-South Pacific container services — Neptune Pacific has warned of continued disruptions to its Asia-Pacific services after a series of tropical cyclones affected ports and vessel schedules across China and wider Asia. The carrier said f",
-        "[Container News] NORDEN delivers first maritime emissions reductions through RSB Book & Claim — NORDEN has delivered the first verified maritime emissions reductions through the RSB Book & Claim registry in a pilot with Microsoft and the Roundtable on Sustainable Biomaterials (RSB). According to",
-        "[Container News] Tug service strike at Rotterdam, Amsterdam and Zeeland ports — FNV Havens has called on union members in the seaports of Rotterdam, Amsterdam and Zeeland to participate in a coordinated strike on Friday, September 4, 2026. The strike is scheduled to run from 11:1",
-        "[gCaptain] Coast Guard Key Bridge Inquiry Finds U.S. Ports Facing Growing Risks from Larger Ships — The U.S. Coast Guard has released a sweeping review of risks facing critical U.S. port infrastructure following the 2024 collapse of Baltimore’s Francis Scott Key Bridge, finding that existing waterwa"
+        "GWC Group, Oman’da gerçekleştirilen ilk donmuş kütle gemisi operasyonlarından birini tamamlayarak Körfez bölgesindeki soğuk zincir ağını genişletti. Operasyon, gemi boşaltımı, sıcaklık kontrollü depolama ve sınır ötesi dağıtımı kapsadı ve Qatar’a donmuş kargolar için yeni bir güzergah açtı.",
+        "Ocean Network Express (ONE), Singapur üzerinden geçen konteynerlerde tehlikeli madde (DM) taşıma ücretlerinde değişiklik duyurdu. Değişiklikler, PSA Group’un UN numaraları için güncel sınıflandırmalarına dayanıyor ve özellikle batarya ile ilgili DM’leri etkiliyor. Bu güncellemeler, yükleme, segregasyon ve diğer operasyonel gereksinimleri yeniden şekillendirecek.",
+        "Alfa Laval, Hukka-5 adlı yeni bir egzoz gazı ısı geri kazanım kazanı tanıttı. Bu sistem, kruvaziyer gemi ve yolcu feribotlarında egzoz gazı atık ısısını kullanarak buhar üretiyor ve böylece yakıt tüketimini ile CO₂ emisyonlarını azaltıyor. Proje siparişleri için hemen mevcuttur.",
+        "MacGregor, TT-Line’in iki yeni batarya-hibrit LNG feribotu için RoRo ekipmanı tedarik sözleşmesi imzaladı. Sözleşme, Çinli Jinling Shipyard ile gerçekleştirildi ve şirketin en kapsamlı RoPax ekipmanı kapsamlarından biri olarak tanımlandı.",
+        "MSC, Transpacifik hizmetleri arasında liman çağrılarını yeniden düzenledi. Hai Phong ve Oakland limanları Sentosa döngüsünden Pearl döngüsüne taşındı; Xiamen limanı ise aynı konumda kaldı. Bu değişiklik, Pearl rotasyonunun yapısını güncelledi.",
+        "ABB, Yeni Zelanda’nın Cook Strait Fırılıs Değişim Programı kapsamında Kupe ve Cook adlı iki yeni Ro-Pax feribotuna güç, itici ve otomasyon sistemleri tedarik edecek. Feribotlar Guangzhou Shipyard International tarafından inşa edilecek ve Ferry Holdings Limited tarafından teslim alınacak.",
+        "KfW IPEX-Bank, inşaat malzemesi taşımacılığı için iki yeni nesil, kendiliğinden boşaltan kütle gemisi inşası amacıyla 79,3 milyon Euro’luk bir finansman sağladı. Her geminin maksimum 44.000 ton yük kapasitesi ve düşük karbonlu operasyonlar için çift yakıt motorları bulunacak. Gemiler, Avrupa ve uluslararası ihracat pazarlarını hedef alacak."
       ],
       "sources": [
         {
@@ -20,18 +18,21 @@
           "url": "https://container-news.com"
         },
         {
-          "name": "gCaptain",
-          "url": "https://gcaptain.com"
+          "name": "FreightWaves",
+          "url": "https://www.freightwaves.com"
         }
       ]
     },
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "Jeep, yenilenen Avenger modelini Türkiye’de satışa sundu. PEUGEOT, eylül ayında binek ve hafif ticari araç modellerinde avantajlı finansman seçenekleri sunuyor. Bu gelişmeler, otomotiv sektöründe yeni araç çeşitliliği ve finansman fırsatlarını artırıyor.",
-        "Ford Otosan, Tohum Otizm Vakfı ile iş birliği ve İŞKUR desteğiyle Eskişehir Fabrikası’nda Destekli İstihdam Programını başlattı. Program, doğru pozisyon eşleştirmesi, iş koçluğu, ekip hazırlığı ve düzenli takip mekanizmalarını bir araya getirerek nöro-çeşitli bireylerin ağır sanayi ortamında sürdürülebilir istihdamına örnek oluşturuyor.",
-        "Mercan Oto Dizayn, okul servis araçlarına yapay zekâ destekli IP kameralar, yolcu sayma, yüz tanıma, SMS ile veli bilgilendirme, hareket duyarlı koltuk kontrol sistemi ve 112 entegrasyonlu panik butonu gibi uygulamaları içeren yeni nesil güvenlik sistemini tanıttı. ÖBB, Avusturya’da Alpbach 2026’da otonom otokar e‑Centro ile belirlenmiş güzergâhta yolcuları taşıyacak pilot uygulamayı ücretsiz olarak başlattı.",
-        "Volvo Trucks, 30 adet FH 500 HP 4x2 çekici ADES Uluslararası Nakliyat’a teslim ederek bu firmadaki Volvo Trucks sayısını 41’e yükseltti. Eyüp Lojistik, Kuveyt seferlerini hızlandırdı ve yönetim kurulu başkanı Eyüp Bartık’ın belirttiğine göre son 8 ayda Kuveyt hattındaki taşıma hacmi geçen yıla göre yüzde 100 arttı."
+        "ABD'nin Kuzeybatı Karadeniz'de gerçekleştirdiği balistik füze saldırısının ardından, CENTCOM'un açıklamasına göre İran Devrim Muhafızları'na ait üç petrol tankeri hedef alındı. Bu gelişme, ABD-İran arasındaki gerginliğin bir misilleme olarak değerlendirilirken, bölgedeki deniz güvenliği ve enerji lojistiği açısından kritik bir gelişme olarak kayda geçti.",
+        "Yunanistan'da un fiyatları yüzde 10 oranında yükselmeye devam ediyor. Büyük un fabrikaları, sanayi tipi gıda üreticileri ve fırınlar, ton başına 40 euro'luk zam bildirdi. Küresel tahıl piyasasındaki kısıtlı tedarik, nakliye maliyetleri ve üretim giderlerinin artması, ekmek ve makarna fiyatlarına yeni bir baskı oluşturuyor.",
+        "Ankara, yılın ilk sekiz ayında ihracatını yüzde 20,7 artırarak 12 milyar 156 milyon dolara yükseltti ve Türkiye'nin en fazla ihracat yapan üçüncü il oldu. Başkentin ülke ihracatındaki payı hızla büyürken, Ağustos ayı son üç yılın aynı ayına ait en yüksek dış satım tutarına ulaştı. Bu artış, Ankara'nın lojistik altyapısının ve ihracat ağlarının etkinliğinin bir göstergesi olarak değerlendiriliyor.",
+        "Karayolları Genel Müdürlüğü'ne bağlı köprü ve otoyollarda 30 yıllık özelleştirme programı Resmî Gazete’de yayımlandı. Niğde-Pozantı Otoyolu, Gaziantep Çevre Otoyolu ve Bursa Çevre Otoyolu’nun bir bölümü de program kapsamında olup, 15 Temmuz Şehitler Köprüsü ve Fatih Sultan Mehmet Köprüsü de dahil olmak üzere 2 köprü ve 8 otoyol özelleştirilecek. Mülkiyet devri yapılmayacak ancak sözleşme süresi 30 yıl olarak belirlendi.",
+        "Renault, Türkiye'de Master serisini 16+1 kişilik Minibüs ve açık kasa Kamyonet seçenekleriyle genişletti. Yeni Master Minibüs, Personel ve Okul paketleriyle servis taşımacılığına yönelik çözümler sunarken, üç farklı açık kasa seçeneği ile Master Kamyonet profesyonel kullanıcıların ihtiyaçlarını karşılamayı hedefliyor. Bu ürün lansmanı, yerel lojistik ve taşımacılık sektöründeki rekabeti güçlendirecek gibi görünüyor.",
+        "Turizm Taşımacıları Derneği (TTDER) Başkanı Sümer Yığcı'nın yönettiği dernek, Ağustos ayı yönetim toplantısını gerçekleştirerek sektörel gelişmeleri ve geleceğe yönelik stratejileri değerlendirdi. Toplantıda, turizm taşımacılığı alanındaki son trendler ve regülasyon değişiklikleri ele alındı.",
+        "KKTC Başbakanı Ünal Üstel, Girne açıklarında batan yolcu gemisinde bir kişinin daha naaşına ulaşıldığını açıkladı. Denizdeki kazada hayatını kaybedenlerin sayısı 13’e yükselirken, 15 kişilik kayıp listesi için arama kurtarma çalışmaları sürüyor."
       ],
       "sources": [
         {
@@ -41,46 +42,52 @@
         {
           "name": "Taşıma Dünyası Gazetesi",
           "url": "https://www.tasimadunyasi.com"
+        },
+        {
+          "name": "LojiPort",
+          "url": "https://www.lojiport.com"
         }
       ]
     },
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "Disney ve Pixar’in ‘Cars’ serisi, 2026 Monza Gran Premio d’Italia’da Formula 1 ile yaptığı işbirliğiyle 20. yıl dönümünü kutladı. Bu ortaklık, her iki markanın da küresel tanıtımını güçlendirmeyi hedefliyor. Forbes Business, bu girişimin en doğal iş birliği olabileceğini öne sürüyor.",
-        "Çin’de lüks tüketimin canlanma sinyalleri zayıflıyor; Bernstein’in analizine göre, sektörün sürdürülebilir bir büyüme yerine dalgalanmalar gösterdiği belirtiliyor. Bu durum, Çin ekonomisinin genel toparlanma hızını etkileyebilir. Henüz net bir geri dönüş görünmüyor.",
-        "AI’ye duyulan güven, yapay zeka üreticilerine olan güvenle şekilleniyor; Forbes Business bu konuda derinlemesine bir analiz sunuyor. Kullanıcıların AI sistemlerine güveni, sağlayıcıların itibarı ile doğrudan ilişkili. Bu bağlamda, sektörün şeffaflık ve güvenilirlik konularına odaklanması kritik.",
-        "WWE Sunday Night’s Main Event, 6 Eylül’de Atlanta State Farm Arena’da gerçekleşecek. 8 p.m. ET başlama saatinde yayınlanacak etkinlik, Peacock üzerinden izlenebilir. WWE’nin resmi sitesi, final kartı ve seyir detaylarını paylaşıyor.",
-        "Bitcoin, şu anda 4.000 dolar civarında bir aralığında kalmaya devam ediyor. Teknik göstergeler, bir doji sinyalini işaret ediyor; bu durum fiyatın kısa vadeli bir durağanlık gösterebileceğini işaret ediyor. Kripto piyasasında belirsizlik devam ediyor.",
-        "Güney Kore, yılbaşından itibaren yapılan ihracat toplamı 709,4 milyar doları aşıp tam yıl rekorunu geçirdi. Bu gelişme, ülkenin dış ticaret performansının güçlü olduğunu gösteriyor. İhracatın büyüme hızı, küresel talep artışıyla paralel.",
-        "Norwood Financial’in EVP’si O’Bell, 103.5k dolar değerinde hisse satışı gerçekleştirdi. Dream Finders Homes yöneticisi Len Sturm, 20,205 dolar hisse satın alırken, Vistance Networks yöneticisi L. William Krause 149,555 dolar değerinde hisse satışı yaptı. Bu işlemler, ilgili şirketlerin hissedarlarının portföy stratejilerinde değişiklik yaptığını gösteriyor."
+        "[Yahoo Finance] Annuities have gotten a bad rap. Here's why Jean Chatzky likes them.",
+        "[Yahoo Finance] 'They're going to need to hike rates': Wall Street weighs in on Fed's next policy decision after blowout jobs report",
+        "[Yahoo Finance] Anthropic's IPO Could Value It at 30 Times Revenue. Here's Why I'm Still Interested Anyway.",
+        "[MarketWatch] Medicare Advantage patients who get diagnosed with Alzheimer’s or other serious diseases are ditching their plans — and it can cost them — The annual Medicare open-enrollment period runs from Oct. 15 to Dec. 7.",
+        "[Yahoo Finance] Morgan Stanley delivers bold Carvana stock verdict",
+        "[Yahoo Finance] 3 Incredible High-Growth Stocks to Buy With $10,000 Right Now",
+        "[Yahoo Finance] Bitcoin Just Exploded 40% From Its July Low — Is $100,000 Back on the Table?",
+        "[Forbes Business] ‘Silo’ Just Set An IMDB Review Score Record — Silo season 3's finale blew away fans, and now the show has set an IMDB record with its review scores ahead of season 4.",
+        "[Yahoo Finance] He Took a Military Pension Lump Sum. His Monthly Retired Pay Stayed Lower Until Social Security’s Full Retirement Age."
       ],
       "sources": [
         {
-          "name": "Forbes Business",
-          "url": "https://www.forbes.com"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com"
         },
         {
-          "name": "Investing.com",
-          "url": "https://www.investing.com"
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com"
+        },
+        {
+          "name": "Forbes Business",
+          "url": "https://www.forbes.com"
         }
       ]
     },
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "Hazine ve Maliye Bakanlığı, dijital ortamda gerçekleştirilen ekonomik ve ticari faaliyetlerin vergi güvenliği kapsamında izlenmesi amacıyla bildirim yükümlülüklerinin kapsamını genişletti. Bu düzenleme, elektronik ticaretin yanı sıra internet dahil her türlü dijital ortamda yapılan ticari faaliyetleri kapsayacak şekilde tanımlandı.",
-        "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla Resmi Gazete’de yayımlanan kararla, 10 yeni büyükelçi atanması duyuruldu. Atanan diplomatiklerin ülkeleri arasında Burundi, Kuzey Makedonya, Filipinler, Finlandiya, Bahreyn, Umman ve Güney Kore bulunuyor.",
-        "Ticari bankalar tarafından kullanılan TCMB kaynaklı reeskont kredilerinde BSMV istisnasının kapsamı genişletildi. Yeni düzenleme, kısa vadeli kredilerin yanı sıra Eximbank ve ticari bankalar tarafından sağlanan reeskont kredilerini de kapsayacak şekilde genişletildi.",
-        "Enerji ve altyapı projeleri için gerekli taşınmazların acele kamulaştırılması kararı Resmi Gazete’de yayımlandı. Kararda, Türkiye'nin çeşitli illerinde yapılacak enerji projeleri kapsamında bazı taşınmazların hızla kamulaştırılacağı bildirildi.",
-        "Enerji Piyasası Düzenleme Kurumu (EPDK), elektrik ve doğal gaz dağıtım şirketlerinin AR‑GE ve ÜR‑GE faaliyetlerine ilişkin kuralları yeniden düzenledi. Yeni düzenlemeye göre, patent başına 1,5 milyon TL’lik destek sağlanacak.",
-        "Citigroup, ABD’de beklenenden güçlü istihdam verileri sonrasında Federal Reserve’in faiz indirimi beklentisini Haziran 2027’ye ertelemiştir. Daha önce 2026 sonu ve 2027 başında indirim bekleyen kurum, ilk faiz indiriminin Haziran 2027’de olacağını belirtti."
+        "ABD’den İran’a misilleme olarak, CENTCOM’un bildirdiği üzere İran Devrim Muhafızları’na ait 3 petrol tankeri ABD’nin bölgedeki iki savaş gemisine yönelik balistik füze saldırısı sonucunda hedef alındı. Bu saldırı, İran’ın bölgedeki 2 ABD savaş gemisine balistik füze saldırısı düzenlediğini açıklamasının ardından gerçekleşti ve misilleme olarak tanımlandı.",
+        "Cumhurbaşkanı Recep Tayyip Erdoğan, Fenerbahçe, Galatasaray, Beşiktaş ve Trabzonspor kulüplerinin başkanlarını ve yönetim kurulu üyelerini kabul etti. Bu ziyaret, dört büyük Türk futbol kulübünün en üst yönetim kademelerinin resmi olarak karşılanması amacıyla düzenlendi.",
+        "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Hakkari için ‘büyük hedef’ olarak tanımladığı maden, enerji ve istihdam projelerini duyurdu. Bayraktar ayrıca ‘Terörsüz Türkiye, Türkiye Yüzyılı’ çerçevesinde daha güçlü, ihracatı, istihdamı ve üretimi artmış bir Türkiyeye ulaşmayı hedeflediğini belirtti.",
+        "KPSS Lisans (Genel Yetenek-Genel Kültür) sınavı sonrası soru ve cevap anahtarının açıklanması konusunda yoğun merak var. Yüz binlerce adayın bilgi alamaya çalışırken 'KPSS Lisans soruları ne zaman açıklanacak?' sorusu sıklıkla soruluyor.",
+        "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, sosyal güvenlik sisteminde yürütülen çalışmalara ilişkin açıklamalar yaptı. Bakan Işıkhan, vatandaşların sağlık ve sosyal güvenlik hizmetlerine erişiminin artırılacağını vurguladı.",
+        "2026 YKS ek tercihleri ve DGS tercihlerinin sonuçları hakkında soru yoğunlukta. Adaylar ÖSYM’yi ziyaret ederek '2026 YKS ek tercihleri ne zaman başlayacak?' ve 'DGS tercih sonuçları açıklandı mı, ne zaman açıklanıyor?' sorularını yöneltiyor."
       ],
       "sources": [
-        {
-          "name": "Anadolu Ajansı Ekonomi",
-          "url": "https://www.aa.com.tr"
-        },
         {
           "name": "Dünya Gazetesi",
           "url": "https://www.dunya.com"
@@ -88,6 +95,10 @@
         {
           "name": "Sabah Ekonomi",
           "url": "https://www.sabah.com.tr"
+        },
+        {
+          "name": "Anadolu Ajansı Ekonomi",
+          "url": "https://www.aa.com.tr"
         }
       ]
     }
