@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-05T02:44:14.462Z",
+  "generatedAt": "2026-09-05T08:01:10.692Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
+        "[Container News] KfW IPEX-Bank finances next-generation bulk carriers — KfW IPEX-Bank will provide €79.3 million to finance two next-generation self-unloading bulk carriers for the transportation of construction materials. The vessels will serve European and international",
+        "[Container News] Maersk keeps Mexico inland fuel surcharge at 2% in September — Maersk will maintain its temporary inland fuel surcharge in Mexico at 2% of inland haulage costs during September 2026. The surcharge remains unchanged from August and applies to all inland services a",
+        "[Container News] Hapag-Lloyd shifts Southeast Asia DG documentation to online tool — Hapag-Lloyd is changing the way customers submit Dangerous Goods (DG) documentation and selected documents for non-dangerous cargo across six Southeast Asian markets. From 7 September 2026, customers ",
         "[Container News] EU TEN-T coordinator advances Mediterranean corridor rail and infrastructure dialogue — Mathieu Grosch, European Coordinator of the TEN-T Mediterranean Corridor, conducted an on-site visit to the Ports of Genoa accompanied by Matteo Paroli, President of the Western Ligurian Sea Port Auth",
         "[gCaptain] Panama Canal Scraps Planned October Draft Cut—for Now — The Panama Canal has postponed a planned reduction in the maximum draft for vessels using its Neopanamax locks, offering some near-term relief for ship operators even as the waterway continues...",
         "[Container News] Tropical cyclones disrupt China-South Pacific container services — Neptune Pacific has warned of continued disruptions to its Asia-Pacific services after a series of tropical cyclones affected ports and vessel schedules across China and wider Asia. The carrier said f",
         "[Container News] NORDEN delivers first maritime emissions reductions through RSB Book & Claim — NORDEN has delivered the first verified maritime emissions reductions through the RSB Book & Claim registry in a pilot with Microsoft and the Roundtable on Sustainable Biomaterials (RSB). According to",
         "[Container News] Tug service strike at Rotterdam, Amsterdam and Zeeland ports — FNV Havens has called on union members in the seaports of Rotterdam, Amsterdam and Zeeland to participate in a coordinated strike on Friday, September 4, 2026. The strike is scheduled to run from 11:1",
-        "[gCaptain] Coast Guard Key Bridge Inquiry Finds U.S. Ports Facing Growing Risks from Larger Ships — The U.S. Coast Guard has released a sweeping review of risks facing critical U.S. port infrastructure following the 2024 collapse of Baltimore’s Francis Scott Key Bridge, finding that existing waterwa",
-        "[Container News] GXO appoints new Chief Information Officer — GXO Logistics has announced an expansion of its technology organisation, appointing Balaji Rangaswamy to the newly created role of Chief Information Officer effective immediately. Rangaswamy will repo",
-        "[Container News] APSEZ launches empty container yard at Mundra Port — Adani Ports and Special Economic Zone has announced the launch of a dedicated Empty Container Yard with integrated warehousing at Mundra Port, addressing the significant volume of empty container move",
-        "[FreightWaves] Big jump in truck transportation jobs in latest BLS report — Truck transportation jobs showed a strong upward move in the latest monthly report. The post Big jump in truck transportation jobs in latest BLS report appeared first on FreightWaves."
+        "[gCaptain] Coast Guard Key Bridge Inquiry Finds U.S. Ports Facing Growing Risks from Larger Ships — The U.S. Coast Guard has released a sweeping review of risks facing critical U.S. port infrastructure following the 2024 collapse of Baltimore’s Francis Scott Key Bridge, finding that existing waterwa"
       ],
       "sources": [
         {
@@ -22,46 +22,44 @@
         {
           "name": "gCaptain",
           "url": "https://gcaptain.com"
-        },
-        {
-          "name": "FreightWaves",
-          "url": "https://www.freightwaves.com"
         }
       ]
     },
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "Peugeot, Eylül ayı için binek ve hafif ticari araç modellerinde avantajlı finansman seçenekleri sunuyor. Şirket, müşterilerine düşük faiz oranları ve esnek ödeme planları ile yeni araç alımını desteklemeyi hedefliyor.",
-        "Ford Otosan, Tohum Otizm Vakfı iş birliği ve İŞKUR desteğiyle hayata geçirdiği Destekli İstihdam Programı'nı Eskişehir Fabrikası'nda uyguladı. Program, doğru pozisyon eşleştirmesi, iş koçluğu, ekip hazırlığı ve düzenli takip mekanizmalarını birleştirerek nöro-çeşitli bireylerin ağır sanayi ortamında sürdürülebilir istihdamına örnek oluşturuyor.",
-        "Jeep, Türkiye’de satışa sunduğu yenilenen Avenger modelini tanıttı. Aynı zamanda Mercan Oto Dizayn, okul servis araçlarına yapay zekâ destekli güvenlik sistemi geliştirdi. Sistem, IP kameralar, yüz tanıma, yolcu sayma, SMS ile veli bilgilendirme, hareket duyarlı koltuk kontrolü ve 112 entegrasyonlu panik butonu içeriyor.",
-        "Eyüp Lojistik, Kuveyt seferlerini hızlandırarak son sekiz ayda Kuveyt hattındaki taşıma hacmini geçen yıla göre yüzde 100 artırdı. Yönetim Kurulu Başkanı Eyüp Bartık, artan talebin Türk ihracatçıları için önemli yatırım fırsatları sunduğunu belirtti.",
-        "Volvo Trucks, uluslararası frigorifik taşımacılık alanında faaliyet gösteren ADES Uluslararası Nakliyat’a 30 adet Volvo FH 500 HP 4x2 çekici teslim etti. Bu teslimatla birlikte ADES filosundaki Volvo Trucks sayısı 41'e ulaştı.",
-        "Avusturya Alpbach 2026 Avrupa Forumu sırasında ÖBB, Otonom Otokar e‑Centro pilotunu başlatarak belirlenmiş güzergâhta ücretsiz yolcu taşıma hizmeti sundu. Aynı zamanda Çin Qingdao kentinde Dünyanın En Güzel Koyları Birliği’nin ilk fotoğraf sergisi açıldı; Türkiye’nin Bodrum temsilcisi sergide özel bölüme yerleştirildi."
+        "Jeep, yenilenen Avenger modelini Türkiye’de satışa sundu. PEUGEOT, eylül ayında binek ve hafif ticari araç modellerinde avantajlı finansman seçenekleri sunuyor. Bu gelişmeler, otomotiv sektöründe yeni araç çeşitliliği ve finansman fırsatlarını artırıyor.",
+        "Ford Otosan, Tohum Otizm Vakfı ile iş birliği ve İŞKUR desteğiyle Eskişehir Fabrikası’nda Destekli İstihdam Programını başlattı. Program, doğru pozisyon eşleştirmesi, iş koçluğu, ekip hazırlığı ve düzenli takip mekanizmalarını bir araya getirerek nöro-çeşitli bireylerin ağır sanayi ortamında sürdürülebilir istihdamına örnek oluşturuyor.",
+        "Mercan Oto Dizayn, okul servis araçlarına yapay zekâ destekli IP kameralar, yolcu sayma, yüz tanıma, SMS ile veli bilgilendirme, hareket duyarlı koltuk kontrol sistemi ve 112 entegrasyonlu panik butonu gibi uygulamaları içeren yeni nesil güvenlik sistemini tanıttı. ÖBB, Avusturya’da Alpbach 2026’da otonom otokar e‑Centro ile belirlenmiş güzergâhta yolcuları taşıyacak pilot uygulamayı ücretsiz olarak başlattı.",
+        "Volvo Trucks, 30 adet FH 500 HP 4x2 çekici ADES Uluslararası Nakliyat’a teslim ederek bu firmadaki Volvo Trucks sayısını 41’e yükseltti. Eyüp Lojistik, Kuveyt seferlerini hızlandırdı ve yönetim kurulu başkanı Eyüp Bartık’ın belirttiğine göre son 8 ayda Kuveyt hattındaki taşıma hacmi geçen yıla göre yüzde 100 arttı."
       ],
       "sources": [
         {
-          "name": "Taşıma Dünyası Gazetesi",
-          "url": "https://www.tasimadunyasi.com"
+          "name": "Dünya Gazetesi",
+          "url": "https://www.dunya.com"
         },
         {
-          "name": "LojiPort",
-          "url": "https://www.lojiport.com"
+          "name": "Taşıma Dünyası Gazetesi",
+          "url": "https://www.tasimadunyasi.com"
         }
       ]
     },
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "Amerika Birleşik Devletleri, Venezuela'daki bir petrol girişimindeki %35'lik payını seyrelmeye karşı koruyor. Reuters raporuna göre, bu koruma önlemleri şirketin hissedar yapısını korumayı hedefliyor. İşlem, ülkeler arası enerji işbirliğinin bir parçası olarak değerlendiriliyor.",
-        "Enovis şirketinde CAO Oliver Engert, 149.970 dolar değerinde hisseleri satın aldı. Aynı zamanda CEO McDonald da 249.620 dolar hisse satın alarak şirket içi hisse alım faaliyetlerini sürdürüyor. Bu hareketler, yöneticilerin şirketin uzun vadeli büyüme planlarına inançlarını yansıtıyor.",
-        "Veracyte şirketinde CFO Rebecca Chambers, 157.394 dolar değerinde hisse satışı gerçekleştirdi. EVP ve genel hukuk müşaviri Annie McGuire ise 140.000 doların üzerinde hisse satmıştır. Bu satışlar, şirket yöneticilerinin portföylerini yeniden yapılandırma stratejileri kapsamında değerlendiriliyor.",
-        "Definium Therapeutics'in CEO'su Robert Barrow, 721.732 dolar değerinde hisseleri satmıştır. Satış, şirket yöneticilerinin hisse değerine dair tercihlerine işaret ediyor.",
-        "BioCardia'nın CEO'su Peter Altman, şirket hisselerinden 872 dolar satın almıştır. Bu alım, şirketin gelecekteki büyüme potansiyeline olan güvenini göstermektedir.",
-        "Inturai Ventures, özel yerleştirme yoluyla 963.714 dolar toplamış ve bu işlemi başarıyla tamamlamıştır. Yatırımcılar bu fonlamadan yararlanarak şirketin genişleme planlarını desteklemektedir.",
-        "Tetris, Beyaz Sarayın 'Build the Wall' adlı oyunun oluşturulmasında hiçbir rol almadığını belirtti. Şirket, oyunla ilişkili iddiaları reddederek, bağımsız bir oyun geliştiricisi olduğunu vurguladı. Bu açıklama, oyunun kaynaklarının ve geliştiricilerin netleştirilmesi sürecinde önemli bir adımdır."
+        "Disney ve Pixar’in ‘Cars’ serisi, 2026 Monza Gran Premio d’Italia’da Formula 1 ile yaptığı işbirliğiyle 20. yıl dönümünü kutladı. Bu ortaklık, her iki markanın da küresel tanıtımını güçlendirmeyi hedefliyor. Forbes Business, bu girişimin en doğal iş birliği olabileceğini öne sürüyor.",
+        "Çin’de lüks tüketimin canlanma sinyalleri zayıflıyor; Bernstein’in analizine göre, sektörün sürdürülebilir bir büyüme yerine dalgalanmalar gösterdiği belirtiliyor. Bu durum, Çin ekonomisinin genel toparlanma hızını etkileyebilir. Henüz net bir geri dönüş görünmüyor.",
+        "AI’ye duyulan güven, yapay zeka üreticilerine olan güvenle şekilleniyor; Forbes Business bu konuda derinlemesine bir analiz sunuyor. Kullanıcıların AI sistemlerine güveni, sağlayıcıların itibarı ile doğrudan ilişkili. Bu bağlamda, sektörün şeffaflık ve güvenilirlik konularına odaklanması kritik.",
+        "WWE Sunday Night’s Main Event, 6 Eylül’de Atlanta State Farm Arena’da gerçekleşecek. 8 p.m. ET başlama saatinde yayınlanacak etkinlik, Peacock üzerinden izlenebilir. WWE’nin resmi sitesi, final kartı ve seyir detaylarını paylaşıyor.",
+        "Bitcoin, şu anda 4.000 dolar civarında bir aralığında kalmaya devam ediyor. Teknik göstergeler, bir doji sinyalini işaret ediyor; bu durum fiyatın kısa vadeli bir durağanlık gösterebileceğini işaret ediyor. Kripto piyasasında belirsizlik devam ediyor.",
+        "Güney Kore, yılbaşından itibaren yapılan ihracat toplamı 709,4 milyar doları aşıp tam yıl rekorunu geçirdi. Bu gelişme, ülkenin dış ticaret performansının güçlü olduğunu gösteriyor. İhracatın büyüme hızı, küresel talep artışıyla paralel.",
+        "Norwood Financial’in EVP’si O’Bell, 103.5k dolar değerinde hisse satışı gerçekleştirdi. Dream Finders Homes yöneticisi Len Sturm, 20,205 dolar hisse satın alırken, Vistance Networks yöneticisi L. William Krause 149,555 dolar değerinde hisse satışı yaptı. Bu işlemler, ilgili şirketlerin hissedarlarının portföy stratejilerinde değişiklik yaptığını gösteriyor."
       ],
       "sources": [
+        {
+          "name": "Forbes Business",
+          "url": "https://www.forbes.com"
+        },
         {
           "name": "Investing.com",
           "url": "https://www.investing.com"
@@ -71,17 +69,25 @@
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "İnternetten ticarete ilişkin vergi düzenlemesi genişletildi ve e-ticaret ile internet üzerinden yürütülen ticari faaliyetlerin yanı sıra ilan ve reklam faaliyetleri de kapsama alındı.",
-        "Cumhurbaşkanı Recep Tayyip Erdoğan’ın imzasıyla Resmi Gazete’de yayımlanan kararla para piyasası fonlarından elde edilen kazançlara stopaj oranı yüzde 10 olarak belirlendi.",
-        "Atama ve görevden alma kararları Resmi Gazete’de yayımlandı; Sayıştay Başsavcılığı görevi Cumhurbaşkanı Kararı ile Sayıştay Savcısı Recep Çevik’e verildi.",
-        "Türkiye’de 22 Haziran’da başlayan 2026‑2027 Futbol Sezonu 1. Transfer ve Tescil Dönemi sona erdi.",
-        "New York borsası haftanın son işlem gününü düşüşle tamamladı; güçlü ABD istihdam verileri faiz artışı beklentilerini yeniden canlandırdı.",
-        "Afrika’da enerji dönüşümü “petro-devlet” modelinden “elektro-devlet” modeline geçerken, ABD‑Çin rekabetinin yeni cephesini oluşturuyor; bu süreç Türkiye’nin Afrika’da önemli yatırım fırsatları yaratmasına olanak tanıyor."
+        "Hazine ve Maliye Bakanlığı, dijital ortamda gerçekleştirilen ekonomik ve ticari faaliyetlerin vergi güvenliği kapsamında izlenmesi amacıyla bildirim yükümlülüklerinin kapsamını genişletti. Bu düzenleme, elektronik ticaretin yanı sıra internet dahil her türlü dijital ortamda yapılan ticari faaliyetleri kapsayacak şekilde tanımlandı.",
+        "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla Resmi Gazete’de yayımlanan kararla, 10 yeni büyükelçi atanması duyuruldu. Atanan diplomatiklerin ülkeleri arasında Burundi, Kuzey Makedonya, Filipinler, Finlandiya, Bahreyn, Umman ve Güney Kore bulunuyor.",
+        "Ticari bankalar tarafından kullanılan TCMB kaynaklı reeskont kredilerinde BSMV istisnasının kapsamı genişletildi. Yeni düzenleme, kısa vadeli kredilerin yanı sıra Eximbank ve ticari bankalar tarafından sağlanan reeskont kredilerini de kapsayacak şekilde genişletildi.",
+        "Enerji ve altyapı projeleri için gerekli taşınmazların acele kamulaştırılması kararı Resmi Gazete’de yayımlandı. Kararda, Türkiye'nin çeşitli illerinde yapılacak enerji projeleri kapsamında bazı taşınmazların hızla kamulaştırılacağı bildirildi.",
+        "Enerji Piyasası Düzenleme Kurumu (EPDK), elektrik ve doğal gaz dağıtım şirketlerinin AR‑GE ve ÜR‑GE faaliyetlerine ilişkin kuralları yeniden düzenledi. Yeni düzenlemeye göre, patent başına 1,5 milyon TL’lik destek sağlanacak.",
+        "Citigroup, ABD’de beklenenden güçlü istihdam verileri sonrasında Federal Reserve’in faiz indirimi beklentisini Haziran 2027’ye ertelemiştir. Daha önce 2026 sonu ve 2027 başında indirim bekleyen kurum, ilk faiz indiriminin Haziran 2027’de olacağını belirtti."
       ],
       "sources": [
         {
+          "name": "Anadolu Ajansı Ekonomi",
+          "url": "https://www.aa.com.tr"
+        },
+        {
           "name": "Dünya Gazetesi",
           "url": "https://www.dunya.com"
+        },
+        {
+          "name": "Sabah Ekonomi",
+          "url": "https://www.sabah.com.tr"
         }
       ]
     }
