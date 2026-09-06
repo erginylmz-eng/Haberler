@@ -1,36 +1,46 @@
 {
-  "generatedAt": "2026-09-06T08:19:51.567Z",
+  "generatedAt": "2026-09-06T14:52:03.170Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
-        "[Container News] CMA CGM, Bureau Veritas and SDARI explore AI-assisted containership concept — CMA CGM, Bureau Veritas (BV) and Shanghai Merchant Ship Design and Research Institute (SDARI) have launched a project to develop an assisted containership concept. The partners signed a Joint Developm",
-        "[Container News] Drone-hit containership RMS Team declared constructive total loss — The 1,100 TEU containership RMS Team has been declared a constructive total loss after suffering extensive fire damage following a drone strike. The Akkon Lines-operated vessel was hit on 21 August wh",
-        "[Container News] VIKING becomes global sales and service partner for Dräger marine safety range — VIKING Life-Saving Equipment has been appointed as Dräger’s Official Preferred Global Sales and Service Partner for selected marine safety equipment. The agreement covers Dräger’s respiratory protecti",
-        "[Container News] Suzano to acquire 10% stake in Aracruz container terminal project — Brazilian pulp producer Suzano is set to acquire a 10% stake in Hanseatic Global Terminals Aracruz, according to local reports. The company is developing a new container terminal at the Port of Aracru",
-        "[Container News] East Asia typhoons deepen port congestion and shipping delays — A series of severe typhoons across East Asia is disrupting container shipping, adding pressure on port operations and vessel schedules across the region. Maersk said the 2026 typhoon season has record",
-        "[Container News] Everllence unveils ESAL technology to improve vessel efficiency by up to 6% — Everllence has introduced Engine Supported Air Lubrication (ESAL), a new technology designed to improve vessel propulsion efficiency by up to 6%. The system integrates hull air lubrication with the ve",
-        "[Container News] Singamas container sales plunge 49% in first half of 2026 — Singamas reported a sharp fall in container sales during the first half of 2026, while its two major listed competitors recorded growth. The container manufacturer’s sales fell 49% year on year to 43,",
-        "[Container News] Port of NY/NJ launches zero-emission truck and charging incentive programmes — The Port Authority of New York and New Jersey and clean transportation nonprofit CALSTART have announced two incentive programmes totalling US$ 45 million to accelerate the adoption of zero-emission d",
-        "[Container News] DynaLiners Shares Index slips after eight weeks of gains — The DynaLiners Shares Index (DLSI) recorded a slight correction after eight consecutive weeks of gains. The Overall index fell 53 points, or 1.9%, to 2,712. The decline came after the index reached an"
+        "[Container News] X-Press Feeders and T.S. Lines launch new regional services — X-Press Feeders and T.S. Lines have introduced new regional container services covering the Indian Subcontinent and Red Sea markets. X-Press Feeders has launched a weekly shuttle between Sri Lanka and",
+        "[Container News] Hapag-Lloyd omits Salerno call on MCA service — Hapag-Lloyd has announced a Salerno port call omission on its MCA service as part of a schedule recovery measure. The Barcelona Express voyage 85W37 will skip its scheduled Salerno call, which was ori",
+        "[Container News] COSCO Shipping Holdings profit falls 34% in first half of 2026 — COSCO Shipping Holdings reported a weaker profit in the first half of 2026 despite carrying more containers. Group net profit fell 34% to CNY 13.4 billion (US$2.0 billion). Meanwhile, consolidated con",
+        "[Container News] How war-risk insurance became the real front line in the Gulf crisis — For six months, Saudi Arabia has been trying to outrun a single number: the price of insuring a ship. The post How war-risk insurance became the real front line in the Gulf crisis appeared first on Co",
+        "[FreightWaves] Borderlands Mexico: Trucker protest raises stakes in Mexico-US B-1 visa dispute — This week in Borderlands Mexico: Trucker protest raises stakes in Mexico-US B-1 visa dispute; CBP announces extended-hours program at Laredo bridge; and Imperative Logistics expands El Paso footprint ",
+        "[Container News] CMA CGM announces new FAK rates and surcharges from October — CMA CGM has announced a series of freight rate and surcharge changes across several trades, effective 1 October 2026. The measures include new Freight All Kinds (FAK) rates from the East Coast of Sout",
+        "[The Loadstar] Sunday Brunch: The American Dream looks very different from Hong Kong — (Editor’s note: This is a long read – enjoy! And if after this column you are hungry for more insight, you can also read Adam’s latest post published on LInkedIn, free to all, titled: ‘Adams had texti",
+        "[Container News] FESCO container volumes rise 22% as profit falls sharply — FESCO increased its container volumes by 22% in the first half of 2026, but the Russian transport group’s profits declined sharply. The company handled 377,000 TEU, compared with 309,000 TEU during th",
+        "[Container News] CMA CGM, Bureau Veritas and SDARI explore AI-assisted containership concept — CMA CGM, Bureau Veritas (BV) and Shanghai Merchant Ship Design and Research Institute (SDARI) have launched a project to develop an assisted containership concept. The partners signed a Joint Developm"
       ],
       "sources": [
         {
           "name": "Container News",
           "url": "https://container-news.com"
+        },
+        {
+          "name": "FreightWaves",
+          "url": "https://www.freightwaves.com"
+        },
+        {
+          "name": "The Loadstar",
+          "url": "https://theloadstar.com"
         }
       ]
     },
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "İran Devrim Muhafızları Ordusu, ABD bağlantılı üç gemiyi hedef alarak Basra Körfezi'ndeki saldırılara misilleme yaptığını açıkladı. Hürmüz Boğazı'ndan izinsiz geçen üç petrol tankeriyle birlikte, ABD'ye ait üç farklı gemiye de saldırı planlamaları bildirildi.",
-        "Karayolları Genel Müdürlüğü, 30 yıllık bir özelleştirme dönemi kapsamında Niğde-Pozantı Otoyolu, Gaziantep Çevre Otoyolu ve Bursa Çevre Otoyolu’nun belirli bölümlerinin özelleştirme programına dahil edildiğini duyurdu. Aynı zamanda 15 Temmuz Şehitler Köprüsü ve Fatih Sultan Mehmet Köprüsü de özelleştirme sözleşmesine tabi hale getirildi; mülkiyet devri yapılmayacak.",
-        "Renault, yeni Master serisini 16+1 koltuk düzeninde Minibüs ve açık kasa Kamyonet seçenekleriyle genişletti. Personel ve Okul paketleriyle Minibüs, üç farklı açık kasa seçeneğiyle Master Kamyonet ise profesyonel kullanıcıların ihtiyaçlarına hitap ediyor.",
-        "MAXUS, DELIVER 7 L1H1 ve DELIVER 9 L3H2 panelvan modellerinde 400 bin TL değerinde araçlar için 9 ay vadeli %0 faizli ticari kredi imkanı sunuyor. Bu teklifler, hafif ticari araçların işlevselliğini binek konforuyla birleştirme hedefini destekliyor.",
-        "PEUGEOT, eylül ayı için binek ve hafif ticari araç modellerinde avantajlı finansman seçenekleri duyurdu. Şirket, müşterilere geniş ödeme seçenekleri ve özel indirimler sunmayı planlıyor.",
-        "Turizm Taşımacıları Derneği (TTDER), başkan Sümer Yığcı yönetiminde Ağustos ayı toplantısını başarıyla gerçekleştirdi. Toplantıda derneğin faaliyetleri ve gelecek planları ele alındı.",
-        "Ford Otosan, Tohum Otizm Vakfı ve İŞKUR desteğiyle Eskişehir Fabrikası’nda Destekli İstihdam Programı’nı uygulamaya koydu. Program, nöro-çeşitli bireylerin ağır sanayi ortamında sürdürülebilir istihdamını sağlamak için pozisyon eşleştirme, iş koçluğu ve takip mekanizmalarını bir araya getiriyor."
+        "[Dünya Gazetesi] İş dünyasından OVP sonrası faiz ve finansman mesajı — Yeni OVP'nin açıklanmasının ardından iş dünyasından ilk mesajlar geldi. Üretim, yatırım ve ihracata yönelik adımlar olumlu karşılanırken şirketlerin öncelikli beklentileri de ortaya çıktı. İTO Başkanı",
+        "[Dünya Gazetesi] Dünya Bankası'ndan Türkiye'ye 630 milyon dolarlık yeni kaynak — Türkiye'nin enerji ve sanayide yeşil dönüşüm yatırımları için Dünya Bankası'ndan yeni finansman geliyor. Türkiye Kalkınma ve Yatırım Bankası (TKYB) ile Dünya Bankası arasında yaklaşık 630 milyon dolar",
+        "[Dünya Gazetesi] Bakan Bolat'tan OVP değerlendirmesi: İhracatta 450 milyar dolarlık hedef — Ticaret Bakanı Ömer Bolat, 2027-2029 dönemini kapsayan OVP'nin ticaret politikası hedeflerini açıkladı. 2027'de mal ihracatının 292 milyar dolara çıkarılması öngörülürken, 2029'da mal ve hizmet ihraca",
+        "[Dünya Gazetesi] Yeni Orta Vadeli Program Resmi Gazete'de — Türkiye ekonomisinin 2027-2029 dönemindeki yol haritasını belirleyen Orta Vadeli Program'ın (OVP) onaylanmasına ilişkin Cumhurbaşkanı Kararı, Resmi Gazete'nin mükerrer sayısında yayımlandı. Yeni OVP'd",
+        "[Dünya Gazetesi] Türkiye'nin Avrupa'ya ihracatı 72 milyar dolara dayandı — Türkiye'nin en büyük ihracat pazarı Avrupa Birliği'ne satışlar yılın ilk 8 ayında yüzde 3,6 artarak 71,8 milyar dolara ulaştı. Almanya açık ara ilk sıradaki yerini korurken bir AB ülkesine yapılan ihr",
+        "[Taşıma Dünyası Gazetesi] Köprü ve otoyollarda 30 yıllık özelleştirme dönemi — Karayolları Genel Müdürlüğü sorumluluğundaki köprü ve otoyolların özelleştirilmesine ilişkin önemli karar Resmî Gazete’de yayımlandı. Niğde-Pozantı Otoyolu, Gaziantep Çevre Otoyolu ve Bursa Çevre Otoy",
+        "[LojiPort] 2 köprü, 8 otoyol özelleştirilecek — İstanbul Boğazı'ndaki 15 Temmuz Şehitler Köprüsü ve Fatih Sultan Mehmet Köprüsü ile pek çok otoyol ve çevreyolu için özelleştirme kararı alındı. Cumhurbaşkanı Recep Tayyip Erdoğan imzalı karar Resmi G",
+        "[Taşıma Dünyası Gazetesi] Renault Master Minibüs ve Açık Kasa Kamyonet Türkiye’de Satışa Sunuldu — Renault, yeni Master ürün gamını 16+1 kişilik Minibüs ve açık kasa Kamyonet seçenekleriyle genişletti. Personel ve Okul paketleriyle sunulan Master Minibüs servis taşımacılığına, üç farklı açık kasa s",
+        "[Taşıma Dünyası Gazetesi] TTDER yönetimi Ağustos toplantısını gerçekleştirdi — Turizm Taşımacıları Derneği Başkan Sümer Yığcı yönetiminde Ağustos ayı toplantısını gerçekleştirdi."
       ],
       "sources": [
         {
@@ -50,12 +60,15 @@
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "Almanya, bir havalimanı saldırısının ardından drone ve siber savunma kapasitelerini güçlendirmeye yönelik adımlar atıyor; hükümet, ülkenin sivil havacılık güvenliğini artırmak ve benzer tehditleri önlemek amacıyla yeni bir strateji geliştirdi.",
-        "OPEC+, 27. toplantısında petrol üretim politikalarını sabit tutmaya devam edecek; uzmanlar, küresel arz-talep dengesinin bu kararla korunacağını belirtiyor.",
-        "Büyük analistler, iPhone lansmanının Apple hisse senetleri üzerinde olumsuz bir etkisi olacağını öngörüyor; bu tahmin, şirketin yapay zeka stratejilerinin performansını gölgede bırakabileceğine işaret ediyor.",
-        "Merkezi Asya devlet şirketlerinin Hong Kong Borsası’nda listeleme planlarını artırması, bölgesel finansal entegrasyon ve sermaye piyasalarındaki büyüme potansiyelini yansıtıyor.",
-        "Bitcoin, teknik analizde bull flag'in %80’ini tamamlamış ancak hâlâ bir aralıkta kalmış durumda; aynı dönemde Citi, uranyum piyasasına dair üç aylık öngörülerde fiyat hedefleri açıkladı.",
-        "ABD-Iran tanker savaşı Hormuz bölgesinde şiddetlenirken, ABD'nin tek tek tedarik kesintileri artıyor; SEC, ISS’den müşteri oy verme verilerini zorunlu olarak elde etmek için mahkeme emri talep ediyor."
+        "[Investing.com] Bitcoin down but holds near $80,000 as corporate buying, U.S. crypto vote in focus",
+        "[Investing.com] What is \"The Warsh Shadow Rate\"?",
+        "[Investing.com] Israel cuts fuel tax as gasoline prices hit record high",
+        "[Yahoo Finance] Primerica’s (PRI) Investment Boom Masks A Shrinking Sales Force",
+        "[Investing.com] Gulf markets close mixed amid US-Iran tensions",
+        "[Forbes Business] Trump Administration Is Trying To Divert Funds From NIH To Pentagon — Rep. Rosa DeLauro (D-Connecticut) is now calling out an interagency agreement that could allow potentially billions of NIH funds to be moved to the Department of Defense.",
+        "[Forbes Business] Robert Pattinson’s ‘Primetime’ Rotten Tomatoes Review Score Is In — Robert Pattinson's Chris Hansen movie Primetime is out soon, but an earily Rotten Tomatoes critic review score is already in.",
+        "[MarketWatch] ‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own? — “I paid a significant amount into Social Security.”",
+        "[Investing.com] Investors to pore over inflation data for signals on rate trajectory"
       ],
       "sources": [
         {
@@ -63,28 +76,40 @@
           "url": "https://www.investing.com"
         },
         {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com"
+        },
+        {
           "name": "Forbes Business",
           "url": "https://www.forbes.com"
+        },
+        {
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com"
         }
       ]
     },
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "Emtia piyasalarında tamamlanan hafta, ABD'nin İran'a yönelik saldırılarını yoğunlaştırmasının ardından yükselen enerji fiyatları ve ABD Merkez Bankası (Fed) para politikasına ilişkin değişen beklentiler fiyatlamalarda belirleyici oldu ve finans piyasalarında dalgalanmalara yol açtı.",
-        "2027-2029 dönemini kapsayan Orta Vadeli Program (OVP), enflasyon, büyüme, istihdam ve bütçe hedeflerini belirleyecek. Cumhurbaşkanı Yardımcısı Cevdet Yılmaz tarafından kamuoyuna açıklanan program, Türkiye'nin makroekonomik yol haritasını ortaya koyuyor.",
-        "Altın, küresel rezervlerde ABD Hazine tahvillerini geride bırakarak tarihi bir eşiği aştı. Merkez bankalarının alımlarının devam etmesi, altın fiyatlarının geleceği için önemli bir sinyal olarak değerlendiriliyor; Fed ise tabloya bakıldığında farklı bir bakış açısı sundu.",
-        "Küresel tahvil piyasalarında getirilerin hızla yükselmesi, borçlanmanın daha pahalı olduğu yeni bir dönemin kapısını açıyor. ABD'nin 40 trilyon doları aşan borcu, yüksek petrol fiyatları ve enflasyon baskısı faizleri yukarı itiyor ve devlet bütçelerinden şirket yatırımlarına, konut kredilerinden hanehalkı borçlarına kadar ekonominin her alanını etkileyebilir.",
-        "Enerji Piyasası Düzenleme Kurumu (EPDK), elektrik ve petrol piyasalarında toplam 34 lisans verirken, bir şirketin lisans süresini uzattı. Bu lisanslamalar, enerji sektöründeki rekabet ve düzenlemeleri güçlendirmeyi hedefliyor."
+        "[Dünya Gazetesi] İş dünyası temsilcileri yeni OVP'yi değerlendirdi — Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'ın açıkladığı 2027-2029 dönemini içeren Orta Vadeli Program (OVP), iş dünyası temsilcileri tarafından memnuniyetle karşılandı.",
+        "[Dünya Gazetesi] Enflasyonda tek hane hedefi iki yıl ötelendi — 2027-2029 dönemini kapsayan yeni Orta Vadeli Program’da (OVP) 2026 yıl sonu enflasyon tahmini yüzde 28,4 olarak belirlenirken, tek haneli enflasyona dönüş 2029’a kaldı. Cumhurbaşkanı Yardımcısı Cevdet",
+        "[Dünya Gazetesi] Yeni OVP kamunun üç yıllık yol haritası olacak — 2027-2029 döneminin ekonomi politikalarını belirleyecek yeni OVP'nin uygulama çerçevesi netleşti. Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı (SBB), önümüzdeki üç yıl boyunca kamu kurumlarının bütçe",
+        "[Anadolu Ajansı Ekonomi] Bakan Yumaklı: Türkiye Yüzyılı hedeflerimiz doğrultusunda tarımı stratejik bir güce dönüştüreceğiz — Tarım ve Orman Bakanı İbrahim Yumaklı, \"Türkiye Yüzyılı hedeflerimiz doğrultusunda tarımı sadece üreten değil, küresel çapta yön veren, ekonomimizin lokomotifi olan stratejik bir güce dönüştüreceğiz.\"",
+        "[Anadolu Ajansı Ekonomi] İş dünyası temsilcileri OVP'yi değerlendirdi — İş dünyası temsilcileri, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'ın açıkladığı 2027-2029 dönemini içeren Orta Vadeli Program'ı (OVP) değerlendirdi.",
+        "[Dünya Gazetesi] 10 yıl sonra hangi meslekler ayakta kalacak? İş dünyasının yeni haritası ortaya çıkıyor — Yapay zeka milyonlarca kişinin işini elinden mi alacak, yoksa yeni mesleklerin önünü mü açacak? 2035'e kadar uzanan yeni istihdam görünümleri iş dünyasında büyük bir değişime işaret ederken, ofis işle",
+        "[Dünya Gazetesi] Amasya'nın tescilli lezzeti sofraların vazgeçilmezi: Genç kızlara özellikle öğretiliyor — Amasya mutfağının coğrafi işaret tescilli lezzetlerinden baklalı dolma, günlük sofraların yanı sıra düğün, nişan ve bayramlarda da hazırlanıyor. Beş köşeli bohça şeklinde sarılan dolmanın yapım tekniğ",
+        "[Sabah Ekonomi] TCMB Başkanı Karahan'dan enflasyon açıklaması — Türkiye Cumhuriyet Merkez Bankası (TCMB) Başkanı Fatih Karahan, yıl sonu enflasyon tahminindeki revizyona ilişkin, \"Ciddi bir revizyon ama enflasyon görünümünde karamsarlığa sebep olacak bir revizyon ",
+        "[Dünya Gazetesi] İş dünyasından OVP sonrası faiz ve finansman mesajı — Yeni OVP'nin açıklanmasının ardından iş dünyasından ilk mesajlar geldi. Üretim, yatırım ve ihracata yönelik adımlar olumlu karşılanırken şirketlerin öncelikli beklentileri de ortaya çıktı. İTO Başkanı"
       ],
       "sources": [
         {
-          "name": "Anadolu Ajansı Ekonomi",
-          "url": "https://www.aa.com.tr"
-        },
-        {
           "name": "Dünya Gazetesi",
           "url": "https://www.dunya.com"
+        },
+        {
+          "name": "Anadolu Ajansı Ekonomi",
+          "url": "https://www.aa.com.tr"
         },
         {
           "name": "Sabah Ekonomi",
