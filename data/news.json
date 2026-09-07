@@ -1,84 +1,95 @@
 {
-  "generatedAt": "2026-09-07T02:39:34.665Z",
+  "generatedAt": "2026-09-07T08:53:00.556Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
-        "[Container News] Kongsberg Maritime to equip two new vessels — Kongsberg Maritime has secured a contract from COSCO Shipping Offshore to supply an integrated technology package for two new Wind Turbine Installation Vessels being built for offshore wind installati",
-        "[Container News] Michels selected to build new Savannah marine terminal — Michels Corporation has been selected to construct a new multi-use marine terminal in Savannah, Georgia. The planned facility will cover around 91.5 hectares within the larger SeaPoint Industrial Term",
-        "[gCaptain] China Mounts Fresh Campaign To Encircle Taiwan With Patrols — By Andreo Calonzo Sep 6, 2026 (Bloomberg) –For decades, China’s maritime pressure on Taiwan centered on the major shipping strait separating the two neighbors. Now, Beijing is piling unprecedented pre",
-        "[gCaptain] US Energy Chief Says Navy To Defend Hormuz Until Iran Backs Down — By Jennifer A. Dlouhy and María Paula Mijares Torres Sep 6, 2026 (Bloomberg) –US Navy escorts that are helping tankers cross the Strait of Hormuz are essential to sustaining crude flows...",
-        "[Container News] ONEX Shipyards signs agreement with for eco vessels — ONEX Shipyards and Technologies Group has announced a strategic agreement with Antipollution, a member of the V Group, for the design and construction of four state-of-the-art ecological vessels with ",
-        "[gCaptain] North Korea’s New Destroyer Will Be Part Of Nuclear Response System — SEOUL, Sept 7 (Reuters) – North Korean leader Kim Jong Un said the country’s newest destroyer would be part of a nuclear response system and could deliver “annihilating retaliatory strikes,” state med",
-        "[Container News] Kalmar plans operating model simplification — Kalmar Corporation’s Board of Directors has initiated planning for a reorganisation of its operating model, with the central structural change being the combination of its Terminal Tractors and Horizo",
-        "[Container News] CMA CGM and RSGT confirm $434 million Jeddah terminal project — CMA CGM and Red Sea Gateway Terminal (RSGT) have signed a definitive agreement to develop and operate Terminal 4 at the Port of Jeddah, Saudi Arabia. The project is expected to involve an investment o",
-        "[Container News] A route between Chile and the Falklands is reopening an old wound — In November, a small Chilean shipping company plans to do something no one has done in living memory: run a direct, scheduled cargo service between the Chilean mainland and the Falkland Islands. On pa"
+        "İran, son hafta yaşanan tankerin saldırılarına ek olarak Hormuz Boğazı çevresinde daha geniş bir hariç tutma bölgesi oluşturma tehdidinde bulunarak petrol fiyatlarını yükseltme riskini artırıyor. Goldman Sachs, taşıma üzerindeki artan saldırıların Brent fiyatlarını 120 dolara kadar çıkarmasını öngörürken, İran bir hafta boyunca üç tanker üzerine saldırı düzenlediğini iddia etti. ABD, saldırıda bulunan gemilerden bazılarını yok etti ve bölgenin güvenlik durumu ciddi şekilde tehlikeye girdi.",
+        "CMA CGM ile Çin İletişim ve İnşaat Şirketi (CCCC) arasında imzalanan MOU, limanlar, iç bölgelerdeki altyapı, lojistik, taşımacılık, yenilik ve enerji geçişi projelerinde iş birliğini genişletmeyi hedefliyor. Şirketler, Afrika, Çin, Latin Amerika ve Güneydoğu Asya gibi pazarlarda fırsatları araştıracaklarını belirtti.",
+        "Kraliçe Mariia adlı Rus roro gemisi, Ukrayna'nın Akdeniz'deki deniz operasyonlarının bir parçası olarak, Samos yakınlarında drone saldırısına uğradı. 7.184 dwt'lik bu gemi, Suriye'ye yönelirken bombalarla vuruldu ve operasyonun kaynağı henüz netleşmedi.",
+        "Samsung Electronics America, pandemi döneminin konteyner sıkıntısından kaynaklanan en büyük taşıyıcı taleplerinden biri olarak, CMA CGM'den en az 186 milyon dolar talep ediyor. Şirket, Fransız yükleyicinin yüksek taşıma ücretleri uyguladığını ve ABD içindeki ön ödemeli teslimatları tamamlamadığını iddia ediyor.",
+        "Amazon'un Miami Havaalanı'nda 21 Air tarafından işletilen bir kargo uçağı pistten çıktıktan sonra 5 kişi hayatını kaybetti. Olay, hava kargo sektörünün sözleşmeli taşıyıcı modeli üzerindeki zayıf noktaları ortaya çıkarmakla birlikte, tedarik zinciri için yeni sorular gündeme getirdi.",
+        "Washington, Charleston'da gerçekleşen sakin bir duyuruyla, nükleer taşıma kurallarını belirleme çabasını sürdürüyor. 'Pink Corridor' olarak adlandırılan girişim, küresel ticaretin geleceği üzerinde önemli etkileri olabilir.",
+        "Uluslararası Denizcilik Örgütü (IMO) karbon fiyatı konusunda, Net-0 Çerçevesi'nin ana mimarisi için çoğunlukla destek gören ülkelerle birlikte Decembers’te yapılacak toplantılara hazırlık sürecinde. ISWG-GHG 22 toplantısında yaklaşık 1.200 delegenin katılımı, karbon fiyatlandırma üzerine devam eden tartışmaların ciddiyetini gösteriyor.",
+        "Okuyucuların Arctic container shipping üzerine yaptıkları ankete göre, Kuzey Kutbu'nda büyük ölçekli konteyner taşımacılığı olma ihtimali konusunda şüphe duyuluyor. Anket sonuçları, Kuzey Kutbu'nun küresel ticarette önemli bir rota haline gelip gelmeyeceği konusunda bölünmüş görüşleri yansıtıyor."
       ],
       "sources": [
+        {
+          "name": "Splash247",
+          "url": "https://splash247.com"
+        },
         {
           "name": "Container News",
           "url": "https://container-news.com"
         },
         {
-          "name": "gCaptain",
-          "url": "https://gcaptain.com"
+          "name": "The Loadstar",
+          "url": "https://theloadstar.com"
         }
       ]
     },
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "Amazon Air'e ait Boeing 767-300 tipi kargo uçağı, Miami Uluslararası Havalimanı’nda iniş sırasında pistten çıktı. Olayda 5 kişi hayatını kaybetti.",
-        "Süveyş Kanalı'na dönüş hızlandıkça gemi sayısı hafif gerilerken, taşınan konteyner kapasitesi yüzde 55 artarak 7,2 milyon TEU'ya ulaştı. Mega gemilerin dönüşü UzakDoğu-Avrupa hattında spot navlun fiyatlarını yüzde 10 düşürdü. Bu gelişme, kanaldaki taşıma dinamiklerinde önemli bir değişiklik işaret ediyor.",
-        "Deniz Kuvvetleri Komutanlığı Girne açıklarında batan gemide kayıp yolcuları ararken 6. naaşa ulaştı. Olayın detayları henüz netleşmiyor.",
-        "Karayolları Genel Müdürlüğü, Niğde-Pozantı Otoyolu, Gaziantep Çevre Otoyolu ve Bursa Çevre Otoyolu’nun bölümlerinin yanı sıra 15 Temmuz Şehitler Köprüsü ve Fatih Sultan Mehmet Köprüsü'ni de 30 yıllık özelleştirme programına dahil etti. Özelleştirme sözleşmeleri süresi 30 yıl olarak belirlendi, mülkiyet devri yapılmayacak. Karar Resmi Gazete'de yayımlandı.",
-        "Has Otomotiv, İzmir merkezli Fatih Turizm’e Mercedes-Benz Türk'ün Tourismo 16 RHD 2+1 modelini teslim etti. Renault ise Master Minibüs (16+1) ve Master Kamyonet (açık kasa) modellerini Türkiye’de satışa sundu; personel ve okul paketleriyle lojistik sektörü için yeni çözümler sağladı. Bu ürün lansmanları, ticari taşıma pazarındaki araç çeşitliliğini artırıyor."
+        "Maersk'in 2022 başındaki liderliğini MSC'ye kaptırdıktan sonra, şirketin ikinci sıralı konumunu altı yıl içinde kaybedip dördüncü sıraya gerileyebileceği tahmin ediliyor. Bu olası yer değişikliği, küresel konteyner taşımacılığındaki rekabetin yoğunluğunu ve sektördeki dinamiklerin devamını gösteriyor.",
+        "Amazon Türkiye, IGEXX 2026 etkinliği kapsamında Türk KOBİ'lerin sınır ötesi satış süreçlerini kolaylaştıracak yeni lojistik çözümlerini duyurdu. Şirket, önümüzdeki dönemde yeni programların hayata geçirilmesini planladığını belirtti.",
+        "Süveyş Kanalı'na dönüş hızı artarken, armatörler gemi sayısı artırmak yerine daha büyük gemilerle kapasiteyi yükseltiyor. İlk sekiz ayda kanaldan geçen gemi sayısı gerilerken, taşınan konteyner kapasitesi %55 artarak 7,2 milyon TEU'ya ulaştı.",
+        "Mercedes-Benz Türk bayi Has Otomotiv, İzmir merkezli Fatih Turizm'e Tourismo 16 RHD 2+1 modeli teslim etti. Bu teslimat, Fatih Turizm'in hizmet portföyünü genişletmesine katkıda bulundu.",
+        "Karayolları Genel Müdürlüğü'ne bağlı köprü ve otoyolların 30 yıllık özelleştirme programı Resmî Gazete'de yayımlandı. Niğde-Pozantı, Gaziantep Çevre ve Bursa Çevre Otoyolu’nun bölümleri özelleştirme kapsamına alındı; mülkiyet devri gerçekleşmeyecek.",
+        "Renault, Türkiye pazarına yeni Master ürün gamını tanıttı. 16+1 kişilik Minibüs ve açık kasa Kamyonet seçenekleriyle genişleyen Master, servis taşımacılığı ve profesyonel kullanıcılara yönelik çözümler sunuyor.",
+        "Turizm Taşımacıları Derneği Başkanlığı, Sümer Yığcı yönetiminde Ağustos ayı toplantısını gerçekleştirdi. Toplantıda dernek faaliyetleri ve sektör gelişmeleri ele alındı."
       ],
       "sources": [
         {
-          "name": "Dünya Gazetesi",
-          "url": "https://www.dunya.com"
+          "name": "LojiPort",
+          "url": "https://www.lojiport.com"
         },
         {
           "name": "Taşıma Dünyası Gazetesi",
           "url": "https://www.tasimadunyasi.com"
-        },
-        {
-          "name": "LojiPort",
-          "url": "https://www.lojiport.com"
         }
       ]
     },
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "Wall Street vadeli işlem fiyatları, Eylül ayı Fed faiz artırma olasılığını yükselten işsizlik verileriyle dalgalanarak karışık seyretmeye devam etti. Bu gelişme, dolara hafif bir itici etkide bulunmasına rağmen, piyasalarda belirsizliğin sürmesini sağladı.",
-        "Hong Kong borsası Hang Seng endeksinin 24.950 ila 26.200 arasında sıkı bir aralık içinde dalgalandığı gözlemlendi. Saatlik seviye analizleri, yatırımcıların bu sınırlar içinde hareket etmeye devam edeceğini gösteriyor.",
-        "Petrol fiyatları, ABD ve İran’ın deniz taşımacılığını hedef alan saldırıların ardından yükselerek kârını sürdü. Bu olay, jeopolitik risklerin enerji piyasalarına olan etkisini bir kez daha ortaya koydu.",
-        "Japonya, büyük bir yen müdahalesi sonrası rezervlerini 79,6 milyar dolarlık kayıp ile kaybetti. Bu, ülkenin para birimini desteklemek amacıyla devasa ölçekte para piyasalarına girdiğini gösteren bir gelişme."
+        "[Investing.com] Oil prices hold near 6-week highs on US-Iran attacks",
+        "[Investing.com] Euro zone investor morale hits four-year-plus high in September, Sentix survey shows",
+        "[Investing.com] Ferrexpo surges 36% after $100 mln raise supports Ukraine production restart",
+        "[Investing.com] Indonesia stocks lower at close of trade; IDX Composite Index down 0.16%",
+        "[Investing.com] PhillipCapital downgrades Palo Alto Networks stock rating to neutral",
+        "[Investing.com] UBS initiates Internet Initiative Japan stock at neutral on timing concerns",
+        "[Investing.com] IQE shares rise 4% as AI, data center demand lifts first-half revenue",
+        "[Investing.com] China’s forex reserves rise more than expected in August",
+        "[Investing.com] DAX tests 200-SMA after H&S breakdown: Live levels"
       ],
       "sources": [
         {
           "name": "Investing.com",
           "url": "https://www.investing.com"
-        },
-        {
-          "name": "Forbes Business",
-          "url": "https://www.forbes.com"
         }
       ]
     },
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "Orta Vadeli Program (OVP) 2027-2029 hedefleri Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'ın başkanlığında açıklandı. Programda 2029’da büyümenin yüzde 5’e, enflasyonun tek haneye gerilemesi ve bütçe açığının milli gelire oranının yüzde 2,8’e düşürülmesi hedefleniyor.",
-        "Hazine ve Maliye Bakanı Mehmet Şimşek, yüksek riskli dönemden geçildikten sonra enflasyonun kontrolden çıkmamasının önemine vurgu yaptı. Programın öngörülebilirliğini artırarak hedeflerin tartışılabileceğini ifade etti.",
-        "Avrupa Birliği, karbon emisyonlarını azaltmak amacıyla ‘süper kredi’ mekanizması başlatarak Volkswagen ID. Polo, CUPRA Raval, Škoda Epiq, Kia EV2 ve Nissan Micra gibi küçük elektrikli araçları cazip hale getiriyor. Bu politika, küçük elektriklilerin Avrupa pazarına girişi hızlandırırken Türkiye pazarında da talep ve yatırım fırsatlarını artırıyor."
+        "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Küresel Rekabetçilik Destek Programı kapsamında KOSGEB aracılığıyla KOBİ’lere 75 milyon liraya kadar kredi imkanı, 20 puanlık geri ödemesiz finansman desteği ve KGF kefaleti sunacağını duyurdu. Başvurular 30 Eylül’e kadar kabul edilecek.",
+        "ABD–İran geriliminin artmasıyla Avrupa’da doğal gaz fiyatları yükseldi. TTF ekim vadeli fiyatları %3,3 artarak 74,35 avroya, AB depolarının doluluk oranı ise %66,6 ile mevsimsel ortalamanın altında seyrediyor.",
+        "Yeni Orta Vadeli Program (OVP) döneminde, dezenflasyon sürecinin devamıyla enflasyondaki ataletin kırılması ve 2029’da tek hane hedefinin yeniden görülmesi amaçlanıyor. Bu yol haritası, uzun vadeli istikrarı sağlamak için politika yapıcıları destekliyor.",
+        "Kakao fiyatları, geçen yıl %48 düşüşten sonra altı ay boyunca artış gösterdi ve ton başına 6 771 dolar seviyesine yükseldi. El Niño etkisi nedeniyle Batı Afrika üretiminin azalması endişeleri artarken, analistler 2026‑27 döneminde küresel arzın yeniden açığa dönebileceğini uyarıyor."
       ],
       "sources": [
         {
+          "name": "Anadolu Ajansı Ekonomi",
+          "url": "https://www.aa.com.tr"
+        },
+        {
           "name": "Dünya Gazetesi",
           "url": "https://www.dunya.com"
+        },
+        {
+          "name": "Sabah Ekonomi",
+          "url": "https://www.sabah.com.tr"
         }
       ]
     }
