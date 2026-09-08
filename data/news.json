@@ -1,16 +1,17 @@
 {
-  "generatedAt": "2026-09-07T22:28:53.229Z",
+  "generatedAt": "2026-09-08T02:52:10.928Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
-        "Amerika Birleşik Devletleri'nde büyük konteyner limanlarında gemi gecikmeleri yaşanıyor. Hapag‑Lloyd'un 36. haftaki operasyonel güncellemesinde Charleston'da 18 saat, Los Angeles'ta 12 saat bekleme süresi bildirildi. Gecikmeler, farklı limanlarda farklı yoğunluk seviyeleriyle birlikte devam ediyor.",
-        "Teesport, yakın yıllarda en büyük otomotiv gemi çağrılarını kabul eden bir liman olarak 5.000 Chery otomobili Çin'den aldı. Gönderi, Jaecoo, Chery modelleri ve 1.300 adet Lepas plug‑in hibrit aracı içeriyor. Bu operasyon, İngiltere'nin Chery markasına yönelik önemli bir ithalat girişimidir.",
-        "Kaleris, Newport Systems şirketini satın alarak deniz limanları, kara depoları ve demiryolu terminallerini kapsayan tek bir işletme modeli içinde bütün varlık yaşam döngüsünü birbirine bağlayan end-to-end M&R platformu kurdu. Şirket, küresel lojistikte bakım ve onarım süreçlerinin otomasyon eksikliğini gidermeyi hedefliyor.",
-        "Denizcilik sektörü, dijital teknolojiden beklenen getirileri yeniden değerlendiriyor. En önemli faydalar arasında kesinti sürelerinin azaltılması, idari maliyetlerin düşmesi, uyumluluğun güçlenmesi, daha iyi karar alma ve varlık performansının iyileştirilmesi bulunuyor.",
-        "Bureau Veritas Marine and Offshore, Bluefins'in dalga hareketini yakalayarak ek itme gücü üreten WaveDrive sistemine \"Approval in Principle\" verdi. Sistem, geminin sternine monte edilmiş hidrofoy ile okyanus dalgalarından enerji alarak yakıt tüketimini düşürmeyi amaçlıyor.",
-        "Ocean Network Express (ONE), Mauritius'ta temsilci ajansı olarak Diamond Shipping Services Ltd.'i atanarak 18 Eylül 2026 itibarıyla yerel varlığını güçlendirecek. Yeni temsilci, müşterilere ülke içi taşıma operasyonlarında özelleştirilmiş destek sunacak.",
-        "Port of Antwerp-Bruges, Mumbai'de Belçika ve Hint politikacılar ile iş liderlerini bir araya getirerek 2026 başlarında imzalanan Hindistan‑AB Serbest Ticaret Anlaşması'nın yaratacağı fırsatları tartıştı. Port, Hindistan ile ticari ilişkilerini geliştirmeyi ve Avrupa'nın artan kargo akışları için ana kapı konumunu pekiştirmeyi hedefliyor."
+        "Port of Duisburg, North Rhine-Westphalia eyaletinin desteklediği CellPort Network for Smart Logistics projesi, Duisburg-Essen Üniversitesi, Duisburg Business and Innovation GmbH ve Duisburg Port AG işbirliğiyle yürütülüyor. Proje, Duisburg Limanı’nu geleceğin lojistiği için gerçek‑dünya laboratuvarına dönüştürmeyi hedefleyerek yenilik ve transfer ekosistemi oluşturacak.",
+        "Panama Kanalı Yönetimi’ne Ilya Espino de Marotta başkanlık göreviyle geldi. İlk kadın yöneticisi olarak su seviyeleri ve kanal genişleme projelerine odaklanacak, yeni su sorunlarıyla mücadele edecektir.",
+        "Korea Marine Transport Co. (KMTC), Japonya’ya gönderilen seçkin özel kargo taşımacılığını Gümüş Hafta tatili döneminde (18–25 Eylül 2026) geçici olarak durdurdu. Bu önlem, tehlikeli mallar (DG), ölçüden büyük (OOG) ve soğuk zincir (reefer) kargoları kapsıyor.",
+        "Amazon kargo uçağının Miami Uluslararası Havaalanı’nda gerçekleşen ölümcül çarptığı düşüş, iki pistin kapatılmasına ve kargo ile yolcu gecikmelerine yol açtı. NTSB başkanı olayı “tam bir felaket” olarak nitelendirdi.",
+        "Hapag-Lloyd’ın 36. Hafta operasyon güncellemesi, Charleston’da 18 saate, Los Angeles’da 12 saate kadar varış gecikmelerine işaret ediyor. Bu veriler, ABD’deki ana limanlarda farklı derecelerde tıkanıklık olduğunu gösteriyor.",
+        "PD Ports, Teesport’a 5.000 Chery otomobilin geldiği en büyük araç gemi çağrısını kabul etti. Gönderi, Jaecoo, Chery modelleri ve 1.300 Lepas plug‑in hibrit aracını içeriyor.",
+        "Kaleris, intermodal bakım ve onarım için end‑to‑end bir platform oluşturduğunu iddia ederek Newport Systems’ı satın aldı. Bu sistem, deniz limanları, iç depolar, demiryolu terminalleri, ekipman sahipleri ve tamir sağlayıcılarını tek bir işletme modeli altında birleştiriyor.",
+        "Bureau Veritas Marine and Offshore, Bluefins’in WaveDrive sistemine ‘Approval in Principle’ verdi. Bu sistem, okyanus dalga hareketini kullanarak ek itme kuvveti üretiyor ve yakıt tüketimini azaltmayı hedefliyor."
       ],
       "sources": [
         {
@@ -18,25 +19,31 @@
           "url": "https://container-news.com"
         },
         {
-          "name": "Splash247",
-          "url": "https://splash247.com"
+          "name": "gCaptain",
+          "url": "https://gcaptain.com"
         },
         {
           "name": "FreightWaves",
           "url": "https://www.freightwaves.com"
+        },
+        {
+          "name": "Splash247",
+          "url": "https://splash247.com"
         }
       ]
     },
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "Türk gıda ihracatçıları, Orta Doğu’daki çatışma ortamı ve artan jeopolitik riskler nedeniyle ana rotalarını Afrika, Latin Amerika ve Uzak Doğu’ya kaydırıyor. İstanbul’da düzenlenen Foodist etkinliğinde 50’den fazla ülkeden alıcı ağırlıkla buluştu.",
-        "Ukrayna-Rusya Savaşı’nda 10 Temmuz’dan itibaren artan liman ve gemi saldırıları, Karadeniz’deki tahıl ticaretini durma noktasına getirdi. Yem hammadde %72’si bu iki ülkeye bağlı olduğu için sektörde hammadde temini zor bir dönem yaşandı. Mayıs ayının sonundan itibaren iki kez düşürülen yem fiyatları, Karadeniz’de gemi çıkışlarının durmasıyla birlikte yeniden mayıs seviyelerine döndü.",
-        "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran’a yönelik ABD ablukasının uygulanmasına ilişkin operasyonların sürdüğünü açıkladı ve 94 geminin bu kapsamda yönlendirildiğini bildirdi. Bu durum, bölgesel deniz trafiğine ek bir risk katarken küresel tedarik zincirlerine potansiyel etkileri artırıyor.",
-        "Otomotiv Endüstrisi İhracatçıları Birliği’ne göre Türkiye otomotiv ihracatı Ağustos ayında 2.791 milyar dolar ile 11,9% paya ulaştı. Yılın ilk sekiz ayında otomotiv ihracatı 27,2 milyar doları aşarken, Doğuş Otomotiv 30 yılı aşkın deneyimini dijital platform sensat.com üzerinden tüketicilere sunarak pazarında yerini güçlendiriyor.",
-        "Mercedes-Benz Hafif Ticari Araçlar, 9‑10 Eylül’de düzenlenecek 17. Perakende Zirvesi’nde Vito Mixto ve Sprinter Panelvan modellerini sergileyecek. Mercedes-Benz Hafif Ticari Araçlar İcra Kurulu Üyesi Tufan Akdeniz, müşterilerinin araç ihtiyacının ötesinde operasyonlarının tamamına odaklandıklarını belirtti.",
-        "Enterprise Türkiye, eylül ayına özel kampanyası kapsamında ilk kez rezervasyon yapan kullanıcılara 3 gün ve üzeri araç kiralamalarında 750 TL indirim sunuyor. Kampanya, şirketin kiracılara daha cazip fiyatlar sunarak pazar payını genişletme stratejisinin bir parçası.",
-        "Akaryakıt, döviz kuru, finansman ve bakım giderlerindeki artış taşımacının maliyetini yükseltirken yoğun rekabet bu artışların navlun fiyatlarına yansıtılmasını zorlaştırıyor. Akca Lojistik Genel Müdürü Enes Akça, “Düşük marjlarla iş hacmini korumak uzun vadede sürdürülebilir değil” dedi."
+        "[Dünya Gazetesi] Türk gıda ihracatının ana rotası değişiyor — Orta Doğu’da süregelen çatışma ortamı ve artan jeopolitik riskler, Türk gıda ihracatçılarını alternatif pazarlara yöneltiyor. Afrika, Latin Amerika ve Uzak Doğu’ya açılan sektör, lojistik risklere kar",
+        "[Dünya Gazetesi] Yem fiyatları mayıs ayı seviyesine geri döndü — Ukrayna-Rusya Savaşı'nda 10 Temmuz'dan itibaren artan liman ve gemi saldırıları, Karadeniz’deki tahıl ticaretini durma noktasına getirdi. Yem hammaddesinde %72 oranında bu iki ülkeye bağımlı olan yem ",
+        "[Dünya Gazetesi] CENTCOM'dan İran mesajı: Abluka kapsamında 94 gemi yönlendirildi — ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'a yönelik ABD ablukasının uygulanmasına ilişkin operasyonların sürdüğünü açıkladı.",
+        "[LojiPort] Taşınma Sürecinde Depolama İhtiyacını Doğru Planlamak — Taşınma genellikle \"eşyayı bir yerden alıp diğerine götürmek\" olarak algılanır, ama gerçek süreç çoğu zaman daha karmaşık. Bu yazıda, depolama ihtiyacını taşınma planının neresine oturtmanız gerektiği",
+        "[Taşıma Dünyası Gazetesi] Otomotiv ihracatı ağustosta 2,8 milyar dolar — Otomotiv Endüstrisi İhracatçıları Birliği (OİB) verilerine göre, Türkiye ihracatının lideri otomotiv endüstrisinin ağustos ayı ihracatı 2 milyar 791 milyon dolar olarak gerçekleşti. Türkiye ihracatınd",
+        "[Taşıma Dünyası Gazetesi] Enterprise Türkiye’den yeni üyelere 750 TL indirim — Enterprise Türkiye, eylül ayına özel kampanyasıyla ilk kez rezervasyon yapacak kullanıcılara 750 TL indirim fırsatı sunuyor. Kampanya, 3 gün ve üzeri araç kiralamalarında geçerli olacak.",
+        "[Taşıma Dünyası Gazetesi] Doğuş Otomotiv’in yeni çevrimiçi listeleme platformu sensat.com yayında — Doğuş Otomotiv 30 yılı aşkın otomotiv deneyimini değişen müşteri beklentileri ve yeni hizmet modelleriyle buluşturarak mobilite alanındaki hizmetlerini genişletmeyi sürdürüyor. Bu yaklaşımın yeni adım",
+        "[Taşıma Dünyası Gazetesi] Mercedes-Benz Hafif Ticari Araçlar, Perakende Zirvesi’nde sektörle buluşuyor — Mercedes-Benz Hafif Ticari Araçlar, 9-10 Eylül’de düzenlenecek 17. Perakende Zirvesi’nde Vito Mixto ve Sprinter Panelvan modellerini sergileyecek. Mercedes-Benz Hafif Ticari Araçlar İcra Kurulu Üyesi ",
+        "[Taşıma Dünyası Gazetesi] Akaryakıt maliyetleri navlun fiyatlarını zorluyor — Akaryakıt, döviz kuru, finansman ve bakım giderlerindeki artış taşımacıların maliyetlerini yükseltirken, yoğun rekabet bu artışların navlun fiyatlarına yansıtılmasını güçleştiriyor. Akca Lojistik Gene"
       ],
       "sources": [
         {
@@ -56,35 +63,31 @@
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "Kuzey Su Ortağı (WTI) ve Brent ham petrol fiyatları, Houthi aytıklarıyla Suudi Aramco’nun bir rafinerisinin vurulduğuna dair haberlerin ardından yedek hafta yüksekliğine yaklaştı. Bu gelişme, küresel petrol arz kaygılarını yeniden gündeme getiriyor.",
-        "EverBank, WaFd ile 3,9 milyar dolarlık ters bir birleşme (reverse merger) yoluyla birleştirilecek. Bu işlem, EverBank’ın piyasa değerini artıracak ve WaFd müşterilerine geniş hizmet ağı sunacak.",
-        "Meksika borsası, gün sonu kapanışta düşüş gösterdi. S&P/BMV IPC endeksinde yüzde 0,21’lik bir azalma yaşandı.",
-        "Bir mirasçının, iki kardeşiyle birlikte miras kalan IRA’yı nakde çevirmek istemesi üzerine sorulan sorular, mirasçı IRA’nın üç yeni hesap açılarak bölünmesi gerekliliğini gündeme getirdi. Mirasçıların, yatırım firmasının bu hesapları eşit olarak dağıtması için yeni IRA’lar oluşturup oluşturmayacakları netleştirildi."
+        "Petrol fiyatları, Yemen Houthi isyancılarına bağlı olarak Suudi Aramco reaktörünün hedef alınmasının ardından yükseldi; West Texas Intermediate ve Brent ham petrol kontratları, bir haftalık zirvelerin yakınında seviyelere ulaştı. Aynı zamanda İran'ın Körfez enerji altyapısına yönelik tehdidi de piyasalarda endişe yaratarak ham petrol fiyatlarını daha da yukarı çekti.",
+        "Yen, yeni yedi aylık zirve seviyesine uzandı ve doları baskı altında bıraktı; bu gelişme, yatırımcıların enflasyon verilerine ve Fed'in para politikası beklentilerine odaklanmasına yol açtı. Altın fiyatları, yenin güçlenmesiyle doların zayıflaması sonucunda yükseldi, ancak petrol ve Fed beklentileri kazançları sınırladı.",
+        "Japan ve ABD, piyasalarda istikrarı desteklemek amacıyla döviz politikalarını senkronize etmeye devam ediyor; Katayama, bu ortak çabaların volatiliteyi azaltacağını belirtti.",
+        "Emyria, 2026 mali yılının ikinci yarısında %208 gelir artışı rapor etti ve klinik ağı genişlemesi sayesinde geliri üç katına çıkardığını açıkladı. Şirket, FY 2026 raporunda gelirini üç katına çıkaran büyüme stratejisini vurguladı.",
+        "Hang Seng endeksi, 200 günlük hareketli ortalamanın infleksiyon bölgesinde seyir halinde; canlı seviyeler bu kritik eşik çevresinde dalgalanmalar gösterdi."
       ],
       "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com"
-        },
         {
           "name": "Investing.com",
           "url": "https://www.investing.com"
         },
         {
-          "name": "Forbes Business",
-          "url": "https://www.forbes.com"
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com"
         }
       ]
     },
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "Motorlu Araç Satıcıları Federasyonu (MASFED) Başkanı Aydın Erkoç, ilan platformlarında adil rekabeti teşvik etmek amacıyla dijital araç satışının kayıt dışılıkla mücadelede kullanılabileceğini belirtti. Erkoç, standart ve yetki belgeli işletmelere finansman desteği ve kapsamlı bir model önerdi. Bu çağrı, sektörün dijitalleşme ve regülasyon süreçlerini entegre etmeyi hedefliyor.",
-        "Küresel tahvil getirilerinin on yılın zirvesine ulaşmasına rağmen merkez bankaları altın alımlarını sürdürmeye devam ediyor. Altının yıllık getirisi ons bazında %5’e yükseldi ve yıl sonuna kadar %10’a kadar artması bekleniyor. Çin'in güçlü alımları ise piyasayı dikkat çekici kılıyor.",
-        "Konya Büyükşehir Belediyesi, 25,6 milyar TL'lik yatırımla kentsel dönüşüm ve kamulaştırma projelerini hayata geçiriyor. Belediye Başkanı Uğur İbrahim Altay, bu çalışmaların şehrin modern altyapısını güçlendirmeyi amaçladığını belirtti. Projeler, şehrin tarihi dokusunu yeniden gören bir yapı ile buluşturmayı hedefliyor.",
-        "Türk gıda ihracatçıları, Orta Doğu'daki çatışma ortamı ve artan jeopolitik riskler nedeniyle ihracat rotalarını Afrika, Latin Amerika ve Uzak Doğu'ya yöneltiyor. İstanbul'da düzenlenen Foodist etkinliğinde 50'den fazla ülkeden alıcı yoğunluğu gözlemlendi. Bu değişim, lojistik risklere karşı uzun vadeli strateji çağrısı yapıyor.",
-        "Yem fiyatları, Ukrayna-Rusya Savaşı'ndan dolayı Karadeniz'deki gemi çıkışlarının durmasıyla yeniden Mayıs ayı seviyelerine döndü. 10 Temmuz'dan itibaren artan liman ve gemi saldırıları, yem hammaddesinde %72 oranında bu iki ülkeye bağımlılık nedeniyle sektörü zor durumda bıraktı. Mayıs ayı sonundan iki kez düşürülen fiyatlar, Karadeniz'deki duraklamalarla birlikte tekrar yükseldi.",
-        "Orta Vadeli Program (OVP) çerçevesinde 52 reform, dijital Türk lirası, Piyasa Gözetim ve Denetim Kurumu gibi finansal ve dijital dönüşüm alanlarını kapsıyor. Düzenlemeler üç aylık dönemlerle izlenip önümüzdeki bir yıl içinde tamamlanması hedefleniyor. Bu reformlar, ekonomi, yargı, kamu yönetimi, sağlık, eğitim, yeşil ve dijital dönüşüm alanlarını etkiliyor."
+        "Motorlu Araç Satıcıları Federasyonu (MASFED) Başkanı Aydın Erkoç, ilan platformlarında adil rekabetin sağlanması için dijital araç satışına geçiş ve kayıt dışılığıyla mücadele önerdi. Standart, yetki belgeli işletmelere finansman desteği ve kapsamlı bir model sunarak sektörün dijitalleştirilmesini hedefleyen çağrı, otomotiv satıcıları arasında dijital platformların önemini vurguluyor.",
+        "Küresel tahvil getirileri on yılın zirvesine ulaşmasına rağmen, merkez bankaları altın alımlarını sürdürmeye devam ediyor. Altının yıllık getirisi ons başına %5’e yükseldiğinde, yıl sonuna kadar %10’a kadar artabileceği öngörülüyor; Çin'in güçlü alımları da dikkat çekiyor.",
+        "Türk gıda ihracatı, Orta Doğu'daki çatışmalar ve artan jeopolitik risklerin etkisiyle Afrika, Latin Amerika ve Uzak Doğu pazarlarına yöneliyor. İstanbul'da düzenlenen Foodist etkinliğinde 50'den fazla ülkeden alıcı ağırlandı, yeni pazarlara açılma stratejileri gündeme getirildi.",
+        "Ukrayna-Rusya Savaşı'ndan kaynaklanan liman ve gemi saldırıları Karadeniz tahıl ticaretini durdurmuş, yem sektöründe hammadde temini zorlaştı. Mayıs ayının sonundan itibaren düşürülen yem fiyatları, Karadeniz'deki gemi çıkışlarının durmasıyla birlikte yeniden Mayıs seviyelerine geriledi.",
+        "Orta Vadeli Program kapsamında 52 reform maddesi, yargıdan sağlığa, dijital Türk lirasından sosyal konut ve mesleki eğitime kadar geniş bir yelpazeyi kapsıyor. Yatırımcı risk takip sistemi, Piyasa Gözetim ve Denetim Kurumu’nun oluşturulması ve 3’er aylık dönemlerle izlenen düzenlemeler, finansal piyasalarda şeffaflığı ve rekabeti artırmayı hedefliyor."
       ],
       "sources": [
         {
