@@ -1,17 +1,14 @@
 {
-  "generatedAt": "2026-09-08T02:52:10.928Z",
+  "generatedAt": "2026-09-08T08:33:15.344Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
-        "Port of Duisburg, North Rhine-Westphalia eyaletinin desteklediği CellPort Network for Smart Logistics projesi, Duisburg-Essen Üniversitesi, Duisburg Business and Innovation GmbH ve Duisburg Port AG işbirliğiyle yürütülüyor. Proje, Duisburg Limanı’nu geleceğin lojistiği için gerçek‑dünya laboratuvarına dönüştürmeyi hedefleyerek yenilik ve transfer ekosistemi oluşturacak.",
-        "Panama Kanalı Yönetimi’ne Ilya Espino de Marotta başkanlık göreviyle geldi. İlk kadın yöneticisi olarak su seviyeleri ve kanal genişleme projelerine odaklanacak, yeni su sorunlarıyla mücadele edecektir.",
-        "Korea Marine Transport Co. (KMTC), Japonya’ya gönderilen seçkin özel kargo taşımacılığını Gümüş Hafta tatili döneminde (18–25 Eylül 2026) geçici olarak durdurdu. Bu önlem, tehlikeli mallar (DG), ölçüden büyük (OOG) ve soğuk zincir (reefer) kargoları kapsıyor.",
-        "Amazon kargo uçağının Miami Uluslararası Havaalanı’nda gerçekleşen ölümcül çarptığı düşüş, iki pistin kapatılmasına ve kargo ile yolcu gecikmelerine yol açtı. NTSB başkanı olayı “tam bir felaket” olarak nitelendirdi.",
-        "Hapag-Lloyd’ın 36. Hafta operasyon güncellemesi, Charleston’da 18 saate, Los Angeles’da 12 saate kadar varış gecikmelerine işaret ediyor. Bu veriler, ABD’deki ana limanlarda farklı derecelerde tıkanıklık olduğunu gösteriyor.",
-        "PD Ports, Teesport’a 5.000 Chery otomobilin geldiği en büyük araç gemi çağrısını kabul etti. Gönderi, Jaecoo, Chery modelleri ve 1.300 Lepas plug‑in hibrit aracını içeriyor.",
-        "Kaleris, intermodal bakım ve onarım için end‑to‑end bir platform oluşturduğunu iddia ederek Newport Systems’ı satın aldı. Bu sistem, deniz limanları, iç depolar, demiryolu terminalleri, ekipman sahipleri ve tamir sağlayıcılarını tek bir işletme modeli altında birleştiriyor.",
-        "Bureau Veritas Marine and Offshore, Bluefins’in WaveDrive sistemine ‘Approval in Principle’ verdi. Bu sistem, okyanus dalga hareketini kullanarak ek itme kuvveti üretiyor ve yakıt tüketimini azaltmayı hedefliyor."
+        "Panama Denizcilik Otoritesi (AMP) 1 Eylül’de olağanüstü toplantıda, port tahsisatları ve diğer denizcilik yönetimi süreçlerine ilişkin 10 yıllık gizlilik kısıtlamasını kaldırdı. Bu değişiklik, Panama Kanalı’nın ilk kadın yönetici Ilya Espino de Marotta’nın göreve başlamasıyla paralel olarak, düşük su seviyelerinin kanal operasyonlarını tehdit etmesi ve Hapag‑Lloyd’un MSW servisini geçici olarak yeniden düzenlemesiyle gündeme geldi. Yeni yönetici, kanalın su sorunlarını çözme ve operasyonel verimliliği sürdürme görevini üstleniyor. AMP’nin kararına paralel olarak, Hapag‑Lloyd dört gemiyi yerine geçirdi ve haftalık servis frekansını korumak için çalışıyor.",
+        "Hapag‑Lloyd ve İsrail özel sermaye şirketi FIMI, siyasi muhalefeti aşmak ve hükümet onayı almak amacıyla 4,2 milyar dolarlık ZIM devralma teklifini yeniden yapılandırıyor. Almanya merkezli taşıyıcı, ekonomi, finans ve savunma bakanlıklarıyla birden fazla görüşme yaptı ve güncellenmiş teklifini yıl sonuna kadar sunmayı planlıyor.",
+        "Koreli taşıyıcı HMM, 4,7 trilyon KRW (3,4 milyar USD) değerinde, 25 yıl sürecek ve 2030’da başlatılacak bir uzun vadeli demir cevheri taşımacılığı sözleşmesini Vale ile imzaladı. Bu anlaşma, HMM’in kurumsal kuruş ticareti portföyünü güçlendirerek uzun vadeli sabit gelirli bir iş modeli oluşturmayı hedefliyor. Şirket, Vale ile önceden iki büyük sözleşme yapmış durumda.",
+        "Evergreen Marine, 58 000’den fazla IoT‑ekli soğutmalı konteyneri faaliyete geçirerek akıllı soğuk zincir yeteneklerini genişletiyor. 2026 Asia Fruit Logistica’da açıklanan teknoloji, yolculuk boyunca soğutmalı yüklerin durumunu gerçek‑zaman izleyebiliyor. Böylece, taşıma sırasında oluşabilecek bozulmalara önlem alınarak müşteri memnuniyeti artırılıyor.",
+        "Fransız yapay zeka şirketi Mistral, 21 milyar Euro’luk piyasa değeriyle 3 milyar Euro’luk Series D fon topladı; bu, Avrupa’nın şimdiye kadarki en büyük özkaynak toplama turu olarak kaydedildi. Aynı dönemde, Singapur’da düzenlenen Splash Singapore etkinliğinde OM Maritime CEO’su Subhangshu Dutt, taşımacılık sistemlerinin sağlayıcılar tarafından değil kullanıcılar tarafından şekillendirilmesi gerektiğini vurguladı. Her iki gelişme de denizcilikte yapay zekanın rolü ve finansmanının hızla büyüdüğünü gösteriyor."
       ],
       "sources": [
         {
@@ -19,40 +16,36 @@
           "url": "https://container-news.com"
         },
         {
-          "name": "gCaptain",
-          "url": "https://gcaptain.com"
-        },
-        {
-          "name": "FreightWaves",
-          "url": "https://www.freightwaves.com"
-        },
-        {
           "name": "Splash247",
           "url": "https://splash247.com"
+        },
+        {
+          "name": "The Loadstar",
+          "url": "https://theloadstar.com"
         }
       ]
     },
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "[Dünya Gazetesi] Türk gıda ihracatının ana rotası değişiyor — Orta Doğu’da süregelen çatışma ortamı ve artan jeopolitik riskler, Türk gıda ihracatçılarını alternatif pazarlara yöneltiyor. Afrika, Latin Amerika ve Uzak Doğu’ya açılan sektör, lojistik risklere kar",
-        "[Dünya Gazetesi] Yem fiyatları mayıs ayı seviyesine geri döndü — Ukrayna-Rusya Savaşı'nda 10 Temmuz'dan itibaren artan liman ve gemi saldırıları, Karadeniz’deki tahıl ticaretini durma noktasına getirdi. Yem hammaddesinde %72 oranında bu iki ülkeye bağımlı olan yem ",
-        "[Dünya Gazetesi] CENTCOM'dan İran mesajı: Abluka kapsamında 94 gemi yönlendirildi — ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'a yönelik ABD ablukasının uygulanmasına ilişkin operasyonların sürdüğünü açıkladı.",
+        "[LojiPort] Üniversite mezunu TIR şoförleri geliyor — Kütahya Dumlupınar Üniversitesi’nde hayata geçirilen 2 yıllık Karayolu Yük Taşıtı Sürücülüğü Programı’nda öğrenciler; yabancı dil, mevzuat, yük güvenliği, araç bilgisi ve güvenli sürüş alanlarında eği",
+        "[Dünya Gazetesi] 18 ülkeden ortak uyarı: Gölge filo küresel ticareti tehdit ediyor — Dünyanın önde gelen 18 denizcilik ülkesi, 1.500’ü aşan gölge tanker filosu ve artan jeopolitik gerilimlerin küresel deniz ticaretinin temel kurallarını aşındırdığı uyarısında bulundu. Risk, navlun ve ",
+        "[Dünya Gazetesi] İran'dan ABD'ye yeni rest: Basra Körfezi'nde 'yasak bölge' ilan edecek — İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai, ABD'nin abluka ve yaptırımlarına karşı Basra Körfezi ve çevresinde deniz “yasak bölgesi” oluşturacaklarını açıkladı. Rızai, bölgedeki ",
+        "[LojiPort] Dereler Aksın Dağlar Yeşersin ki Yollar Çalışsın",
         "[LojiPort] Taşınma Sürecinde Depolama İhtiyacını Doğru Planlamak — Taşınma genellikle \"eşyayı bir yerden alıp diğerine götürmek\" olarak algılanır, ama gerçek süreç çoğu zaman daha karmaşık. Bu yazıda, depolama ihtiyacını taşınma planının neresine oturtmanız gerektiği",
         "[Taşıma Dünyası Gazetesi] Otomotiv ihracatı ağustosta 2,8 milyar dolar — Otomotiv Endüstrisi İhracatçıları Birliği (OİB) verilerine göre, Türkiye ihracatının lideri otomotiv endüstrisinin ağustos ayı ihracatı 2 milyar 791 milyon dolar olarak gerçekleşti. Türkiye ihracatınd",
         "[Taşıma Dünyası Gazetesi] Enterprise Türkiye’den yeni üyelere 750 TL indirim — Enterprise Türkiye, eylül ayına özel kampanyasıyla ilk kez rezervasyon yapacak kullanıcılara 750 TL indirim fırsatı sunuyor. Kampanya, 3 gün ve üzeri araç kiralamalarında geçerli olacak.",
         "[Taşıma Dünyası Gazetesi] Doğuş Otomotiv’in yeni çevrimiçi listeleme platformu sensat.com yayında — Doğuş Otomotiv 30 yılı aşkın otomotiv deneyimini değişen müşteri beklentileri ve yeni hizmet modelleriyle buluşturarak mobilite alanındaki hizmetlerini genişletmeyi sürdürüyor. Bu yaklaşımın yeni adım",
-        "[Taşıma Dünyası Gazetesi] Mercedes-Benz Hafif Ticari Araçlar, Perakende Zirvesi’nde sektörle buluşuyor — Mercedes-Benz Hafif Ticari Araçlar, 9-10 Eylül’de düzenlenecek 17. Perakende Zirvesi’nde Vito Mixto ve Sprinter Panelvan modellerini sergileyecek. Mercedes-Benz Hafif Ticari Araçlar İcra Kurulu Üyesi ",
-        "[Taşıma Dünyası Gazetesi] Akaryakıt maliyetleri navlun fiyatlarını zorluyor — Akaryakıt, döviz kuru, finansman ve bakım giderlerindeki artış taşımacıların maliyetlerini yükseltirken, yoğun rekabet bu artışların navlun fiyatlarına yansıtılmasını güçleştiriyor. Akca Lojistik Gene"
+        "[Taşıma Dünyası Gazetesi] Mercedes-Benz Hafif Ticari Araçlar, Perakende Zirvesi’nde sektörle buluşuyor — Mercedes-Benz Hafif Ticari Araçlar, 9-10 Eylül’de düzenlenecek 17. Perakende Zirvesi’nde Vito Mixto ve Sprinter Panelvan modellerini sergileyecek. Mercedes-Benz Hafif Ticari Araçlar İcra Kurulu Üyesi "
       ],
       "sources": [
         {
-          "name": "Dünya Gazetesi",
-          "url": "https://www.dunya.com"
-        },
-        {
           "name": "LojiPort",
           "url": "https://www.lojiport.com"
+        },
+        {
+          "name": "Dünya Gazetesi",
+          "url": "https://www.dunya.com"
         },
         {
           "name": "Taşıma Dünyası Gazetesi",
@@ -63,11 +56,11 @@
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "Petrol fiyatları, Yemen Houthi isyancılarına bağlı olarak Suudi Aramco reaktörünün hedef alınmasının ardından yükseldi; West Texas Intermediate ve Brent ham petrol kontratları, bir haftalık zirvelerin yakınında seviyelere ulaştı. Aynı zamanda İran'ın Körfez enerji altyapısına yönelik tehdidi de piyasalarda endişe yaratarak ham petrol fiyatlarını daha da yukarı çekti.",
-        "Yen, yeni yedi aylık zirve seviyesine uzandı ve doları baskı altında bıraktı; bu gelişme, yatırımcıların enflasyon verilerine ve Fed'in para politikası beklentilerine odaklanmasına yol açtı. Altın fiyatları, yenin güçlenmesiyle doların zayıflaması sonucunda yükseldi, ancak petrol ve Fed beklentileri kazançları sınırladı.",
-        "Japan ve ABD, piyasalarda istikrarı desteklemek amacıyla döviz politikalarını senkronize etmeye devam ediyor; Katayama, bu ortak çabaların volatiliteyi azaltacağını belirtti.",
-        "Emyria, 2026 mali yılının ikinci yarısında %208 gelir artışı rapor etti ve klinik ağı genişlemesi sayesinde geliri üç katına çıkardığını açıkladı. Şirket, FY 2026 raporunda gelirini üç katına çıkaran büyüme stratejisini vurguladı.",
-        "Hang Seng endeksi, 200 günlük hareketli ortalamanın infleksiyon bölgesinde seyir halinde; canlı seviyeler bu kritik eşik çevresinde dalgalanmalar gösterdi."
+        "Morgan Stanley, Ansys entegrasyonu bağlamında Synopsys hissesine yükseltme yaptı. Barclays ise JBT Marel'yi birleşme kalitesi nedeniyle ağırlıklandırılmış pozisyonla başlattı ve Sensata Technologies'i otomotiv içeriği kazançları nedeniyle yükseltti.",
+        "Rothschild Redburn, Tempus AI hissesine nötr başlangıç etiketi koyarak piyasa ilgisini değerlendirdi.",
+        "Telekom Italia hissesinde bugün belirgin bir yükseliş gözlemlendi, ancak spesifik motivasyonlar henüz açıklanmadı.",
+        "Euro tahvil getirileri, ham petrol fiyatının 100 doların yakınında seyretmesi ve ECB'nin faiz artırma olasılığının artmasıyla yükseldi; bu durum Avrupa borç piyasasında belirsizliğe yol açıyor.",
+        "Dow endeksinin vadeli işlem fiyatları, İsviçreli bir şirketin kardiyovasküler ilaçla ilgili geri dönük bir sorun nedeniyle düşerken, Citi yatırımcı güveninin zayıfladığını ve küresel akım bozulduğunu belirtiyor. Aynı zamanda sterlin yen-fuelled dolar belirsizliği nedeniyle geri çekiliyor. Bu gelişmeler, küresel piyasalardaki belirsizliği artırıyor."
       ],
       "sources": [
         {
@@ -83,16 +76,25 @@
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "Motorlu Araç Satıcıları Federasyonu (MASFED) Başkanı Aydın Erkoç, ilan platformlarında adil rekabetin sağlanması için dijital araç satışına geçiş ve kayıt dışılığıyla mücadele önerdi. Standart, yetki belgeli işletmelere finansman desteği ve kapsamlı bir model sunarak sektörün dijitalleştirilmesini hedefleyen çağrı, otomotiv satıcıları arasında dijital platformların önemini vurguluyor.",
-        "Küresel tahvil getirileri on yılın zirvesine ulaşmasına rağmen, merkez bankaları altın alımlarını sürdürmeye devam ediyor. Altının yıllık getirisi ons başına %5’e yükseldiğinde, yıl sonuna kadar %10’a kadar artabileceği öngörülüyor; Çin'in güçlü alımları da dikkat çekiyor.",
-        "Türk gıda ihracatı, Orta Doğu'daki çatışmalar ve artan jeopolitik risklerin etkisiyle Afrika, Latin Amerika ve Uzak Doğu pazarlarına yöneliyor. İstanbul'da düzenlenen Foodist etkinliğinde 50'den fazla ülkeden alıcı ağırlandı, yeni pazarlara açılma stratejileri gündeme getirildi.",
-        "Ukrayna-Rusya Savaşı'ndan kaynaklanan liman ve gemi saldırıları Karadeniz tahıl ticaretini durdurmuş, yem sektöründe hammadde temini zorlaştı. Mayıs ayının sonundan itibaren düşürülen yem fiyatları, Karadeniz'deki gemi çıkışlarının durmasıyla birlikte yeniden Mayıs seviyelerine geriledi.",
-        "Orta Vadeli Program kapsamında 52 reform maddesi, yargıdan sağlığa, dijital Türk lirasından sosyal konut ve mesleki eğitime kadar geniş bir yelpazeyi kapsıyor. Yatırımcı risk takip sistemi, Piyasa Gözetim ve Denetim Kurumu’nun oluşturulması ve 3’er aylık dönemlerle izlenen düzenlemeler, finansal piyasalarda şeffaflığı ve rekabeti artırmayı hedefliyor."
+        "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu'nun açıklamasına göre, Avrasya Tüneli'nde bir günde 94 bin 489 araç geçerek günlük araç geçiş rekoru kırıldı. Bu gelişme, tünelin trafik akışındaki verimliliğini ve altyapı yatırımlarının etkinliğini göstermektedir.",
+        "İstanbul’da kentsel dönüşüm sürecini hızlandırmak amacıyla yürütülen 'Yarısı Bizden' kampanyasının süresi uzatıldı. Sektör temsilcileri, kampanyanın dönüşüm kararlarında zorluk yaşayan malikler için yeni bir fırsat penceresi sunduğunu belirtti.",
+        "Yeni OVP döneminde ekonomi yönetimi, yabancı para mevduatın cazibesini azaltmak ve Türk lirası mevduatın payını artırmak amacıyla vadesini uzatmaya yönelik politikalarını sürdürecek. Bu hamle, finansal sistemdeki döviz riskini düşürmeyi hedeflemektedir.",
+        "Türkiye’nin sivil havacılık filosu 846 uçağa ulaşırken, koltuk kapasitesi 166 bine yükseldi. Sektördeki bu hızlı büyüme, havayolu işletmelerinin uluslararası rekabet gücünü artırıyor.",
+        "SPK, uluslararası endeks sağlayıcıların Türkiye piyasalarına yönelik şeffaflık eleştirilerini gidermeyi amaçlayan düzenlemesinde son aşamaya geldi. Düzenleme, listedeki şirketlerin nihai faydalanıcı mülkiyet bilgilerini ve fiili dolaşım oranlarını daha ayrıntılı açıklamayı öngörüyor.",
+        "Yeni OVP sonrası dolar/TL kurları için yıl sonu ve gelecek yıla ilişkin tahminler şekillenmeye başladı. Yabancı kurumların 2027 için yaptıkları tahminlerde önemli bir ayrışma gözlemleniyor."
       ],
       "sources": [
         {
+          "name": "Sabah Ekonomi",
+          "url": "https://www.sabah.com.tr"
+        },
+        {
           "name": "Dünya Gazetesi",
           "url": "https://www.dunya.com"
+        },
+        {
+          "name": "Anadolu Ajansı Ekonomi",
+          "url": "https://www.aa.com.tr"
         }
       ]
     }
