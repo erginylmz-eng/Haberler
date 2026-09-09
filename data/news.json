@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-08T22:20:19.840Z",
+  "generatedAt": "2026-09-09T02:52:07.634Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
+        "[Container News] Port of Tauranga wins approval for Stella Passage development — Port of Tauranga has secured approval for its Stella Passage development under New Zealand’s Fast-track Approvals Act 2024. The decision marks an important step for the port’s long-planned expansion. ",
+        "[Container News] NX Group invests in VALT JAPAN to expand employment opportunities — NIPPON EXPRESS HOLDINGS has acquired a stake in VALT JAPAN, the developer and operator of the NEXT HERO digital transformation platform designed for people facing employment challenges, through the NX",
+        "[gCaptain] U.S. Destroys Five More IRGC Tankers After Iran Targets Navy Warship — U.S. forces destroyed five Iranian crude oil tankers Tuesday after the Islamic Revolutionary Guard Corps targeted a U.S. Navy warship with ballistic missiles twice over the past two days, according...",
+        "[Container News] Kongsberg Maritime to strengthen Arctic and ice-class propulsion capabilities — Kongsberg Maritime has entered into an agreement to acquire Steerprop, a Finnish designer and manufacturer of azimuth propulsion systems specialising in high ice-class and Arctic vessels. Steerprop ha",
         "[Container News] CMA CGM introduces $100/TEU PSS from North Europe to Indian Subcontinent — CMA CGM will introduce a Peak Season Surcharge (PSS) on shipments from North Europe to the Indian Subcontinent. The surcharge will take effect on 21 September 2026, based on the loading date at the or",
+        "[FreightWaves] At tech/AI confab, C.H. Robinson tackles insurance and liability — It was a tech conference but C.H. Robinson’s legal battles were never too far away from the discussion. The post At tech/AI confab, C.H. Robinson tackles insurance and liability appeared first on Frei",
         "[Container News] Everllence and Damen sign agreement for engine supply — Everllence has signed a framework agreement with Damen Shipyards Group for the serial supply of its 175D high-speed engine, establishing a long-term partnership for the delivery of engines across Dame",
         "[Journal of Commerce] Signs of slow freight demand growth surface in LTL sector — Freight demand was either better or “less worse” at three of the largest LTL providers last month, bolstered perhaps by the need for shippers to speed some freight to inventories.",
-        "[Journal of Commerce] Gemini drops Shanghai from Asia shuttle service amid ongoing storm delays — That comes as ONE said the port would be temporarily omitted from 11 Premier Alliance US East Coast sailings through mid-October to maintain schedule reliability.",
-        "[Container News] bound4blue secures Bureau Veritas assessment for eSAIL design — bound4blue has secured a Design Assessment from Bureau Veritas for its Model 3-24 eSAIL wind propulsion system. The assessment confirms that the suction sail design has been independently reviewed aga",
-        "[FreightWaves] Fuel Surcharge Gaps: What Carriers Miss on Every Load — Fuel surcharge gaps are quietly killing carrier margins. Matt Cartwright of Magnus Technologies explains how fleets can measure true fuel cost by load, compare it to recovery, and spot where contracts",
-        "[FreightWaves] Autonomous Trucking in 28 States: What Changes Next? — Autonomous trucks are already operating in 28 states—and that changes how freight leaders should think about the market right now. uShip CEO Sean Wu breaks down what autonomy could mean for consolidat",
-        "[FreightWaves] Cabless Trucks Are Coming Faster Than Carriers Think — Cabless autonomous trucks could reshape short-haul freight faster than most carriers expect. Humble Robotics CEO Eyal Cohen breaks down the skateboard concept, why drop trailers may lose value, and ho",
-        "[FreightWaves] Shipping Volatility: Are Freight Markets Balancing? — The latest freight market update reveals Labor Day tender rejections surged significantly, marking the strongest increase since 2021. Dive into the numbers on truckload rejections, spot rates, and int"
+        "[Journal of Commerce] Gemini drops Shanghai from Asia shuttle service amid ongoing storm delays — That comes as ONE said the port would be temporarily omitted from 11 Premier Alliance US East Coast sailings through mid-October to maintain schedule reliability."
       ],
       "sources": [
         {
@@ -20,12 +20,16 @@
           "url": "https://container-news.com"
         },
         {
-          "name": "Journal of Commerce",
-          "url": "https://joc.com"
+          "name": "gCaptain",
+          "url": "https://gcaptain.com"
         },
         {
           "name": "FreightWaves",
           "url": "https://www.freightwaves.com"
+        },
+        {
+          "name": "Journal of Commerce",
+          "url": "https://joc.com"
         }
       ]
     },
@@ -56,12 +60,11 @@
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "İki kardeşinize ait bir IRA'nın mirasında kalan varlıkların taksitli çekilmesi konusunda sorular ortaya çıktı. Mirasçılar, varlığı eşit bölüştürmek için üç yeni IRA açıp açmayacaklarını ve firmaya bu işlemi gerçekleştirip gerçekleştiremeyeceğini sorguluyorlar.",
-        "Yapay zeka patlamasının bel kemiği olarak hafıza çipleri ön plana çıkıyor; Micron'un pazar liderliği sürdürülebilir gibi görünüyor. 2024 yılında yarı iletken sektörünün geliri 1,5 trilyon doların üzerine çıkması beklenirken, bu büyüme büyük ölçüde hafıza çiplerine dayanıyor.",
-        "LIV Golf, 11. Bölüm iflas koruması başvurusunu sunarak ligini yeniden yapılandırmayı ve borçlarını ödemeyi hedefliyor. Şu an bazı LIV yıldızları milyarlarca dolar borçlu.",
-        "Oracle'un hisseleri, OpenAI ekosisteminin geri dönmesiyle artış gösterdi. OpenAI'nin ChatGPT yaratıcısının başarısına duyulan güven, Oracle'ın potansiyel büyüme beklentilerini güçlendiriyor.",
-        "Qualcomm'un hisse fiyatları, Amazon ile yürütülen çip projeleri sayesinde yükseldi. Şirket, bu yıl çip sektöründeki rally'dan mahrum kalmış olsa da, yeni ortaklıklar yatırımcılar için olumlu sinyaller gönderiyor.",
-        "ABD, Çinli AI firmalarını 'zararlı' teknoloji kopyalama suçlamasıyla karşı karşıya. Yöneticiler, Çin şirketlerinin yapay zeka teknolojilerini izinsiz şekilde taklit ettiğini iddia ediyor."
+        "Jean Chatzky’nin yeni kitabı, emeklilik döneminde sürekli gelir elde etmek için annuitiyye gerek duymadan uygulanabilecek bir dizi stratejiyi ortaya koyuyor. Kitapta, vergi avantajlarından yatırım portföyü çeşitlendirme tekniklerine kadar çeşitli yöntemler detaylı bir şekilde anlatılıyor.",
+        "Bombardier’in hisseleri, ABD Başkanı Donald Trump’ın şirketin ABD’de daha fazla üretim yapması için yeni taahhütlerde bulunmadığı takdirde yasağa maruz kalacağı tehdidiyle düşüş gösterdi. Bu gelişme, ABD‑Kanada ticaret savaşı çerçevesinde iki ülke arasındaki gerilimin artmasıyla ilişkilendiriliyor.",
+        "LIV Golf, Arap Yatırım Fonları (PIF) tarafından desteklenmeyi durdurulmasının ardından iflas ilan etti. Bu durum, ligdeki üst düzey oyuncuların milyonlarca dolar borçlanmasına yol açtı.",
+        "Paramount, California Hükümeti Dairesi Avukatı’nın televizyon röportajlarında şirketin tahvil argümanlarını çarpıtıp çarpıtmadığını sorguladı. Şirket, bu yanlış anlaşılmanın tahvil piyasasındaki stratejisini etkileyebileceğini belirtti.",
+        "Reuters anketine göre, Japonya üreticileri yarı iletken talebinin artmasıyla ilgili olarak yaklaşık beş yıllık en yüksek duygu endeksine ulaştı. Bu gelişme, bölgesel üretim sektörünün büyüme potansiyelini olumlu etkileyerek ekonomik beklentileri güçlendiriyor."
       ],
       "sources": [
         {
@@ -81,9 +84,12 @@
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "Bitkisel ve hayvansal üretimde destek tutarları 2026 yılına kadar artırıldı. 2026 yılı için hayvansal üretimde, 2027 üretim yılına ilişkin bitkisel üretimde destek tutarları Resmi Gazete’de yayımlandı.",
-        "Demiryolunun payı ihracat taşımalarında 0,71’e gerilerken, yeni OVP’de demiryolu altyapı yatırımları öncelik alıyor. Sektör kapasitesinin kullanılabilmesi için lokomotif yatırımına finansman desteği bekleniyor.",
-        "Türkiye kimya sektörü, 2023 yılının ilk 8 ayında 22,8 milyar dolarlık ihracatla yılsonu hedefi olan 35 milyar doları koruyor. Orta vadede 2029 ihracat hedefi 55 milyar dolar olup, ABD, Körfez ülkeleri ve Asya pazarlarında alternatif arayışlar sürüyor."
+        "Trump, Kanada'nın Amerikan şirketlerine ve çiftçilerine adil ticaret imkanı sunmadığını ileri sürerek, Kanada menşeli ürünlerin kamu ihalelerinden çıkarılması talimatını verdi. Bu karar, ABD’nin geniş kapsamlı ticaret stratejisinin bir parçası olarak değerlendirilmekte ve 2025 yılında yürürlüğe girmesi beklenmektedir. ABD’nin kamu ihalelerindeki rekabet ortamına etkisiyle ilgili analizler gündemde yer almaktadır.",
+        "Türk Hava Yolları (THY), İngiltere’de yaşanan hava trafik kontrol sistemi sorunları nedeniyle yolcularına uçuş durumlarını kontrol etmeleri yönünde uyarıda bulundu. Uyarı, hem Dünya Gazetesi hem de Anadolu Ajansı tarafından rapor edilmiştir. Yolcular, THY’nin resmi kanalları üzerinden güncel bilgi almalarını önerilmiştir.",
+        "Türkiye Gazeteciler Derneği (TGSD) başkanları Toygar Narbay ve Ümit Özüren, Avrupa’da sanayisizleşme tuzağına düşme riskini vurguladı ve üretim, istihdam, teknoloji, finansman ile markalaşmayı kapsayan bütünleşik bir sanayi politikasının önemini belirtti. Dernek, bu kapsamda Türkiye’nin rekabet gücünü artırma çabalarına destek talebinde bulundu.",
+        "Tarım ve Orman Bakanlığı, bitkisel ve hayvansal üretimde destek tutarlarını artırdı. 2026 yılında hayvansal üretim, 2027 yılında ise bitkisel üretim için belirlenen destek tutarları Resmi Gazete’de yayımlandı.",
+        "Türkiye’de ihracat taşımalarında demiryolunun payı, 0,71% ile gerilemiş olup, bu durum uluslararası alanda büyüyen demiryolu talebine rağmen Türkiye için bir eksiklik olarak öne çıkıyor. Yeni Oranlı Vevâs Programı (OVP) kapsamında demiryolu altyapısı yatırımlarına öncelik verilirken, sektörün kapasitesinin kullanılabilmesi için lokomotif yatırımlarına finansman desteği bekleniyor.",
+        "Kimya sektörü, bu yılın ilk 8 ayında 22,8 milyar dolarlık ihracatla yıl sonu hedefi olan 35 milyar doları koruyor. Uzun vadeli hedef olarak 2029 yılında 55 milyar dolar ihracat planlanırken, ABD, Körfez ülkeleri ve Asya pazarlarına yönelik alternatif pazar arayışları devam ediyor."
       ],
       "sources": [
         {
