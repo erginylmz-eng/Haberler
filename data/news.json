@@ -1,18 +1,16 @@
 {
-  "generatedAt": "2026-09-09T15:50:52.979Z",
+  "generatedAt": "2026-09-09T19:02:37.971Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
-        "[Container News] Hormuz shipping disruption deepens amid new attacks on vessels — Security conditions around the Strait of Hormuz have deteriorated further following a new series of attacks involving commercial and military vessels. Iran said it attacked 10 ships near the strategic",
-        "[Splash247] Freightos founder launches boardroom revolt — Freightos founder Zvi Schreiber has launched a public campaign to overhaul the digital freight platform’s board, arguing the company has abandoned growth, backed the wrong strategy and allowed shareho",
-        "[Splash247] Greek-owned VLCC hit by drone in Iraqi waters — A Greek-owned VLCC carrying around 2m barrels of Iraqi fuel oil was struck by a drone in Iraqi territorial waters on Wednesday. The 302,500 dwt New Andros was hit at around 06.00 local time east of Al",
-        "[Journal of Commerce] MPV owners resist scrapping older ships in face of firm cargo volumes, rates — Strong time charter rates that have hardly moved in recent years and ongoing robust demand are keeping aging multipurpose vessels on the water.",
-        "[Container News] Fincantieri to support transfer of two FREMM frigates to Greece — Fincantieri will play a key role in the transfer of two FREMM frigates from Italy to Greece. Italy and Greece signed an Implementing Arrangement in Rome covering the transfer of Carlo Bergamini and Vi",
-        "[Supply Chain Dive] Amazon projects reduced reliance on USPS, UPS for delivery: report — The company estimates it will deliver over 86% of its own packages next year, per Business Insider, but Amazon cautioned that internal forecasts are preliminary.",
-        "[FreightWaves] Lufthansa to buy cargo terminal operator in Germany — Lufthansa Cargo has signed a contract to buy ground handling company LUG to improve cargo processing at airports in Germany. The post Lufthansa to buy cargo terminal operator in Germany appeared first",
-        "[Supply Chain Dive] Boston Scientific begins to restore shipping after cyberattack — The company is working through a backlog after the cyberattack hampered manufacturing, order processing and shipping.",
-        "[FreightWaves] World container volumes post record 17.3 million TEUs in July — Unprecedented volumes demonstrate the underlying strength of global container trade, analyst says. The post World container volumes post record 17.3 million TEUs in July appeared first on FreightWaves"
+        "Hapag-Lloyd, 26 Eylül 2026’dan itibaren SE3 kuzeydoğu rotasına Salalah, Umman’ı ekleyecek ve bu sayede hizmetine ek bir Orta Doğu liman çağrısı kazanacak. Güncellenen SE3 rotası Qingdao – Kwangyang – Ningbo – Tanjung Pelepas – Jeddah – Salalah – … şeklinde olacak. Bu değişiklik, bölgedeki rota kapsamasını genişletmeyi hedefliyor.",
+        "HPC Hamburg Port Consulting, Newcastle Limanı’ndaki 220 hektarlık Clean Energy Precinct için nihai iş planını tamamladı. Precinct, hidrojen ve hidrojen türevli yakıtlar dahil olmak üzere temiz enerji ürünlerinin üretimi, depolanması, işlenmesi ve ihracatını destekleyecek. Çalışma, yatırım ve gelişim için alternatif mülkiyet, yönetişim ve ticari yapılarını değerlendirdi.",
+        "FreightWaves, Q3 2026 için üç beyaz kağıt yayımladı: Freight Brokerage Rate Report, Shipper Rate Report ve Carrier Rate Report. Brokerage raporu Triumph tarafından sponsor edilerek, anket yanıtları ve SONAR verileriyle son çeyrek ve gelecek aylara dair öngörüler sunuyor. Shipper raporu Trimble ile birlikte, SONAR veri setlerine dayalı derinlemesine bir ücret ve talep öngörüsü sağlıyor. Carrier raporu ise Trimble sponsorluğunda, taşıyıcıların stratejilerini şekillendirmesine yardımcı olacak benzer analizleri içeriyor.",
+        "Çin’in ilk Arktik konteyner hizmeti, 9 Eylül’de Birleşik Krallık’a ulaşıp Londra’da karaya indi ve Arktik üzerinden Çin–Avrupa arasında daha kısa seyahat süresi araştırılması için bir dönüm noktası oluşturdu. Bu rotanın, deniz taşımacılığında polar havayollarını keşfetme ilgisini artırdığı belirtiliyor.",
+        "Bluecore Energy, 50 milyon dolarlık yatırım çekerek deniz taşıma sektöründe nükleer sistem geliştirmeyi hedefliyor. Şirket, yoğun liman komplekslerine elektrik sağlamak için yüzen nükleer santraller kurmayı planlıyor. Yatırım, bu yenilikçi enerji çözümünün ticari hale getirilmesini destekleyecek.",
+        "18 büyük gemi ülkesi, artan jeopolitik gerilimlerin, tek taraflı ticaret önlemlerinin ve gölge filo büyümesinin kurallara dayalı denizcilik sistemini tehdit ettiğini belirterek, serbest navigasyonun sürdürülmesi için uluslararası koordinatlı eylem çağrısında bulundu.",
+        "ABD, Kanada’dan önemli ithalat ürünleri (gıda, alkollü içecek ve motor araçları) üzerinde geniş çaplı yasak uygulamadığına dair analist açıklaması, tarifelerin sadece belirli kategorilere uygulanacağını vurguluyor. Bu durum, bu ürünlerin büyük ölçüde ABD-İsrail sınırları içinde serbestçe hareket etmesini sürdüreceğini gösteriyor."
       ],
       "sources": [
         {
@@ -20,39 +18,34 @@
           "url": "https://container-news.com"
         },
         {
-          "name": "Splash247",
-          "url": "https://splash247.com"
-        },
-        {
-          "name": "Journal of Commerce",
-          "url": "https://joc.com"
-        },
-        {
-          "name": "Supply Chain Dive",
-          "url": "https://www.supplychaindive.com"
-        },
-        {
           "name": "FreightWaves",
           "url": "https://www.freightwaves.com"
+        },
+        {
+          "name": "gCaptain",
+          "url": "https://gcaptain.com"
         }
       ]
     },
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "ABD Hazine Bakanlığı’nın 2023’te açıklanan İran havacılık sektörüne yönelik yaptırım paketinde Türkiye merkezli üç şirket de yer aldı. Şirketler, Mahan Air’e uçak transferi, İHA bileşeni sevkiyatı ve lojistik destek sağlamakla suçlandı. Bu gelişme, Türk lojistik sektörünün uluslararası yaptırımlarla karşı karşıya olduğunu gösteriyor.",
-        "TEMSA, 1989 yılından beri şehirlerarası yolcu taşımacılığı hizmeti veren Lider Vip Travel’e maraton teslimatı gerçekleştirdi. Bu teslimat, TEMSA’nın lojistik operasyonlarının genişleme stratejisinin bir parçası olarak değerlendiriliyor. Lider Vip Travel, bu sayede maraton organizasyonları için taşıma kapasitesini artırmayı planlıyor.",
-        "Çevreci bir taşımacılık modu olan demiryolunun, küresel lojistik sektöründeki payı artarken, Türkiye’de bu pay düşüş eğilimi gösteriyor. 2023 itibarıyla ihracat taşımalarında demiryolunun payı %0,71’e kadar geriledi. Bu durum, ülke içindeki lojistik altyapısının yeniden yapılandırılması gerektiği ihtiyacını gündeme getiriyor.",
-        "Konya’da yürütülen Adliye-Şehir Hastanesi tramvay hattı test sürüşleri başlatıldı. Hattın tamamlanmasıyla Şehir Hastanesi’ne aktarmasız ulaşım sağlanacak. Bu proje, şehir içi lojistik ve sağlık hizmetlerine entegrasyonun bir örneği olarak öne çıkıyor."
+        "Ticaret Bakanı Ömer Bolat, Türkiye ekonomisinin büyümeyi sürdüreceğini, yıl sonunda kişi başına milli gelirin 20.500 dolara yükseleceğini belirtti. Aynı zamanda, mal ihracatını 282 milyar dolara, hizmet ihracatını da ekleyerek toplam 410 milyar doları aşacağını açıkladı.",
+        "ABD Hazine Bakanlığı, İran havacılık sektörüne yönelik yaptırım paketinde Türkiye merkezli üç taşımacılık şirketini de hedef aldı. Şirketler, Mahan Air’e uçak transferi, İHA bileşeni sevkiyatı ve lojistik destek sağlamakla suçlandı.",
+        "Petlas, Latin Amerika’da lastik, oto parça ve madeni yağ sektöründeki en önemli uluslararası buluşmalarından Latin Tyre & Auto Parts Expo 2026’da geniş ürün gamıyla yer alacak. Şirket, bölgedeki pazar payını artırmayı hedefliyor.",
+        "Tofaş tarafından Türkiye’de üretilen Opel Vivaro Kamyonet, 14-20 Eylül 2026 tarihleri arasında Hannover’daki IAA Transportation 2026 fuarında ilk kez uluslararası arenada sergilenecek. Fuarda modelin yeni özellikleri ve üretim kapasitesi tanıtılacak.",
+        "1989 yılından beri şehirlerarası yolcu taşımacılığı hizmeti sunan TEMSA, Lider Vip Travel’e Maraton modeli teslim etti. Bu teslimat, şirketin lüks yolcu taşımacılığı portföyünü genişletme stratejisini destekliyor.",
+        "Küresel ölçekte demiryolunun taşımacılık payı artarken, Türkiye’de ihracat taşımalarında pay 0,71’e geriledi. Bu durum, ülkenin lojistik sektöründeki rekabet gücünü zayıflatıyor.",
+        "Konya’da Alaaddin-Adliye Tramvay Hattı’na bağlanacak Adliye-Şehir Hastanesi etabı test sürüşleri başlattı. Hattın açılmasıyla Şehir Hastanesi’ne aktarmasız ulaşım sağlanacak, kentsel ulaşım ağının etkinliği artırılacak."
       ],
       "sources": [
         {
-          "name": "LojiPort",
-          "url": "https://www.lojiport.com"
-        },
-        {
           "name": "Dünya Gazetesi",
           "url": "https://www.dunya.com"
+        },
+        {
+          "name": "LojiPort",
+          "url": "https://www.lojiport.com"
         },
         {
           "name": "Taşımacılar.com",
@@ -67,37 +60,30 @@
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "Manhattan Associates, Citi konferansında buluşarak bulut, yapay zeka ve büyüme stratejilerini öne çıkardı. Arcus Biosciences ise aynı etkinlikte casdatifan verilerinin klinik araştırmalardaki potansiyeline vurgu yaptı. Her iki şirket de sektörün teknoloji odaklı dönüşümüne dair önemli sinyaller verdi.",
-        "Optical Cable, Q3 2026 satışında liderliğe ulaşmış olsa da hisse fiyatı düşüş gösterdi. Buna karşılık, 10x Genomics hissesi 52 haftalık yüksek noktasına ulaşıp 66.95 USD seviyesinde işlem gördü. Bu farklı performanslar, piyasanın şirket bazlı dalgalanmasını yansıtmaktadır.",
-        "Primetime Emmy Ödülleri için yeni yayın anlaşması müzakereleri, sosyal medya klip ekonomisinin etkisiyle yeniden şekilleniyor. Mevcut anlaşma yıl sonunda sona erecek ve yeni sözleşme canlı izleyici sayısının yanı sıra dijital izlenimleri de hesaba katacaktır.",
-        "Sudan altın yasağı, İsviçre'de Cuma günü yürürlüğe girecek. Yasağın amacı, Sudan'dan ithal edilen altını engellemek ve uluslararası yaptırımlara uyum sağlamaktır.",
-        "Bombardier, ABD'deki 500 açık işyeri pozisyonunu doldurmak istediğini duyurdu. Şirket, Trump'ın olası tehditlerine rağmen yerli üretim hedeflerine bağlı kalacağını belirtti.",
-        "Chicago'da buğday vadeli işlemleri, Ukrayna diplomasi çabalarının etkisiyle düşüş gösterdi. Piyasa katılımcıları, savaşın gıda fiyatlarına olan potansiyel etkisini değerlendirdi.",
-        "Bir makale, evli çiftlerin kognitif yeteneklerinin düşmesi durumunda finansal istismar korkusunu dile getirdi. Yazıda, hastalık veya sakatlık sonrası finansal yönetim sorumluluğunun kimlere geçeceği tartışıldı."
+        "[Investing.com] Asana at Citi’s 2026 Global TMT Conference: AI push deepens",
+        "[Investing.com] Murphy Oil at Barclays energy conference: cash flow, appraisal and optionality",
+        "[Investing.com] Trump boards Qatar-gifted Air Force One after saying slide being checked",
+        "[Investing.com] Zscaler at Citi’s 2026 Global TMT Conference: growth broadens",
+        "[Investing.com] Corebridge at KBW Insurance Conference 2026: merger pitch centers on growth",
+        "[Investing.com] Exclusive-OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
+        "[Investing.com] AptarGroup at Wells Fargo healthcare conference: execution takes center stage",
+        "[Investing.com] Palvella at Cantor global healthcare conference: rare-disease push",
+        "[Investing.com] Pinterest at Goldman Sachs communacopia + technology: ai shopping push"
       ],
       "sources": [
         {
           "name": "Investing.com",
           "url": "https://www.investing.com"
-        },
-        {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com"
-        },
-        {
-          "name": "Forbes Business",
-          "url": "https://www.forbes.com"
         }
       ]
     },
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "Borsa İstanbul’da BIST 100 endeksi, günü %0,70 artışla 14.505,48 puanda tamamladı; 328,6 milyar lirayla tüm zamanların en yüksek işlem hacmini kaydetti.",
-        "Tera Grubu, Pusula Finans Holding’in Pusula Portföy, Pusula Yatırım ve Katılım Evim gibi iştiraklerini devralmak amacıyla görüşmelere başladı. Bağlayıcı sözleşme imzalandığında, grubun sermaye piyasaları, portföy yönetimi, yatırım ve finansman hizmetlerindeki ölçeği önemli ölçüde genişleyecek.",
-        "Hazine ve Maliye Bakanı Mehmet Şimşek, Türkiye ile ABD arasındaki ticaret hedefinin 100 milyar dolar olduğunu ve bu hedefe ulaşılmasının mümkün olduğunu ifade etti.",
-        "Net Global Endüstriyel Yatırımlar A.Ş., 2,233 milyar liralık halka arzı ile %28 açıklık oranıyla 2026 Eylül aylarında halka açılıyor. Gelirden %20-30’u vagon üretimine ayrılacak, şirket aynı zamanda Avrupa’ya domates ihraç ediyor.",
-        "Türkiye Perakendeciler Federasyonu tarafından düzenlenen Perakende Zirvesi 2026, ülkenin perakende sektöründeki finansal stratejileri ve pazar gelişmelerini ele almak üzere başlatıldı."
+        "Apple, CEO John Ternus'un liderliğinde, Türkiye saatiyle 20.00’de düzenlenen etkinlikte iPhone 18 Pro, Pro Max ve ilk katlanabilir iPhone Duo'yu tanıttı. Yeni modellerde yapay zeka entegrasyonu, yeni nesil işlemci, geliştirilmiş kamera ve daha büyük batarya kapasiteleri öne çıkıyor. Ürünlerin Türkiye fiyatları da açıklandı.",
+        "Ticaret Bakanı Ömer Bolat, Türkiye ekonomisinin yıl sonunda kişi başına milli gelirin 20 500 USD’ye ulaşacağını açıkladı. Mal ihracatı hedefi 282 BUSD, hizmet ihracatıyla birlikte toplam 410 BUSD’ı aşacak. Ayrıca lojistik sektörünün toplam milli gelire katkısı 115 BUSD olarak değerlendiriliyor.",
+        "Türk Hava Yolları (THY), İstanbul çıkışlı KKTC seferlerinde vergi ve harçlar hariç 1499 TL’den başlayan bilet kampanyasını başlattı. Avantajlı fiyatlar, hem turistik hem de ticari yolculara yönelik olarak sunuluyor.",
+        "Suudi Arabistan liderliğindeki koalisyon, Husiler’in Suudi Arabistan’ın Hamis Muşayt, Ebha ve Cezan bölgelerine balistik füze ve İHA saldırıları düzenlediğini açıkladı. Koalisyon yetkilileri, bu operasyonun güvenliğin sağlanması amacıyla gerçekleştirildiğini belirtti."
       ],
       "sources": [
         {
@@ -105,12 +91,12 @@
           "url": "https://www.dunya.com"
         },
         {
-          "name": "Anadolu Ajansı Ekonomi",
-          "url": "https://www.aa.com.tr"
-        },
-        {
           "name": "Habertürk Ekonomi",
           "url": "https://www.haberturk.com"
+        },
+        {
+          "name": "Anadolu Ajansı Ekonomi",
+          "url": "https://www.aa.com.tr"
         }
       ]
     }
