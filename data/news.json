@@ -1,16 +1,18 @@
 {
-  "generatedAt": "2026-09-09T19:02:37.971Z",
+  "generatedAt": "2026-09-09T22:13:51.768Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
-        "Hapag-Lloyd, 26 Eylül 2026’dan itibaren SE3 kuzeydoğu rotasına Salalah, Umman’ı ekleyecek ve bu sayede hizmetine ek bir Orta Doğu liman çağrısı kazanacak. Güncellenen SE3 rotası Qingdao – Kwangyang – Ningbo – Tanjung Pelepas – Jeddah – Salalah – … şeklinde olacak. Bu değişiklik, bölgedeki rota kapsamasını genişletmeyi hedefliyor.",
-        "HPC Hamburg Port Consulting, Newcastle Limanı’ndaki 220 hektarlık Clean Energy Precinct için nihai iş planını tamamladı. Precinct, hidrojen ve hidrojen türevli yakıtlar dahil olmak üzere temiz enerji ürünlerinin üretimi, depolanması, işlenmesi ve ihracatını destekleyecek. Çalışma, yatırım ve gelişim için alternatif mülkiyet, yönetişim ve ticari yapılarını değerlendirdi.",
-        "FreightWaves, Q3 2026 için üç beyaz kağıt yayımladı: Freight Brokerage Rate Report, Shipper Rate Report ve Carrier Rate Report. Brokerage raporu Triumph tarafından sponsor edilerek, anket yanıtları ve SONAR verileriyle son çeyrek ve gelecek aylara dair öngörüler sunuyor. Shipper raporu Trimble ile birlikte, SONAR veri setlerine dayalı derinlemesine bir ücret ve talep öngörüsü sağlıyor. Carrier raporu ise Trimble sponsorluğunda, taşıyıcıların stratejilerini şekillendirmesine yardımcı olacak benzer analizleri içeriyor.",
-        "Çin’in ilk Arktik konteyner hizmeti, 9 Eylül’de Birleşik Krallık’a ulaşıp Londra’da karaya indi ve Arktik üzerinden Çin–Avrupa arasında daha kısa seyahat süresi araştırılması için bir dönüm noktası oluşturdu. Bu rotanın, deniz taşımacılığında polar havayollarını keşfetme ilgisini artırdığı belirtiliyor.",
-        "Bluecore Energy, 50 milyon dolarlık yatırım çekerek deniz taşıma sektöründe nükleer sistem geliştirmeyi hedefliyor. Şirket, yoğun liman komplekslerine elektrik sağlamak için yüzen nükleer santraller kurmayı planlıyor. Yatırım, bu yenilikçi enerji çözümünün ticari hale getirilmesini destekleyecek.",
-        "18 büyük gemi ülkesi, artan jeopolitik gerilimlerin, tek taraflı ticaret önlemlerinin ve gölge filo büyümesinin kurallara dayalı denizcilik sistemini tehdit ettiğini belirterek, serbest navigasyonun sürdürülmesi için uluslararası koordinatlı eylem çağrısında bulundu.",
-        "ABD, Kanada’dan önemli ithalat ürünleri (gıda, alkollü içecek ve motor araçları) üzerinde geniş çaplı yasak uygulamadığına dair analist açıklaması, tarifelerin sadece belirli kategorilere uygulanacağını vurguluyor. Bu durum, bu ürünlerin büyük ölçüde ABD-İsrail sınırları içinde serbestçe hareket etmesini sürdüreceğini gösteriyor."
+        "[Container News] ABS issues basic design review certification to Hanwha Ocean — ABS has issued a Basic Design Review certification to Hanwha Ocean for a standardised floating production, storage and offloading vessel design developed for the South American and West African deepwa",
+        "[FreightWaves] FMCSA suspends USDOT deactivations for missed biennial updates during MOTUS rollout — FMCSA temporarily suspended biennial update enforcement and related USDOT deactivations during the MOTUS rollout. Affected registrants will receive advance notice before enforcement resumes. The post ",
+        "[FreightWaves] Police find $3.8M in cocaine in Indiana truck’s sleeper after ‘mystery’ Memphis pickup — Police found 277 pounds of cocaine inside a truck’s sleeper compartment. The driver’s employer disputes his account of the trip. The post Police find $3.8M in cocaine in Indiana truck’s sleeper after ",
+        "[FreightWaves] Summer wanes but railfreight stays hot — Freight on U.S. railroads staged a late summer surge led by grain and metallic ores. The post Summer wanes but railfreight stays hot appeared first on FreightWaves.",
+        "[Supply Chain Dive] Ocean freight rates cool despite continued price elevation — Although prices have gone down slightly, they are roughly in line with 2024 peak season levels during Red Sea and East Coast labor disruptions.",
+        "[Container News] ANL adjusts Pacific Islands bunker surcharges from October — ANL will revise its Bunker Adjustment Factor (BAF) across several Pacific Islands trades from 1 October 2026. The carrier said the changes reflect fuel price movements during the previous period. New ",
+        "[Splash247] Splash Singapore heads into final fortnight with registrations climbing — The countdown to Splash Singapore is entering its final fortnight, with delegate registrations accelerating and another group of senior shipping executives joining an already packed speaker lineup. Th",
+        "[Journal of Commerce] Former OOCL chief Tung Chee-hwa dead at 89 — Tung took over running the family shipping interests, which included Orient Overseas Container Line and bulk operator Island Navigation, in 1982 following the death of his shipping magnate father, but",
+        "[Journal of Commerce] US retailers expect September to be busiest month of year for imports — An already strong peak shipping season is forecast to end with a bang this month as vessel delays in China and draft restrictions along the Panama Canal push robust imports into early fall, the Nation"
       ],
       "sources": [
         {
@@ -22,21 +24,31 @@
           "url": "https://www.freightwaves.com"
         },
         {
-          "name": "gCaptain",
-          "url": "https://gcaptain.com"
+          "name": "Supply Chain Dive",
+          "url": "https://www.supplychaindive.com"
+        },
+        {
+          "name": "Splash247",
+          "url": "https://splash247.com"
+        },
+        {
+          "name": "Journal of Commerce",
+          "url": "https://joc.com"
         }
       ]
     },
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "Ticaret Bakanı Ömer Bolat, Türkiye ekonomisinin büyümeyi sürdüreceğini, yıl sonunda kişi başına milli gelirin 20.500 dolara yükseleceğini belirtti. Aynı zamanda, mal ihracatını 282 milyar dolara, hizmet ihracatını da ekleyerek toplam 410 milyar doları aşacağını açıkladı.",
-        "ABD Hazine Bakanlığı, İran havacılık sektörüne yönelik yaptırım paketinde Türkiye merkezli üç taşımacılık şirketini de hedef aldı. Şirketler, Mahan Air’e uçak transferi, İHA bileşeni sevkiyatı ve lojistik destek sağlamakla suçlandı.",
-        "Petlas, Latin Amerika’da lastik, oto parça ve madeni yağ sektöründeki en önemli uluslararası buluşmalarından Latin Tyre & Auto Parts Expo 2026’da geniş ürün gamıyla yer alacak. Şirket, bölgedeki pazar payını artırmayı hedefliyor.",
-        "Tofaş tarafından Türkiye’de üretilen Opel Vivaro Kamyonet, 14-20 Eylül 2026 tarihleri arasında Hannover’daki IAA Transportation 2026 fuarında ilk kez uluslararası arenada sergilenecek. Fuarda modelin yeni özellikleri ve üretim kapasitesi tanıtılacak.",
-        "1989 yılından beri şehirlerarası yolcu taşımacılığı hizmeti sunan TEMSA, Lider Vip Travel’e Maraton modeli teslim etti. Bu teslimat, şirketin lüks yolcu taşımacılığı portföyünü genişletme stratejisini destekliyor.",
-        "Küresel ölçekte demiryolunun taşımacılık payı artarken, Türkiye’de ihracat taşımalarında pay 0,71’e geriledi. Bu durum, ülkenin lojistik sektöründeki rekabet gücünü zayıflatıyor.",
-        "Konya’da Alaaddin-Adliye Tramvay Hattı’na bağlanacak Adliye-Şehir Hastanesi etabı test sürüşleri başlattı. Hattın açılmasıyla Şehir Hastanesi’ne aktarmasız ulaşım sağlanacak, kentsel ulaşım ağının etkinliği artırılacak."
+        "[Dünya Gazetesi] Çimento sektöründe enerji maliyeti yüzde 40’a ulaştı — Küresel yapı ve inşaat malzemeleri sektörü, INTERCEM 2026 Kon­feransı’nda bir araya geldi. Kon­feransta, küresel tedarik zincir­lerindeki kırılmalar, sınırda kar­bon düzenlemesi, değişen pazar dinamik",
+        "[Dünya Gazetesi] Mobilya sektörü, istikrar için destek bekliyor — Ağustos ayında Türkiye mobilya, kağıt ve orman ürünleri sektörü 648 milyon 507 bin dolarlık ihracat gerçekleştirerek geçen yılın aynı ayına göre yüzde 1,1 düşüş kaydetti. Akdeniz Mobilya, Kağıt ve Orm",
+        "[LojiPort] 3 Türk taşımacılık şirketi ABD'nin yaptırım listesinde — ABD Hazine Bakanlığı’nın İran havacılık sektörüne yönelik yaptırım paketinde Türkiye merkezli üç şirket de yer aldı. Washington, şirketleri İranlı Mahan Air’e uçak transferi, İHA bileşeni sevkiyatı ve",
+        "[LojiPort] Petlas, gözünü Latin Amerika pazarına dikti — Petlas, bölgenin lastik, oto parça ve madeni yağ sektörlerindeki en önemli uluslararası buluşmalarından Latin Tyre & Auto Parts Expo 2026’da geniş ürün gamıyla yer aldı.",
+        "[Taşımacılar.com] Opel Vivaro Kamyonet IAA 2026’da Tanıtılacak — Tofaş tarafından Türkiye’de üretilen Opel Vivaro Kamyonet, 14-20 Eylül 2026’da Almanya Hannover’deki IAA Transportation 2026 fuarında ilk kez uluslararası arenada sergilenecek.",
+        "[Taşıma Dünyası Gazetesi] TEMSA’dan Lider Vip Travel’e Maraton teslimatı — TEMSA 1989 yılından beri şehirlerarası yolcu taşımacılığı alanında hizmet veren Lider Vip Travel’e Maraton teslimatı gerçekleştirdi.",
+        "[LojiPort] Taşımada demiryolu payı dünyada büyüyor, Türkiye'de küçülüyor — Çevreci bir taşımacılık modu olan demiryolunun tüm dünyada payı artarken, Türkiye’de ise hedeflerin aksine geriliyor. İhracat taşımalarında demiryolunun payı bu yıl yüzde 0,71’e kadar indi.",
+        "[Taşıma Dünyası Gazetesi] Adliye-Şehir Hastanesi hattında test sürüşü — Konya’da Alaaddin-Adliye Tramvay Hattı’nı Şehir Hastanesi’ne bağlayacak Adliye-Şehir Hastanesi etabında test sürüşleri başladı. Hattın açılmasıyla Şehir Hastanesi’ne aktarmasız ulaşım sağlanacak.",
+        "[Taşıma Dünyası Gazetesi] Mersin’de elektrikli otobüslere vatandaşlardan tam not — Mersin Büyükşehir Belediyesi’nin 8 ay önce kent içi ulaşımda hizmete aldığı elektrikli otobüsler, sessizliği, konforu ve çevreci özellikleriyle vatandaşlardan olumlu not aldı."
       ],
       "sources": [
         {
@@ -60,17 +72,22 @@
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "[Investing.com] Asana at Citi’s 2026 Global TMT Conference: AI push deepens",
-        "[Investing.com] Murphy Oil at Barclays energy conference: cash flow, appraisal and optionality",
-        "[Investing.com] Trump boards Qatar-gifted Air Force One after saying slide being checked",
-        "[Investing.com] Zscaler at Citi’s 2026 Global TMT Conference: growth broadens",
-        "[Investing.com] Corebridge at KBW Insurance Conference 2026: merger pitch centers on growth",
-        "[Investing.com] Exclusive-OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say",
-        "[Investing.com] AptarGroup at Wells Fargo healthcare conference: execution takes center stage",
-        "[Investing.com] Palvella at Cantor global healthcare conference: rare-disease push",
-        "[Investing.com] Pinterest at Goldman Sachs communacopia + technology: ai shopping push"
+        "Hunter Biden'nin memecoin’i başlatıldıktan sadece birkaç saat içinde %95 düşüş yaşayarak çöküş yaşadı. Yatırımcıların memecoinlere yönelik ilgisi henüz toparlanamamışken, Bitcoin fiyatları hafif bir artış gösterdi.",
+        "Kariyerimizi finansal istismardan korumak istiyoruz: Eşimle ben, felç durumunda finanslarımızı kim yönetecek? Bu soruya yanıt ararken, ailemizin yaşça ilerleyen annelerinin bilişsel yeteneklerindeki yavaş düşüşü gözlemledik. Bu durum, varlık yönetiminde bir yöneticiye ihtiyaç duyulabileceğini vurguluyor.",
+        "Apple, yeni Siri Yapay Zeka ile sohbetlerin özetlenebilmesini sağlayacak bir dönüşüm planlıyor. Bu yenilik, OpenAI, Anthropic ve Google gibi firmaların sunduğu gelişmiş Yapay Zeka asistanlarına benzer bir deneyim sunmayı hedefliyor. Siri’nin bu yeni yetenekleri, kullanıcıların konuşmalarını kolayca geri hatırlamasına olanak tanıyacak.",
+        "Küresel hisse senedi piyasasında büyük bir düşüşün en büyük düşmanı şu anda Bessent’in müdahaleleri olabilir. Daha güçlü bir yen ve yükselen ABD Hazine tahvil getirileri, hisse senetlerinin yükselişine zararlı bir kombinasyon oluşturabilir. Piyasalara olan bu tehdit, yatırımcıların risk toleransını yeniden değerlendirmesine yol açıyor.",
+        "Bir miras IRA’sı üzerinde ‘Ben yürütücüyüm: kardeşlerimle birlikte bu IRA’yı nakde çevirebilir miyiz?’ sorusunu sormaktayız. Miras IRA’sının üç yeni IRA’ya bölünmesi gerektiği konusunda belirsizlik var. Miras sahiplerinin, varlıklarını en iyi şekilde yönetmek için hangi seçeneklerin uygun olduğuna karar vermeleri gerekiyor.",
+        "Acumen at Cantor Fitzgerald konferansında sabirnetug ve brain-shuttle push gibi konular tartışıldı. Lakeland Fire and Safety, 2026 ikinci çeyrek sonuçlarını karışık bir performansla açıkladı. ADP, Citi’nin 2026 Global TMT Konferansı’nda Yapay Zeka’nın büyüme görünüşünü yükselttiğini belirtti. Ayrıca, Citi Private Bank, Bank of America’dan Radzinski’yi yeni ekip üyesi olarak işe aldı."
       ],
       "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com"
+        },
+        {
+          "name": "Forbes Business",
+          "url": "https://www.forbes.com"
+        },
         {
           "name": "Investing.com",
           "url": "https://www.investing.com"
@@ -80,23 +97,20 @@
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "Apple, CEO John Ternus'un liderliğinde, Türkiye saatiyle 20.00’de düzenlenen etkinlikte iPhone 18 Pro, Pro Max ve ilk katlanabilir iPhone Duo'yu tanıttı. Yeni modellerde yapay zeka entegrasyonu, yeni nesil işlemci, geliştirilmiş kamera ve daha büyük batarya kapasiteleri öne çıkıyor. Ürünlerin Türkiye fiyatları da açıklandı.",
-        "Ticaret Bakanı Ömer Bolat, Türkiye ekonomisinin yıl sonunda kişi başına milli gelirin 20 500 USD’ye ulaşacağını açıkladı. Mal ihracatı hedefi 282 BUSD, hizmet ihracatıyla birlikte toplam 410 BUSD’ı aşacak. Ayrıca lojistik sektörünün toplam milli gelire katkısı 115 BUSD olarak değerlendiriliyor.",
-        "Türk Hava Yolları (THY), İstanbul çıkışlı KKTC seferlerinde vergi ve harçlar hariç 1499 TL’den başlayan bilet kampanyasını başlattı. Avantajlı fiyatlar, hem turistik hem de ticari yolculara yönelik olarak sunuluyor.",
-        "Suudi Arabistan liderliğindeki koalisyon, Husiler’in Suudi Arabistan’ın Hamis Muşayt, Ebha ve Cezan bölgelerine balistik füze ve İHA saldırıları düzenlediğini açıkladı. Koalisyon yetkilileri, bu operasyonun güvenliğin sağlanması amacıyla gerçekleştirildiğini belirtti."
+        "İran Hürmüzgan Eyaleti'nde Keşm Adası, Sirik ve Minab kentleri yakınlarında patlama seslerinin duyulduğu bildirildi. Dünya Gazetesi'nin raporuna göre olayın nedeni ve yaralanma sayısı henüz netleşmedi.",
+        "İngiltere Lig Kupası 3. turunda Chelsea, sahasında 2-0 geriye düşen Leeds United'u 6-3 yenerek tur atladı. 12 dakikada 4 gol atan takım, hızlı hücumlarıyla dikkat çekti.",
+        "Dışişleri Bakanlığı, Suriye'nin kuzeybatısındaki İdlib ilinde savaş kalıntılarının toplandığı depoda meydana gelen patlamada hayatını kaybedenler için taziye mesajı yayımladı. Olayın ardından Türkiye, acilen yardım çağrısı yapması bekleniyor.",
+        "Suriye Dışişleri Bakanlığı, İsrail Başbakanı Binyamin Netanyahu'nun Şeyh Dağı'na (Hermon) ziyaretine tepki göstererek, bu durumun ülke egemenliğinin ihlali olduğunu vurguladı. Yetkililer, sınırdaki diplomatik gerilimin artabileceğini belirtti.",
+        "Norveç Başbakanı Jonas Gahr Store, Ukrayna Devlet Başkanı Vladimir Zelenskiy'nin uçağının Moldova'dan kalkış sırasında neredeyse bir İHA tarafından vurulup kıl payıyla kurtulduğunu açıkladı. Söz konusu uçuş, askeri risklerin yüksek olduğu bir bölgeyi geçiyor.",
+        "Tarımsal üretimde maliyet baskılarını azaltacak yapısal dönüşüm adımlarının hızlandırılmasıyla gıda fiyatlarındaki oynaklığın azaltılması hedefleniyor. Amaç, gıdaya makul fiyatlarla erişimin sağlanmasıdır.",
+        "Türk tekstil sektörünün uluslararası buluşma noktalarından Texhibition İstanbul, 10. kez kapılarını açtı. TİM Başkanı Mustafa Gültepe, sektörün normalleşme adımlarının atıldığını ve zor dönemin geride kaldığını belirtti.",
+        "Çimento sektöründe enerji maliyeti, INTERCEM 2026 Konferansı'nda yüzde 40'a yükseldi. Konferansta küresel tedarik zincirindeki kırılmalar, karbon düzenlemeleri ve pazar dinamikleri ele alındı.",
+        "Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu Başkanı Davut Menteş, devlet destekli alacak sigortasının KOBİ'ler için tahsilat güvencesi ve finansmana erişim aracı olarak yeniden tasarlandığını duyurdu. Afet risklerinin daha geniş sigorta koruması altında toplanması planlanıyor."
       ],
       "sources": [
         {
           "name": "Dünya Gazetesi",
           "url": "https://www.dunya.com"
-        },
-        {
-          "name": "Habertürk Ekonomi",
-          "url": "https://www.haberturk.com"
-        },
-        {
-          "name": "Anadolu Ajansı Ekonomi",
-          "url": "https://www.aa.com.tr"
         }
       ]
     }
