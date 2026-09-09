@@ -1,88 +1,103 @@
 {
-  "generatedAt": "2026-09-09T08:35:07.223Z",
+  "generatedAt": "2026-09-09T15:50:52.979Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
-        "[Splash247] Hormuz tanker war spirals — The maritime war around the Strait of Hormuz has escalated dramatically over the past 24 hours, with the US attacking five Iran-linked tankers and Tehran claiming to have subsequently targeted two US ",
-        "[Splash247] Schoeller doubles down at Chengxi with $180m MR quartet — Schoeller Holdings has returned to China’s Chengxi Shipyard for another four MR product tankers, doubling its 50,000 dwt series at the CSSC yard just months after completing deliveries of the first ba",
-        "[Container News] Freightos Weekly Update: Mediterranean ocean rates pull even with Asia – EU, possibly from Red Sea transit bump — Tensions between Iran and the US continue to climb around the Strait of Hormuz, with Iran now announcing plans to impose a wider exclusion zone on areas near the strait. Fuel rates have trended up sin",
-        "[Splash247] H-Line goes back to New Times for newcastlemax duo — South Korea’s H-Line Shipping has returned to dry bulk ordering with two LNG dual-fuel newcastlemaxes at China’s New Times Shipbuilding, backed by long-term employment with steelmaker POSCO. Broker re",
-        "[Splash247] Japan takes hydrogen propulsion from testbed to ship — Japan Engine Corporation has completed what it says is the world’s first hydrogen-fuelled main engine for a large commercial vessel, clearing another milestone ahead of full-scale trials at sea. The 6",
-        "[Container News] Rotterdam World Gateway secures financing for €500 million expansion — Rotterdam World Gateway (RWG) has secured a new financing package to support the final phase of its €500 million container terminal expansion at Maasvlakte 2 in the Port of Rotterdam. The financing co",
-        "[Splash247] Enter the gigamax: Alphaliner makes the case for 27,500 teu ships — For a decade the 24,000 teu megamax has looked like the natural ceiling for containership size. Analysts at Alphaliner now believe the industry could be ready to break through it. The consultancy has ",
-        "[Splash247] Viasat Commercial: How the digitally mature ship of 2030 will operate — The next phase of digitalisation, according to Ben Palmer, president of Viasat Commercial, will be defined by measurable returns and technology that solves problems rather than creating new ones. Ben ",
-        "[Container News] APM Terminals Suape welcomes first commercial vessel — APM Terminals Suape has started commercial operations in Pernambuco, Brazil, following the arrival of its first vessel. The Maersk Ganges made the first commercial call at the new facility. The vessel"
+        "[Container News] Hormuz shipping disruption deepens amid new attacks on vessels — Security conditions around the Strait of Hormuz have deteriorated further following a new series of attacks involving commercial and military vessels. Iran said it attacked 10 ships near the strategic",
+        "[Splash247] Freightos founder launches boardroom revolt — Freightos founder Zvi Schreiber has launched a public campaign to overhaul the digital freight platform’s board, arguing the company has abandoned growth, backed the wrong strategy and allowed shareho",
+        "[Splash247] Greek-owned VLCC hit by drone in Iraqi waters — A Greek-owned VLCC carrying around 2m barrels of Iraqi fuel oil was struck by a drone in Iraqi territorial waters on Wednesday. The 302,500 dwt New Andros was hit at around 06.00 local time east of Al",
+        "[Journal of Commerce] MPV owners resist scrapping older ships in face of firm cargo volumes, rates — Strong time charter rates that have hardly moved in recent years and ongoing robust demand are keeping aging multipurpose vessels on the water.",
+        "[Container News] Fincantieri to support transfer of two FREMM frigates to Greece — Fincantieri will play a key role in the transfer of two FREMM frigates from Italy to Greece. Italy and Greece signed an Implementing Arrangement in Rome covering the transfer of Carlo Bergamini and Vi",
+        "[Supply Chain Dive] Amazon projects reduced reliance on USPS, UPS for delivery: report — The company estimates it will deliver over 86% of its own packages next year, per Business Insider, but Amazon cautioned that internal forecasts are preliminary.",
+        "[FreightWaves] Lufthansa to buy cargo terminal operator in Germany — Lufthansa Cargo has signed a contract to buy ground handling company LUG to improve cargo processing at airports in Germany. The post Lufthansa to buy cargo terminal operator in Germany appeared first",
+        "[Supply Chain Dive] Boston Scientific begins to restore shipping after cyberattack — The company is working through a backlog after the cyberattack hampered manufacturing, order processing and shipping.",
+        "[FreightWaves] World container volumes post record 17.3 million TEUs in July — Unprecedented volumes demonstrate the underlying strength of global container trade, analyst says. The post World container volumes post record 17.3 million TEUs in July appeared first on FreightWaves"
       ],
       "sources": [
+        {
+          "name": "Container News",
+          "url": "https://container-news.com"
+        },
         {
           "name": "Splash247",
           "url": "https://splash247.com"
         },
         {
-          "name": "Container News",
-          "url": "https://container-news.com"
+          "name": "Journal of Commerce",
+          "url": "https://joc.com"
+        },
+        {
+          "name": "Supply Chain Dive",
+          "url": "https://www.supplychaindive.com"
+        },
+        {
+          "name": "FreightWaves",
+          "url": "https://www.freightwaves.com"
         }
       ]
     },
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "TEMSA, 1989 yılından beri şehirlerarası yolcu taşımacılığı hizmeti veren Lider Vip Travel’e yeni bir Marathon otobüsü teslim etti. Aynı zamanda Mersin Büyükşehir Belediyesi, kent içi ulaşımda kullandığı elektrikli otobüslerin sessizliği, konforu ve çevre dostu özellikleriyle vatandaşlardan tam not aldı. İzmir Büyükşehir Belediyesi’nin toplu ulaşımdaki amiral gemisi ESHOT, şoförlerinin çalışma kıyafetlerini dört mevsim konfor ve güvenlik gözetilerek yeniliyor.",
-        "Alisan Lojistik, 2025 yılında operasyonel büyüme sürürken toplam sera gazı emisyonlarını %13,6 oranında azalttı, filodaki Euro 6 araç oranını %91,34’e yükseltti ve EcoVadis puanını 72’ye çıkardı. Bu gelişme, şirketin sürdürülebilirlik hedeflerine ulaşma stratejisinin bir parçası olarak öne çıkıyor. Ayrıca Türkiye Seyahat Acentaları Birliği (TÜRSAB) ile Avrasya E-Mobilite Derneği arasında turizm taşımacılığında elektrikli araç kullanımı ve şarj altyapısı geliştirme amacıyla iş birliği protokolü imzalandı.",
-        "Akaryakıt sektörü, İran savaşı, Rus rafinerilerine yönelik saldırılar ve ihracat kısıtlamaları nedeniyle küresel arz sıkışması yaşıyor. Rafineri marjları 27 dolardan 81 dolara yükselirken, Türkiye’de de benzin ve motorin fiyatlarında yeni zam dalgasının önü açılıyor. Bu durum, lojistik firmalarının operasyonel maliyetlerini doğrudan etkileyebilir.",
-        "Demiryolunun dünya genelinde taşıma modundaki payı artarken, Türkiye’de ihracat taşımalarında demiryolunun payı hedeflere ters düşerek bu yıl %0,71’e geriledi. Bu düşüş, Türkiye'nin uluslararası taşımacılık rekabetinde demiryoluna olan bağımlılığının azaltılmasını gerektiren zorlukları vurguluyor.",
-        "Konya’da Alaaddin-Adliye Tramvay Hattı’nın Şehir Hastanesi ile bağlantısı için Adliye-Şehir Hastanesi hattında test sürüşleri başladı. Hattın açılmasıyla Şehir Hastanesi’ne aktarmasız ulaşım sağlanması planlanıyor, bu da şehir içi toplu taşıma ağını genişletiyor.",
-        "ZF Aftermarket, araç teşhis verilerine uzaktan erişim sağlayarak servise gelmeden önce arızaları tespit etmeyi mümkün kılıyor. Bu erken arıza tespiti, teknisyenlerin sorunları hızlı değerlendirmesine ve onarımları hızlandırmasına olanak tanıyor, böylece lojistik şirketlerinin araç verimliliğini artırıyor."
+        "ABD Hazine Bakanlığı’nın 2023’te açıklanan İran havacılık sektörüne yönelik yaptırım paketinde Türkiye merkezli üç şirket de yer aldı. Şirketler, Mahan Air’e uçak transferi, İHA bileşeni sevkiyatı ve lojistik destek sağlamakla suçlandı. Bu gelişme, Türk lojistik sektörünün uluslararası yaptırımlarla karşı karşıya olduğunu gösteriyor.",
+        "TEMSA, 1989 yılından beri şehirlerarası yolcu taşımacılığı hizmeti veren Lider Vip Travel’e maraton teslimatı gerçekleştirdi. Bu teslimat, TEMSA’nın lojistik operasyonlarının genişleme stratejisinin bir parçası olarak değerlendiriliyor. Lider Vip Travel, bu sayede maraton organizasyonları için taşıma kapasitesini artırmayı planlıyor.",
+        "Çevreci bir taşımacılık modu olan demiryolunun, küresel lojistik sektöründeki payı artarken, Türkiye’de bu pay düşüş eğilimi gösteriyor. 2023 itibarıyla ihracat taşımalarında demiryolunun payı %0,71’e kadar geriledi. Bu durum, ülke içindeki lojistik altyapısının yeniden yapılandırılması gerektiği ihtiyacını gündeme getiriyor.",
+        "Konya’da yürütülen Adliye-Şehir Hastanesi tramvay hattı test sürüşleri başlatıldı. Hattın tamamlanmasıyla Şehir Hastanesi’ne aktarmasız ulaşım sağlanacak. Bu proje, şehir içi lojistik ve sağlık hizmetlerine entegrasyonun bir örneği olarak öne çıkıyor."
       ],
       "sources": [
         {
-          "name": "Taşıma Dünyası Gazetesi",
-          "url": "https://www.tasimadunyasi.com"
+          "name": "LojiPort",
+          "url": "https://www.lojiport.com"
         },
         {
           "name": "Dünya Gazetesi",
           "url": "https://www.dunya.com"
         },
         {
-          "name": "LojiPort",
-          "url": "https://www.lojiport.com"
+          "name": "Taşımacılar.com",
+          "url": "https://www.tasimacilar.com"
+        },
+        {
+          "name": "Taşıma Dünyası Gazetesi",
+          "url": "https://www.tasimadunyasi.com"
         }
       ]
     },
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "ABD Hazine Sekreteri Scott Bessent, Güney Metodist Üniversitesi iş fakültesi önünde yaptığı konuşmada \"Şimdi evim\" ifadesini kullanarak, politika oluşturma konusunda belirleyici bir konumda olduğunu vurguladı. Bu açıklama, Japon yeni döviz kurlarında volatilite artışına ve ABD hisse senetlerinde piyasa hareketlerine neden olacak sinyaller gönderdi.",
-        "Brent ham petrol fiyatları, İran'da devam eden çatışmaların şiddetlenmesiyle 100 doları aşarak önemli bir kırılma noktasına ulaştı. ABD'nin beş İran petrol gemisini imha ettiği haberinin ardından enerji piyasalarındaki belirsizlik, petrol fiyatlarını yükseltti.",
-        "İngiltere düzenleyici kurum Ofcom, 2029 yılından itibaren Openreach'in bakır ağ fiyatlarında değişiklik yapmasına izin verdi. Bu karar, telekomünikasyon altyapısı maliyetlerini yeniden yapılandırma fırsatı sunuyor.",
-        "İspanyol moda perakendecisi Inditex, güçlü satış rakamlarına rağmen kâr tahminlerini karşılayamaması nedeniyle hisse fiyatlarında düşüş yaşadı. Şirketin kar eksikliği, yatırımcı güvenini zayıflattı.",
-        "Yatırım araştırma firması Laidlaw, Aeon Biopharma hisseleri için satın alma (buy) derecelendirmesiyle ilk kez kapsam başlattı. Şirket, biyoteknoloji alanındaki potansiyelini vurgulayarak olumlu bir öneri sundu.",
-        "Roth/MKM, kuantum teknolojisi odaklı şirket Pasqal için satın alma (buy) derecelendirmesiyle ilk kez kapsam açtı. Pasqal'ın kuantum bilişim çözümleri, yatırımcı ilgisini çekiyor.",
-        "Orbit Capital, stratejik yönetim kadrosunu güçlendirmek amacıyla Paul Edwards'i bağımsız (non‑executive) yönetim kurulu üyesi olarak atadı. Edwards'in sektörel deneyimi, şirketin yöneticilik yapısına yeni bir bakış açısı getirecek.",
-        "B&M Holding'in CEO'su Tjeerd Jegen, 385.011 £ değerinde hisse satın alarak şirketi destekledi. Bu işlem, yöneticinin uzun vadeli güvenini gösteriyor."
+        "Manhattan Associates, Citi konferansında buluşarak bulut, yapay zeka ve büyüme stratejilerini öne çıkardı. Arcus Biosciences ise aynı etkinlikte casdatifan verilerinin klinik araştırmalardaki potansiyeline vurgu yaptı. Her iki şirket de sektörün teknoloji odaklı dönüşümüne dair önemli sinyaller verdi.",
+        "Optical Cable, Q3 2026 satışında liderliğe ulaşmış olsa da hisse fiyatı düşüş gösterdi. Buna karşılık, 10x Genomics hissesi 52 haftalık yüksek noktasına ulaşıp 66.95 USD seviyesinde işlem gördü. Bu farklı performanslar, piyasanın şirket bazlı dalgalanmasını yansıtmaktadır.",
+        "Primetime Emmy Ödülleri için yeni yayın anlaşması müzakereleri, sosyal medya klip ekonomisinin etkisiyle yeniden şekilleniyor. Mevcut anlaşma yıl sonunda sona erecek ve yeni sözleşme canlı izleyici sayısının yanı sıra dijital izlenimleri de hesaba katacaktır.",
+        "Sudan altın yasağı, İsviçre'de Cuma günü yürürlüğe girecek. Yasağın amacı, Sudan'dan ithal edilen altını engellemek ve uluslararası yaptırımlara uyum sağlamaktır.",
+        "Bombardier, ABD'deki 500 açık işyeri pozisyonunu doldurmak istediğini duyurdu. Şirket, Trump'ın olası tehditlerine rağmen yerli üretim hedeflerine bağlı kalacağını belirtti.",
+        "Chicago'da buğday vadeli işlemleri, Ukrayna diplomasi çabalarının etkisiyle düşüş gösterdi. Piyasa katılımcıları, savaşın gıda fiyatlarına olan potansiyel etkisini değerlendirdi.",
+        "Bir makale, evli çiftlerin kognitif yeteneklerinin düşmesi durumunda finansal istismar korkusunu dile getirdi. Yazıda, hastalık veya sakatlık sonrası finansal yönetim sorumluluğunun kimlere geçeceği tartışıldı."
       ],
       "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://www.investing.com"
+        },
         {
           "name": "MarketWatch",
           "url": "https://www.marketwatch.com"
         },
         {
-          "name": "Investing.com",
-          "url": "https://www.investing.com"
+          "name": "Forbes Business",
+          "url": "https://www.forbes.com"
         }
       ]
     },
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "Kahramanmaraş, Türkiye Kültür Yolu Festivali’nin 12–20 Eylül tarihleri arasında 18. durağı olarak ilk kez ev sahipliği yapacak. Şehir, UNESCO Edebiyat Şehri statüsüyle öne çıkıyor ve festival süresince 52 lezzet noktasıyla gastronomik deneyim sunacak. Dokuz gün boyunca tarihi ve kültürel mekanlarda gerçekleştirilecek etkinlikler, geleneklerin farklı sanat disiplinleriyle yeniden yorumlanmasını hedefleyecek.",
-        "Tarımsal üretimde maliyet baskılarının azaltılması ve gıda fiyatlarındaki oynaklığın önlenmesi için Yeni Orta Vadeli Program kapsamında adımlar atılıyor. Program, arz‑talep, dış ticaret ve dağıtım zincirindeki gelişmeleri erken uyarı yaklaşımıyla izleyecek. Amaç, gıdaya makul fiyatlarla erişimin sağlanmasıdır.",
-        "Almanya’da doğal gaz depolarının doluluk oranı yüzde 53’e gerilemiş durumda, bu da yaklaşan kış dönemi öncesinde hükümete yönelik siyasi baskıyı artırıyor. Avrupa’nın en büyük ekonomisi olan Almanya’daki bu düşüş, enerji güvenliği konusundaki endişeleri yükseltiyor.",
-        "Türkiye’deki çatıların yaklaşık 120 gigavatlık güneş fotovoltaik kapasitesi kurulum potansiyeline sahip. Bu potansiyelin hayata geçirilmesi durumunda ülkenin elektrik talebinin yüzde 45’inin yalnızca çatı tipi güneş enerjisinden karşılanması mümkün.",
-        "Yeni eğitim öğretim yılında 14 Eylül’de başlayacak öğrenci servis ücretlerinde artış gözlemleniyor. Üç büyük ilde bu ücretler mesafeye göre 27 bin ile 93 bin lira arasında değişecek.",
-        "Türkiye, yaşlı nüfusta artış oranlarını ve sosyal güvenlik dengesine etkilerini göz önünde bulundurarak ‘uzun dönemli bakım sigortası’ başta olmak üzere çeşitli uygulamaları sisteme uyarlayacak. Bu adım, artan yaşlı nüfus için uzun vadeli bakım hizmetlerinin finansal güvenceyi sağlamayı amaçlıyor.",
-        "ABD’den gelecek enflasyon rakamları piyasalar için önemli bir gösterge ve Fed’in faiz kararını etkileyebilecek. Aynı zamanda, Orta Doğu’daki gerilim artışının enerji arzına yönelik endişeleri güçlendirdiği, yapay zeka sektöründeki iyimserliğin ise küresel piyasalarda risk iştahını desteklediği bildirildi. Petrol fiyatları ve tahvil faizleri yükselirken, yatırımcıların odak noktası merkez bankalarının faiz kararları ve açıklanacak enflasyon verileri olacak."
+        "Borsa İstanbul’da BIST 100 endeksi, günü %0,70 artışla 14.505,48 puanda tamamladı; 328,6 milyar lirayla tüm zamanların en yüksek işlem hacmini kaydetti.",
+        "Tera Grubu, Pusula Finans Holding’in Pusula Portföy, Pusula Yatırım ve Katılım Evim gibi iştiraklerini devralmak amacıyla görüşmelere başladı. Bağlayıcı sözleşme imzalandığında, grubun sermaye piyasaları, portföy yönetimi, yatırım ve finansman hizmetlerindeki ölçeği önemli ölçüde genişleyecek.",
+        "Hazine ve Maliye Bakanı Mehmet Şimşek, Türkiye ile ABD arasındaki ticaret hedefinin 100 milyar dolar olduğunu ve bu hedefe ulaşılmasının mümkün olduğunu ifade etti.",
+        "Net Global Endüstriyel Yatırımlar A.Ş., 2,233 milyar liralık halka arzı ile %28 açıklık oranıyla 2026 Eylül aylarında halka açılıyor. Gelirden %20-30’u vagon üretimine ayrılacak, şirket aynı zamanda Avrupa’ya domates ihraç ediyor.",
+        "Türkiye Perakendeciler Federasyonu tarafından düzenlenen Perakende Zirvesi 2026, ülkenin perakende sektöründeki finansal stratejileri ve pazar gelişmelerini ele almak üzere başlatıldı."
       ],
       "sources": [
         {
