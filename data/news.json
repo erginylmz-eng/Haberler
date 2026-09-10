@@ -1,76 +1,72 @@
 {
-  "generatedAt": "2026-09-10T08:37:24.379Z",
+  "generatedAt": "2026-09-10T15:46:02.257Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
-        "[Container News] Hapag-Lloyd appoints Anders Boenaes as new COO — Hapag-Lloyd has appointed Anders Boenaes as its new Chief Operating Officer (COO), effective 1 October 2026. The company’s Supervisory Board has also extended the contract of Dheeraj Bhatia, Chief Ter",
-        "[Splash247] Ernst Russ doubles down on tankers with Cargill-backed pair — German shipowner Ernst Russ has doubled down on its move into tankers, acquiring another two chemical and product tanker newbuildings in China and fixing both to Cargill. The Hamburg-listed group has ",
-        "[Splash247] Hormuz attacks reach wartime high — The US-Iran conflict has descended into an increasingly literal tanker war, with this week registering the largest wave of attacks on shipping since hostilities began on February 28. US forces destroy",
-        "[Splash247] CMA CGM says it met obligations in $186m Samsung dispute — CMA CGM has pushed back against Samsung Electronics America’s $186m claim before the US Federal Maritime Commission, telling Splash it believes it complied with its contractual obligations and applica",
-        "[Container News] Baltic Container Terminal completes US$84 million modernization project — Baltic Container Terminal (BCT) has completed the second phase of its development programme at the Port of Gdynia in Poland. The project included infrastructure upgrades and new cargo-handling equipme",
-        "[Splash247] US maritime nuclear push gathers pace — US maritime nuclear startup Bluecore Energy has raised $50m to accelerate development of floating nuclear power systems as Washington’s push to bring atomic energy into commercial shipping gathers mom",
-        "[Splash247] New US shipyard revives historic Kaiser site — A new US shipbuilder has launched operations on the Columbia River, reviving part of the historic Kaiser Shipyards site at a time when rebuilding American shipbuilding capacity has become a priority f",
-        "[Container News] ESL KHORFAKKAN makes milestone call at Khorfakkan Port — Khorfakkan Port has welcomed ESL KHORFAKKAN, the first vessel in Emirates Shipping Line’s fleet to carry the name of the UAE city. Gulftainer described the call as a milestone in its longstanding rela",
-        "[The Loadstar] Who will end up buying Europe’s freight forwarders? — I recently wrote about Europe’s succession problem in logistics. The post Who will end up buying Europe’s freight forwarders? appeared first on The Loadstar."
+        "Özel sermaye firmaları, 3PL Navajo Expedited’i satın aldı. Alım, şirketin sürücü doğrulama süreçlerini ve fiyatlandırma otomasyonu yeteneklerini geliştirmeyi hedefliyor. Ayrıca, tamamlayıcı birimler edinme planları da gündemde.",
+        "Hyundai, 2030 yılına kadar Kuzey Amerika’da üretim için kullanılan parçaların %80’ini bölgesel tedarikçilerden temin etmeyi planlıyor. CEO José Muñoz, bu hedefin tedarik zinciri istikrarını artıracağını belirtti.",
+        "Global Shippers Forum, Kızıldeniz üzerinden dolu gemi taşımanın güvenliğinden emin olan taşıyıcıların neden böyle bir karar aldığını açıklama talep ediyor. Gemiciler, devam eden güvenlik risklerine rağmen rotayı sürdürmeyi tercih ediyor.",
+        "Roberto López, kargo ağı üzerinden kokain ve nakit taşıyan kartel lojistik başkanı olarak 18 yıl 9 ay hapis cezasına çarptırıldı. Mahkeme, telefon dinlemelerinden elde edilen kanıtlarla işin detaylarını ortaya koydu.",
+        "Maersk, Sierra Leone’den dünyaya gönderilen kargonlar için yeni bir Depo Tam Konteyner Depolama Ücreti (Depot Full Container Storage – Origin) tanıdı. 10 Ekim 2026’da yürürlüğe giren ücret, 20 feet kuru konteyner için 35 USD, 40 feet için ise 70 USD’ye kadar çıkıyor.",
+        "CMA CGM, 1 Ekim 2026’dan itibaren Doğu Asya ve Hint Alt Kıtası’ndan ABD’ye giden kargolara kadar 10.000 USD’ye kadar olan Peak Season Surcharge (PSS) uygulamaya koyacak. Far East-US farkı 5.065 USD’ye, Bangladeş dışındaki gönderiler için de ek ücretler öngörülüyor.",
+        "Samsara, ABD’deki profesyonel sürücüler için ücretsiz Driver Perks programını başlattı. 50’den fazla marka ile ortaklık sağlayarak fitness, gıda, seyahat ve kişisel gelişim alanlarında indirimler sunuyor.",
+        "Geçmişi 17 yıl süren Shawn Gresham, Georgia’da Trucking Life Academy adlı bir CDL akademisi açtı. Gresham, sadece CDL baskısının eğitim sorununu çözmeye yetmeyeceğini, sektörün genelinde reform gerektiğini vurguladı.",
+        "JPMorgan Chase Institute, 2025 sonrası bile ticari firmaların federal gümrük ödemelerinin önceden görülenden çok daha yüksek kaldığını gösterdi. Bu durum, endüstriye yönelik tarifelendirme maliyetlerinin devam ettiğini işaret ediyor."
       ],
       "sources": [
         {
+          "name": "FreightWaves",
+          "url": "https://www.freightwaves.com"
+        },
+        {
+          "name": "Supply Chain Dive",
+          "url": "https://www.supplychaindive.com"
+        },
+        {
+          "name": "Journal of Commerce",
+          "url": "https://joc.com"
+        },
+        {
           "name": "Container News",
           "url": "https://container-news.com"
-        },
-        {
-          "name": "Splash247",
-          "url": "https://splash247.com"
-        },
-        {
-          "name": "The Loadstar",
-          "url": "https://theloadstar.com"
         }
       ]
     },
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "Türkiye, 2027-2029 Orta Vadeli Program kapsamında Asya, Avrupa, Orta Doğu ve Afrika arasındaki ticaret akışlarında küresel lojistik merkezi olma hedefiyle yeni adımlar atıyor. Orta Koridor ve Kalkınma Yolu kapasite artırımı, Bakü‑Tiflis‑Kars, Zengezur Koridoru ve İstanbul Kuzey Demir Yolu Geçişi gibi stratejik bağlantıların güçlendirilmesi planlanıyor. Bu projeler, ülkenin lojistik altyapısını güçlendirerek bölgesel ticaret akışını hızlandıracak.",
-        "Japonya, Tokyo ile Osaka arasında 500 kilometrelik bir güzergâhta insan müdahalesi olmadan otomatik yük taşımacılığı gerçekleştirmeyi hedefleyen Autoflow Road projesi üzerinde çalışıyor. Proje, lojistik sektöründe yapay zeka ve otomasyonun rolünü gösterecek yeni bir örnek teşkil ediyor. Türkiye de benzer teknolojik çözümlere ilgi göstererek uluslararası standartlara uyum sağlamayı amaçlıyor.",
-        "Samsung Electronics America, pandemi döneminde yaşanan konteyner taşıma ve iç lojistik aksaklıkları nedeniyle CMA CGM’ye karşı en az 186 milyon dolarlık tazminat talebinde bulundu. Şirket, Fransız denizcilik ve lojistik firmasının hizmet kalitesinde düşüşlerden sorumlu olduğunu iddia ediyor. Davanın, küresel tedarik zincirlerinin risk yönetimi konusundaki tartışmaları yeniden canlandırması bekleniyor.",
-        "TCDD Taşımacılık AŞ, trenlerde bilet bulamayan yolcular için ‘Boş Yer Takip Butonu’ uygulamasını başlattı. Uygulama, yolcuların trenlerde boş koltukları gerçek zamanlı olarak görmesine ve rezervasyon yapmasına olanak tanıyor. Bu yenilik, demiryolunda müşteri deneyimini iyileştirmeyi hedefliyor.",
-        "ABD Hazine Bakanlığı’nın İran havacılık sektörüne yönelik yaptırım paketinde Türkiye merkezli üç şirket de yer aldı. Şirketler, Mahan Air’e uçak transferi, İHA bileşeni sevkiyatı ve lojistik destek sağlama suçlamasıyla karşı karşıya. Bu durum, Türkiye’nin uluslararası lojistik ve havacılık alanındaki faaliyetlerini gözden geçirme ihtiyacını gündeme getiriyor.",
-        "Tofaş tarafından Türkiye’de üretilen Opel Vivaro kamyonet, 14-20 Eylül 2026’da Almanya Hannover’deki IAA Transportation 2026 fuarında uluslararası arenada ilk kez tanıtılacak. Ürün, hafif kamyon segmentinde yeni teknik özellikler ve yakıt verimliliği sunacak. Tanıtım, Türk otomotiv ve lojistik sektörünün uluslararası pazardaki görünürlüğünü artırmayı amaçlıyor.",
-        "TEMSA, 1989 yılından beri şehirlerarası yolcu taşımacılığı alanında hizmet veren Lider Vip Travel’e ‘Maraton’ adlı yeni otobüs teslim etti. Teslimat, Türkiye’deki büyük otobüs üretim tesislerinden gerçekleştirildi ve şirketin taşıma kapasitesini artırmaya yönelik bir adım olarak değerlendirildi. Bu işbirliği, TEMSA’nın yerli otobüs üretimindeki rekabet gücünü pekiştirdi."
+        "Borusan Otomotiv, BMW'nin Türkiye distribütörlüğünü üstlenerek, amiral gemisi 7 Serisi'nin yenilenen modelini satışa sundu. Neue Klasse teknolojileriyle donatılan araç, benzinli mild hibrit ve tamamen elektrikli üç versiyonla Eylül ayında piyasaya çıktı.",
+        "Tofaş, Türkiye'de ürettiği yeni Vivaro kamyonet modelini 2026 IAA Transportation fuarında uluslararası arenaya tanıttı. Aynı fabrika, Bursa'da üretilecek Ram ProMaster City'nin 2027 Yılının Ticari Yeşil Aracı ödülünü Green Car Journal'dan aldı.",
+        "TEMSA, turizm taşımacılığı alanında faaliyet gösteren Işık Tur'a Maraton kamyonetini teslim etti. Satış işlemi, TEMSA'nın bayisi Şeref Oto tarafından gerçekleştirildi.",
+        "Stellantis, yönetim kadrosuna iki yeni atama yaparak, Stephanie Hartgrove'yi Kurumsal İletişim Direktörü, Clara Ingen-Housz'u ise Kamu Politikaları ve Regülasyon Stratejisi ile Uluslararası Ticaretten Sorumlu Başkan yaptı.",
+        "ZF, 2026 Automechanika Frankfurt'ta bağımsız satış sonrası pazarının Euro 7’ye hazırlığını destekleyen yeni fren teknolojilerini tanıttı. TRW DTEC fren balatası ve diski, geleneksel kombinasyonlara göre %80'e varan daha düşük PM10 emisyonu gösterdi. Ayrıca TRW DOT 4 Brake Fluid ESP Recycled ürününü de sergiledi.",
+        "Bosch, 2026 Automechanika Frankfurt'ta kamyon, otobüs ve römorklara yönelik yeni yedek parça ve teşhis çözümlerini duyurdu. Şirket, fren, filtreleme, direksiyon, silecek ve yardımcı tahrik alanında ürün gamını genişletirken, ESI[tronic] sayesinde 600'tan fazla marka ve 18,000'den fazla modele teşhis desteği sağlıyor.",
+        "fzlPLUS, telekomünikasyon, havayolları, e-ticaret ve finans sektörlerinde 25 yılı aşkın deneyime sahip Murat Görgülü'yi Operasyon ve Müşteri İlişkileri Müdürü olarak kadrosuna ekledi."
       ],
       "sources": [
         {
-          "name": "Dünya Gazetesi",
-          "url": "https://www.dunya.com"
-        },
-        {
-          "name": "LojiPort",
-          "url": "https://www.lojiport.com"
-        },
-        {
-          "name": "Taşımacılar.com",
-          "url": "https://www.tasimacilar.com"
-        },
-        {
           "name": "Taşıma Dünyası Gazetesi",
           "url": "https://www.tasimadunyasi.com"
+        },
+        {
+          "name": "Dünya Gazetesi",
+          "url": "https://www.dunya.com"
         }
       ]
     },
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "[Investing.com] Fever-Tree H1 shares fall as U.S. margin pressure offsets profit beat",
-        "[Investing.com] European natural gas holds near multi-year peaks on supply risks; ECB decision due",
-        "[Investing.com] BioLife Solutions merger with Repligen advances as antitrust waiting period ends",
-        "[Investing.com] Why is Kongsberg stock climbing today?",
-        "[Investing.com] Earnings call transcript: THG posts stronger H1 2026 results as shares fall",
-        "[Investing.com] HSBC downgrades Amgen stock rating to Hold on valuation",
-        "[Investing.com] Anavex Life Sciences to discuss pediatric inclusion in Rett syndrome trial",
-        "[Investing.com] Puuilo H1 2026 slides: margins expand as private label sales surge",
-        "[Investing.com] DAX tests 25,550 Fib support below 200 SMA: Live levels"
+        "[Investing.com] US wholesale inventories surge in July",
+        "[Investing.com] Charter at Citi’s 2026 Global TMT Conference: integration, AI and scale",
+        "[Investing.com] Sun Hung Kai FY2026 slides: profit rises 4.6%, gearing halved",
+        "[Investing.com] Palomar at KBW Insurance Conference 2026: growth broadens",
+        "[Investing.com] Speedy Hire approves resolutions at annual meeting",
+        "[Investing.com] Oil jumps to $105 a barrel after Middle East tanker attacks escalate",
+        "[Investing.com] Turkey stocks lower at close of trade; BIST 100 down 0.77%",
+        "[Investing.com] Generate Biomedicines at Cantor healthcare conference: pipeline gains traction",
+        "[Investing.com] Poland stocks lower at close of trade; WIG30 down 0.81%"
       ],
       "sources": [
         {
@@ -82,11 +78,10 @@
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "Orta Vadeli Program (OVP) çerçevesinde 2027-2029 döneminde Türkiye, Asya, Avrupa, Orta Doğu ve Afrika arasındaki ticaret akışlarında küresel lojistik merkezi olma hedefini güçlendirecek. Orta Koridor, Bakü‑Tiflis‑Kars, Zengezur Koridoru ve İstanbul Kuzey Demir Yolu Geçişi gibi stratejik hatların kapasitesi artırılacak ve yeni bağlantılar kurulacak.",
-        "OVP aynı zamanda iş ve yatırım ortamını geliştirmeyi amaçlıyor; yatırımcıların karşılaştığı sorunların etkin çözümü, bürokratik süreçlerde zaman ve maliyet azaltılması hedefleniyor.",
-        "HAVELSAN, 2026 El Alamein Uluslararası Havacılık Fuarı’nda Mısır’ın Arab Organization for Industrialization (AOI) ile işbirliği kapsamında geliştirdiği HAMZA‑1 İnsansız Hava Aracı’nın satışı için anlaşma imzaladı. Bu anlaşma, Türkiye'nin savunma sanayisinin ihracat başarısını yansıtıyor.",
-        "Avrupa Birliği’nin Ufuk Avrupa programında yer alan Türkiye kuruluşlarının enerji projelerinin toplam bütçesi 94,5 milyon avroya ulaştı. Projeler, AB’nin araştırma ve inovasyonu destekleyen finansmanı sayesinde gerçekleşti.",
-        "Ticaret Bakanı Ömer Bolat, Türkiye İmalat Sektörü İhracat Pazarları İklim Endeksi’nin 52,7’ye çıktığını ve son 27 ayın zirvesine ulaştığını duyurdu. Endeks, Ağustos ayında üst üste dördüncü ay yükseliş gösterdi; ihracat ikliminin iyileşme sinyali olarak yorumlandı."
+        "Borsa İstanbul’da BIST 100 endeksi yüzde 0,77 değer kaybederek 14.393,85 puandan tamamlandı. New York borsası ise petrol fiyatlarının artışını sürdürmesi ve ABD’de üretici enflasyonunun hızlanmasıyla güne düşüşle başladı. Dow Jones endeksi açılışta yüzde 0,17 azalarak 52.291,85 puana indi.",
+        "ECB Başkanı Christine Lagarde, Orta Doğu çatışmalarının ve Rusya‑Ukrayna savaşının manşet enflasyonu uzun süre bankanın yüzde 2’lik hedefinin çok üzerinde tutacağını uyardı. Bu açıklama, küresel fiyat baskılarını sürdürmesi beklenen ekonomik koşulları vurguladı.",
+        "ABD’de ikinci el konut satışları Ağustos ayında yüzde 2 azalarak piyasa beklentilerine paralel gerçekleşti. Bu düşüş, konut piyasasındaki yavaşlama sinyallerini güçlendirdi.",
+        "SOCAR Türkiye, İstanbul Teknik Üniversitesi ile ortaklaşa geliştirdiği Sürdürülebilirlik Sertifika Programı’nın ilk dönemi tamamladı. Program, enerji sektöründe sürdürülebilirlik becerilerini geliştirmeyi hedefliyor."
       ],
       "sources": [
         {
@@ -100,10 +95,6 @@
         {
           "name": "Habertürk Ekonomi",
           "url": "https://www.haberturk.com"
-        },
-        {
-          "name": "Sabah Ekonomi",
-          "url": "https://www.sabah.com.tr"
         }
       ]
     }
