@@ -1,31 +1,26 @@
 {
-  "generatedAt": "2026-09-11T02:47:19.225Z",
+  "generatedAt": "2026-09-11T08:32:00.435Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
-        "Maersk, atık ve geri dönüştürme amacıyla taşınacak konteynerlerde özellikle batarya ve elektronik atıkların nasıl rezerv edilmesi gerektiği konusunda yeni bir rehber yayımladı. Şirket, atık olarak kabul edilen kargoların Basel Sözleşmesi, OECD Kararı ve rotadaki tüm ülkelerin atık yasalarına uygun şekilde rezerv edilmesi gerektiğini vurguladı. Bu rehber, kargoların tedarik zinciri boyunca atık yönetimi standartlarına uyumlu olmasını hedefliyor.",
-        "Descartes Systems Group, küresel ticaret ortamının evrimini sürdürürken ikinci bir rekor çarpan çeyrek rapor etti. Sonuçlar, şirketin gelişmiş lojistik çözümleri ve veri analitiği konusundaki başarısını gösterdi.",
-        "Gulftainer, Bangkok'ın güneyinde Chao Phraya Nehri boyunca yer alan Suksawat Terminali'ne stratejik yatırım yapma konusunda bağlayıcı bir anlaşma imzaladı. Bu yatırım, şirketin uluslararası genişleme stratejisinde Birleşik Arap Emirlikleri merkezli ticaret altyapısını Thiland'a açma adımı olarak değerlendiriliyor.",
-        "DHL ve Alibaba, küçük ve orta ölçekli işletmelere AI destekli lojistik çözümleri sunmak amacıyla işbirliği başlattı. Anlaşma, Los Angeles'taki Alibaba.com CoCreate 2026 Konferansı sırasında duyuruldu.",
-        "DP World ve Kenya merkezli GulfCap Africa, 222 hektarlık Mombasa Sanayi Parkı Özel Ekonomik Bölgesi'nde ortak girişimi resmi olarak akte dökerek ileriye taşıdı. Anlaşma, Nairobi'de Kenya Cumhurbaşkanı William Samoei Ruto’nun katılımıyla imzalandı.",
-        "Bluecore Energy, Port of Long Beach'de devrilebilir nükleer enerji konseptini geliştirme aşamasında, ilk barge’yi güvence altına alarak federal düzenleyicilerle resmi görüşmeler başlattı.",
-        "MSC Baltic III konteyner gemisi, Newfoundland ve Labrador'daki kıyıya doğru yaklaşık 53 metre çekildi ve batık geminin söküm ve çelik çıkarma çalışmaları sürdürülüyor.",
-        "Houthi kuvvetleri, Yemen’in Mocha liman şehrini ele geçirerek Kızıldeniz kıyısında stratejik adalara doğru ilerledi ve bu durum, İran-U.S. çatışmasına yeni bir cephe açtı. Bu gelişme, Cumhurbaşkanı Trump'ın orta dönem seçimleri sonrasında savaşın sona ereceğini söylemesinin ardından gerçekleşti.",
-        "CMA CGM, Avrupa ve Kuzey Afrika'dan Avustralya ve Yeni Zelanda'ya gönderilen kargolara 21 Eylül 2026 tarihinden itibarıyla Acil Alan Ücreti uygulayacak. Ücret, Asya üzerinden iletilen ve Kuzey Avrupa, Akdeniz ile Kuzey Afrika'dan gelen kargolara uygulanacak."
+        "World Shipping Council (WSC), shipping sektörünün lobisi, uluslararası denizcilik örgütü IMO'ya, binlerce lityum bataryalı konteynerin risk bildirilmeden normal kargonun gibi taşınabildiği tehlikeli bir boşluk kapatmasını talep ediyor. WSC, bu boşluğun, Özel Provision 188'in (S.D.G.) gerekliliklerini ihlal ettiğini ve gemi operatörlerinin tehlikeyi fark etmeden taşıma yapabileceğini vurguluyor.",
+        "Emirates SkyCargo, Hindistan'ın ihracat hedeflerine destek olmak amacıyla haftalık 3.000 tonluk hava kargo kapasitesini dokuz kapı üzerinden artırdı. Şirket, Hindistan işletmelerini Orta Doğu, Avrupa, Amerika ve Afrika pazarlarına bağlayarak ülkenin yılda 2,2 milyon tonluk uluslararası hava kargosunu güçlendiriyor.",
+        "Ambrey'in yeni değerlendirmesine göre, Karadeniz'de sızdırıcı insansız hava ve yüzey araçlarının tespit edilmesi altı ay içinde 208% artmış durumda. Toplam 91 keşif, NATO'nun doğu kıyısında artan güvenlik tehdidini göstermektedir.",
+        "Maersk, Doğu Asya tufan mevsiminin bölgenin en yoğun limanlarında sıkışıklığa yol açtığını bildirdi. Şirket, şiddetli hava koşullarının gemi ulaşımını geciktirdiğini ve planlanan kalkışları azalttığını müşterilerine hatırlattı.",
+        "Yemen'in Houthi grubu, Mokha'yı ele geçirerek Bab al-Mandab Boğazı'na yaklaşık 80 kilometre yaklaşmış. Aynı dönemde, Hormuz Boğazı'ndaki gemi geçişleri, bir önceki gün 11’den 7'ye düşerek 10 günlük ortalamanın altına inmiş, bu durum bölgesel güvenlik kaygılarını artırıyor.",
+        "Panama Liman Yönetimi verilerine göre, Panama'daki gemi bakım ve tamir hizmeti ayda 1.431 gemiye ulaştı; bu, 2025 yılının aynı dönemine göre %26,3 artışa karşılık geliyor. Özellikle konteyner gemilerinin talebi bu büyümeyi yönlendirdi.",
+        "Çin'in Qingdao Beihai Gemi Yıkama Tesisinde bakımda olan uluslararası bayraklı bir kaba gemide 11.15'te çıkan yangında 25 kişi hayatını kaybetti. Yangın, 42 kişi bulunmayan gemide meydana geldi, yerel yetkililer olayla ilgili soruşturma başlattı.",
+        "9/11 saldırıları sonrası güvenlik düzenlemeleri, uluslararası liman, charter sözleşmeleri ve deniz yolu altyapısında kalıcı değişikliklere yol açtı. Punit Oza, saldırı sonrası etkilerin her liman, charter sözleşmesi ve kara yolu üzerinde hâlâ hissedildiğini belirterek küresel ticaretin bu olayla yeniden şekillendiğini özetledi."
       ],
       "sources": [
         {
+          "name": "Splash247",
+          "url": "https://splash247.com"
+        },
+        {
           "name": "Container News",
           "url": "https://container-news.com"
-        },
-        {
-          "name": "FreightWaves",
-          "url": "https://www.freightwaves.com"
-        },
-        {
-          "name": "The Loadstar",
-          "url": "https://theloadstar.com"
         },
         {
           "name": "gCaptain",
@@ -36,19 +31,23 @@
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "Türkiye, 2026 yılında elektrik‑elektronik sektöründe 20 milyar dolar ihracat hedefi belirledi. Sektör, enerji dönüşümü, küresel yapay zekâ yatırımları ve dijitalleşme ile büyümeyi sürdürecek. Yurt dışındaki doğrudan dağıtım kanalları, şirket satın almaları ve dijital dönüşüm stratejileri önemli rol oynayacak.",
-        "Ağustos ayında Akdeniz Hububat, Bakliyat, Yağlı Tohumlar ve Mamulleri İhracatçıları Birliği (AHBİB) 148,4 milyon dolarlık ihracat gerçekleştirdi. Bu rakam, Türkiye’nin gıda ihracatının çeşitlilik ve büyüme potansiyelini gösteriyor.",
-        "Çinli sanayi devi SANY-FMT ile yapılan ortaklık kapsamında Türkiye, elektrikli ticari araçlarda bölgesel üretim üssü kurmayı hedefliyor. 636 kWh bataryalı elektrikli çekici 366 bin dolarlık fiyatla piyasaya sunulacak. İlk etapta 50 milyon dolarlık yatırımın beş yıl içinde 500 milyon dolara yükselmesi ve 2027 sonuna kadar sekiz farklı modelin üretilmesi planlanıyor.",
-        "Borusan Otomotiv, BMW’nin amiral gemisi 7 Serisi’ni Türkiye’de satışa sundu. Yeni model, benzinli mild hibrit ve tamamen elektrikli üç versiyonla Eylül ayında piyasaya çıktı. Neue Klasse teknolojileriyle donatılan araç, BMW’nin dijitalleşme stratejisiyle uyumlu.",
-        "TEMSA, turizm taşımacılığı alanında hizmet veren Işık Tur’a bir Maraton modeli teslim etti. Satış işlemi TEMSA’nın bayi Şeref Oto tarafından gerçekleştirildi. Teslimat, Türkiye’deki turizm taşıma sektöründeki modernizasyon çabalarını yansıtıyor.",
-        "Tofaş, Bursa fabrikasında üreteceği Ram ProMaster City’nin 2027 Yılının Ticari Yeşil Aracı ödülünü Green Car Journal’dan aldı. Aynı zamanda Tofaş tarafından Türkiye’de üretilen Opel Vivaro kamyonet modeli, IAA Transportation 2026’da ilk kez uluslararası arenada sergilendi. İki proje, Tofaş’ın yeşil ve uluslararası standartlarda üretim yeteneklerini gösteriyor.",
-        "ZF, Automechanika Frankfurt 2026’da bağımsız satış sonrası pazarına yönelik yeni fren teknolojilerini tanıttı. TRW DTEC fren balatası ve diski, geleneksel kombinasyonlara göre %80’e kadar daha düşük PM10 emisyonu sağladı. Ayrıca TRW DOT 4 Brake Fluid ESP Recycled ürünü de fuarda öne çıkarıldı.",
-        "Stellantis, yönetim kadrosunda iki üst düzey atama gerçekleştirdi. Stephanie Hartgrove Kurumsal İletişim Direktörü, Clara Ingen‑Housz ise Kamu Politikaları, Regülasyon Stratejisi ve Uluslararası Ticaret ile ilgili başkan olarak göreve başladı. Bu hamle, şirketin global stratejik yönelimini güçlendirmeyi amaçlıyor."
+        "Türkiye'nin 2025–2027 Orta Vadeli Programı (OVP) kapsamında ihracat stratejisi dijital dönüşüm ve e‑ticaret odaklı yeniden yapılandırılıyor. Dış temsilciliklerin altyapısı güçlendirilecek, yeni dijital tedarik zincirleri oluşturulacak ve pazar çeşitlendirmesine yönelik adımlar atılacak. Aynı programda, 2027‑2029 döneminde Asya, Avrupa, Orta Doğu ve Afrika arasındaki ticaret akışlarında “küresel lojistik merkezi” olma hedefi doğrultusunda altyapı yatırımları planlanıyor. Bu çerçevede lojistik altyapısının genişletilmesi, veri merkezleri ve taşımacılık ağlarının modernizasyonu ön planda tutuluyor.",
+        "Toyota, Scania'nın Pilot Partner programı çerçevesinde 40 ağır ticari araca hidrojen yakıt hücreli bir ünite entegre edecek. İlk hidrojen yakıt hücreli Scania kamyonları 2027 yılının ilk çeyreğinde yollara çıkması planlanıyor. Bu test, hidrojen bazlı taşıma çözümlerinin sürdürülebilirlik hedefleriyle uyumlu bir adım olarak değerlendiriliyor.",
+        "Çinli sanayi devi SANY-FMT, Türkiye'de elektrikli ticari araç üretimi için 500 milyon dolarlık yatırım hedefliyor. 636 kWh bataryalı elektrikli çekici, Ankara'da üretime başlandı ve 366 bin dolarlık satış fiyatıyla pazara sunulacak. İlk etapta 50 milyon dolarlık yatırımın 5 yıl içinde 500 milyona ulaşması ve 2027 sonuna kadar 8 farklı ticari araç modelinin üretilmesi planlanıyor.",
+        "BMW, Borusan Otomotiv’in Türkiye distribütörlüğünde yeni 7 Seri amiral gemisini satışa sundu. Model, neue Klasse teknolojileriyle birlikte benzinli mild hibrit, tamamen elektrikli üç versiyonda Eylül ayında piyasaya girdi. Yenilenmiş 7 Seri, markanın Türkiye’deki lüks segmentte rekabet gücünü artırmayı hedefliyor.",
+        "Tofaş tarafından üretilen Bursalı Opel Vivaro kamyonet, 2026 IAA Transportation sergisi için sahne alacak. Ürün, Türkiye’de Made in Türkiye imzası taşıyarak yerli üretim avantajını vurguluyor.",
+        "TEMSA, turizm taşımacılığı alanında faaliyet gösteren Işık Tur’a Maraton modelini teslim etti. Satış, TEMSA bayi Şeref Oto üzerinden gerçekleştirildi.",
+        "Stellantis, yönetim kadrosunda iki üst düzey atama gerçekleştirdi. Stephanie Hartgrove Kurumsal İletişim Direktörü, Clara Ingen‑Housz ise Kamu Politikaları, Regülasyon Stratejisi ve Uluslararası Ticaret Sorumlusu Başkan oldu.",
+        "Küresel piyasalar, bugün açıklanacak ABD Tüketici Fiyat Endeksi (TÜFE) verisinin ardından kritik bir döneme girdi. Üretici enflasyonunun beklentileri aşması ve Orta Doğu'daki gerilimin enerji fiyatlarını yukarı taşıması, piyasaları negatif yönlendirdi. Alınacak veriler, Federal Rezerv’in faiz politikasına ilişkin beklentilerin yönünü belirlemede belirleyici olacak."
       ],
       "sources": [
         {
           "name": "Dünya Gazetesi",
           "url": "https://www.dunya.com"
+        },
+        {
+          "name": "LojiPort",
+          "url": "https://www.lojiport.com"
         },
         {
           "name": "Taşıma Dünyası Gazetesi",
@@ -59,10 +58,15 @@
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "Dolar, Orta Doğu'daki enerji şokunun derinleşmesiyle kârlı kalırken, yen değer kaybı yaşadı. Brent ham petrol fiyatları, Mideast tedarik risklerinin artması nedeniyle 110 dolar seviyesine yükseldi ve bu seviyeyi test etti. Bu gelişmeler, küresel döviz ve emtia piyasalarında risk algısının artmasına işaret ediyor.",
-        "Nikkei 225 endeksi, düşüş sürecinde 62 880 seviyesini test etti. Bu destek seviyesi, yatırımcıların risk toleranslarını ve Japonya piyasasındaki dalgalanmaları yansıtıyor.",
-        "SK Hynix, bearish engulfing formasyonundan sonra orta düzeyde bir toparlanma gösterdi. Teknik göstergeler, kısa vadeli direnç ve destek seviyeleri arasında bir denge bekletiyor.",
-        "Neurocrine Biosciences'in CCO Eric Benevich, 333 000 dolar değerinde hisse satışı yaptı. CoreWeave CEO Michael Intrator 30,7 milyon dolar ve GC McVeety 9,1 milyon dolar değerinde hisse satışı gerçekleştirdi. Symbotic yöneticisi Todd Krasnow 87 139 dolar ve Arcutis Biotherapeutics'in EVP Masaru Matsuda 249 985 dolar hisse satışı yaptı."
+        "[Investing.com] TotalEnergies acquires full ownership of Grandpuits recycling plant",
+        "[Investing.com] Bank of England expected to hold rates at 3.75% next week says BofA",
+        "[Investing.com] JPMorgan initiates Old National Bancorp stock at Overweight",
+        "[Investing.com] Bonds, stocks selloff pauses as oil retreats from multi-month high",
+        "[Investing.com] Eco Animal Health grants share awards to executive directors",
+        "[Investing.com] TSK affirms 2026 guidance, rules out dividend for 3 years; shares tumble",
+        "[Investing.com] Stifel sees CMS TAVR coverage update as positive for Edwards",
+        "[Investing.com] JPMorgan cuts Adobe stock price target on monetization concerns",
+        "[Investing.com] JPMorgan initiates Dianthus stock at Overweight, $135 target"
       ],
       "sources": [
         {
@@ -74,14 +78,29 @@
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "Türkiye'nin elektrik‑elektronik sektörü, 2026 yılı için 20 milyar dolarlık ihracat hedefini belirledi. Bu sektör, ülkenin ihracatının üçüncü büyüme motoru konumundadır. Hedef, doğrudan dağıtım kanalları geliştirme, şirket satın alımları ve dijital dönüşüm yatırımlarıyla desteklenecek.",
-        "Akdeniz Hububat, Bakliyat, Yağlı Tohumlar ve Mamulleri İhracatçıları Birliği (AHBİB) ağustos ayında toplam 148,4 milyon dolar ihracat gerçekleştirdi. Bu rakam, sektörün pazar çeşitliliğine dayalı büyüme stratejisini yansıtıyor.",
-        "MÜSİAD Bursa Başkanı Alparslan Şenocak, 2026'yı Bursa iş dünyası için hazırlık yılı olarak nitelendirdi. Yüksek faiz, finansmana erişim maliyetleri, enflasyon ve piyasa durgunluğunun yanı sıra jeopolitik gelişmelerin de yatırımların hızlanmasını engellediğini söyledi. Şenocak, 2027'de yatırımların yeniden hız kazanacağını ifade etti."
+        "Yeni Orta Vadeli Program (OVP) döneminde Türkiye'nin ihracat stratejisinde dijital dönüşüm ve e-ticaret atağı başlatılacak. Dış temsilciliklerin altyapısı güçlendirilecek, pazar çeşitlendirmesine yönelik adımlar uygulanacak. 2023 yılında büyük ölçekli girişimler Türkiye ihracatının %46,1’ini, ithalatının ise %59,4’ünü gerçekleştirdi.",
+        "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, BİGG Yatırım Programı'nın 2026 yılı ikinci çağrısını başlattığını duyurdu. Program kapsamında girişimcilere 1.350.000 lira yatırım fırsatı sunulacak. Amaç, yenilikçi projelerin desteklenmesi ve ekosistemin güçlendirilmesi.",
+        "Türkiye Cumhuriyet Merkez Bankası'nın eylül ayı Piyasa Katılımcıları Anketi'ne göre tüketici fiyat endeksinde (TÜFE) yıl sonu artış beklentisi %29,43’ten %29,61’e yükseldi. Anket, enflasyon beklentilerinin hafif bir artış gösterdiğini ortaya koydu. Bu gelişme, politika yapıcıları için önemli bir göstergedir.",
+        "TCMB, E9 Emisyon Grubu 9. tertip 50 TL ve 8. tertip 5 TL banknotların bugünden itibaren tedavüle girdiğini duyurdu. Yeni banknotlarda yalnızca imza değişikliği yapıldı ve mevcut tasarımları korunuyor. Yatırımcı ve halk için bu değişiklik basit bir güncellemeyi yansıtıyor.",
+        "Türkiye ile Bulgaristan arasındaki Kapıkule sınır kapısının kuzeyinde yeni bir gümrük kapısı kurulması planlanıyor. Bu girişim, sınır geçiş kapasitesini artırarak ticari akışı hızlandırmayı hedefliyor. Altyapı yatırımı, bölgesel ticaretin büyümesi için kritik bir rol oynayacak.",
+        "2026 KYK burs ve kredi başvuruları için tarihlerin belirlenip belirlenmediği henüz açıklanmadı. Gençlik ve Spor Bakanı Osman Aşkın Bak’ın gözünde bekleyen öğrenciler, GSB'nin resmi ve sosyal medya hesaplarını sık sık kontrol ediyor. Başvuru sürecinin ne zaman başlayacağı ve başvuru koşulları netleştiğinde ilgili kurumlar duyuracak."
       ],
       "sources": [
         {
           "name": "Dünya Gazetesi",
           "url": "https://www.dunya.com"
+        },
+        {
+          "name": "Anadolu Ajansı Ekonomi",
+          "url": "https://www.aa.com.tr"
+        },
+        {
+          "name": "Habertürk Ekonomi",
+          "url": "https://www.haberturk.com"
+        },
+        {
+          "name": "Sabah Ekonomi",
+          "url": "https://www.sabah.com.tr"
         }
       ]
     }
