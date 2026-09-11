@@ -1,50 +1,53 @@
 {
-  "generatedAt": "2026-09-11T18:57:20.411Z",
+  "generatedAt": "2026-09-11T22:12:03.469Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
-        "Şehirler arası konteyner taşımacılığında son hafta, Shanghai, Ningbo-Zhoushan ve Yantian limanlarında dört ardışık kasırganın yaratmasıyla terminal kapanmaları ve gemilerin fırtına önüne geçmek için limandan çekilmesi nedeniyle iki haftaya kadar süren berleme gecikmelerine yol açıldı. Xeneta raporuna göre bu durum, bu limanlardaki hizmet sürekliliğini ciddi şekilde etkiledi.",
-        "DHL Post & Parcel, Kuzeybatı Almanya'daki Köln paket merkezinde önemli ölçüde yeni taşıma kapasitesi ekledi. Bu genişleme, şirketin dağıtım ağını güçlendirmeyi hedeflemektedir ve FreightWaves tarafından bildirildi.",
-        "Örümcek saldırıları sonucunda, en büyük tankerslerin petrol taşıma maliyetleri haftalık olarak rekor seviyelere ulaştı. Bu artış, U.S.-Iran savaşının başından bu yana en büyük saldırı dalgasının ardından meydana geldi.",
-        "ABD Kıyı Koruması, denizcilik meslek sertifikası ve sağlık sertifikası başvurularını dijitalleştiren yeni bir mariner kimlik doğrulama platformu başlatmayı planlıyor. Bu sistem, denizcilerin belge alma süreçlerinde önemli bir değişim yaratacak.",
-        "OOCL, Güney Çin ve Tayland arasındaki yük ticaretini güçlendirmek için yeni bir intra-Asia döngü hizmeti olan CHL7'yi başlattı. Bu hizmet, özellikle Güney Çin ve Tayland arasında güvenilir bir zaman çizelgesi sunarak deniz taşımacılığında sürekliliği artırmayı amaçlıyor.",
-        "Yemen'in İranla ittifakında yer alan Hutu güçleri, Bab el-Mandeb Boğazı'nda kritik bir küresel deniz rotasını kontrol altına almak amacıyla Perim adasına ulaştı. Bu gelişme, bölgedeki çatışmaların genişlemesiyle ilgili endişeleri artırıyor.",
-        "25 yıl önceki 9/11 saldırılarına anısına, ABD Denizcilik Yöneticisi Stephen Carmel, olağanüstü yardım çağrısına yanıt veren ticari denizcileri onurlandırarak 9/11'in 25. yıl dönümünü kutladı. Bu etkinlik, denizcilik topluluğunun dayanışmasını vurguladı."
+        "[Container News] Konecranes marks AGV milestone at APM Terminals Maasvlakte II — Konecranes and APM Terminals Maasvlakte II have marked the handover of the 1,000th Automated Guided Vehicle produced by Konecranes, with APM Terminals Maasvlakte II selected as the destination for the",
+        "[Supply Chain Dive] CBP: Shippers could lose import privileges if customs info is wrong — The agency will void the right to bring merchandise into the U.S for shippers with inaccurate information on file, starting Sept. 18.",
+        "[FreightWaves] California, FMCSA argue non-domiciled CDL halt in court — California and FMCSA faced off in federal court Friday over non-domiciled CDLs. The post California, FMCSA argue non-domiciled CDL halt in court appeared first on FreightWaves.",
+        "[Container News] DP World handles record energy vehicle shipment at port of San Antonio — DP World has handled the largest single maritime delivery of new energy vehicles to Chile, with 1,918 fully electric and plug-in hybrid BYD vehicles discharged at its multipurpose terminal in San Anto",
+        "[Journal of Commerce] Maersk eyes mega $9 billion ordering spree for 42 new ships: report — The carrier has a sizeable war chest for fleet expansion, built up over the last several years of healthy earnings and strong freight rates.",
+        "[Journal of Commerce] US LTL truck pricing climbs 4.5% in August rebound: PPI — Higher fuel prices continue to put pressure on LTL and truckload producer price indexes, leading to pricing gains ahead of trucking's peak fall season.",
+        "[Journal of Commerce] Norfolk Southern expects chassis disruptions to ease next week — The railroad has leased 750 chassis that will be deployed to Harrisburg and Charlotte to ensure containers keep moving following recent backlogs in those markets.",
+        "[Container News] Port of Long Beach records increased cargo growth — The Port of Long Beach handled 919,992 TEUs in August 2026, the busiest August on record and the fifth-strongest single month in the port’s 115-year history, representing a 2% increase compared to Aug",
+        "[Journal of Commerce] Typhoon delays on China container services expected to last into October — Four consecutive typhoons created berthing delays lasting up to two weeks across Shanghai, Ningbo-Zhoushan, and Yantian due to terminal closures and ships having to shelter from the storm, Xeneta said"
       ],
       "sources": [
         {
-          "name": "Journal of Commerce",
-          "url": "https://joc.com"
+          "name": "Container News",
+          "url": "https://container-news.com"
         },
         {
-          "name": "gCaptain",
-          "url": "https://gcaptain.com"
+          "name": "Supply Chain Dive",
+          "url": "https://www.supplychaindive.com"
         },
         {
           "name": "FreightWaves",
           "url": "https://www.freightwaves.com"
         },
         {
-          "name": "Container News",
-          "url": "https://container-news.com"
+          "name": "Journal of Commerce",
+          "url": "https://joc.com"
         }
       ]
     },
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "[Taşıma Dünyası Gazetesi] Hassoy Otomotiv’den Yılmaz Tur’a 2 Tourismo teslimatı — 1989 yılından bu yana personel, öğrenci servis taşımacılığı ve turizm taşımacılığı alanlarında faaliyet gösteren Yılmaz Tur, Hassoy Otomotiv’den 2 adet Mercedes-Benz Tourismo teslim aldı. Şirketin 202",
-        "[Taşıma Dünyası Gazetesi] Has Otomotiv’den Ege Delta Turizm’e Tourismo teslimatı — Mercedes-Benz Türk bayi Has Otomotiv turizm taşımacılığı alanında 2023 yılından beri hizmet veren İzmir merkezli Ege Delta Turizm’e Tourismo teslimatı gerçekleştirdi.",
-        "[LojiPort] COP31’te lojistik süreçleri OMSAN yönetecek — Türkiye’nin ev sahipliğinde Antalya’da düzenlenecek COP31 kapsamında yürütülecek uluslararası taşıma operasyonları ile 1 milyon metrekarelik etkinlik alanındaki lojistik süreçleri OMSAN Lojistik üstle",
-        "[Taşıma Dünyası Gazetesi] Koluman Otomotiv, Uluslararası Treyler Ödülleri 2027’nin ilk “Topluluk Seçimi Ödülü”nü kazandı — Koluman Otomotiv Endüstri, Adaptif Gizli Yan Duvarlı Platform Treyler (Adaptive Hidden Sidewall Platform Trailer – AHSP) ile Uluslararası Treyler Ödülleri 2027 kapsamında bu yıl ilk kez verilen “Toplu",
-        "[Taşıma Dünyası Gazetesi] Opel, Beşiktaş JK’nın otomotiv partneri oldu — Opel ile Beşiktaş JK, 2028 sezon sonuna kadar sürecek 2 yıllık iş birliğine imza attı. Anlaşma kapsamında Opel, siyah-beyazlı kulübün otomotiv kategorisindeki partneri olurken, futbol ve basketbol A t",
-        "[Taşımacılar.com] Toyota Hidrojen Sistemi Scania Kamyonlarda Test Edilecek — Toyota’nın 300 kW gücündeki üçüncü nesil hidrojen yakıt hücresi, Scania’nın Pilot Partner programı kapsamında 40 ağır ticari araca entegre edilecek. İlk araçlar 2027’nin ilk çeyreğinde yollara çıkacak",
-        "[Taşımacılar.com] IVECO ve Toyota'dan 900 Km Menzilli Hidrojen Kamyon — IVECO ve Toyota, AB destekli EMPOWER projesiyle 900 kilometrenin üzerinde menzil sunan yeni nesil hidrojen yakıt hücreli ağır ticari araçlar geliştirecek. Yol testleri 2027'nin ilk yarısında başlayaca",
-        "[Taşımacılar.com] Opel ve Beşiktaş JK 2 Yıllık İş Birliğine Başladı — Opel, Beşiktaş JK ile 2028 sezon sonuna kadar sürecek iş birliği kapsamında Futbol A Takımı ve Basketbol A Erkek Takımı’na mobilite desteği sağlayacak. Tüpraş Stadyumu’nda Opel Showroom’u açılacak.",
-        "[Taşıma Dünyası Gazetesi] Nissan Türkiye, 5 yaş üzeri Qashqai sahiplerini orijinal bakıma davet ediyor — Nissan 2014-2021 model yılları arasında üretilen 5 yaş üzeri Qashqai sahiplerini orijinal bakıma davet eden, Eylül ayına özel sınırlı süreli bir kampanya başlattı."
+        "Konkordato başvurularında bu yılın 8 aylık döneminde yüzde 29 azalma yaşandı; sektör bazlı bakıldığında tekstilin yerine inşaatın yerini aldığı ve başvuruların en yüksek oranının İstanbul'dan geldiği belirtildi.",
+        "Yılmaz Tur, Hassoy Otomotiv'den 2 adet Mercedes-Benz Tourismo teslim aldı; 2026 yılında filoya katılan yeni araç sayısının 5’e ulaştığı kaydedildi. Ege Delta Turizm de 2023 yılından beri hizmet veren İzmir merkezli Has Otomotiv'den Tourismo teslimatı gerçekleştirdi.",
+        "COP31 etkinliği kapsamında, Antalya'da düzenlenecek 1 milyon metrekarelik etkinlik alanındaki uluslararası taşıma operasyonları ve lojistik süreçleri OMSAN Lojistik tarafından yönetilecek.",
+        "Koluman Otomotiv Endüstri, Adaptif Gizli Yan Duvarlı Platform Treyler (AHSP) ile 2027 Uluslararası Treyler Ödülleri'nde “Topluluk Seçimi Ödülü”ni kazandı. Ödül, 15–20 Eylül 2026 tarihleri arasında Hannover'de gerçekleştirilecek IAA TRANSPORTATION 2026 kapsamında takdim edilecek.",
+        "Opel, Beşiktaş JK ile 2028 sezon sonuna kadar sürecek 2 yıllık iş birliği kapsamında otomotiv partneri oldu. Anlaşma çerçevesinde Opel, futbol ve basketbol A takımlarına araç desteği sağlayacak; ayrıca Tüpraş Stadyumu'nda Opel Showroom'u açacak.",
+        "Toyota’nın 300 kW üçüncü nesil hidrojen yakıt hücresi, Scania’nın Pilot Partner programı kapsamında 40 ağır ticari araca entegre edilecek; ilk araçlar 2027’nin ilk çeyreğinde yollara çıkacak. IVECO ve Toyota, AB destekli EMPOWER projesiyle 900 kilometre menzili olan yeni nesil hidrojen yakıt hücreli kamyon geliştirecek; yol testleri 2027’nin ilk yarısında başlayacak."
       ],
       "sources": [
+        {
+          "name": "Dünya Gazetesi",
+          "url": "https://www.dunya.com"
+        },
         {
           "name": "Taşıma Dünyası Gazetesi",
           "url": "https://www.tasimadunyasi.com"
@@ -62,32 +65,29 @@
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "Alphatec Holdings hisseleri bugün artış gösterdi. Yakın zamanda alınan haberlerin fiyat üzerinde olumlu etki yaptığı gözlemleniyor. Detaylar henüz açıklanmadı.",
-        "Tenable hisseleri ise düşüş kaydetti. Satıcı tarafında yatırımcılar endişelerini dile getirdi. Nedenleri henüz netleşmedi.",
-        "Yapay zeka ile oluşturulmuş özgeçmişlerin işe alım sürecinde avantaj sağlayabileceği yönünde bir makale yayımlandı. Makale, bazı iş arayanların kendi özgeçmişlerini yazmanın kariyer fırsatlarını artırabileceğini vurguluyor. Detaylar uzman görüşleriyle destekleniyor.",
-        "Suudi Arabistan, Doğu-Batı boru hattını saldırılar sonrasında kapattı. Operasyon güvenliği nedeniyle geçici bir durdurma kararı alındı. Boru hattı gelecekte yeniden açılabilir.",
-        "Butler National, 2027 ilk çeyreğinde güçlü büyüme raporladı ve hisse fiyatı bu haberle birlikte yükseldi. Şirketin kazançları ve gelirleri sektördeki rekabet avantajını gösterdi. Analistler bu performansı olumlu karşılıyor.",
-        "Brezilya hükümeti, Maliye Bakanlığı için Marcelo Kayath'ı güçlü bir aday olarak gördüğünü bildirdi. Eğitim ve finans alanındaki deneyimleri, bu öneriyi destekliyor. Hükümet yetkilileri adayın yetkinliğine dikkat çekti.",
-        "ABD hisse senetleri, petrol fiyatlarının düşmesiyle yükseldi ve bu durum, faiz artışı beklentilerini dengeledi. Yatırımcılar, Fed'in faiz artırma planlarını yeniden değerlendirirken piyasalarda volatilite yaşandı. Ölçekli yükseliş, enerji sektöründeki düşüşü telafi etti.",
-        "Arizona, L’Oréal'in saç yumuşatıcılarının kanser riskini gizlediğini iddia ederek dava açtı. Şirket, ürünlerin güvenliği konusunda bilgi eksikliği nedeniyle sorumlu tutuldu. Dava, tüketici güvenliği ve şeffaflık konularında endişeleri gündeme getirdi."
+        "MarketWatch'ta yayınlanan haber, Trump ve Demokratların etkisinden korunaklı, %4,7 getiri sağlayan bir yatırım aracını tanıtmaktadır. Gizli bir sığınak olarak nitelendirilen bu yatırım, siyasi belirsizlik ortamında yatırımcılara güvenli bir getiri sunmaktadır.",
+        "Amalgamated Financial CFO Jason Darby, 961.827$ değerinde hisse satarken, şirketin Chief Strategy Officer'ı 284.364$ tutarında hissesini elden çıkarmıştı. CoreCivic EVP Daren Swenson, 697.000$ değerinde hisse satışı gerçekleştirdi ve Five below şirketinin CHRO'su 400.793$ tutarında hissesini satmıştı.",
+        "Investors, belirsiz Fed toplantısında potansiyel faiz artışı için hazır bulundurduğunu belirtti.",
+        "Kulr Technology Group, bitcoin varlıklarını satarak CFO'ya RSU dağıttı; Greenwave Technology Solutions ise tercihli hisse senedi özel satışıyla 3,75 milyon dolar topladı."
       ],
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://www.investing.com"
-        },
-        {
           "name": "MarketWatch",
           "url": "https://www.marketwatch.com"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://www.investing.com"
         }
       ]
     },
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "ABD federal hükümeti, Ağustos ayındaki bütçe açığını 167 milyar dolar olarak açıkladı. Bu rakam, geçen yılın aynı dönemine göre %52 azalma gösterdi. 2026 mali yılının ilk 11 ayındaki toplam açık ise 1,97 trilyon dolara ulaştı.",
-        "TCMB Başkanı Fatih Karahan, yatırımcılara yönelik sunumunda enflasyonun ana eğiliminin yavaşladığını belirtti. Aylık dalgalanmalara rağmen son veriler ve öncü göstergeler bu eğilimi destekliyor. Farklı fiyat istikrarı sağlanana kadar sıkı para politikası duruşunun sürdürüleceğini söyledi.",
-        "ABD'de hanehalkı ve kâr amacı gütmeyen kuruluşların net serveti, ikinci çeyrekte hisse senetleri ve gayrimenkul değerlerindeki artışla 12,8 trilyon dolar artarak 195,9 trilyon dolara ulaştı. Bu artış, piyasa kazançlarının büyüklüğü ve varlık değerlemelerinin yükselmesiyle açıklanabilir. Yılın ilk çeyreğine göre önemli bir yükseliş gösterdi."
+        "2027-2029 Kamu Yatırım Programı Hazırlıkları Genelgesi, Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla Resmi Gazete'de yayımlandı. Genelgeye göre, 2027 yılı Kamu Yatırım Programı'na zorunlu haller dışında yeni proje alınmayacak. Bu karar, tasarruf tedbirleri çerçevesinde kamu harcamalarının kontrol altına alınması amacıyla atıldı. Böylece kaynaklar kritik alanlara yönlendirilecek ve bütçe dengesi korunmaya çalışılıyor.",
+        "Cevdet Yılmaz, Türkiye İşveren Sendikaları Konfederasyonu'nun zirvesinde, 2027'de enflasyonun %21'e düşürülmesi hedeflendiğini açıkladı. 2028 yılında ise %4,2 büyüme ve cari açığın milli gelire oranının %2'nin altına gerilemesi bekleniyor. Yılmaz'ın açıklamaları, devletin ekonomik istikrarı sağlamaya yönelik stratejilerini yansıtıyor.",
+        "2026 yılında Motorlu Taşımacılık Vergisi (MTV) ikinci taksit döneminde, cep telefonuna tek bir kısa mesajla ödeme yapılmasına izin verilmesi, vergi tahsilatında önemli bir ilerleme olarak değerlendirildi. Bu SMS sistemi, vergi uyumunu artırırken vatandaşların işlemlerini kolaylaştırdı. Çalışma, kamu politikasının etkisinin yasama sürecinden çok uygulama aşamasında hissedildiğini gösteriyor.",
+        "Kripto varlıklar ve yapay zekâ finans piyasalarında yeni ürünlerin ve kuralların doğmasına öncülük ediyor. Yapay zekâ, işlemleri otomatikleştirirken kripto ekosistemi, dijital ortamda finansal işlemlerin yeniden tanımlanmasını sağlıyor. Türkiye'nin finansal sektörü, bu teknolojik dönüşümleri takip ederek rekabet avantajı elde etmeye çalışıyor."
       ],
       "sources": [
         {
