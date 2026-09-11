@@ -1,15 +1,16 @@
 {
-  "generatedAt": "2026-09-11T15:47:50.082Z",
+  "generatedAt": "2026-09-11T18:57:20.411Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
-        "ABD'deki nakliye sektöründe hala bir resesyon devam ediyor; kamyon tutarları artıyor ve kapasite azlaşıyor. Uber Freight, koşulları istikrara kavuşturduğunu söylerken, sınırlı kapasitenin Dördüncü çeyrek döneminde fiyatları yeniden yükseltebileceği uyarıyor.",
-        "Maersk CEO Vincent Clerc, piyasa dinamiklerindeki değişimin, taşıyıcıların fazla arzın piyasa üzerindeki etkisine rağmen daha sık ve şiddetli ücret dalgalanmalarından faydalanabileceğini belirtti. Bu durum, taşıyıcıların ortalama getirilerini artırma potansiyeline işaret ediyor.",
-        "Jacksonville Port Authority (JAXPORT) 30 yıllık denizcilik tecrübesine sahip Bobby Wein'i Yeni Ticari Müdür olarak atadı; mevcut Ticari Müdür Robert Peek, ticari strateji ve Pazarlama ve Satış Departmanını devam ettirecek. Aynı zamanda, New York ve New Jersey Limanı, 39 milyon dolar değerinde sıfır emisyonlu araç (ZEV) voucheri programı başlatacak ve bu program kapsamında 5 milyon dolar yeni şarj istasyonu kurulacak.",
-        "Spartan Logistics, Allen Logistics'in 100.000 metrekarelik depolama alanını satın alarak, 20'den fazla kuru depolama ve gıda sınıfı anapara ağına ekledi.",
-        "Xeneta'ya göre, Houthi saldırılarının başladığı dönemde yeniden yönlendirilen deniz trafiğinin üçte biri artık Kızıldeniz'teki daha kısa rotalara döndü; ancak fiyatlar hala çevre Afrika pazarının genel dinamiklerini yansıtıyor, bu da Suez geçiş ücretlerinin bölgesel fiyatlardan izole edilemeyeceğini gösteriyor.",
-        "CooperVision'un kontakt lens sevkiyatı, Miami havalimanında bir Amazon kargo uçağının yedeklenmiş motoru nedeniyle durmuş ve bir çalışanı yaralayan kazadan dolayı ölüm davası açıldı. Hapag‑Lloyd'un Amalthea gemisi ise ana motor arızası nedeniyle tamir sürecindeyken Lizbon çağrı tarihini 18 Eylül 2026'ya erteledi. Bu iki olay, taşımacılık operasyonlarında beklenmedik aksaklıkların sektör üzerindeki etkisini göstermektedir."
+        "Şehirler arası konteyner taşımacılığında son hafta, Shanghai, Ningbo-Zhoushan ve Yantian limanlarında dört ardışık kasırganın yaratmasıyla terminal kapanmaları ve gemilerin fırtına önüne geçmek için limandan çekilmesi nedeniyle iki haftaya kadar süren berleme gecikmelerine yol açıldı. Xeneta raporuna göre bu durum, bu limanlardaki hizmet sürekliliğini ciddi şekilde etkiledi.",
+        "DHL Post & Parcel, Kuzeybatı Almanya'daki Köln paket merkezinde önemli ölçüde yeni taşıma kapasitesi ekledi. Bu genişleme, şirketin dağıtım ağını güçlendirmeyi hedeflemektedir ve FreightWaves tarafından bildirildi.",
+        "Örümcek saldırıları sonucunda, en büyük tankerslerin petrol taşıma maliyetleri haftalık olarak rekor seviyelere ulaştı. Bu artış, U.S.-Iran savaşının başından bu yana en büyük saldırı dalgasının ardından meydana geldi.",
+        "ABD Kıyı Koruması, denizcilik meslek sertifikası ve sağlık sertifikası başvurularını dijitalleştiren yeni bir mariner kimlik doğrulama platformu başlatmayı planlıyor. Bu sistem, denizcilerin belge alma süreçlerinde önemli bir değişim yaratacak.",
+        "OOCL, Güney Çin ve Tayland arasındaki yük ticaretini güçlendirmek için yeni bir intra-Asia döngü hizmeti olan CHL7'yi başlattı. Bu hizmet, özellikle Güney Çin ve Tayland arasında güvenilir bir zaman çizelgesi sunarak deniz taşımacılığında sürekliliği artırmayı amaçlıyor.",
+        "Yemen'in İranla ittifakında yer alan Hutu güçleri, Bab el-Mandeb Boğazı'nda kritik bir küresel deniz rotasını kontrol altına almak amacıyla Perim adasına ulaştı. Bu gelişme, bölgedeki çatışmaların genişlemesiyle ilgili endişeleri artırıyor.",
+        "25 yıl önceki 9/11 saldırılarına anısına, ABD Denizcilik Yöneticisi Stephen Carmel, olağanüstü yardım çağrısına yanıt veren ticari denizcileri onurlandırarak 9/11'in 25. yıl dönümünü kutladı. Bu etkinlik, denizcilik topluluğunun dayanışmasını vurguladı."
       ],
       "sources": [
         {
@@ -17,37 +18,40 @@
           "url": "https://joc.com"
         },
         {
-          "name": "Container News",
-          "url": "https://container-news.com"
+          "name": "gCaptain",
+          "url": "https://gcaptain.com"
         },
         {
           "name": "FreightWaves",
           "url": "https://www.freightwaves.com"
         },
         {
-          "name": "Supply Chain Dive",
-          "url": "https://www.supplychaindive.com"
+          "name": "Container News",
+          "url": "https://container-news.com"
         }
       ]
     },
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "OMSAN Lojistik, Türkiye’nin ev sahipliğinde Antalya’da düzenlenecek COP31 kapsamında yürütülecek uluslararası taşıma operasyonları ve 1 milyon metrekarelik etkinlik alanının lojistik süreçlerini üstlenecek. Bu kapsamda, lojistik altyapısı ve taşıma koordinasyonu, organizasyonun sorunsuz ilerlemesi için kritik bir rol oynayacak.",
-        "Koluman Otomotiv Endüstri, Adaptive Hidden Sidewall Platform Trailer (AHSP) ile 2027 Uluslararası Treyler Ödülleri’nde ilk kez verilen “Topluluk Seçimi Ödülü”nün sahibi oldu. Ödül, 15–20 Eylül 2026 tarihleri arasında Hannover’de gerçekleştirilen IAA TRANSPORTATION 2026’da takdim edilecek.",
-        "Opel, 2028 sezon sonuna kadar sürecek 2 yıllık bir anlaşma ile Beşiktaş JK’nın otomotiv partneri oldu. Anlaşma kapsamında Opel, futbol ve basketbol A takım sporcularına araç desteği sağlayacak ve Tüpraş Stadyumu’nda bir showroom açılacak.",
-        "Toyota’nın 300 kW’lık üçüncü nesil hidrojen yakıt hücresi, Scania’nın Pilot Partner programı kapsamında 40 ağır ticari araca entegre edilecek. İlk araçlar 2027’nin ilk çeyreğinde yollara çıkacak. Aynı zamanda IVECO ve Toyota, AB destekli EMPOWER projesiyle 900 kilometreden fazla menzil sunan yeni nesil hidrojen yakıt hücreli kamyonlar geliştirecek; yol testleri 2027’nin ilk yarısında başlatılacak.",
-        "Nissan Türkiye, 2014‑2021 yılları arasında üretilen 5 yaş üstü Qashqai sahiplerini orijinal bakıma davet eden, Eylül ayına özel sınırlı süreli bir kampanya başlattı.",
-        "İzmir Büyükşehir Belediyesi ESHOT Genel Müdürlüğü, 95. İzmir Enternasyonal Fuarı’nda ESHOT standında ziyaretçilerini ağırladı. Standda, çocuklar ve yetişkinler için etkinlikler, İzmir’in toplu ulaşım tarihini anlatan Gezici ESHOT Sergisi ve kent ulaşımının simge duraklarının maketleri ilgi çekti."
+        "[Taşıma Dünyası Gazetesi] Hassoy Otomotiv’den Yılmaz Tur’a 2 Tourismo teslimatı — 1989 yılından bu yana personel, öğrenci servis taşımacılığı ve turizm taşımacılığı alanlarında faaliyet gösteren Yılmaz Tur, Hassoy Otomotiv’den 2 adet Mercedes-Benz Tourismo teslim aldı. Şirketin 202",
+        "[Taşıma Dünyası Gazetesi] Has Otomotiv’den Ege Delta Turizm’e Tourismo teslimatı — Mercedes-Benz Türk bayi Has Otomotiv turizm taşımacılığı alanında 2023 yılından beri hizmet veren İzmir merkezli Ege Delta Turizm’e Tourismo teslimatı gerçekleştirdi.",
+        "[LojiPort] COP31’te lojistik süreçleri OMSAN yönetecek — Türkiye’nin ev sahipliğinde Antalya’da düzenlenecek COP31 kapsamında yürütülecek uluslararası taşıma operasyonları ile 1 milyon metrekarelik etkinlik alanındaki lojistik süreçleri OMSAN Lojistik üstle",
+        "[Taşıma Dünyası Gazetesi] Koluman Otomotiv, Uluslararası Treyler Ödülleri 2027’nin ilk “Topluluk Seçimi Ödülü”nü kazandı — Koluman Otomotiv Endüstri, Adaptif Gizli Yan Duvarlı Platform Treyler (Adaptive Hidden Sidewall Platform Trailer – AHSP) ile Uluslararası Treyler Ödülleri 2027 kapsamında bu yıl ilk kez verilen “Toplu",
+        "[Taşıma Dünyası Gazetesi] Opel, Beşiktaş JK’nın otomotiv partneri oldu — Opel ile Beşiktaş JK, 2028 sezon sonuna kadar sürecek 2 yıllık iş birliğine imza attı. Anlaşma kapsamında Opel, siyah-beyazlı kulübün otomotiv kategorisindeki partneri olurken, futbol ve basketbol A t",
+        "[Taşımacılar.com] Toyota Hidrojen Sistemi Scania Kamyonlarda Test Edilecek — Toyota’nın 300 kW gücündeki üçüncü nesil hidrojen yakıt hücresi, Scania’nın Pilot Partner programı kapsamında 40 ağır ticari araca entegre edilecek. İlk araçlar 2027’nin ilk çeyreğinde yollara çıkacak",
+        "[Taşımacılar.com] IVECO ve Toyota'dan 900 Km Menzilli Hidrojen Kamyon — IVECO ve Toyota, AB destekli EMPOWER projesiyle 900 kilometrenin üzerinde menzil sunan yeni nesil hidrojen yakıt hücreli ağır ticari araçlar geliştirecek. Yol testleri 2027'nin ilk yarısında başlayaca",
+        "[Taşımacılar.com] Opel ve Beşiktaş JK 2 Yıllık İş Birliğine Başladı — Opel, Beşiktaş JK ile 2028 sezon sonuna kadar sürecek iş birliği kapsamında Futbol A Takımı ve Basketbol A Erkek Takımı’na mobilite desteği sağlayacak. Tüpraş Stadyumu’nda Opel Showroom’u açılacak.",
+        "[Taşıma Dünyası Gazetesi] Nissan Türkiye, 5 yaş üzeri Qashqai sahiplerini orijinal bakıma davet ediyor — Nissan 2014-2021 model yılları arasında üretilen 5 yaş üzeri Qashqai sahiplerini orijinal bakıma davet eden, Eylül ayına özel sınırlı süreli bir kampanya başlattı."
       ],
       "sources": [
         {
-          "name": "LojiPort",
-          "url": "https://www.lojiport.com"
-        },
-        {
           "name": "Taşıma Dünyası Gazetesi",
           "url": "https://www.tasimadunyasi.com"
+        },
+        {
+          "name": "LojiPort",
+          "url": "https://www.lojiport.com"
         },
         {
           "name": "Taşımacılar.com",
@@ -58,39 +62,41 @@
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "[Yahoo Finance] Britain Just Admitted It Uses SpaceX’s Secret Military Network. The Contracts Already Top $6 Billion.",
-        "[Yahoo Finance] Qualcomm’s AWS Deal Takes Aim at Nvidia, But Comes With Fine Print",
-        "[Yahoo Finance] Ric Flair ‘wants to bury’ talent agency with $10M lawsuit over alleged ‘digital fraud’ tied to his image and likeness",
-        "[Yahoo Finance] Blackstone (BX) Eyes $2 Billion ZO Skin Health Exit",
-        "[Yahoo Finance] Apple Advances 3% as First Foldable iPhone Arrives at Its Highest Price Ever; Skyworks Rallies 9%, Alphabet Ticks Up",
-        "[Yahoo Finance] AI Data Centers Need Enormous Amounts of Power: These 5 Dividend Stocks Provide It",
-        "[Yahoo Finance] Chime Financial (CHYM) Moves Deeper into Banking with $590 Million Stride Acquisition",
-        "[Yahoo Finance] Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision",
-        "[Yahoo Finance] The 12% Bracket Ends at $100,800 for a Couple This Year. A Retired Couple With No Paycheck Can Convert Right Up to That Line by Dec. 31. Most Never Look Up the Number"
+        "Alphatec Holdings hisseleri bugün artış gösterdi. Yakın zamanda alınan haberlerin fiyat üzerinde olumlu etki yaptığı gözlemleniyor. Detaylar henüz açıklanmadı.",
+        "Tenable hisseleri ise düşüş kaydetti. Satıcı tarafında yatırımcılar endişelerini dile getirdi. Nedenleri henüz netleşmedi.",
+        "Yapay zeka ile oluşturulmuş özgeçmişlerin işe alım sürecinde avantaj sağlayabileceği yönünde bir makale yayımlandı. Makale, bazı iş arayanların kendi özgeçmişlerini yazmanın kariyer fırsatlarını artırabileceğini vurguluyor. Detaylar uzman görüşleriyle destekleniyor.",
+        "Suudi Arabistan, Doğu-Batı boru hattını saldırılar sonrasında kapattı. Operasyon güvenliği nedeniyle geçici bir durdurma kararı alındı. Boru hattı gelecekte yeniden açılabilir.",
+        "Butler National, 2027 ilk çeyreğinde güçlü büyüme raporladı ve hisse fiyatı bu haberle birlikte yükseldi. Şirketin kazançları ve gelirleri sektördeki rekabet avantajını gösterdi. Analistler bu performansı olumlu karşılıyor.",
+        "Brezilya hükümeti, Maliye Bakanlığı için Marcelo Kayath'ı güçlü bir aday olarak gördüğünü bildirdi. Eğitim ve finans alanındaki deneyimleri, bu öneriyi destekliyor. Hükümet yetkilileri adayın yetkinliğine dikkat çekti.",
+        "ABD hisse senetleri, petrol fiyatlarının düşmesiyle yükseldi ve bu durum, faiz artışı beklentilerini dengeledi. Yatırımcılar, Fed'in faiz artırma planlarını yeniden değerlendirirken piyasalarda volatilite yaşandı. Ölçekli yükseliş, enerji sektöründeki düşüşü telafi etti.",
+        "Arizona, L’Oréal'in saç yumuşatıcılarının kanser riskini gizlediğini iddia ederek dava açtı. Şirket, ürünlerin güvenliği konusunda bilgi eksikliği nedeniyle sorumlu tutuldu. Dava, tüketici güvenliği ve şeffaflık konularında endişeleri gündeme getirdi."
       ],
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com"
+          "name": "Investing.com",
+          "url": "https://www.investing.com"
+        },
+        {
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com"
         }
       ]
     },
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "Borsa İstanbul’da BIST 100 endeksi, günü yüzde 0,51 değer kazanarak 14.467,25 puandan tamamladı. Gün içi yükseliş, piyasalarda olumlu bir gelişme olarak değerlendirildi.",
-        "ABD’de Michigan Üniversitesi tarafından ölçülen tüketici güven endeksi, eylül ayında 47,8’e gerileyerek piyasa beklentilerinin altında gerçekleşti. Bu düşüş, tüketici harcamalarının zayıflamasına işaret edebilir.",
-        "Brent petrol fiyatları son gelişmelerden sonra 109 dolara yükselirken, bugün 105 dolardan işlem görerek düşüş söz konusu. Bu dalgalanmanın, mazot ve benzin fiyatlarının artıp artmayacağı sorusunu gündeme getirdi.",
-        "TMO, hububat piyasalarında ürün arzı bakımından sorun olmadığını belirtti. Fiyat artışı beklentisiyle mısırın piyasaya arzının ötelenmesi eğiliminin devam etmesi halinde gerekli tedbirlerin alınacağını bildirdi."
+        "ABD federal hükümeti, Ağustos ayındaki bütçe açığını 167 milyar dolar olarak açıkladı. Bu rakam, geçen yılın aynı dönemine göre %52 azalma gösterdi. 2026 mali yılının ilk 11 ayındaki toplam açık ise 1,97 trilyon dolara ulaştı.",
+        "TCMB Başkanı Fatih Karahan, yatırımcılara yönelik sunumunda enflasyonun ana eğiliminin yavaşladığını belirtti. Aylık dalgalanmalara rağmen son veriler ve öncü göstergeler bu eğilimi destekliyor. Farklı fiyat istikrarı sağlanana kadar sıkı para politikası duruşunun sürdürüleceğini söyledi.",
+        "ABD'de hanehalkı ve kâr amacı gütmeyen kuruluşların net serveti, ikinci çeyrekte hisse senetleri ve gayrimenkul değerlerindeki artışla 12,8 trilyon dolar artarak 195,9 trilyon dolara ulaştı. Bu artış, piyasa kazançlarının büyüklüğü ve varlık değerlemelerinin yükselmesiyle açıklanabilir. Yılın ilk çeyreğine göre önemli bir yükseliş gösterdi."
       ],
       "sources": [
         {
-          "name": "Anadolu Ajansı Ekonomi",
-          "url": "https://www.aa.com.tr"
-        },
-        {
           "name": "Dünya Gazetesi",
           "url": "https://www.dunya.com"
+        },
+        {
+          "name": "Anadolu Ajansı Ekonomi",
+          "url": "https://www.aa.com.tr"
         }
       ]
     }
