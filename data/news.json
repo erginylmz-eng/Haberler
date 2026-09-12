@@ -1,109 +1,80 @@
 {
-  "generatedAt": "2026-09-12T08:20:45.605Z",
+  "generatedAt": "2026-09-12T14:55:43.105Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
-        "APM Terminals Apapa, ilk yarı 2026’da ihracat hacmini %6 oranında artırdı. Beş yıllık olumlu büyüme trendi sürdürülen terminal, artışın güçlü Nijerya ihracatçı faaliyetleri ve kargo akışını geliştirmeye yönelik önlemlerle ilişkilendirildi. Operasyonel iyileştirmeler sayesinde ihracat kapasitesi yükseldi ve sektör için olumlu bir sinyal oluşturdu.",
-        "Svitzer, Cheoy Lee Shipyards'tan 29 metrelik 6 yeni TRAnsverse tug siparişi vererek toplam sayılarını 14’e çıkardı. İlk sekiz geminin zühaî deniz denemelerinin yaklaşmasıyla anlaşma gerçekleştirildi. Teslimatlar 2028 yılında başlayacak.",
-        "Everllence PrimeServ Omnicare ve ME Production, Exhaust Gas Cleaning System (EGC) sistemlerinin yaşam döngüsü desteğini güçlendirmek için stratejik işbirliği başlattı. Bu ortaklık, gemi operatörlerinin kuru liman periyodlarında scrubber bakımı planlamasını ve yürütmesini daha etkili kılacak. Yüksek kükürt yakıt kullanan gemiler için kritik hale gelen scrubber teknolojilerinin sürdürülebilirliği hedefleniyor.",
-        "Associated British Ports, East Anglia Ticari Ekibini üç yeni atama ile güçlendirdi. John Grace, Kısa Deniz Taşımacılığı, çoklu modal lojistik ve ticari mülk deneyimiyle Bölge Ticari Müdürü olarak göreve başladı. Amaç, müşterileri desteklemek, yatırım çekmek ve bölgenin ticaret, lojistik ile enerji sektörlerinde yeni fırsatlar yaratmaktır.",
-        "Swire Shipping, 24 Eylül 2026’da Asya ve Hint Alt kıtasından birkaç Pasifik destinasyona gönderilen kargolar için fiyat artırımı uygulayacak. Artış, 20-20'li konteyner başına 300 USD, 40-40'li konteyner başına 600 USD olarak belirlendi. Değişiklik, Kuzey Asya, Büyük Çin, Güneydoğu Asya ve Hint Alt kıtası kökenli yükleri kapsıyor.",
-        "Anthropic, İran bağlantılı bir kullanıcının Claude yapay zeka modelini ABD Donanması hedefleme verilerini toplamak ve gemi sistemlerindeki zayıflıkları araştırmak için kullandığını bildirdi. Şirket, bu faaliyetleri engellemiş ve müdahalede bulunmuştur. Güvenlik endişeleri nedeniyle AI modeline erişim kısıtlamaları uygulanacak.",
-        "Konecranes ve APM Terminals Maasvlakte II, Rotterdam terminalinde 1.000. otomatik yönlendirilmiş araç (AGV) teslimini kutladı. Bu kilometre taşı, iki şirket arasındaki uzun soluklu işbirliğinin bir göstergesi olarak değerlendiriliyor. Yeni AGV, terminal operasyonlarını daha verimli hale getirmeyi hedefliyor.",
-        "ABD Gümrük ve Sınır Koruma (CBP) makamı, 18 Eylül itibarıyla yanlış gümrük bilgisi taşıyan nakliye firmalarının ithalat ayrıcalıklarını kaybedeceğini duyurdu. Aynı zamanda Kaliforniya ve FMCSA, kalıcı olmayan ticari sürücü ehliyetlerini askıya alma konusunda federal mahkemede karşı karşıya. Her iki düzenleme de taşımacılık sektöründe önemli uyum yükümlülükleri getiriyor."
+        "[Container News] Hapag-Lloyd adds Rotterdam–Germersheim rail connection — Hapag-Lloyd will introduce a weekly rail connection between Rotterdam and Germersheim to support inland transport capacity amid critical water levels on the Rhine. The temporary service will operate f",
+        "[Container News] Why DP World now runs India’s newest ship repair yard? — Cochin Shipyard, one of India’s flagship state-controlled builders, has agreed to hand day-to-day command of its newest repair facility to a company based in Dubai. The post Why DP World now runs Indi",
+        "[Container News] The Arctic corridor and the limits of Suez recovery — China’s completion of a second commercial Arctic container voyage to Britain in 2026 should be read less as an isolated technical achievement than as a deliberate positioning within a still-unresolved",
+        "[Container News] Rhenus moves 4,000 tonnes of wind turbine components via Port of Ploče — Rhenus has completed a major project cargo operation supporting the construction of the 48 MW VP Baljci wind farm in Bosnia and Herzegovina. The logistics company transported approximately 4,000 tonne",
+        "[Container News] Export volumes rise 6% at APM Terminals Apapa — APM Terminals Apapa recorded a 6% increase in export volumes during the first half of 2026. The Nigerian container terminal said exports have maintained a positive growth trend over the past five year",
+        "[Container News] Svitzer orders six more TRAnsverse tugs from Cheoy Lee Shipyards — Svitzer has ordered six additional 29-metre TRAnsverse tugs from Cheoy Lee Shipyards. The new contract takes the number of TRAnsverse 2900 tugs ordered from Cheoy Lee to 14. The agreement comes as the",
+        "[Container News] Everllence strengthens scrubber lifecycle support — Everllence PrimeServ Omnicare and ME Production, a leading scrubber specialist, have entered into a strategic cooperation to strengthen lifecycle support for Exhaust Gas Cleaning Systems, helping vess",
+        "[Container News] ABP strengthens commercial team with three appointments — Associated British Ports has reinforced its East Anglia Commercial Team through three appointments reflecting the company’s commitment to supporting customers, attracting investment and unlocking new ",
+        "[Container News] Swire Shipping announces Pacific rate restoration — Swire Shipping will implement a rate restoration on shipments from Asia and the Indian Subcontinent to several Pacific destinations. The increase will apply to cargo originating in North Asia, Greater"
       ],
       "sources": [
         {
           "name": "Container News",
           "url": "https://container-news.com"
-        },
-        {
-          "name": "gCaptain",
-          "url": "https://gcaptain.com"
-        },
-        {
-          "name": "Supply Chain Dive",
-          "url": "https://www.supplychaindive.com"
-        },
-        {
-          "name": "FreightWaves",
-          "url": "https://www.freightwaves.com"
         }
       ]
     },
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "[Taşıma Dünyası Gazetesi] 450 milyon TL’lik otobüs yatırımı yapacak — Sakarya’da 2 buçuk yılda Metrobüs, Raylı Sistem, ADARAY, yeni çevre yolları, Tunatan, Yazlık, Mithatpaşa, TEK Kavşağı Projeleri ve ilçelere otobüs hedefiyle ulaşımda yeni bir devri başlatan Büyükşehir",
-        "[Dünya Gazetesi] ABD Kongresi’nden Türkiye’yi vurabilecek tarife hamlesi — ABD Temsilciler Meclisi Kurallar Komitesi, Rusya yaptırım paketini 14 Eylül’de gündemine alacak. Tasarı, Rus petrolü ve gazının en büyük alıcılarına ABD’ye ihracatta yüzde 100’e kadar ek tarife riski ",
-        "[Taşıma Dünyası Gazetesi] Servis araçlarına İSPARK desteği — Okul servislerinin trafiğe katılım sürecini kolaylaştırmak için İSPARK A.Ş., 14 Eylül 2026 Pazartesi günü eğitim kurumlarına yakın konumdaki 94 otoparkında okul servis araçlarına gün boyu ücretsiz par",
-        "[Dünya Gazetesi] ABD’ye ihracatta yeni fatura Türk konteynerine 500 dolara kadar ek ücret — Türkiye’den ABD’nin doğu kıyısı ve Körfez limanlarına yapılan konteyner taşımalarında yeni ek ücret bugün yürürlüğe girdi. Hapag-Lloyd’un kararı, ihracatçının taşıma maliyetine konteyner başına 500 do",
-        "[Taşıma Dünyası Gazetesi] Hassoy Otomotiv’den Yılmaz Tur’a 2 Tourismo teslimatı — 1989 yılından bu yana personel, öğrenci servis taşımacılığı ve turizm taşımacılığı alanlarında faaliyet gösteren Yılmaz Tur, Hassoy Otomotiv’den 2 adet Mercedes-Benz Tourismo teslim aldı. Şirketin 202",
-        "[Taşıma Dünyası Gazetesi] Has Otomotiv’den Ege Delta Turizm’e Tourismo teslimatı — Mercedes-Benz Türk bayi Has Otomotiv turizm taşımacılığı alanında 2023 yılından beri hizmet veren İzmir merkezli Ege Delta Turizm’e Tourismo teslimatı gerçekleştirdi.",
-        "[LojiPort] COP31’te lojistik süreçleri OMSAN yönetecek — Türkiye’nin ev sahipliğinde Antalya’da düzenlenecek COP31 kapsamında yürütülecek uluslararası taşıma operasyonları ile 1 milyon metrekarelik etkinlik alanındaki lojistik süreçleri OMSAN Lojistik üstle",
-        "[Taşıma Dünyası Gazetesi] Koluman Otomotiv, Uluslararası Treyler Ödülleri 2027’nin ilk “Topluluk Seçimi Ödülü”nü kazandı — Koluman Otomotiv Endüstri, Adaptif Gizli Yan Duvarlı Platform Treyler (Adaptive Hidden Sidewall Platform Trailer – AHSP) ile Uluslararası Treyler Ödülleri 2027 kapsamında bu yıl ilk kez verilen “Toplu",
-        "[Taşıma Dünyası Gazetesi] Opel, Beşiktaş JK’nın otomotiv partneri oldu — Opel ile Beşiktaş JK, 2028 sezon sonuna kadar sürecek 2 yıllık iş birliğine imza attı. Anlaşma kapsamında Opel, siyah-beyazlı kulübün otomotiv kategorisindeki partneri olurken, futbol ve basketbol A t"
+        "[Dünya Gazetesi] Hürmüz'e alternatifti, saldırı sonrası durduruldu: Petrol arzında yeni belirsizlik — Suudi Arabistan'ın Hürmüz Boğazı'na alternatif petrol güzergahı Petroline, Irak'tan düzenlenen saldırıların ardından tedbiren durduruldu. Günlük 7 milyon varil taşıma kapasiteli hattın devre dışı kalm",
+        "[Taşıma Dünyası Gazetesi] Toplu ulaşımda kış dönemi başlıyor — İzmir Büyükşehir Belediyesi toplu ulaşımda 14 Eylül 2026 Pazartesi günü itibariyle kış düzenini başlatıyor. Yeni eğitim öğretim yılının başlayacak olması nedeniyle otobüs, metro ve tramvay hatlarında ",
+        "[Dünya Gazetesi] Kanada 1 trilyon dolarlık sermaye avına çıktı — Kanada, ABD ile büyüyen ticaret gerilimini küresel sermaye çekmek için fırsata çevirmeye hazırlanıyor. Toronto’da toplanacak dev yatırım zirvesinde enerji, maden, liman ve yapay zekâ projeleri için 1 ",
+        "[Taşıma Dünyası Gazetesi] Metro Prime logolu ilk Mercedes-Benz Tourismo Konya’ya teslim edildi — Metro Turizm Konya İşletmecisi Yılmaz Koyuncu, Hasmer Otomotiv’den teslim aldığı yeni Mercedes-Benz Tourismo’yu filosuna kattı.",
+        "[Taşıma Dünyası Gazetesi] İzmir’de öğrenci servislerine yüzde 30 zam talebi — İzmir Otobüsçüler ve Umum Servis Araçları İşletmecileri Odası Başkanı Hasan Basri Bostancı, 13 Ağustos’ta yapılan yüzde 20’lik tarife artışının ardından artan maliyetleri gerekçe göstererek öğrenci se",
+        "[Taşıma Dünyası Gazetesi] Mercedes-Benz Türk Patent Tescilinde Türkiye Lideri — Otomotiv sektöründe patent tescilinde üst üste dört yıldır liderliğini sürdüren Mercedes-Benz Türk, 2025 yılı TÜRKPATENT tarafından tescil edilen 105 patentiyle Türkiye Ar-Ge 500 Araştırması’nda tüm s",
+        "[Taşıma Dünyası Gazetesi] IRU ile TOBB arasında TIR sistemi ve iş birliği konuları ele alındı — TOBB Genel Sekreter Yardımcısı Cengiz Delibaş, IRU TIR ve Transit Direktörü Tatiana REY-BELLET ile TOBB’da bir araya geldi.",
+        "[Taşıma Dünyası Gazetesi] Toyota’nın hidrojen teknolojisi Scania kamyonlarında test edilecek — Toyota, hidrojen yakıt hücresi teknolojisinin kullanım alanlarını genişletmeye öncülük etmeyi sürdürüyor. Bu hedef doğrultusunda Toyota, bu teknolojinin ağır ticari taşımacılıktaki potansiyelini gerçe",
+        "[Taşıma Dünyası Gazetesi] Ulaşım yatırımlarında öncelik otobüs, metrobüs ve devam eden projelerde — 2027-2029 Dönemi Kamu Yatırım Programı hazırlıklarında ulaştırmanın yol haritası belirlendi. Kent içi toplu taşımada öncelik otobüs ve metrobüs sistemlerine verilirken, karayollarında trafik güvenliği"
       ],
       "sources": [
-        {
-          "name": "Taşıma Dünyası Gazetesi",
-          "url": "https://www.tasimadunyasi.com"
-        },
         {
           "name": "Dünya Gazetesi",
           "url": "https://www.dunya.com"
         },
         {
-          "name": "LojiPort",
-          "url": "https://www.lojiport.com"
+          "name": "Taşıma Dünyası Gazetesi",
+          "url": "https://www.tasimadunyasi.com"
         }
       ]
     },
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "Ford, Amerika'daki yaklaşık 223.500 araçta yakıt tankı sorunu tespit etti ve geri çağırma başlattı. Bu aksiyon, güvenlik risklerinin azaltılması amacıyla alınan önlemdir.",
-        "ECB başkan Yardımcısı Lagarde, Fransa'daki bir seçim tartışmasına katıldı. Tartışma sırasında, ECB'den çıkış olasılıkları gündeme geldi.",
-        "İtalyan Başbakan Meloni, 2026 için ülkenin %1 büyüme öngörüsünü paylaştı. Bu rakam, euro bölgesi ile uyumlu olarak raporlandı.",
-        "Suudi Arabistan, Houthi hareketinin Kızıldeniz kıyısındaki deniz taşımacılığını kısıtlaması nedeniyle bir petrol boru hattını kapattı. Bu kapanış, petrol risklerini yükseltiyor. Houthi hareketinin kontrolü de pekişiyor.",
-        "Bitcoin, 76.500 doların üzerinde bir desteğin üzerine konumlanarak dalgalanmaları sınırladı. Canlı fiyat seviyeleri bu istikrarı yansıtıyor.",
-        "Birleşik Krallık'ta, Burnham, bütçe gününün yaklaşmasıyla beraber ekonomik testlere karşı duruyor. Hükümetin mali planları ve önlemleri bu süreçte kritik rol oynayacak."
+        "[Yahoo Finance] ‘The Oil of the Next 50 Years’ — Trump Touts AI Data Centers Delivering Wealth and Investment to Communities",
+        "[Yahoo Finance] Victoria’s Secret’s (VSXY) Bra Boom Just Rewrote Its Growth Story",
+        "[Yahoo Finance] Elon Musk Says ‘Enormous, Free Fusion Reactor in the Sky’ Will Supply 100% of Energy Needs",
+        "[Yahoo Finance] Morgan Stanley delivers blunt message to America’s pet owners",
+        "[Yahoo Finance] 3 High-Yield Dividend Stocks Worth Loading Up On This Month",
+        "[Yahoo Finance] Greg Abel Is Betting on Homebuilders Even as the Pending Home Sales Index Sits Near Its Second-Lowest Reading Ever, Down 36% Since 2021. Is Berkshire Early to a Housing Recovery, or Just Early?",
+        "[Yahoo Finance] $2.3 Billion in Daily Profits: Why Betting Against the Magnificent 7 Keeps Failing",
+        "[Yahoo Finance] Spotify vs. Netflix: I’d Bet on This Streaming Stock for the Next 5 Years",
+        "[Yahoo Finance] Smith & Wesson’s (SWBI) Profit Turnaround Comes With a Catch"
       ],
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://www.investing.com"
-        },
-        {
-          "name": "Forbes Business",
-          "url": "https://www.forbes.com"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com"
         }
       ]
     },
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "Cumhurbaşkanlığı Genelgesiyle 2027-2029 Kamu Yatırım Programı hazırlıkları kapsamında, kamu yatırımlarında tasarruf ve verimlilik vurgulanarak yeni projelere sınırlama getirildi. Genelge, zorunlu hallerin dışında yeni projelerin onaylanmasını kısıtlayarak maliyet kontrolünü amaçlıyor.",
-        "Türkiye Şoförler ve Otomobilciler Federasyonu Genel Başkanı Yiğiner, yerli ve milli otomobil Togg'un yeni T6X modeline büyük ilgi duyulduğunu belirtti. Modelin uygun fiyat ve rekabetçi özellikleri, taksici esnafının heyecanını artırdı.",
-        "Yeni Orta Vadeli Program (OVP) döneminde Türkiye, enerji ve doğal kaynak alanında dışa bağımlılığı azaltmak ve arz güvenliğini güçlendirmek amacıyla madencilik yatırımlarını artıracak. Bu hamle, ülkenin enerji sektöründe yerli kaynaklara dayalı üretimin artırılmasını hedefliyor.",
-        "Antalya Ticaret ve Sanayi Odası (ATSO) ve Kültür ve Turizm Bakanlığı arasında, restoran, kafe ve eğlence işletmelerine müzik telif ücretlerinde tek fiyat uygulaması için girişim başlatıldı. Komite, yedi müzik meslek birliğinin tek çatı altında toplanmasını ve işletmelere tek fiyatlandırma yapılmasını talep ediyor.",
-        "ABD Merkez Bankası (Fed) gelecek hafta faiz artırımına gideceğini öngören piyasalar, iş gücü piyasasının güçlü ve enflasyonun hedefin üzerinde olması nedeniyle faiz artışına zemin hazırlıyor. Para piyasalarındaki fiyatlamalarda bu ihtimalin yüzde 90'a yaklaştığı belirtildi.",
-        "AB'de benzinin litre fiyatı savaş öncesine kıyasla yüzde 24, dizel ise yüzde 33 arttı. Orta Doğu'daki savaşın küresel petrol arzına yönelik endişeleri artırması bu artışları tetikledi."
+        "BRİKS liderler zirvesi sırasında, Türkiye’de de yankı bulan bir duyuru yapıldı. BRİKS ülkelerinden bir temsilci, işgal altındaki topraklardan Filistinlilerin zorla yerinden edilmesine karşı çıktı ve Gazze’deki coğrafi veya demografik değişikliklere itiraz etti. Ayrıca, Çin’in 2027 yılı 19. BRİKS Liderler Zirvesi’ne ev sahipliği yapacağı açıklandı. Bu gelişmeler, BRİKS’in uluslararası konulardaki tutumunu ve Çin’in gelecekteki rolünü ortaya koyuyor.",
+        "Cumhurbaşkanı Recep Tayyip Erdoğan, 12 Eylül 1980 askeri darbesinin 46. yıldönümünde sosyal medya üzerinden mesaj paylaştı. Mesajında darbenin yol açtığı mağduriyetlerin unutulmayacağını vurguladı ve Türkiye’nin kalkınma yolculuğunun darbelerle sekteye uğratılmasına bir daha izin vermeyeceğini belirtti. Erdoğan’ın bu açıklaması, 12 Eylül’in siyasi ve toplumsal etkilerine dair duyarlılığını bir kez daha ortaya koydu.",
+        "Üniversite öğrencileri için KYK burs ve kredi başvurularının takvimi Eylül ayının ortalarına yakınlaşırken yoğun bir şekilde takip ediliyor. Özellikle yeni programlara yerleşen öğrenciler, başvuru tarihlerini merak ediyor. Bu bağlamda, GSB bursu gibi öğrenci finansman programlarının da başvuru tarihleri ve süreçleri hakkında bilgi arayışı devam ediyor.",
+        "Hazine ve Maliye Bakanı Mehmet Şimşek, Bolu’da iş dünyası, esnaf, sanayici ve sivil toplum kuruluşlarından gelen temsilcilerle bir araya gelerek değerlendirmelerde bulundu. Bakan Şimşek, bölgedeki ekonomik faaliyetler ve finansal yapı hakkında görüş alışverişinde bulundu. Toplantıda, yerel işletmelerin finansal destek ve yatırım ihtiyaçlarına da değinildi.",
+        "QR kodlu ödemeler günlük hayatta yaygınlaşırken, dolandırıcıların sahte QR kodlarla dolandırıcılık yapma yöntemleri de artıyor. Gerçek QR kodlarının üzerine sahte kod yapıştırılması veya kullanıcıları taklit ödeme sayfalarına yönlendirilmesi, banka ve kart bilgilerinin ele geçirilmesine yol açabiliyor. Ödeme yapmadan önce kodun kaynağının güvenilirliğini kontrol etmek, resmi ödeme uygulamalarını tercih etmek ve QR kodu tararken ekranın tamamının görünür olduğundan emin olmak gibi önlemler öneriliyor."
       ],
       "sources": [
-        {
-          "name": "Sabah Ekonomi",
-          "url": "https://www.sabah.com.tr"
-        },
-        {
-          "name": "Anadolu Ajansı Ekonomi",
-          "url": "https://www.aa.com.tr"
-        },
-        {
-          "name": "Habertürk Ekonomi",
-          "url": "https://www.haberturk.com"
-        },
         {
           "name": "Dünya Gazetesi",
           "url": "https://www.dunya.com"
