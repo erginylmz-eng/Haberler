@@ -1,23 +1,27 @@
 {
-  "generatedAt": "2026-09-12T21:55:05.026Z",
+  "generatedAt": "2026-09-13T02:54:53.214Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
+        "[Container News] Centrofin places first containership order — Greek shipowner and manager Centrofin Management has reportedly entered the container shipping sector with its first containership order. According to shipbrokers, the company placed an order in July ",
+        "[FreightWaves] Imports and inventories stabilize in 2026, but for how long — Container import activity has been steady throughout the summer with no sharp shifts in inventories. Recent history suggests that will change. The post Imports and inventories stabilize in 2026, but f",
+        "[Container News] HMM and ONE replace Guayaquil with Posorja on NW4/AX4 service — HMM and Ocean Network Express (ONE) have revised their joint Far East–West Coast Latin America NW4/AX4 service, according to DynaLiners. The carriers have replaced the Guayaquil call with Posorja, mai",
         "[Container News] Hapag-Lloyd retains Casablanca coverage through new slot agreement — Hapag-Lloyd has introduced a new Casablanca Feeder (CSF) offering to maintain coverage of the Moroccan port following its removal from the carrier’s WAX service. The new offering is based on slots abo",
         "[Container News] SITC revises two China–Philippines services — SITC will reorganise the port coverage of its CPX4 and CPX7 services connecting China with the Philippines later in September 2026, according to Alphaliner. The carrier will transfer Iloilo from the C",
         "[Container News] DynaLiners Shares Index edges higher as owners hit record — The DynaLiners Shares Index (DLSI) gained 11 points, or 0.4%, during the past week to close at 2,723. All four sector indices recorded growth. However, the DLSI Carriers and DLSI Ports indices added f",
         "[Container News] Maersk updates fuel surcharges in Greece and Skopje — Maersk will introduce revised fuel surcharge levels for trucking operations in Greece and Skopje from 14 September 2026. The updated surcharge levels are: Greece: 15% Skopje: 25% Maersk attributed the",
         "[Container News] Hapag-Lloyd adds Rotterdam–Germersheim rail connection — Hapag-Lloyd will introduce a weekly rail connection between Rotterdam and Germersheim to support inland transport capacity amid critical water levels on the Rhine. The temporary service will operate f",
-        "[Container News] Why DP World now runs India’s newest ship repair yard? — Cochin Shipyard, one of India’s flagship state-controlled builders, has agreed to hand day-to-day command of its newest repair facility to a company based in Dubai. The post Why DP World now runs Indi",
-        "[Container News] The Arctic corridor and the limits of Suez recovery — China’s completion of a second commercial Arctic container voyage to Britain in 2026 should be read less as an isolated technical achievement than as a deliberate positioning within a still-unresolved",
-        "[Container News] Rhenus moves 4,000 tonnes of wind turbine components via Port of Ploče — Rhenus has completed a major project cargo operation supporting the construction of the 48 MW VP Baljci wind farm in Bosnia and Herzegovina. The logistics company transported approximately 4,000 tonne",
-        "[Container News] Export volumes rise 6% at APM Terminals Apapa — APM Terminals Apapa recorded a 6% increase in export volumes during the first half of 2026. The Nigerian container terminal said exports have maintained a positive growth trend over the past five year"
+        "[Container News] Why DP World now runs India’s newest ship repair yard? — Cochin Shipyard, one of India’s flagship state-controlled builders, has agreed to hand day-to-day command of its newest repair facility to a company based in Dubai. The post Why DP World now runs Indi"
       ],
       "sources": [
         {
           "name": "Container News",
           "url": "https://container-news.com"
+        },
+        {
+          "name": "FreightWaves",
+          "url": "https://www.freightwaves.com"
         }
       ]
     },
@@ -48,34 +52,35 @@
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "OpenAI CEO’su Sam Altman, AI güvenliği konusundaki artan endişeler nedeniyle şirketin bu yıl halka arzının \"yanlış bir zaman\" olacağını belirtti. Açık kaynaklı ChatGPT’nin yaratıcısı olan OpenAI, AI gelişiminin toplumsal etkilerinde hâlâ ciddi riskler taşıdığını vurguladı. Bu açıklama, yatırımcıların şirketin finansal performansını yakından izlemeye devam etmeleri gerektiğini gösteriyor.",
-        "Konut inşaatı süreleri hafifçe düşmeye başladı fakat hâlâ yüksek seviyelerde kalıyor. 10 yıllık ABD Hazine tahvili getirisi %5’e yaklaşırken, ticari gayrimenkul finansman maliyetlerinde artış bekleniyor. Yüksek faiz ortamı, yatırımcıların CRE projelerine yaklaşımını etkileyebilir.",
-        "Bir mücevher zinciri, iki markayı kapattıktan sonra 53 mağazasını kapanmasına karar verdi. Mağaza kapanışları, sektördeki rekabet ve tüketici davranışlarındaki değişimi yansıtıyor. Şirket, nakit akışını korumak için operasyonel verimlilik üzerine odaklanıyor.",
-        "Adobe, yönlendirmesini artırdı ancak hissesi hâlâ kırılgan durumda. Şirketin yükselttiği gelir tahminleri, yatırımcılar arasında potansiyel bir çıkış sinyali olarak değerlendiriliyor. Fakat piyasa volatilitesi, hissenin toparlanmasını zorlaştırıyor.",
-        "JPMorgan, 1,1 milyar dolarlık bir ABD endüstriyel net kira fonu kapatıldı. Kripto pazarında Ethereum ETF’leri 216 milyon dolar akış aldı, Bitcoin ise dördüncü gün için para kaybı yaşadı, XRP ise sıfır akış gördü. Nvidia ve AMD arasındaki rekabetin ötesinde, Elon Musk, SpaceX gelir çağrısında bu iki çip üreticiden birine taraf tuttuğunu duyurdu."
+        "Noche UFC başlıca etkinliğinde Jean Silva, beklenmedik bir başlangıçtan sonra üstünlük kurarak submission ile galibiyetini elde etti. Brezilyalı dövüş sanatçısı, rakibine karşı kontrolü sağlamış ve maç sonunda üstünlük kazandı.",
+        "Ryan Garcia ile Conor Benn'in 2026'da karşılaştığı bu önemli boks maçı, spor dünyasını heyecanlandırdı. Sonuçlar, skor kartları ve öne çıkan anlar yakından takip edildi.",
+        "Elena Rybakina, dört gün içinde Aryna Sabalenka'nın dünya numaralı 1 sıralamasını ele geçirerek, Sabalenka'nın ABD Açık'ta üçlü bir şampiyonluk isteğini sonlandırdı.",
+        "Amerika Birleşik Devletleri, 76-66 skorla İspanya'yı mağlup ederek FIBA Dünya Kupası finaline yükseldi. Finalde Fransa ile karşılaşacak olan Amerikan takımı, 2024 Olimpiyat finalinin yeniden karşılaşmasını bekliyor.",
+        "OpenAI CEO'su Sam Altman, AI güvenliği endişeleri nedeniyle bu yıl halka arzın 'yanlış bir adım' olacağını belirtti. Wall Street, yıl sonunda devasa bir OpenAI IPO'su beklerken, Altman bu planın gerçekleşmeyeceğini duyurdu."
       ],
       "sources": [
         {
-          "name": "MarketWatch",
-          "url": "https://www.marketwatch.com"
+          "name": "Forbes Business",
+          "url": "https://www.forbes.com"
         },
         {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com"
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com"
         }
       ]
     },
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "Tera Yatırım Menkul Değerler AŞ, Pusula Finans Holding AŞ ve bağlı şirketlerinin paylarının devralınması sürecinde, şirket stratejik ve finansal değerlendirmelerinde herhangi bir değişiklik olmadığını belirtti. Sürecin ilgili düzenleyici kurumlardan gerekli izin ve onayların alınmasına bağlı olarak devam ettiğini açıkladı.",
-        "Karadeniz'de palamut bolluğu sürerken, balık fiyatları vatandaşın yüzünü güldürüyor. Geçen hafta 80 TL'den satılan orta boy palamudun tanesi bu hafta 50 TL'ye geriledi. Kiloluk palamutlar ise 90 TL'den tezgahlarda yerini aldı.",
-        "Kaşif Kozinoğlu’nun ölümüne ilişkin soruşturmanın ikinci dalga operasyonunda gözaltına alınan 9 şüphelinin savcılık işlemleri tamamlandı. Şüphelilerden 3’ü tutuklama, 6’sı ise adli kontrol talebiyle nöbetçi hakimliğe sevk edildi.",
-        "Erzurum Cumhuriyet Başsavcılığının yürüttüğü Gülistan Doku soruşturmasında 6. dalga operasyon başlatıldı. Delillerin karartıldığı ve soruşturma sürecine müdahale edildiği gerekçesiyle 11 şüpheli hakkında 7 ilde eş zamanlı gözaltı, arama ve el koyma işlemleri gerçekleştirildi.",
-        "Vanlı iş adamı ve fenomen Mehmet Fatih Tançalan’ın eşi Çağla Öz, İstanbul’da gözaltına alındı. Olayla ilgili soruşturma devam ediyor.",
-        "Antalya'da kamu görevlilerine rüşvet verildiği iddiasıyla yürütülen soruşturma kapsamında Narkotik Şube Müdürü O.U. ve Koruma Şube Müdürü E.D.E. gözaltına alındı. Soruşturma kapsamında daha önce bir avukat ile aynı büroda çalışan kişinin de gözaltına alınmasıyla toplam gözaltı sayısı 4'e yükseldi.",
-        "Dışişleri Bakanı Hakan Fidan, İran Dışişleri Bakanı Abbas Erakçi ile telefon görüşmesi yaptı. Görüşme, iki ülke arasındaki diplomatik ilişkileri geliştirmeye yöneliktir.",
-        "FIBA 2026 Kadınlar Basketbol Dünya Kupası finali, ABD ile Fransa'nın karşı karşıya geleceği belirlendi. Turnuvanın final maçı, dünya çapındaki izleyicilerin merakla beklediği bir etkinlik olacak."
+        "[Dünya Gazetesi] Kaşif Kozinoğlu soruşturmasında 3 şüpheli için tutuklama talebi — Eski MİT görevlisi Kaşif Kozinoğlu’nun ölümüne ilişkin soruşturmanın 2’nci dalga operasyonunda gözaltına alınan 9 şüphelinin savcılık işlemleri tamamlandı. Şüphelilerden 3’ü tutuklama, 6’sı ise adli k",
+        "[Dünya Gazetesi] Tera Yatırım'dan Pusula Finans Holding açıklaması — Tera Yatırım Menkul Değerler AŞ, Pusula Finans Holding AŞ ve bağlı şirketlerinin paylarının devralınmasına ilişkin sürecin devam ettiğini belirterek, son dönemde kamuoyuna yansıyan gelişmelerin Tera G",
+        "[Dünya Gazetesi] Dışişleri Bakanı Fidan İranlı mevkidaşı Erakçi ile telefonda görüştü — Dışişleri Bakanı Hakan Fidan, İran Dışişleri Bakanı Abbas Erakçi ile telefon görüşmesi yaptı.",
+        "[Dünya Gazetesi] FIBA 2026 Kadınlar Basketbol Dünya Kupası’nda finalin adı belli oldu — FIBA 2026 Kadınlar Basketbol Dünya Kupası finalinde yarın ABD ile Fransa, karşı karşıya gelecek.",
+        "[Habertürk Ekonomi] Fiyatlar dibe vurdu: Tanesi 50 lira — Karadeniz'de palamut bolluğu sürerken, balık fiyatları da vatandaşın yüzünü güldürüyor. Geçen hafta 80 TL'den satılan orta boy palamudun tanesi bu hafta 50 TL'ye geriledi. Kiloluk palamutlar ise 90 TL",
+        "[Habertürk Ekonomi] Tera'dan 'Pusula' açıklaması — Tera Yatırım, Pusula Finans Holding ve bünyesindeki şirketlerin devralınmasına yönelik süreçte stratejik ve finansal değerlendirmelerinde herhangi bir değişiklik olmadığını açıkladı. Şirket, devralma ",
+        "[Dünya Gazetesi] Mehmet Fatih Tançalan’ın eşi Çağla Öz de gözaltında — Vanlı iş adamı ve fenomen Mehmet Fatih Tançalan’ın eşi Çağla Öz, İstanbul’da gözaltına alındı.",
+        "[Dünya Gazetesi] Gülistan Doku soruşturmasında yeni operasyon: 7 ilde eş zamanlı baskın — Erzurum Cumhuriyet Başsavcılığınca yürütülen Gülistan Doku soruşturmasında 6’ncı dalga operasyon başlatıldı. Delillerin karartıldığı ve soruşturma sürecine müdahale edildiği gerekçesiyle aralarında gö",
+        "[Dünya Gazetesi] Antalya Emniyetinde 2 şube müdürü gözaltına alındı — Antalya'da kamu görevlilerine rüşvet verildiği iddiasıyla yürütülen soruşturmada, Narkotik Şube Müdürü O.U. ile Koruma Şube Müdürü E.D.E. gözaltına alındı. Soruşturma kapsamında daha önce bir avukat i"
       ],
       "sources": [
         {
