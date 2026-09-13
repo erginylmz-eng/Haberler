@@ -1,20 +1,24 @@
 {
-  "generatedAt": "2026-09-13T08:46:22.302Z",
+  "generatedAt": "2026-09-13T15:32:41.094Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
-        "[Container News] MOL names world’s first LNG carrier with Wind Challenger sails — Mitsui O.S.K. Lines (MOL) has named FUJIN SAILOR, the world’s first LNG carrier equipped with wind-assisted propulsion. The naming ceremony took place on 10 September at Hanwha Ocean’s Geoje Shipyard ",
-        "[Container News] CU Lines adds China–Indonesia service through slot agreement — China United Lines (CU Lines) will launch its new CN1 service between China and Indonesia in mid-September 2026. The new product will operate through slots on the joint CHN1/SIS1/CIP1 service of CNC L",
-        "[Container News] Centrofin places first containership order — Greek shipowner and manager Centrofin Management has reportedly entered the container shipping sector with its first containership order. According to shipbrokers, the company placed an order in July ",
-        "[FreightWaves] Imports and inventories stabilize in 2026, but for how long — Container import activity has been steady throughout the summer with no sharp shifts in inventories. Recent history suggests that will change. The post Imports and inventories stabilize in 2026, but f",
-        "[Container News] HMM and ONE replace Guayaquil with Posorja on NW4/AX4 service — HMM and Ocean Network Express (ONE) have revised their joint Far East–West Coast Latin America NW4/AX4 service, according to DynaLiners. The carriers have replaced the Guayaquil call with Posorja, mai",
-        "[Container News] Hapag-Lloyd retains Casablanca coverage through new slot agreement — Hapag-Lloyd has introduced a new Casablanca Feeder (CSF) offering to maintain coverage of the Moroccan port following its removal from the carrier’s WAX service. The new offering is based on slots abo",
-        "[Container News] SITC revises two China–Philippines services — SITC will reorganise the port coverage of its CPX4 and CPX7 services connecting China with the Philippines later in September 2026, according to Alphaliner. The carrier will transfer Iloilo from the C",
-        "[Container News] DynaLiners Shares Index edges higher as owners hit record — The DynaLiners Shares Index (DLSI) gained 11 points, or 0.4%, during the past week to close at 2,723. All four sector indices recorded growth. However, the DLSI Carriers and DLSI Ports indices added f",
-        "[Container News] Maersk updates fuel surcharges in Greece and Skopje — Maersk will introduce revised fuel surcharge levels for trucking operations in Greece and Skopje from 14 September 2026. The updated surcharge levels are: Greece: 15% Skopje: 25% Maersk attributed the"
+        "[gCaptain] Iraq Under Pressure After Drone Strikes Close Key Saudi Pipeline — By Khalid Al-Ansary and Devika Krishna Kumar Sep 12, 2026 (Bloomberg) –Iraq is moving to contain the fallout from attacks that caused the closure of Saudi Arabia’s East-West pipeline, after the...",
+        "[Container News] Explainer: Washington’s fastest path to fleet capacity runs through Korea — Acting Secretary’s of the Navy visit is the latest data point in a policy convergence that has been building for eighteen months, and it points toward the most significant foreign role in US naval shi",
+        "[gCaptain] Crew Of Vessel Attacked In Hormuz Strait Evacuated — CAIRO, Sept 13 (Reuters) – A vessel has been struck by an unknown projectile while transiting the Strait of Hormuz, the United Kingdom Maritime ?Trade Operations said early on Sunday. The crew were...",
+        "[gCaptain] US Limits Air Defense Time Slots For Tankers Sailing Through Hormuz — Sept 12 (Reuters) – The U.S. has asked tankers traveling through the Strait of Hormuz to sail only at specific times to guarantee military protection after Iran stepped up attacks on ships...",
+        "[Container News] MSC restructures three intra-Australasia services — MSC is restructuring its intra-Australasia network by separating the existing Noumea Express into two services and revising its Southern Loop, according to Alphaliner. The current Noumea Express conne",
+        "[Container News] Port of Klaipėda deploys smart buoy to improve navigation safety — The Port of Klaipėda has deployed a new smart buoy in the Baltic Sea to improve navigation safety and vessel traffic management. The buoy is located four nautical miles from the port entrance. It coll",
+        "[FreightWaves] Borderlands Mexico: Exports of Mexican-made heavy-duty trucks to US roar back — This week in Borderlands Mexico: Exports of Mexican-made heavy-duty trucks to US roar back and Nexio secures 77-acre Texas campus for commercial truck production. The post Borderlands Mexico: Exports ",
+        "[Container News] Gemini Cooperation merges A04 relay into A14 service — The Gemini Cooperation partners, Hapag-Lloyd and Maersk, have folded their China–South Korea A04 relay service into the China–Korea–Malacca A14 service. The revised A14 rotation will cover: Xingang – ",
+        "[Container News] Kongsberg Maritime to supply Kamewa waterjets for Australia’s fleet — Kongsberg Maritime has entered into an agreement with Austal Defence Shipbuilding Australia to supply Kamewa Steel Series waterjets for the Australian Army’s new Landing Craft Medium fleet. The progra"
       ],
       "sources": [
+        {
+          "name": "gCaptain",
+          "url": "https://gcaptain.com"
+        },
         {
           "name": "Container News",
           "url": "https://container-news.com"
@@ -28,16 +32,21 @@
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "İzmir Büyükşehir Belediyesi 14 Eylül 2026 itibarıyla toplu taşıma kış düzenini başlattı. Yeni eğitim öğretim yılı nedeniyle otobüs, metro ve tramvay hatlarında sefer sıklıkları artırıldı. Mevcut tarifelerle hizmet veren İZDENİZ gemileri çalışmaya devam edecek. Ayrıca İSPARK A.Ş., okul servislerine yönelik 94 otoparkında gün boyu ücretsiz park imkanı sunacak.",
-        "İzmir Otobüsçüler ve Umum Servis Araçları İşletmecileri Odası Başkanı Hasan Basri Bostancı, 13 Ağustos'ta yapılan %20 tarife artışının ardından öğrenci servis ücretlerine %30 zam talebinde bulunduklarını açıkladı. Talep, artan maliyetleri gerekçe göstererek yapıldı.",
-        "Metro Turizm Konya İşletmecisi Yılmaz Koyuncu, Hasmer Otomotiv’den teslim aldığı yeni Mercedes-Benz Tourismo’yu filo üzerine ekledi. Araç, Metro Prime logolu olup Konya’da hizmet vermeye hazırlanıyor.",
-        "Mercedes-Benz Türk, 2025 yılında TÜRKPATENT tarafından tescil edilen 105 patentle otomotiv sektöründe patent tescilinde üst üste dört yıldır liderliğini sürdürüyor. Şirket, son 10 yılda 884 patent başvurusunda bulundu ve 427 patent tescil etti, bu da Türkiye Ar-Ge 500 Araştırması’nda tüm sektörler arasında ilk sırayı aldı.",
-        "TOBB Genel Sekreter Yardımcısı Cengiz Delibaş, IRU TIR ve Transit Direktörü Tatiana Rey-Billet ile TOBB’da bir araya gelerek TIR sistemi ve iş birliği konularını ele aldı. Toplantıda, Türkiye’nin TIR lojistiğini geliştirmek için ortak çalışmalar planlandı.",
-        "Toyota, hidrojen yakıt hücresi teknolojisini ağır ticari taşımacılıkta test etmek üzere Scania ile iş birliği yapmayı sürdürüyor. Şirket, bu iş birliği kapsamında Scania kamyonlarında gerçek kullanım koşullarında hidrojen teknolojisini deneyecek.",
-        "2027-2029 Kamu Yatırım Programı’nda kent içi toplu taşımada öncelik otobüs ve metrobüs sistemlerine verilecekken, karayollarında trafik güvenliği ve ağır taşıt yoğunluğu öncelikli güzergâhlara odaklanacak. Demiryolunda ise dört büyük proje öncelikli yatırımlar arasında yer alacak.",
-        "Sakarya Büyükşehir Belediyesi, 2 buçuk yıl içinde Metrobüs, Raylı Sistem, ADARAY, yeni çevre yolları, Tunatan, Yazlık, Mithatpaşa, TEK Kavşağı projeleri ve ilçelere otobüs hedefiyle 450 milyon liralık yeni bir toplu taşıma yatırımı başlatıyor. Yönetim, ilk adımı için Eylül meclisinde yetki alacak ve 11 metrobüs ve 23 otobüsün filoya dahil edildiğini hatırlatıyor."
+        "Pegasus Hava Yolları, Çekya havayolu şirketi Smartwings'i satın alarak Avrupa pazarındaki varlığını güçlendirdi. Çekya Rekabet Kurumu (UOHS) bu devri onayladı. Aynı zamanda İstanbul Havalimanı, 4. ana pistini 18 Eylül’de hizmete açarak toplam pist sayısını 6’ya çıkarmayı planlıyor. Yeni Doğu-Batı yönlü pist, iç hat ve Doğu uçuşlarında taksi ve havada kalış sürelerini azaltacak.",
+        "Tanker taşımacılığı, jeopolitik gerilimler nedeniyle navlun fiyatlarının artmasıyla 2024 yılının başından itibaren %3.600’lik bir değer kazandı. BWET hissesinin bu performansı, sektörün kısa vadede navlun fiyatlarındaki baskıyı ortadan kaldırma ihtimali olmadığını gösteriyor. Aynı dönemde Adalet Bakanı Akın Gürlek, Brezilya’dan Mersin’e gelen bir gemide 350 kilogramlık kokain ele geçirildiğini duyurdu. Operasyonda 9 şüpheli yakalandı.",
+        "İzmir Büyükşehir Belediyesi, 14 Eylül 2026’da başlamak üzere toplu taşıma kış düzenini uygulayacak ve otobüs, metro ve tramvay hatlarında sefer sıklığını artıracak. Bu karar, yeni eğitim öğretim yılının başlamasından dolayı toplu taşıma talebinin artacağını öngörüyor. Aynı zamanda İzmir Otobüsçüler ve Umum Servis Araçları İşletmecileri Odası Başkanı Hasan Basri Bostancı, 13 Ağustos’ta yapılan %20 tarife artışının ardından öğrenci servis ücretlerine %30 zam talebinde bulundu.",
+        "Mercedes-Benz Türk, 2025 yılında TÜRKPATENT tarafından tescil edilen 105 patentle Türkiye Ar-Ge 500 Araştırması’nda tüm sektörler arasında ilk sırada yer aldı. Şirket, son 10 yılda 884 patent başvurusu yaparak 427 patent tescili elde etti. Bu yenilikçi performansın yanı sıra Metro Turizm Konya İşletmecisi Yılmaz Koyuncu, Hasmer Otomotiv’den teslim aldığı yeni Mercedes-Benz Tourismo’yu Konya filosuna kattı.",
+        "TOBB Genel Sekreter Yardımcısı Cengiz Delibaş, IRU TIR ve Transit Direktörü Tatiana REY-BELLET ile TIR sistemi ve iş birliği konularını ele almak için buluştu. Toplantı, Türkiye’deki kara taşımacılığının verimliliğini artırmak amacıyla stratejik bir adım olarak değerlendiriliyor. Bu tür iş birliği, lojistik sektöründe standardizasyon ve iş süreçlerinin iyileştirilmesini hedefliyor."
       ],
       "sources": [
+        {
+          "name": "LojiPort",
+          "url": "https://www.lojiport.com"
+        },
+        {
+          "name": "Dünya Gazetesi",
+          "url": "https://www.dunya.com"
+        },
         {
           "name": "Taşıma Dünyası Gazetesi",
           "url": "https://www.tasimadunyasi.com"
@@ -47,41 +56,32 @@
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "Yapay zekanın tercih ettiği renk mavi olduğu araştırma, Forbes Business'ta yapılan analizle açıklanıyor. Aynı zamanda James Cameron'ın 'Terminator 2: Judgment Day' filmindeki AI korkusu, günümüzdeki yapay zeka ile olan karmaşık ilişkiyi öngördüğü iddia ediliyor. Film yeniden çıkışı ile gerçek hayat gelişmeleri arasında paralellikler kuruluyor. Bu iki haber, yapay zeka konusundaki kamu algısını ve endüstri bakış açısını yansıtıyor.",
-        "Bitcoin, $77.200 seviyesine düştü. Faiz oranlarındaki baskı ve yatırımcıların çeşitlendirme stratejilerinin çakışması fiyatı aşağı çekti. Bu hareket, kripto para piyasasındaki risk tercihlerinde bir değişime işaret ediyor.",
-        "Avrupa hisse senetleri, doğal gaz fiyatlarındaki dalgalanmalara karşı duyarlılık gösteriyor. Enerji fiyatlarındaki artışlar, özellikle enerji yoğun sektörlerdeki şirketlerin kar marjlarını etkiliyor. Yatırımcılar, bu risklere karşı pozisyonlarını yeniden değerlendiriyor.",
-        "Hormuz Boğazı'ndaki son saldırı, uluslararası petrol akışlarını tehdit ediyor. Bu bölgedeki gerginlik, küresel enerji piyasalarında arz güvenliği endişelerine yol açıyor. Piyasalarda petrol fiyatlarında volatilite artışı gözlemleniyor.",
-        "Güney Kore, çip teknolojisini korumak amacıyla casusluk yasa kapsamını genişletti. Yeni düzenleme, ülkenin teknolojik altyapısını dış tehditlere karşı güçlendirmeyi hedefliyor. Yasal değişiklik, yerli ve uluslararası teknoloji şirketleri için önemli bir düzenleyici adımdır.",
-        "Yen üzerine spekülatörler, Şubat ayından beri ilk kez net uzun pozisyon alarak piyasalara yeni bir yön veriyor. Bu hareket, Japon para biriminin değer kazanma potansiyelini yükseltiyor. Yatırımcılar, yenin gelecekteki performansı konusunda daha olumlu beklentiler taşıyor."
+        "Berkshire Hathaway, 359 milyar dolarlık portföyünün yaklaşık %14'ünü, son beş yılda iki katına çıkmış bir hissenin üzerine yatırdı. Bu yatırım, şirketin portföy dağılımında önemli bir ağırlık oluşturuyor ve büyüme performansı ile dikkat çekiyor.",
+        "2027 yılında emekli olmayı düşünen bireyler için üç temel finansal adım öneriliyor: borç azaltımı, yatırım çeşitlendirmesi ve emeklilik planlarının optimize edilmesi. Aynı dönemde Trump, Federal Reserve'dan faiz indirimine çağrıda bulunurken, piyasalarda Warsh'in faiz artıracağı beklentisi hakim.",
+        "Jim Cramer, büyük teknoloji hisselerinin 3–5 yıl içinde iki katına çıkabileceğini öne sürüyor. Ek olarak, 2028 yılına kadar Micron ve Broadcom ile birlikte $1 trilyonluk değere ulaşacak iki AI yarıiletken hissesinin tahmini yapılmış.",
+        "Goldman Sachs, 2035 yılına kadar 6,5 milyon humanoid robotun yaygınlaşacağını tahmin ediyor. Bu tahmin, robotik teknolojilerin üretim ve hizmet sektörlerinde yaygınlaşma hızını yansıtıyor.",
+        "OpenAI'nin 2026'da halka arz edilmesinin 'uygun olmadığını' söyleyen Sam Altman, şirketin henüz tam ölçekli bir halka arz için hazır olmadığını vurguladı. Bu açıklama, yapay zeka şirketlerinin piyasa zamanlaması konusundaki belirsizliklerini gözler önüne seriyor.",
+        "HSBC, Hormon Vasıta Planı'nın sorunları nedeniyle petrol tahminlerini yükseltti. Şirket, artan arz belirsizliğinin enerji piyasalarını daha da etkileyebileceğini belirtti.",
+        "UPS, Amazon'a gönderilen hacimlerini kasıtlı olarak düşürdü ve margin verileri bu stratejinin etkili olduğunu gösterdi. Bu adım, taşımacılık şirketlerinin müşteri ilişkilerini yeniden yapılandırma çabalarına ışık tutuyor."
       ],
       "sources": [
         {
-          "name": "Forbes Business",
-          "url": "https://www.forbes.com"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://www.investing.com"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com"
         }
       ]
     },
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "İstanbul Havalimanı'nın 4. ana pistinin Cumhurbaşkanı Recep Tayyip Erdoğan'ın teşifriyle 18 Eylül’de hizmete açılacağı açıklandı. Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu bu gelişmeyi duyurdu. Yeni pist, havalimanının kapasite artışı hedeflerine katkı sağlayacak.",
-        "ABD Merkez Bankası’nın faiz artırma beklentilerinin yükselmesi emtia piyasasında satış baskısını artırdı. Bu hafta emtia fiyatlarında düşüş yaşandı ve piyasa katılımcıları riskten kaçmaya yöneldi.",
-        "Kamu iktisadi teşebbüsleri (KİT) yönetişim reformu kapsamında, yeni Orta Vadeli Program döneminde uluslararası operasyonları olan şirketlerin rekabet gücünü yükseltmek için düzenlemeler yapılacak. Bu adım, KİT’lerin küresel pazardaki konumunu güçlendirmeyi hedefliyor.",
-        "Türkiye, kimlik, pasaport ve endüstriyel uygulamalarda kullanılan çiplerin yurt içinde üretilmesini sağlamak için modern üretim tesisleri ve milli projelerle çip yarışında öne çıkmayı planlıyor. Bu hamle, ülkenin teknolojik bağımsızlığını artırmayı amaçlıyor.",
-        "Ticaret Bakanı Ömer Bolat, 2026-2027 eğitim öğretim yılı öncesinde kırtasiye sektörüne yönelik denetimlerin yoğunlaştırıldığını bildirdi. Ağustos ve eylül ayının ilk 10 gününde toplam 33 182 firma denetlendi, 5 952 000 ürün incelendi ve 182 559 000 TL idari yaptırım uygulandı."
+        "Tankering sektöründe şaşırtıcı bir performans yaşandı; BWET, yılbaşından bu yana yaklaşık yüzde 3.600 değer kazandı. Hürmüz ve Kızıldeniz'deki jeopolitik gerilim, tanker navlun fiyatlarını hızla yükseltti. Gemi kıtlığı nedeniyle navlun fiyatlarındaki baskının kısa sürede ortadan kalkması beklenmiyor.",
+        "İran Cumhurbaşkanı Mesud Pezeşkiyan, BRICS'in yerel paralarla ticareti geliştirerek üyeleri için ekonomik dayanıklılık oluşturması gerektiğini söyledi. Sınırlı ticari sistemlere aşırı bağımlılığın ülke ekonomilerini ani siyasi gelişmeler karşısında kırılgan hale getirdiğini belirtti.",
+        "Çin, ABD ile yapay zeka rekabetini yeni bir aşamaya taşıyarak BRICS ülkelerini açık kaynaklı modeller etrafında bir araya getirmeye hazırlanıyor. Pekin'in hamlesi teknoloji yarışında değil, yapay zekanın küresel kurallarını kimin şekillendireceği mücadelesinde yeni bir cephe açıyor."
       ],
       "sources": [
         {
-          "name": "Anadolu Ajansı Ekonomi",
-          "url": "https://www.aa.com.tr"
-        },
-        {
-          "name": "Habertürk Ekonomi",
-          "url": "https://www.haberturk.com"
+          "name": "Dünya Gazetesi",
+          "url": "https://www.dunya.com"
         },
         {
           "name": "Sabah Ekonomi",
