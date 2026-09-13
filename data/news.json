@@ -1,18 +1,16 @@
 {
-  "generatedAt": "2026-09-13T15:32:41.094Z",
+  "generatedAt": "2026-09-13T18:30:44.675Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
-        "[gCaptain] Iraq Under Pressure After Drone Strikes Close Key Saudi Pipeline — By Khalid Al-Ansary and Devika Krishna Kumar Sep 12, 2026 (Bloomberg) –Iraq is moving to contain the fallout from attacks that caused the closure of Saudi Arabia’s East-West pipeline, after the...",
-        "[Container News] Explainer: Washington’s fastest path to fleet capacity runs through Korea — Acting Secretary’s of the Navy visit is the latest data point in a policy convergence that has been building for eighteen months, and it points toward the most significant foreign role in US naval shi",
-        "[gCaptain] Crew Of Vessel Attacked In Hormuz Strait Evacuated — CAIRO, Sept 13 (Reuters) – A vessel has been struck by an unknown projectile while transiting the Strait of Hormuz, the United Kingdom Maritime ?Trade Operations said early on Sunday. The crew were...",
-        "[gCaptain] US Limits Air Defense Time Slots For Tankers Sailing Through Hormuz — Sept 12 (Reuters) – The U.S. has asked tankers traveling through the Strait of Hormuz to sail only at specific times to guarantee military protection after Iran stepped up attacks on ships...",
-        "[Container News] MSC restructures three intra-Australasia services — MSC is restructuring its intra-Australasia network by separating the existing Noumea Express into two services and revising its Southern Loop, according to Alphaliner. The current Noumea Express conne",
-        "[Container News] Port of Klaipėda deploys smart buoy to improve navigation safety — The Port of Klaipėda has deployed a new smart buoy in the Baltic Sea to improve navigation safety and vessel traffic management. The buoy is located four nautical miles from the port entrance. It coll",
-        "[FreightWaves] Borderlands Mexico: Exports of Mexican-made heavy-duty trucks to US roar back — This week in Borderlands Mexico: Exports of Mexican-made heavy-duty trucks to US roar back and Nexio secures 77-acre Texas campus for commercial truck production. The post Borderlands Mexico: Exports ",
-        "[Container News] Gemini Cooperation merges A04 relay into A14 service — The Gemini Cooperation partners, Hapag-Lloyd and Maersk, have folded their China–South Korea A04 relay service into the China–Korea–Malacca A14 service. The revised A14 rotation will cover: Xingang – ",
-        "[Container News] Kongsberg Maritime to supply Kamewa waterjets for Australia’s fleet — Kongsberg Maritime has entered into an agreement with Austal Defence Shipbuilding Australia to supply Kamewa Steel Series waterjets for the Australian Army’s new Landing Craft Medium fleet. The progra"
+        "Rusya, 12 Eylül 2026’da Ukrayna’nın liman kenti Odesa ve çevresine büyük bir hava saldırısı düzenledi. Saldırı, Karadeniz’deki gemi trafiğini kesintiye uğratan bir dizi saldırıdan sonra geldi. Bu operasyon, bölgedeki lojistik akışının yeniden tehlikeye girdiğini gösteriyor.",
+        "Irak, Suudi Arabistan’ın Doğu‑Batı boru hattının kapanmasına yol açan drone saldırıları sonrasında sorumluluğu azaltmak için önlemler aldı. Saldırıların etkisini sınırlamak amacıyla bölgesel işbirliği ve tedarik zinciri çözümleri üzerinde çalışılıyor. Halkın enerji güvenliği üzerindeki etkileri inceleniyor.",
+        "Hormuz Boğazı’nda bir gemi bilinmeyen bir mermiyle vuruldu ve mürettebat tahliye edildi. Aynı dönemde, Birleşik Krallık Deniz Ticaret Operasyonları, mürettebatın güvenliğini sağladı. Amerika Birleşik Devletleri ise, İran’ın gemi saldırılarını artırmasından sonra tankerlerin yalnızca belirli zaman dilimlerinde geçişini talep etti.",
+        "Çin Birleşik Hatları (CU Lines), 2026 Ekim ayında Straits–Bengal–Straits (SBS) hizmetine katılacak. Operasyon, Transworld Group’ün Singapur merkezli Straits Orient Lines ve BLPL tarafından yürütülüyor. CU Lines, hizmet kodu SBS altında bağlantıyı pazarlayacak ve Malezya ile Kuzeydoğu Hindistan arasında rota sağlayacak.",
+        "MSC, intra-Australasia ağını yeniden yapılandırdı. Noumea Express’i iki ayrı servise ayırarak, mevcut rotayı Sydney – Brisbane – Noumea – Lautoka – Suva – Tauranga – Sydney’den farklı bir yapıya taşıdı. Southern Loop da revize edildi.",
+        "Hapag‑Lloyd, ZIM’yi satın alma girişiminde yenilikçi teklifler sundu. EU CBEC E‑ticaret Forumu ve konteyner ticaretinin dayanıklılığı üzerine çalışmalar, küresel gümrük akışının devam ettiğini gösterdi. Bu gelişmeler, tarifelerde dışsal faktörlerin etkisini göz önüne alarak fiyatlama stratejilerini şekillendiriyor.",
+        "Washington, ABD Donanması'nın hızlı donanma kapasitesi için Kore aracılığıyla önemli bir yol haritası belirledi. 18 ay süren politika birleşmesi, ABD donanma sanayisinde en büyük yabancı rolü vurguluyor. Bu strateji, kriz durumunda donanma üretimini hızlandırmayı hedefliyor."
       ],
       "sources": [
         {
@@ -24,6 +22,10 @@
           "url": "https://container-news.com"
         },
         {
+          "name": "The Loadstar",
+          "url": "https://theloadstar.com"
+        },
+        {
           "name": "FreightWaves",
           "url": "https://www.freightwaves.com"
         }
@@ -32,11 +34,15 @@
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "Pegasus Hava Yolları, Çekya havayolu şirketi Smartwings'i satın alarak Avrupa pazarındaki varlığını güçlendirdi. Çekya Rekabet Kurumu (UOHS) bu devri onayladı. Aynı zamanda İstanbul Havalimanı, 4. ana pistini 18 Eylül’de hizmete açarak toplam pist sayısını 6’ya çıkarmayı planlıyor. Yeni Doğu-Batı yönlü pist, iç hat ve Doğu uçuşlarında taksi ve havada kalış sürelerini azaltacak.",
-        "Tanker taşımacılığı, jeopolitik gerilimler nedeniyle navlun fiyatlarının artmasıyla 2024 yılının başından itibaren %3.600’lik bir değer kazandı. BWET hissesinin bu performansı, sektörün kısa vadede navlun fiyatlarındaki baskıyı ortadan kaldırma ihtimali olmadığını gösteriyor. Aynı dönemde Adalet Bakanı Akın Gürlek, Brezilya’dan Mersin’e gelen bir gemide 350 kilogramlık kokain ele geçirildiğini duyurdu. Operasyonda 9 şüpheli yakalandı.",
-        "İzmir Büyükşehir Belediyesi, 14 Eylül 2026’da başlamak üzere toplu taşıma kış düzenini uygulayacak ve otobüs, metro ve tramvay hatlarında sefer sıklığını artıracak. Bu karar, yeni eğitim öğretim yılının başlamasından dolayı toplu taşıma talebinin artacağını öngörüyor. Aynı zamanda İzmir Otobüsçüler ve Umum Servis Araçları İşletmecileri Odası Başkanı Hasan Basri Bostancı, 13 Ağustos’ta yapılan %20 tarife artışının ardından öğrenci servis ücretlerine %30 zam talebinde bulundu.",
-        "Mercedes-Benz Türk, 2025 yılında TÜRKPATENT tarafından tescil edilen 105 patentle Türkiye Ar-Ge 500 Araştırması’nda tüm sektörler arasında ilk sırada yer aldı. Şirket, son 10 yılda 884 patent başvurusu yaparak 427 patent tescili elde etti. Bu yenilikçi performansın yanı sıra Metro Turizm Konya İşletmecisi Yılmaz Koyuncu, Hasmer Otomotiv’den teslim aldığı yeni Mercedes-Benz Tourismo’yu Konya filosuna kattı.",
-        "TOBB Genel Sekreter Yardımcısı Cengiz Delibaş, IRU TIR ve Transit Direktörü Tatiana REY-BELLET ile TIR sistemi ve iş birliği konularını ele almak için buluştu. Toplantı, Türkiye’deki kara taşımacılığının verimliliğini artırmak amacıyla stratejik bir adım olarak değerlendiriliyor. Bu tür iş birliği, lojistik sektöründe standardizasyon ve iş süreçlerinin iyileştirilmesini hedefliyor."
+        "[LojiPort] Pegasus, Çekya havayolları şirketi Smartwings'i satın aldı — Çekya Rekabet Kurumu (UOHS), Pegasus Hava Yolları'nın Çek hava yolu şirketi Smartwings'i satın almasına izin verdi. Karar, Türk şirketinin Avrupa pazarındaki etkinliğini artırma hedefine kapı aralıyor",
+        "[Dünya Gazetesi] Ne altın ne yapay zeka: Wall Street'in sürpriz şampiyonu yüzde 3.600 kazandırdı — Yapay zeka hisseleri, altın ve petrol derken yılın en yüksek getiri sürprizi tanker taşımacılığından geldi. Hürmüz ve Kızıldeniz'deki jeopolitik gerilimle tanker navlunları hızla yükselirken, sektörü ",
+        "[Dünya Gazetesi] Dalgıçlı kokain planına operasyon: 9 kişi yakalandı — Adalet Bakanı Akın Gürlek, Brezilya’dan Mersin’e gelen bir gemiye operasyon düzenlendiğini, gemide su altındaki bir bölüme gizlenmiş 350 kilogramlık kokain ele geçirildiğini duyurdu. Operasyonda 9 şüp",
+        "[Taşıma Dünyası Gazetesi] Toplu ulaşımda kış dönemi başlıyor — İzmir Büyükşehir Belediyesi toplu ulaşımda 14 Eylül 2026 Pazartesi günü itibariyle kış düzenini başlatıyor. Yeni eğitim öğretim yılının başlayacak olması nedeniyle otobüs, metro ve tramvay hatlarında ",
+        "[Taşıma Dünyası Gazetesi] Metro Prime logolu ilk Mercedes-Benz Tourismo Konya’ya teslim edildi — Metro Turizm Konya İşletmecisi Yılmaz Koyuncu, Hasmer Otomotiv’den teslim aldığı yeni Mercedes-Benz Tourismo’yu filosuna kattı.",
+        "[Taşıma Dünyası Gazetesi] İzmir’de öğrenci servislerine yüzde 30 zam talebi — İzmir Otobüsçüler ve Umum Servis Araçları İşletmecileri Odası Başkanı Hasan Basri Bostancı, 13 Ağustos’ta yapılan yüzde 20’lik tarife artışının ardından artan maliyetleri gerekçe göstererek öğrenci se",
+        "[Taşıma Dünyası Gazetesi] Mercedes-Benz Türk Patent Tescilinde Türkiye Lideri — Otomotiv sektöründe patent tescilinde üst üste dört yıldır liderliğini sürdüren Mercedes-Benz Türk, 2025 yılı TÜRKPATENT tarafından tescil edilen 105 patentiyle Türkiye Ar-Ge 500 Araştırması’nda tüm s",
+        "[Taşıma Dünyası Gazetesi] IRU ile TOBB arasında TIR sistemi ve iş birliği konuları ele alındı — TOBB Genel Sekreter Yardımcısı Cengiz Delibaş, IRU TIR ve Transit Direktörü Tatiana REY-BELLET ile TOBB’da bir araya geldi.",
+        "[Taşıma Dünyası Gazetesi] Toyota’nın hidrojen teknolojisi Scania kamyonlarında test edilecek — Toyota, hidrojen yakıt hücresi teknolojisinin kullanım alanlarını genişletmeye öncülük etmeyi sürdürüyor. Bu hedef doğrultusunda Toyota, bu teknolojinin ağır ticari taşımacılıktaki potansiyelini gerçe"
       ],
       "sources": [
         {
@@ -56,27 +62,37 @@
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "Berkshire Hathaway, 359 milyar dolarlık portföyünün yaklaşık %14'ünü, son beş yılda iki katına çıkmış bir hissenin üzerine yatırdı. Bu yatırım, şirketin portföy dağılımında önemli bir ağırlık oluşturuyor ve büyüme performansı ile dikkat çekiyor.",
-        "2027 yılında emekli olmayı düşünen bireyler için üç temel finansal adım öneriliyor: borç azaltımı, yatırım çeşitlendirmesi ve emeklilik planlarının optimize edilmesi. Aynı dönemde Trump, Federal Reserve'dan faiz indirimine çağrıda bulunurken, piyasalarda Warsh'in faiz artıracağı beklentisi hakim.",
-        "Jim Cramer, büyük teknoloji hisselerinin 3–5 yıl içinde iki katına çıkabileceğini öne sürüyor. Ek olarak, 2028 yılına kadar Micron ve Broadcom ile birlikte $1 trilyonluk değere ulaşacak iki AI yarıiletken hissesinin tahmini yapılmış.",
-        "Goldman Sachs, 2035 yılına kadar 6,5 milyon humanoid robotun yaygınlaşacağını tahmin ediyor. Bu tahmin, robotik teknolojilerin üretim ve hizmet sektörlerinde yaygınlaşma hızını yansıtıyor.",
-        "OpenAI'nin 2026'da halka arz edilmesinin 'uygun olmadığını' söyleyen Sam Altman, şirketin henüz tam ölçekli bir halka arz için hazır olmadığını vurguladı. Bu açıklama, yapay zeka şirketlerinin piyasa zamanlaması konusundaki belirsizliklerini gözler önüne seriyor.",
-        "HSBC, Hormon Vasıta Planı'nın sorunları nedeniyle petrol tahminlerini yükseltti. Şirket, artan arz belirsizliğinin enerji piyasalarını daha da etkileyebileceğini belirtti.",
-        "UPS, Amazon'a gönderilen hacimlerini kasıtlı olarak düşürdü ve margin verileri bu stratejinin etkili olduğunu gösterdi. Bu adım, taşımacılık şirketlerinin müşteri ilişkilerini yeniden yapılandırma çabalarına ışık tutuyor."
+        "Anthropic, OpenAI ve SpaceX’in CEO’ları, yapay zekâ hızının yavaşlatılması gerektiğini belirtti; bu açıklamalar, Fed toplantısına öncekine göre Dow Jones vadeli işlemlerini etkiledi.",
+        "Goldman Sachs’ın raporuna göre, yapay zekâ S&P 500’ün kârının %50’sini oluşturuyor; aynı rapor, bu ilişkinin çift taraflı etkilerinin de var olduğunu vurguluyor.",
+        "Intuit, QuickBooks ve TurboTax ürünleriyle yeni müşteri kazanımını artırmayı ve yapay zekâ tabanlı büyümeyi hedefliyor; bu strateji şirketin büyüme planlarının merkezinde yer alıyor.",
+        "McDonald's, 3%’lik yıllık temettü getirisiyle altı yıldır en yüksek seviyesine ulaştı; bu durum Dow’daki temettü odaklı hisselerin değer tuzağı mı yoksa düşük maliyetli fırsat mı olduğu sorusunu gündeme getiriyor.",
+        "Barclays, Oracle için belirlediği hisse fiyat hedefini yeniden gözden geçirdi; yeni hedef, şirketin piyasa beklentilerine uyum sağlamak amacıyla belirlenmiş.",
+        "J.P. Morgan, moda ve beton sektörlerinden iki şirketi yatırımcılara tavsiye etti; önerilen hisseler, farklı sektörlerde büyüme potansiyeli sunuyor.",
+        "Trump, ABD’nin İrlanda viskisi üzerindeki gümrük tarifelerini kaldırma kararı aldı; bu adım, İrlanda viski ihracatını destekleyerek ticari ilişkileri güçlendirmeyi hedefliyor."
       ],
       "sources": [
         {
           "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com"
+          "url": "https://www.investors.com"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://www.investing.com"
         }
       ]
     },
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "Tankering sektöründe şaşırtıcı bir performans yaşandı; BWET, yılbaşından bu yana yaklaşık yüzde 3.600 değer kazandı. Hürmüz ve Kızıldeniz'deki jeopolitik gerilim, tanker navlun fiyatlarını hızla yükseltti. Gemi kıtlığı nedeniyle navlun fiyatlarındaki baskının kısa sürede ortadan kalkması beklenmiyor.",
-        "İran Cumhurbaşkanı Mesud Pezeşkiyan, BRICS'in yerel paralarla ticareti geliştirerek üyeleri için ekonomik dayanıklılık oluşturması gerektiğini söyledi. Sınırlı ticari sistemlere aşırı bağımlılığın ülke ekonomilerini ani siyasi gelişmeler karşısında kırılgan hale getirdiğini belirtti.",
-        "Çin, ABD ile yapay zeka rekabetini yeni bir aşamaya taşıyarak BRICS ülkelerini açık kaynaklı modeller etrafında bir araya getirmeye hazırlanıyor. Pekin'in hamlesi teknoloji yarışında değil, yapay zekanın küresel kurallarını kimin şekillendireceği mücadelesinde yeni bir cephe açıyor."
+        "[Dünya Gazetesi] Ali Türkkan'dan tarihi JWRC şampiyonluğu — Ali Türkkan, 2026 Dünya Gençler Ralli Şampiyonası'nı (JWRC) kazanarak Türk otomobil sporları tarihinde bunu başaran ilk sürücü ünvanını aldı.",
+        "[Dünya Gazetesi] Kozinoğlu soruşturmasında \"Kurtlar Vadisi\" senaristleri ifadeye çağrıldı — Eski Milli İstihbarat Teşkilatı (MİT) görevlisi Kaşif Kozinoğlu'nun cezaevinde ölümüne ilişkin yeniden başlatılan soruşturma kapsamında, Kurtlar Vadisi dizisinin senaristleri \"bilgi sahibi\" sıfatıyla ",
+        "[Dünya Gazetesi] Kuzey Marmara Otoyolu'nda otobüs kazası: 2 ölü, 8 yaralı — Kuzey Marmara Otoyolu Eyüpsultan mevkisinde bariyerlere çarparak yanan yolcu otobüsündeki 2 kişi hayatını kaybetti, 1'i ağır 8 kişi yaralandı.",
+        "[Dünya Gazetesi] Öğretmenlerin yer değiştirme tercih ve atama tarihleri belli oldu — Milli Eğitim Bakanı Yusuf Tekin, öğretmenlerin yer değiştirme tercihlerinin 23-24 Eylül tarihlerinde alınacağını, atama işlemlerinin ise 25 Eylül'de gerçekleştirileceğini bildirdi.",
+        "[Dünya Gazetesi] Bakan Fidan, Suriye Cumhurbaşkanı Şara tarafından kabul edildi — Dışişleri Bakanı Hakan Fidan, Suriye Cumhurbaşkanı Ahmed Şara tarafından Şam'da kabul edildi.",
+        "[Habertürk Ekonomi] Pusula ve Katılımevim’de yönetim Tera'ya geçti — Pusula Finans Holding ve bağlı ortaklıklarının Tera Grubu’na devrinde anlaşmaya varıldı. Kapsamda Pusula Finans Holding ile İktisat Katılım Bankası, Katılımevim, Birevim Tasarruf Finansman da yer alıy",
+        "[Dünya Gazetesi] Galatasaray-Kocaelispor maçının ilk 11'leri belli oldu — Trendyol Süper Lig'in 5. haftasında Galatasaray, sahasında Kocaelispor'u konuk ediyor. Karşılaşma öncesinde iki takımın da ilk 11'leri belli oldu.",
+        "[Dünya Gazetesi] Trump'tan İran mesajı: Anlaşma yapmaya çok istekliler — ABD Başkanı Donald Trump, İran'ın anlaşma yapmak için \"çok istekli\" olduğunu öne sürerek, İran'la savaşın kasım ayında düzenlenecek ara seçimlerden önce sona erebileceğini, ancak seçimlerden sonra kes",
+        "[Dünya Gazetesi] İsrail basını yazdı: Erdoğan Türkiye'yi güçlendirdi — İsrail basını, Cumhurbaşkanı Recep Tayyip Erdoğan'ın son bir yılda Türkiye'yi Orta Doğu'da görmezden gelmesi güç bir aktör ve İsrail karşısında daha fazla nüfuz sahibi bir rakibe dönüştürdüğünü yazdı."
       ],
       "sources": [
         {
@@ -84,8 +100,8 @@
           "url": "https://www.dunya.com"
         },
         {
-          "name": "Sabah Ekonomi",
-          "url": "https://www.sabah.com.tr"
+          "name": "Habertürk Ekonomi",
+          "url": "https://www.haberturk.com"
         }
       ]
     }
