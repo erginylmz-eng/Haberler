@@ -1,70 +1,66 @@
 {
-  "generatedAt": "2026-09-14T09:31:27.146Z",
+  "generatedAt": "2026-09-14T17:34:31.873Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
-        "Transworld Shipping Lines, Mumbai’de listelenen bir şirket, 2011 yapımı TBC Kailash adlı 35.152 dwt kapasiteli kuru yük gemisini Mandarine Ocean’a 9,25 milyon dolar karşılığında satmayı onayladı. Bu satış, şirketin filo yeniden yapılandırma stratejisi içinde bir adım olarak değerlendiriliyor, kalan iki kuru yük gemisi ise mevcut portföyde kalacak.",
-        "Finlandalı ESL Shipping, İsveç’in Boden şehrinde faaliyet gösteren yeni Stegra Green Steel Projesi için uzun vadeli bir taşıma anlaşması imzaladı. Anlaşma, ham maddelerin ve bitmiş çelik ürünlerinin taşınmasını kapsarken, göçmenliğin üzerine eklenmiş bir deniz hattı sayesinde Stegra’nın lojistik ağını tamamlıyor. Proje, entegre yeşil hidrojen üretimi ve çevreci çelik üretimi üzerine kurulu.",
-        "Hapag-Lloyd ve Maersk, güvenlik değerlendirmesi sonrasında dört Gemini hizmetini (NE4, SE1, SE2, IEX) Cape of Good Hope rotasından Kızıldeniz ve Süveyş Kanalı rotasına yönlendiriyor. Bu değişiklik, rotanın kısalması ve yolculuk süresinin azaltılması hedefiyle yapıldı. Yeni rotalar, gemilerin daha hızlı ve maliyet‑verimli bir şekilde seyahat etmesini sağlayacak.",
-        "ABS, Güney Kore’nin üç denizcilik örgütü (KOMERI, KOSHIPA, RIMS) ile beş yıllık bir anlaşma imzalayarak akıllı gemiler, gelişmiş gemi yapım atölyeleri ve gelecek teknolojileri için uluslararası standartların geliştirilmesine katkıda bulunacak. Bu girişim, smart ship konseptini küresel ölçekte standardize etmeyi amaçlıyor.",
-        "Orta Doğu’da denizcilik sektörü, Hormuz bölgesindeki yeni gemi saldırıları, Saudi Arabiya’nın kritik Doğu‑Batı petrol boru hattının kapanması ve Houthi hareketinin Bab el-Mandeb Koyu’nda ilerlemesiyle büyük bir yeniden düzenlemeye sahne oldu. Panama bayrağını taşıyan 47.999 dwt ürün tanker El Gaia’nın Oman kıyısı yakınlarında vurulması, bölgede gemi trafiğinin yeniden şekillenmesine yol açtı.",
-        "Rusya, Ukrayna’nın artan drone saldırılarına karşı savunma stratejisi olarak Novoshakhtinsk rafinerisinde gemi konteynerleri yığarak tanklar ve ekipmanlar etrafında duvarlar oluşturdu. Bu görsel olarak gösterilen önlem, enerji sisteminin kritik tesislerine yönelik düşman hava saldırılarına karşı geçici bir bariyer sağlamayı amaçlıyor."
+        "New Pacific, Vancouver’daki tarihi sahil tesisinde iki tugboat inşa ederek ilk gemi üretim programını başlattı. Aynı dönemde, ABS, Güney Kore’deki üç denizcilik kuruluşu ile akıllı gemi ve gemi halı işletme standartlarını geliştirmek amacıyla bir anbirleşme memorandumunu imzaladı. Ayrıca ABB, Ferrari Hypersail ile birlikte doğrudan akım (DC) teknolojisini offshore projelerde kullanmak için bir iş ortaklığı kurdu.",
+        "Cass verilerine göre, Ağustos ayında kamyon yükleme linehaul ücretleri önceki yıla göre %11 yükseldi ve 42 ay süren düşüş trendi tersine döndü. FreightWaves raporuna göre, Long Beach Limanı bu yılın en yoğun beşinci ayında neredeyse 1 milyon TEU taşıma hacmi kaydetti. İthalat ve ihracat hacimlerinin artması, ABD konteyner giriş çıkışlarının hızlandığını gösteriyor.",
+        "Northern Air Cargo, karışık bir yılın ardından operasyonel küçültme sürecini tamamladı ve kalıcı CEO'yu atanarak yönetim yapısını istikrara kavuşturdu. Yeni yönetim, şirketin kargo taşımacılığı stratejisini yeniden şekillendirmeyi planlıyor. Bu adım, sektörün rekabetçi ortamında sürdürülebilir büyüme hedeflerine uygun olarak atıldı.",
+        "Hücre bölgesinde son saldırılar, Yemen'in Houthi hareketiyle Saudiya Arapistanı'na yönelik yeni bir saldırı ve Ortadoğu’daki petrol hatlarının zarar görmesiyle birleşti. Güllü Devletler, İran ile planlanan görüşmeleri iptal ederken, Houthis’in saldırıları bölgesel enerji arz güvenliğini tehdit etmeye devam ediyor. Bu gelişmeler, deniz taşımacılığı rotalarının güvenliğini ve petrol lojistiğini olumsuz etkileyerek küresel piyasalarda belirsizlik yaratıyor.",
+        "Rhenus Project Logistics, Çin’den Kanada’ya 400 tonun üzerinde transformatör ekipmanı taşıma operasyonunu tamamladı. Operasyon, 80 ton ağırlığındaki iki aşırı genişlikli transformatörün taşınmasını içerdi ve deniz, demiryolu ve kara taşımacılığı kombinasyonu kullanıldı. Bu taşıma, büyük ölçekli bir endüstriyel proje için kritik altyapı malzemesinin zamanında teslim edilmesini sağladı."
       ],
       "sources": [
         {
-          "name": "Splash247",
-          "url": "https://splash247.com"
+          "name": "gCaptain",
+          "url": "https://gcaptain.com"
+        },
+        {
+          "name": "FreightWaves",
+          "url": "https://www.freightwaves.com"
         },
         {
           "name": "Container News",
           "url": "https://container-news.com"
-        },
-        {
-          "name": "Supply Chain Dive",
-          "url": "https://www.supplychaindive.com"
         }
       ]
     },
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "SANY, Çinli iş makinesi devi, Ankara'da Türkiye Finans Müştereklikleri (FMT) ortaklığıyla elektrikli ağır ticari araç üretimine başladı. 500 milyon dolarlık yatırımla 636 kWsa bataryalı tırlar üretilmekte ve Türkiye dışına ihraç edilmeye hazır.",
-        "Pegasus Hava Yolları, Çekya Rekabet Kurumu’nun onayı ile Çek havayolu şirketi Smartwings’i satın alarak Avrupa pazarındaki varlığını genişletmeye hazırlanıyor. Bu adım, Türk havacılığının uluslararası rekabet gücünü artıracak.",
-        "Toyota, hidrojen yakıt hücresi teknolojisini ağır ticari taşımacılıkta denemek amacıyla Scania ile iş birliği yaparak bu alandaki potansiyeli gerçek koşullarda test edecek.",
-        "Metro Prime logolu yeni Mercedes‑Benz Tourismo, Konya’da Hasmer Otomotiv’den teslim alarak Metro Turizm’in filosuna katıldı.",
-        "İzmir Büyükşehir Belediyesi, 14 Eylül 2026’dan itibaren kış döneminde toplu taşımada otobüs, metro ve tramvay hatlarında sefer sıklıklarını artıracak. Aynı zamanda öğrenci servislerinde 13 Ağustos'ta gerçekleşen %20’lik tarifeye ek olarak %30 zam talep edildi.",
-        "TOBB Genel Sekreter Yardımcısı Cengiz Delibaş, IRU TIR ve Transit Direktörü Tatiana Rey‑Belllet ile TOBB’da bir araya gelerek TIR sistemi ve iş birliği konularını ele aldı.",
-        "Mercedes‑Benz Türk, 2025 TÜRKPATENT tesciliyle 105 yeni patentle Türkiye Ar‑Ge 500 Araştırması’nda tüm sektörler arasında ilk sırada yer aldı. Son 10 yılda 884 patent başvurusu ve 427 patent tesciliyle Ar‑Ge ve inovasyon performansını sürdürdü.",
-        "Av yasağı sona ermesiyle palamut bolluğu denizde artarken, balıkçılar bu artışı kazançlarına yansıtmadığını belirtti. Üretici ile tezgah arasındaki makas farkı nedeniyle balıkçılar, piyasanın dengelenmesi için geçici avcılık ara verilmesini talep etti."
+        "ZF, IAA Transportation 2026’da sıfır emisyonlu, sıfır kazalı ve yazılım tanımlı ticari araçlara geçişte müşterilerine farklı dönüşüm yolları boyunca nasıl destek sunduğunu sergiliyor. Marka, 2026 yılında 5 milyar Euro’nun üzerinde iş hacmi yarattı.",
+        "Volvo Trucks, IAA 2026 fuarında 700 kilometreye kadar uzatılmış menzilli yeni FH Aero Electric ve daha yüksek yakıt verimliliği sağlayan D13 motorlu ürünlerini tanıttı. Fuarda 8 araç sergilendi ve 7 araç test sürüşüne sunuldu.",
+        "Scania, IAA Transportation Fuarı’nda 1.700 m²'lik standında iki yeni Dynamic modelini, SUPER A4x2NB 430 R ve BEV A6x2NB 44 R, ve geniş ürün gamını sergiledi. Açık alan 780 m² olan stand, dijital çözümleri ve stratejik lansmanlarıyla dikkat çekti.",
+        "Horoz Lojistik, uluslararası depolama operasyonlarını genişletmek amacıyla Mustafa Düzgün’ü Yurtdışı Depolar Grup Başkanı yaptı. Düzgün, 20 yılı aşkın sektörel deneyimini yeni göreve taşıyor.",
+        "Yeni Caddy ve Yeni Multivan, tasarım, dijitalleşme, konfor ve sürüş destek sistemleri açısından geliştirildi. Modeler yılın son çeyreğinde Türkiye’de satışa sunulması planlanıyor.",
+        "Konak Rıhtımı İşletmesi’nin 36 yıllık özelleştirilmesi için yapılan açık artırma, 4.593 milyar TL başlangıç tutarı ile başlasa da 5 katılımcı çekildi ve teklif çıkmadı. İhale iptal edildi."
       ],
       "sources": [
-        {
-          "name": "Dünya Gazetesi",
-          "url": "https://www.dunya.com"
-        },
         {
           "name": "LojiPort",
           "url": "https://www.lojiport.com"
         },
         {
-          "name": "Taşıma Dünyası Gazetesi",
-          "url": "https://www.tasimadunyasi.com"
+          "name": "Taşımacılar.com",
+          "url": "https://www.tasimacilar.com"
+        },
+        {
+          "name": "Dünya Gazetesi",
+          "url": "https://www.dunya.com"
         }
       ]
     },
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "[Yahoo Finance] Buying Tokenized Gold in the UK Might Get Easier. Here's What the FCA Is Weighing",
-        "[Yahoo Finance] Don't Let Inflation Steal Your Retirement Dreams: Here's How to Fight Back",
-        "[Investing.com] Wall Street’s new pair trade: Long software, short chips",
-        "[Investing.com] Why is Nokia stock sliding today?",
-        "[Investing.com] Earnings call transcript: Greencoat Renewables posts steady H1 2026 results",
-        "[Investing.com] Renalytix changes financial year-end to December 31",
-        "[Investing.com] Focus Graphite secures C$2M credit line to bridge funding gap",
-        "[Yahoo Finance] Is it finally time? Why the Fed may raise rates for first time since 2023.",
-        "[Yahoo Finance] Wall Street Is Obsessed With the Anthropic IPO. Here's the AI Cooling Stock Nobody Is Talking About."
+        "Costco Holdings (COST) için yapılan analiz, 24 Eylül öncesi alım kararını gözden geçirme çağrısı yapıyor. Yazar, şirketin güçlü perakende modeli ve sağlam kar marjları nedeniyle fiyat hedefini yükseltiyor.",
+        "Comcast, Paramount Global ve Skydance Interactive, Avrupa pazarında ortak streaming hizmeti SkyShowtime'i kapatma olasılığını değerlendiriyor. Operasyon maliyetlerinin düşüş eğilimi ve rekabet baskısı, şirketleri hizmetin sürdürülebilirliğini yeniden gözden geçirmeye itiyor.",
+        "Southwest Airlines, yeni sezon öncesi tanıtım kampanyası kapsamında bilet fiyatlarında yüzde 40’a varan indirimler sunuyor. Kampanya, müşteri sadakatini artırma ve uçuş doluluk oranlarını yükseltme hedefi taşıyor.",
+        "ABD Senatosu Cumhuriyetçiler, kripto paralarla ilgili yeni yasa taslağının metnini seçim öncesi kamuoyuyla paylaşıyor. Metinde, dijital varlık regülasyonu ve kara para aklama önlemleri güçlendirilmesi amaçlanıyor.",
+        "BrightSpring Health Services, Jefferies'in düzenlediği bir konferansta büyüme stratejilerini genişlettiğini belirtti. Şirket, sağlık hizmetleri alanındaki dijitalleşme ve ortaklık fırsatlarını vurguladı.",
+        "Kanada merkezli yatırımcı Carney, ABD ticaret savaşının sürmesiyle birlikte küresel yatırım titanslarına Kanada'daki fırsatları tanıttı. Çeşitli sektörlerdeki büyüme potansiyelini öne çıkararak yatırımcı ilgisini çekmeye çalıştı.",
+        "Pantheon Resources, 2. yarım 2026 için beklenen sismik kazançlarla ilgili olumlu beklentilerini açıkladı. Şirketin kazanç tahmini, yeni keşiflerin ve rezerv artışının birleşimiyle destekleniyor.",
+        "Freedom Broker, Copart (COP) için fiyat hedefini marjin baskısı nedeniyle düşürdü. Aynı zamanda Iovance Biotherapeutics'in (IOVA) hisse fiyatı 9,36 USD ile 52 haftalık yüksek seviyeye ulaştı."
       ],
       "sources": [
         {
@@ -80,10 +76,9 @@
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "UNESCO 2026 Dünya Mirası verilerine göre, Türkiye 22 alanla Kanada ile aynı seviyede, İtalya ve Çin'in başa baş gittiği lider 15'e girerek kültürel mirasında önemli bir konuma sahiptir. Bu sonuç, Türkiye'nin kültür ve doğa varlıklarını koruma ve tanıtma çabalarının uluslararası alanda takdir edildiğini gösteriyor. Ülkenin dünya mirası sayısı, geçmiş ve gelecekteki koruma çalışmaları için önemli bir göstergedir.",
-        "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, son on yılda güneş enerjisinin elektrik üretimindeki payının 28 kat artarak yüzde 11,6'ya yükseldiğini ve rüzgarın payının ise yüzde 12,1'e çıktığını açıkladı. Toplam kurulu güç yaklaşık 43 bin megavattı aştı. Yeni yenilenebilir enerji hedefleri, 2026 COP31 zirvesinde belirlenecek.",
-        "AJet, yurt içi uçuşlarda yüzde 30 indirimli bilet satışına başladı. Bu kampanya, ülke içi seyahat talebini artırmayı amaçlamaktadır.",
-        "Tarım ve Orman Bakanı İbrahim Yumaklı, Şırnak Silopi Sera Organize Tarım Bölgesi altyapı çalışmalarının 202 milyon lira bütçeyle tamamlandığını duyurdu. Bölgenin yıllık 1,2 milyar lira ekonomiye katkı sağlayacağı ve 1000 kişiye istihdam kapısı açacağı vurgulandı. Bu proje, bölgesel kalkınma ve tarımsal üretim kapasitesinin artması için önemli bir adımdır."
+        "Trump, İran ile çatışmanın sona ermesiyle petrol fiyatlarının düşeceğini öne sürerek, Avrupa borsalarının haftanın ilk işlem gününde Orta Doğu'da artan jeopolitik gerilimin petrol fiyatlarını yükseltmesi ve bu durumun teknoloji hisselerine satış getirmesiyle İngiltere hariç değer kaybıyla kapandığını, Türkiye’nin Borsa İstanbul’unda BIST 100 endeksinin yüzde 1,60 düşerek 14.235,83 puandan tamamlandığını belirtti.",
+        "Microsoft, yapay zeka güvenliğine ilişkin tartışmaların yoğunlaşmasıyla, gelecekte geliştireceği yapay zeka modellerinin davranışlarına sınırlar getirecek kurallar taslağını yayımladı. Aynı zamanda The Guardian’ın raporuna göre Anthropic CEO’su Dario Amodei’nin OpenAI CEO’su Sam Altman ve Tesla ile SpaceX’in kurucusu Elon Musk’ten destek alarak yapay zekanın mevcut hızda geliştirilmesini yavaşlatma çağrısında bulunduğu ifade ediliyor.",
+        "Türkiye’nin dijital dönüşümünün öncüsü Türk Telekom, COP31’in Master Partner’ı olarak atanarak, Türkiye’nin iklim eylemine güç katıyor ve teknolojiyi sürdürülebilir bir geleceğin en güçlü araçlarından biri olarak konumlandırıyor. Bu ortaklık, Türk Telekom’un dijital altyapısını güçlendirmesi ve yeşil teknolojiye yatırım yapması yönünde stratejik bir hamle olarak görülüyor."
       ],
       "sources": [
         {
@@ -93,10 +88,6 @@
         {
           "name": "Sabah Ekonomi",
           "url": "https://www.sabah.com.tr"
-        },
-        {
-          "name": "Anadolu Ajansı Ekonomi",
-          "url": "https://www.aa.com.tr"
         },
         {
           "name": "Habertürk Ekonomi",
