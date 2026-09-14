@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-14T17:34:31.873Z",
+  "generatedAt": "2026-09-14T22:56:01.729Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
-        "New Pacific, Vancouver’daki tarihi sahil tesisinde iki tugboat inşa ederek ilk gemi üretim programını başlattı. Aynı dönemde, ABS, Güney Kore’deki üç denizcilik kuruluşu ile akıllı gemi ve gemi halı işletme standartlarını geliştirmek amacıyla bir anbirleşme memorandumunu imzaladı. Ayrıca ABB, Ferrari Hypersail ile birlikte doğrudan akım (DC) teknolojisini offshore projelerde kullanmak için bir iş ortaklığı kurdu.",
-        "Cass verilerine göre, Ağustos ayında kamyon yükleme linehaul ücretleri önceki yıla göre %11 yükseldi ve 42 ay süren düşüş trendi tersine döndü. FreightWaves raporuna göre, Long Beach Limanı bu yılın en yoğun beşinci ayında neredeyse 1 milyon TEU taşıma hacmi kaydetti. İthalat ve ihracat hacimlerinin artması, ABD konteyner giriş çıkışlarının hızlandığını gösteriyor.",
-        "Northern Air Cargo, karışık bir yılın ardından operasyonel küçültme sürecini tamamladı ve kalıcı CEO'yu atanarak yönetim yapısını istikrara kavuşturdu. Yeni yönetim, şirketin kargo taşımacılığı stratejisini yeniden şekillendirmeyi planlıyor. Bu adım, sektörün rekabetçi ortamında sürdürülebilir büyüme hedeflerine uygun olarak atıldı.",
-        "Hücre bölgesinde son saldırılar, Yemen'in Houthi hareketiyle Saudiya Arapistanı'na yönelik yeni bir saldırı ve Ortadoğu’daki petrol hatlarının zarar görmesiyle birleşti. Güllü Devletler, İran ile planlanan görüşmeleri iptal ederken, Houthis’in saldırıları bölgesel enerji arz güvenliğini tehdit etmeye devam ediyor. Bu gelişmeler, deniz taşımacılığı rotalarının güvenliğini ve petrol lojistiğini olumsuz etkileyerek küresel piyasalarda belirsizlik yaratıyor.",
-        "Rhenus Project Logistics, Çin’den Kanada’ya 400 tonun üzerinde transformatör ekipmanı taşıma operasyonunu tamamladı. Operasyon, 80 ton ağırlığındaki iki aşırı genişlikli transformatörün taşınmasını içerdi ve deniz, demiryolu ve kara taşımacılığı kombinasyonu kullanıldı. Bu taşıma, büyük ölçekli bir endüstriyel proje için kritik altyapı malzemesinin zamanında teslim edilmesini sağladı."
+        "[FreightWaves] FedEx Freight expands CTO’s role to cover commercial strategy following CCO ouster — Less-than-truckload carrier FedEx Freight named Mike Rodgers as chief commercial and technology officer, following the recent termination of an executive. The post FedEx Freight expands CTO’s role to ",
+        "[Container News] Panama Canal warns of strengthening El Niño threat to water levels — The Panama Canal is closely monitoring a strengthening El Niño event that could affect rainfall and water availability across its watershed. Experts from the Panama Canal, Smithsonian Tropical Researc",
+        "[gCaptain] Port of Los Angeles Caps Record Summer as U.S. Import Strength Holds Up — The Port of Los Angeles capped its strongest three-month cargo stretch on record in August, adding to evidence that Southern California’s container gateway is carrying stronger-than-expected momentum ",
+        "[Journal of Commerce] Hapag-Lloyd expanding Africa terminal operations — The deal with long-time partner DP World is focused on five ports: Dakar (Senegal), Luanda (Angola), Dar es Salaam (Tanzania), Banana (Democratic Republic of Congo) and Maputo (Mozambique).",
+        "[gCaptain] U.S. Rejects Iran’s Mine Claim as Hormuz Shipping Threat Remains Severe — U.S. Central Command is disputing an Iranian claim that a Panama-flagged tanker recently struck a naval mine in the Strait of Hormuz, saying the ship was instead hit by Iranian...",
+        "[Journal of Commerce] NS restores Charleston-Huntsville intermodal service — The reinstated rail service will likely support automakers, their suppliers, and other industrial manufacturing in the Southeast.",
+        "[Container News] MacGregor wins equipment orders for four research vessels — MacGregor has secured orders to supply deck cranes, handling equipment and deck machinery for four new oceanographic research vessels. Two vessels will be built in Spain for Germany’s Federal Maritime",
+        "[Journal of Commerce] Spiking US diesel prices increase surcharges, truck bankruptcy risk — As the US retail diesel price moves above $6 per gallon, shippers face elevated risk of losing needed truck capacity in the fourth quarter, experts warn.",
+        "[Journal of Commerce] Hub Group expects operating loss, stock delisting notice — At a time when surging domestic intermodal demand is delivering sharply higher profits to its largest competitors, Hub Group expects to report an as-yet-undetermined first-half operating loss."
       ],
       "sources": [
-        {
-          "name": "gCaptain",
-          "url": "https://gcaptain.com"
-        },
         {
           "name": "FreightWaves",
           "url": "https://www.freightwaves.com"
@@ -22,20 +22,31 @@
         {
           "name": "Container News",
           "url": "https://container-news.com"
+        },
+        {
+          "name": "gCaptain",
+          "url": "https://gcaptain.com"
+        },
+        {
+          "name": "Journal of Commerce",
+          "url": "https://joc.com"
         }
       ]
     },
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "ZF, IAA Transportation 2026’da sıfır emisyonlu, sıfır kazalı ve yazılım tanımlı ticari araçlara geçişte müşterilerine farklı dönüşüm yolları boyunca nasıl destek sunduğunu sergiliyor. Marka, 2026 yılında 5 milyar Euro’nun üzerinde iş hacmi yarattı.",
-        "Volvo Trucks, IAA 2026 fuarında 700 kilometreye kadar uzatılmış menzilli yeni FH Aero Electric ve daha yüksek yakıt verimliliği sağlayan D13 motorlu ürünlerini tanıttı. Fuarda 8 araç sergilendi ve 7 araç test sürüşüne sunuldu.",
-        "Scania, IAA Transportation Fuarı’nda 1.700 m²'lik standında iki yeni Dynamic modelini, SUPER A4x2NB 430 R ve BEV A6x2NB 44 R, ve geniş ürün gamını sergiledi. Açık alan 780 m² olan stand, dijital çözümleri ve stratejik lansmanlarıyla dikkat çekti.",
-        "Horoz Lojistik, uluslararası depolama operasyonlarını genişletmek amacıyla Mustafa Düzgün’ü Yurtdışı Depolar Grup Başkanı yaptı. Düzgün, 20 yılı aşkın sektörel deneyimini yeni göreve taşıyor.",
-        "Yeni Caddy ve Yeni Multivan, tasarım, dijitalleşme, konfor ve sürüş destek sistemleri açısından geliştirildi. Modeler yılın son çeyreğinde Türkiye’de satışa sunulması planlanıyor.",
-        "Konak Rıhtımı İşletmesi’nin 36 yıllık özelleştirilmesi için yapılan açık artırma, 4.593 milyar TL başlangıç tutarı ile başlasa da 5 katılımcı çekildi ve teklif çıkmadı. İhale iptal edildi."
+        "Rusya ile Türkiye arasında deniz ticaretinin güvenliğini sağlamak amacıyla 2025 yılında Rusya’ya 6,7 milyar dolarlık ihracatın sürdürülebilmesi için Karadeniz’de güvenli bir deniz yolu oluşturulması talebi, Dünya Gazetesi tarafından bildirildi.",
+        "İklim değişikliği nedeniyle Hint ve Pasifik okyanusları arasındaki 400 yıllık iklimsel senkronizasyonun bozulduğu ve bu durumun tarım, lojistik ve gıda zincirlerini milyarlarca dolarlık tehdit altında tuttuğu araştırması Nature Communications’ta yayımlandı.",
+        "IAA Transportation 2026 fuarında ZF, 5 milyar Euro’nun üzerinde bir iş hacmi yarattığını ve sıfır emisyonlu, sıfır kazalı ticari araçlara geçişte müşterilerine destek sunduğunu; Volvo Trucks ise 700 kilometre menzilli FH Aero Electric ve yeni D13 motorlu modelleri sergilediğini, Scania ise 1.700 m²’lik standında SUPER A4x2NB 430 R ve BEV A6x2NB 44 R olmak üzere iki yeni Dynamic modelini tanıttığını rapor ettiler.",
+        "LojiPort haberine göre, yeni Caddy ve yeni Multivan modelleri tasarım, dijitalleşme, konfor ve sürüş destek sistemleri açısından geliştirildiği ve yılın son çeyreğinde Türkiye’de satışa sunulması planlandığı belirtildi.",
+        "Silivri Cumhuriyet Başsavcılığı, Silivri açıklarında “Alsu” gemisiyle çarpıştıktan sonra batan “Tuğberk İmamoğlu” gemisindeki 10 kişilik kayıp mürettebatın arama ve kurtarma çalışmalarında bir cansız erkek bedenine ulaşıldığını duyurdu."
       ],
       "sources": [
+        {
+          "name": "Dünya Gazetesi",
+          "url": "https://www.dunya.com"
+        },
         {
           "name": "LojiPort",
           "url": "https://www.lojiport.com"
@@ -43,30 +54,21 @@
         {
           "name": "Taşımacılar.com",
           "url": "https://www.tasimacilar.com"
-        },
-        {
-          "name": "Dünya Gazetesi",
-          "url": "https://www.dunya.com"
         }
       ]
     },
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "Costco Holdings (COST) için yapılan analiz, 24 Eylül öncesi alım kararını gözden geçirme çağrısı yapıyor. Yazar, şirketin güçlü perakende modeli ve sağlam kar marjları nedeniyle fiyat hedefini yükseltiyor.",
-        "Comcast, Paramount Global ve Skydance Interactive, Avrupa pazarında ortak streaming hizmeti SkyShowtime'i kapatma olasılığını değerlendiriyor. Operasyon maliyetlerinin düşüş eğilimi ve rekabet baskısı, şirketleri hizmetin sürdürülebilirliğini yeniden gözden geçirmeye itiyor.",
-        "Southwest Airlines, yeni sezon öncesi tanıtım kampanyası kapsamında bilet fiyatlarında yüzde 40’a varan indirimler sunuyor. Kampanya, müşteri sadakatini artırma ve uçuş doluluk oranlarını yükseltme hedefi taşıyor.",
-        "ABD Senatosu Cumhuriyetçiler, kripto paralarla ilgili yeni yasa taslağının metnini seçim öncesi kamuoyuyla paylaşıyor. Metinde, dijital varlık regülasyonu ve kara para aklama önlemleri güçlendirilmesi amaçlanıyor.",
-        "BrightSpring Health Services, Jefferies'in düzenlediği bir konferansta büyüme stratejilerini genişlettiğini belirtti. Şirket, sağlık hizmetleri alanındaki dijitalleşme ve ortaklık fırsatlarını vurguladı.",
-        "Kanada merkezli yatırımcı Carney, ABD ticaret savaşının sürmesiyle birlikte küresel yatırım titanslarına Kanada'daki fırsatları tanıttı. Çeşitli sektörlerdeki büyüme potansiyelini öne çıkararak yatırımcı ilgisini çekmeye çalıştı.",
-        "Pantheon Resources, 2. yarım 2026 için beklenen sismik kazançlarla ilgili olumlu beklentilerini açıkladı. Şirketin kazanç tahmini, yeni keşiflerin ve rezerv artışının birleşimiyle destekleniyor.",
-        "Freedom Broker, Copart (COP) için fiyat hedefini marjin baskısı nedeniyle düşürdü. Aynı zamanda Iovance Biotherapeutics'in (IOVA) hisse fiyatı 9,36 USD ile 52 haftalık yüksek seviyeye ulaştı."
+        "ABD İçişleri Bakanı Burgum, hükümetin derin deniz madenciliği izinlerini aylar içinde vermeyi hedeflediğini belirledi. Bu hamle, teknoloji üretiminde kritik öneme sahip kobalt, nikel ve nadir toprak elementleri gibi deniz tabanındaki değerli minerallere erişimi genişletme amacı taşıyor.",
+        "Trump'ın posta yoluyla oylama kısıtlamaları, ikinci bir federal hakim tarafından yeniden engellendi. Mahkeme kararları, yönetimin seçmen erişimini daraltma çabalarının yasal sürecinde devam eden denetim ve tartışmaları öne çıkarıyor.",
+        "Ulusal Ulaştırma Güvenliği Komisyonu (NTSB), Federal Hava İdaresi'ne (FAA) güvenlik önerilerine yönelik yanıtlarının üçte birinin 'kabul edilemez' olduğunu belirtti. Bu eleştiriler, yakın zamanda yaşanan hava olayları sonrasında FAA'nın güvenlik protokollerine uyum konusunda artan endişelere işaret ediyor.",
+        "Morgan Stanley konferansı, 4D Molecular Therapeutics, Fractyl Health ve Crescent Biopharma'nın gelişmelerini sundu. 4D Molecular Therapeutics, gen tedavisi projelerini vurgularken, Fractyl Health Revita programının kritik klinik verilerinin yakınında olduğunu bildirdi ve Crescent Biopharma, yeni tedavi hattıyla portföyünü genişletmeyi planlıyor.",
+        "ABD Hazine tahvili getirileri yükselmeye başladı ve bu artışın borçlanma maliyetleri, enflasyon beklentileri ve küresel finans piyasaları üzerindeki etkileri ele alındı. Yatırımcılar, getiri eğilimlerinin şirket borçlarından tüketici kredilerine kadar geniş bir yelpazeyi etkileyebileceğini izliyor.",
+        "Wall Street düşüşle kapanırken, yapay zeka (AI) gelişimini yavaşlatma çağrıları çip üreticilerine baskı uyguladı. Analistler, artan düzenleyici denetimin AI donanımına yapılan yatırımları azaltabileceğini ve sürdürülebilir büyüme stratejilerine odaklanılmasını öngörüyor.",
+        "Dave & Buster’s, Q2 2026 kazanç raporunda beklenenden düşük bir performans göstererek paylarını düşürdü. Şirket, yavaşlayan tüketici harcamaları ve artan işletme giderlerini, gelir düşüşünün ana sebepleri olarak gösterdi."
       ],
       "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://finance.yahoo.com"
-        },
         {
           "name": "Investing.com",
           "url": "https://www.investing.com"
@@ -76,9 +78,15 @@
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "Trump, İran ile çatışmanın sona ermesiyle petrol fiyatlarının düşeceğini öne sürerek, Avrupa borsalarının haftanın ilk işlem gününde Orta Doğu'da artan jeopolitik gerilimin petrol fiyatlarını yükseltmesi ve bu durumun teknoloji hisselerine satış getirmesiyle İngiltere hariç değer kaybıyla kapandığını, Türkiye’nin Borsa İstanbul’unda BIST 100 endeksinin yüzde 1,60 düşerek 14.235,83 puandan tamamlandığını belirtti.",
-        "Microsoft, yapay zeka güvenliğine ilişkin tartışmaların yoğunlaşmasıyla, gelecekte geliştireceği yapay zeka modellerinin davranışlarına sınırlar getirecek kurallar taslağını yayımladı. Aynı zamanda The Guardian’ın raporuna göre Anthropic CEO’su Dario Amodei’nin OpenAI CEO’su Sam Altman ve Tesla ile SpaceX’in kurucusu Elon Musk’ten destek alarak yapay zekanın mevcut hızda geliştirilmesini yavaşlatma çağrısında bulunduğu ifade ediliyor.",
-        "Türkiye’nin dijital dönüşümünün öncüsü Türk Telekom, COP31’in Master Partner’ı olarak atanarak, Türkiye’nin iklim eylemine güç katıyor ve teknolojiyi sürdürülebilir bir geleceğin en güçlü araçlarından biri olarak konumlandırıyor. Bu ortaklık, Türk Telekom’un dijital altyapısını güçlendirmesi ve yeşil teknolojiye yatırım yapması yönünde stratejik bir hamle olarak görülüyor."
+        "[Dünya Gazetesi] Serdar Dursun: Fenerbahçe kadrosunda bir yetersizlik var — Gaziantep Futbol Kulübü'nün tecrübeli futbolcusu Serdar Dursun, \"Fenerbahçe'de bence kadroda oyuncu anlamında bir yetersizlik var\" dedi. Alınan beraberlikle ilgili ise büyük takıma karşı 1 puan almanı",
+        "[Dünya Gazetesi] Trump Jr. ve eşinden Rus oligark itirafı — ABD Başkanı Donald Trump'ın oğlu Donald Trump Jr. ile eşi Bettina Trump, mayısta düzenlenen düğün kutlamalarının bir bölümünün Rusya Devlet Başkanı Vladimir Putin'e yakınlığıyla bilinen Rus oligark Um",
+        "[Dünya Gazetesi] CENTCOM: İran'ın tanker iddiası doğru değil — ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran Devrim Muhafızları Ordusu'nun Hürmüz Boğazı'nda süper tanker olarak adlandırılan bir petrol tankerinin mayına çarptığı yönündeki açıklamasını yalanladı",
+        "[Anadolu Ajansı Ekonomi] Üç aktif madde içeren bitki koruma ürünlerinin ithalat, imalat ve kullanımı sonlandırılacak — Tarım ve Orman Bakanlığı, “thiophanate methyl”, “indoxacarb” ve “phosmet” içeren bitki koruma ürünlerinin ithalatının 13 Kasım 2026, imalatının 18 Aralık 2026, kullanımının ise 31 Aralık 2027’de sonla",
+        "[Dünya Gazetesi] Suudi Veliaht Prensi Selman yarın Mısır'ı ziyaret edecek — Suudi Arabistan Veliaht Prensi Muhammed bin Selman, yarın Mısır'da Cumhurbaşkanı Abdülfettah es-Sisi ile bir araya gelecek.",
+        "[Dünya Gazetesi] Sanayisizleşme tartışmasına TÜSİAD da katıldı: “Yeni bir sanayi için 15 yıllık strateji şart” — Türkiye’nin “Net, uzun vadeli, somut hedefli ve çok sıkı takip edilen” yeni bir sanayi stratejisi oluşturması gerektiğini ifade eden TÜSİAD Başkanı Ozan Diren, “Günümüzün ihtiyaçlarını ve gelecek öngö",
+        "[Dünya Gazetesi] NESİAD Başkanı Ertaş: Kapadokya’ya yeni otel değil katma değer gerekiyor — Yılda 4 milyon turist ağırlayan Kapadokya, turizmin yanı sıra kongre, fuar ve gastronomide de uluslararası arenada markalaşma hedefinde. NESİAD Başkanı Mustafa Ertaş, hemen her alanda gelişim için 41 ",
+        "[Dünya Gazetesi] ABD İstanbul Başkonsolosu Lally: Amacımız Türkiye ile tüm dünyada ortaklıklar kurmak — DÜNYA Gazetesi’ne konuşan ABD İstanbul Başkonsolosu Michael A. Lally, ABD ve Türkiye’nin ekonomik iş birliği aracılığıyla bölgesel sorunları çözmeleri gerektiğini belirterek, “ABD olarak amacımız; Tür",
+        "[Dünya Gazetesi] Hedef 17 milyon emekliye ulaşmak — Türkiye Sigorta, SGK iş birliğiyle emeklilere sağlık, konut ve kasko indirimleri sunulan kampanyaya ilginin giderek arttığını açıkladı. Türkiye Sigorta Oto, Tarım Sigortaları ve Aktüerya Genel Müdür Y"
       ],
       "sources": [
         {
@@ -86,12 +94,8 @@
           "url": "https://www.dunya.com"
         },
         {
-          "name": "Sabah Ekonomi",
-          "url": "https://www.sabah.com.tr"
-        },
-        {
-          "name": "Habertürk Ekonomi",
-          "url": "https://www.haberturk.com"
+          "name": "Anadolu Ajansı Ekonomi",
+          "url": "https://www.aa.com.tr"
         }
       ]
     }
