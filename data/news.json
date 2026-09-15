@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-15T03:11:15.309Z",
+  "generatedAt": "2026-09-15T09:10:11.370Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
-        "[Container News] VICT launches Phase 3B expansion at Port of Melbourne — Victoria International Container Terminal (VICT) has officially started its Phase 3B expansion at the Port of Melbourne, with the project expected to increase terminal capacity by approximately 18%. M",
-        "[Container News] Maersk announces Canada Atlantic Express winter plan — Maersk will introduce a planned winter blank sailing programme on its Canada Atlantic Express service from October 2026. The carrier will suspend one sailing every fifth week during the winter months.",
-        "[Container News] ID Logistics expands Benelux network with 53,000 sqm Tiel facility — ID Logistics is expanding its Benelux network with a new 53,000 sqm logistics facility in Tiel, the Netherlands. Developed with Heembouw, the site is scheduled to become operational in October 2027. T",
-        "[FreightWaves] FedEx Freight expands CTO’s role to cover commercial strategy following CCO ouster — Less-than-truckload carrier FedEx Freight named Mike Rodgers as chief commercial and technology officer, following the recent termination of an executive. The post FedEx Freight expands CTO’s role to ",
-        "[Container News] Panama Canal warns of strengthening El Niño threat to water levels — The Panama Canal is closely monitoring a strengthening El Niño event that could affect rainfall and water availability across its watershed. Experts from the Panama Canal, Smithsonian Tropical Researc",
-        "[gCaptain] Port of Los Angeles Caps Record Summer as U.S. Import Strength Holds Up — The Port of Los Angeles capped its strongest three-month cargo stretch on record in August, adding to evidence that Southern California’s container gateway is carrying stronger-than-expected momentum ",
-        "[Journal of Commerce] Hapag-Lloyd expanding Africa terminal operations — The deal with long-time partner DP World is focused on five ports: Dakar (Senegal), Luanda (Angola), Dar es Salaam (Tanzania), Banana (Democratic Republic of Congo) and Maputo (Mozambique).",
-        "[gCaptain] U.S. Rejects Iran’s Mine Claim as Hormuz Shipping Threat Remains Severe — U.S. Central Command is disputing an Iranian claim that a Panama-flagged tanker recently struck a naval mine in the Strait of Hormuz, saying the ship was instead hit by Iranian...",
-        "[Journal of Commerce] NS restores Charleston-Huntsville intermodal service — The reinstated rail service will likely support automakers, their suppliers, and other industrial manufacturing in the Southeast."
+        "[Container News] Hapag-Lloyd raises Eastern Caribbean feeder charges from October — Hapag-Lloyd will adjust its Transport Additional Origin and Destination charges for shipments to and from the Eastern Caribbean Islands, citing higher third-party feeder costs. The revised TAO and TAD",
+        "[Splash247] Tanker boom breaks every historical benchmark — A benchmark tanker rate has entered seven figures for the first time, marking an extraordinary moment in shipping history as war risk sends earnings across virtually every tanker class to record or ne",
+        "[Container News] MSC partially restores Suez transits on Indusa service — MSC will partially restore Suez Canal transits on its Indusa service following a review of security and operational conditions in the Red Sea. The service, which connects the Indian subcontinent, the ",
+        "[Splash247] Slow ships and long voyages tighten dry bulk market — Bulk carriers are spending dramatically longer – nearly 20% – at sea than at the start of the decade while also travelling more slowly, quietly removing effective capacity from the fleet just as freig",
+        "[Splash247] Putin pushes BRICS insurance challenge to Western shipping establishment — Vladimir Putin has urged the world’s largest emerging economies to accelerate the creation of their own reinsurance mechanism, adding momentum to efforts that could eventually loosen the maritime indu",
+        "[Splash247] Splash Singapore: SGX’s William Chin on the financialisation of freight — Freight markets are undergoing one of the biggest financial transformations in commodities, with shipping moving steadily from a world where rate volatility was simply accepted as a cost of doing busi",
+        "[Container News] Explainer: Two fronts, one squeeze — Middle Eastern shipping is facing a fresh reshuffle, and this time the pressure is arriving from both directions at once. The post Explainer: Two fronts, one squeeze appeared first on Container News.",
+        "[The Loadstar] Presidium of the Kühne Foundation’s Board of Trustees appointed — The Board of Trustees is the highest governing body of the Kühne Foundation and determines its strategic direction. The post Presidium of the Kühne Foundation’s Board of Trustees appointed appeared fi",
+        "[Container News] Hapag-Lloyd raises Europe rates to South Asia — Hapag-Lloyd will increase ocean tariff rates from Europe to South-East India, Sri Lanka and Bangladesh. The revised rates will apply to sailings starting on 1 October 2026. New tariff levels For 20-fo"
       ],
       "sources": [
         {
@@ -20,70 +20,72 @@
           "url": "https://container-news.com"
         },
         {
-          "name": "FreightWaves",
-          "url": "https://www.freightwaves.com"
+          "name": "Splash247",
+          "url": "https://splash247.com"
         },
         {
-          "name": "gCaptain",
-          "url": "https://gcaptain.com"
-        },
-        {
-          "name": "Journal of Commerce",
-          "url": "https://joc.com"
+          "name": "The Loadstar",
+          "url": "https://theloadstar.com"
         }
       ]
     },
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "IAA Transportation 2026’da ZF, sıfır emisyonlu, sıfır kazalı ve yazılım tanımlı ticari araçlara geçişte müşterilerine sunduğu dönüşüm yollarını sergiledi, 2026 yılında 5 milyar Euro’yu aşan iş hacmi elde etti. Volvo Trucks ise fuarda 700 kilometre menzilli yeni FH Aero Electric ile daha yüksek yakıt verimliliği sağlayan yeni D13 motorlu ürünlerini tanıttı. Her iki marka da sürdürülebilirlik ve dijitalleşmeyi vurgulayarak, lojistik sektöründeki araçların geleceği için önemli adımlar attı.",
-        "Scania, IAA Transportation’da 1.700 m²’lik standında iki yeni Dynamic modeli – SUPER A4x2NB 430 R ve BEV A6x2NB 44 R – ve geniş ürün gamını sergiledi. Stand, 780 m²’lik açık alanla birleşerek fuarın en geniş katılımcılarından biri oldu. Dijital çözümler ve stratejik lansmanlarla, şirketin lojistik tedarik zincirine katkılarını öne çıkardı.",
-        "Türk ihracatçılar, Karadeniz’de artan güvenlik sorunlarının Türkiye‑Rusya deniz ticaretini aksattığını belirterek 2025’te 6,7 milyar dolarlık ihracatı sürdürebilmek için güvenli bir deniz koridoru talep etti. Aynı dönemde, Silivri Cumhuriyet Başsavcılığı, ‘Alsu’ gemisiyle çarpıştıktan sonra batan ‘Tuğberk İmamoğlu’ gemisinde kayıp mürettebatın cansız bedeniyle ilgili bir arama‑kurtarma operasyonu bildirdi. Bu gelişmeler, Karadeniz’deki lojistik akışının güvenlik risklerine karşı hassasiyetini bir kez daha gösterdi.",
-        "Nature Communications’ta yayımlanan araştırma, Hint ve Pasifik okyanusları arasındaki 400 yıllık iklimsel bağın insan kaynaklı küresel ısınma nedeniyle kopduğunu ortaya koyuyor. Bu kopuş, milyarlarca dolarlık tarım, lojistik ve gıda zincirlerini tehdit ediyor; özellikle deniz taşımacılığının rotaları ve teslim süreleri ciddi ölçüde değişebilir. Okyanus akıntılarındaki bu istikrar kaybı, lojistik planlamasında daha fazla esneklik ve risk yönetimi ihtiyacını gündeme getiriyor."
+        "Volvo Trucks, tamamen elektrikli ürünleriyle 2027 Uluslararası Yılın Kamyonu (IToY) ödülünü kazandı. Bu ödül, şirketin sekizinci kez bu prestijli başarıyı elde ettiğini gösteriyor.",
+        "Hannover’da düzenlenen IAA Transportation 2026’da Volvo Trucks, 700 kilometre menzilli yeni FH Aero Electric ve yüksek yakıt verimliliği sağlayan D13 motorlu modelleri tanıttı. Ford Trucks da aynı fuarda F‑MAX, F‑LINE İnşaat ve F‑LINE E serilerini sergileyerek “Her Yolculuk için Tek Vizyon” temasını vurguladı. ZF ise fuarda sıfır emisyonlu, sıfır kazalı ve yazılım tanımlı ticari araçlara geçişte müşterilerine sunduğu destekle 2026 yılında 5 milyar Euro üzerindeki iş hacmini gerçekleştirdi.",
+        "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran’a yönelik deniz ablukası çerçevesinde son iki ayda 100 ticari geminin rotasını değiştirdiğini duyurdu. Bu değişiklik, küresel tedarik zincirlerinin deniz taşımacılığında yeniden düzenlenmesine yol açtı.",
+        "UND, Türk TIR sürücülerinin Schengen vizesi süreçlerinde yaşadığı zorlukların Türkiye‑AB ticaretini ve Avrupa’nın tedarik zincirlerini olumsuz etkilediğini belirtti. Profesyonel sürücüler için vize prosedürlerinin hızlandırılması ve kolaylaştırılması çağrısında bulundu.",
+        "Silivri açıklarında “Alsu” gemisiyle çarpışma sonucu düşen Tuğberk İmamoğlu gemisindeki 10 kişilik kayıp mürettebatın arama‑kurtarma çalışmalarında bulunulan cansız bedenin, batan geminin birinci kaptanı Yaşar Kayhan'a ait olduğu tespit edildi. Olay, Türkiye’nin sahil bölgelerinde gemi güvenliği ve kaza yönetimi konularındaki riskleri yeniden gündeme getirdi."
       ],
       "sources": [
-        {
-          "name": "Dünya Gazetesi",
-          "url": "https://www.dunya.com"
-        },
         {
           "name": "LojiPort",
           "url": "https://www.lojiport.com"
         },
         {
-          "name": "Taşımacılar.com",
-          "url": "https://www.tasimacilar.com"
+          "name": "Dünya Gazetesi",
+          "url": "https://www.dunya.com"
+        },
+        {
+          "name": "Taşıma Dünyası Gazetesi",
+          "url": "https://www.tasimadunyasi.com"
         }
       ]
     },
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "Data Storage Corp yöneticisi 10.237 ABD doları tutarında adi hisse satışını gerçekleştirdi. Satış miktarı, şirketin piyasa değerine göre küçük bir oran oluştururken, şirket içi akımın sürdürdüğünü gösteriyor.",
-        "Piedmont işletme birimi, 2031 vadesiyle 200 milyon dolar değerinde takas edilebilir notları fiyatlandırdı. Bu finansman aracı, şirketin sermaye yapısını güçlendirmeyi ve uzun vadeli borçlanmayı hedefliyor.",
-        "SoftBank hisseleri bugün önemli bir yükseliş yaşadı. Artışın sebepleri henüz netleşmedi, ancak piyasa analistleri şirketin yakın dönem haberleri ve stratejik yatırımları üzerinde odaklanıyor.",
-        "Telix Pharmaceuticals hisseleri de bugün yükseliş trendinde. Yükselişin nedeni hakkında kesin bir açıklama yok, ancak yatırımcılar şirketin son haberleri ve potansiyel büyüme fırsatlarını değerlendiriyor.",
-        "Toronto’da, Carney’nin yatırım zirvesine karşı yüzlerce insan yürüye başladı. Protesta, etkinliğin çevre ve yerel topluluklar üzerindeki etkilerine karşı duyulan endişeyi yansıtıyor.",
-        "Çin’in fabrikaları üretim hızını artırsa da, tüketimde yavaşlama, derinleşen ekonomik dengesizlikleri işaret ediyor. Artan üretim kapasiteleriyle birlikte talebin düşüklüğü, büyüme sürecinde zorluklara işaret ediyor."
+        "Morgan Stanley, 11. dakikada Fed'in faiz artırımını öngörmeye değişti. Pazartesi günü, Wall Street rakibi Goldman Sachs ile birlikte, Federal Açık Piyasa Komitesi kararını \"faizleri sabit tut\" yerine \"faiz artışı\" olarak güncelledi.",
+        "Chewy, evcil hayvan sağlığı, yapay zeka ve klinik hizmetleriyle büyüme stratejisini güçlendirmeyi hedefliyor. Şirket, pet health segmentini genişleterek AI tabanlı çözümler ve fiziksel klinik ağı kurma planlarını duyurdu.",
+        "Altın fiyatları, enerji maliyetlerindeki artışın faiz artışı beklentilerini pekiştirmesiyle düşüş gösterdi. Yüksek enerji fiyatları, riskli varlık talebini artırırken altın gibi güvenli liman yatırımcısını zayıflatıyor.",
+        "Volvo Cars, XC60 ve XC90 hibrit modellerinin daha uzun menzilli versiyonlarını piyasaya sürdü. Şirket, elektrikli bileşenleri artırarak sürdürülebilirlik hedeflerini destekleyen yeni sürümleri tanıttı.",
+        "Vanguard ETF, 20'li yaşlarda yatırımcılar için uzun vadeli yatırım aracı olarak öne çıkıyor. Yazar, bu ETF'yi başkalaştırma ve uzun süreli tutma önerisinde bulundu.",
+        "JPMorgan'un Sundar, yapay zeka tabanlı ticaretin 'püzeyleme' evresinde olduğunu belirtti. Şirket, AI ticaret sistemlerinin henüz tam olarak olgunlaşmadığını vurguladı.",
+        "Antin Infrastructure Partners hisseleri gün içinde düşüş yaşadı. Piyasa analizlerine göre, şirketin finansal performansı veya sektörel faktörler bu düşüşe yol açtı.",
+        "Compass Point, Hyperliquid Strategies hisselerini satın alma önerisi ile giriş yaptı. Analist, şirketin potansiyel büyüme fırsatlarını öne çıkararak 'buy' tavsiyesi verdi."
       ],
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://www.investing.com"
+          "name": "MarketWatch",
+          "url": "https://www.marketwatch.com"
         },
         {
-          "name": "Forbes Business",
-          "url": "https://www.forbes.com"
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://www.investing.com"
         }
       ]
     },
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "Tarım ve Orman Bakanlığı, \"thiophanate methyl\", \"indoxacarb\" ve \"phosmet\" içeren bitki koruma ürünlerinin ithalatının 13 Kasım 2026, imalatının 18 Aralık 2026 ve kullanımının ise 31 Aralık 2027’de sona erdirileceğini duyurdu. Bu kararla ilgili ürünlerin tedarik ve üretim zinciri yavaşça durdurulacak ve yasal son tarihlerin ardından satış ve dağıtımı tamamen yasaklanacak.",
-        "TÜSİAD Başkanı Ozan Diren, yeni bir sanayi stratejisinin 10–15 yıllık net, somut hedefler ve sıkı takip gerektirdiğini vurguladı. NESİAD Başkanı Mustafa Ertaş ise Kapadokya turizmi için 41 proje belirleyerek otel sayısını 350’den 800’e çıkardığını, ancak artan kapasitenin dolulukları azalttığını açıkladı. Her iki lider, sektörel gelişimde kalitatif büyümenin önemini belirterek, yeni sanayi ve turizm yatırımlarının sürdürülebilir kılınmasını önerdi.",
-        "ABD İstanbul Başkonsolosu Michael A. Lally, Türkiye ile ekonomik iş birliğinin bölgesel sorunları çözmede kritik rol oynadığını söyledi. Lally, ABD’nin hedefinin sadece İstanbul değil, bölge ve küresel ölçekte ortaklıklar kurmak olduğunu belirtti. Bu açıklama, iki ülke arasındaki ekonomik ilişkilerin genişletilmesini amaçlayan diplomatik çabaların bir parçası olarak değerlendirildi.",
-        "Türkiye Sigorta, SGK iş birliğiyle emeklilere sağlık, konut ve kasko indirimleri sunan bir kampanyaya yönelik artan ilgiyi duyurdu. Türkiye Sigorta Oto, Tarım Sigortaları ve Aktüerya Genel Müdür Yardımcısı Melike Nur Çınar, kampanyanın uzun vadede 17 milyon emekliye ulaşmayı hedeflediğini belirtti. Bu girişim, sosyal güvenlik sistemine katkı sağlamayı amaçlayan bir finansal destek programı olarak öne çıkıyor."
+        "Asgari ücret görüşmeleri, 1 Ocak 2024 tarihinde başlamak üzere planlanıyor. 7 Temmuz’da beklenen ara zam gerçekleşmediği için çalışanlar ve sendikalar, yeni asgari ücreti duyurmanın yaklaştığına dair beklentilerini artırdı. Şu anki durum, hükümetin resmi açıklamasıyla netleşecek.",
+        "Garanti BBVA, NGN ve Star of Bosphorus’un veri merkezi yatırımı için 40 milyon ABD doları tutarında bir yeşil kredi paketini Lider Düzenleyici Banka ve Kredi Temsilcisi olarak sundu. Proje, enerji verimliliği ve sürdürülebilir operasyon hedefleriyle tasarlanarak yeşil kredi formatında yapılandırıldı.",
+        "Türkiye’nin 10 milyar metreküplük gizli enerji kaynağı, enerji ithalatını azaltma potansiyeli taşıyor. Mevcut tesislerin dönüştürülmesi ve kapasitenin artırılması ile üretimin kademeli olarak milyarlarca metreküpe ulaşacağı tahmin ediliyor. Bu kaynak, ülkenin enerji güvenliğine katkı sağlayabilir."
       ],
       "sources": [
         {
@@ -91,8 +93,8 @@
           "url": "https://www.dunya.com"
         },
         {
-          "name": "Anadolu Ajansı Ekonomi",
-          "url": "https://www.aa.com.tr"
+          "name": "Habertürk Ekonomi",
+          "url": "https://www.haberturk.com"
         }
       ]
     }
