@@ -1,18 +1,17 @@
 {
-  "generatedAt": "2026-09-15T09:10:11.370Z",
+  "generatedAt": "2026-09-15T16:09:25.755Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
-        "[Container News] Hapag-Lloyd raises Eastern Caribbean feeder charges from October — Hapag-Lloyd will adjust its Transport Additional Origin and Destination charges for shipments to and from the Eastern Caribbean Islands, citing higher third-party feeder costs. The revised TAO and TAD",
-        "[Splash247] Tanker boom breaks every historical benchmark — A benchmark tanker rate has entered seven figures for the first time, marking an extraordinary moment in shipping history as war risk sends earnings across virtually every tanker class to record or ne",
-        "[Container News] MSC partially restores Suez transits on Indusa service — MSC will partially restore Suez Canal transits on its Indusa service following a review of security and operational conditions in the Red Sea. The service, which connects the Indian subcontinent, the ",
-        "[Splash247] Slow ships and long voyages tighten dry bulk market — Bulk carriers are spending dramatically longer – nearly 20% – at sea than at the start of the decade while also travelling more slowly, quietly removing effective capacity from the fleet just as freig",
-        "[Splash247] Putin pushes BRICS insurance challenge to Western shipping establishment — Vladimir Putin has urged the world’s largest emerging economies to accelerate the creation of their own reinsurance mechanism, adding momentum to efforts that could eventually loosen the maritime indu",
-        "[Splash247] Splash Singapore: SGX’s William Chin on the financialisation of freight — Freight markets are undergoing one of the biggest financial transformations in commodities, with shipping moving steadily from a world where rate volatility was simply accepted as a cost of doing busi",
-        "[Container News] Explainer: Two fronts, one squeeze — Middle Eastern shipping is facing a fresh reshuffle, and this time the pressure is arriving from both directions at once. The post Explainer: Two fronts, one squeeze appeared first on Container News.",
-        "[The Loadstar] Presidium of the Kühne Foundation’s Board of Trustees appointed — The Board of Trustees is the highest governing body of the Kühne Foundation and determines its strategic direction. The post Presidium of the Kühne Foundation’s Board of Trustees appointed appeared fi",
-        "[Container News] Hapag-Lloyd raises Europe rates to South Asia — Hapag-Lloyd will increase ocean tariff rates from Europe to South-East India, Sri Lanka and Bangladesh. The revised rates will apply to sailings starting on 1 October 2026. New tariff levels For 20-fo"
+        "Norveç'te 15 Eylül 2026'da yürürlüğe girecek Digitoll sisteminin gerektirdiği yeni dijital bildirime tabi tutulacak. Hapag‑Lloyd, bu değişikliğin Norveç'e deniz yoluyla gönderim yapan müşteriler için anlık olarak pratik etkisi olmadığını belirtti. Bu nedenle mevcut bildirim prosedürü aynı kalmaya devam edecek.",
+        "2026 Temmuz ayında ABD konteyner ithalatı 2.6 milyon TEU'ya yükseldi, önceki aya göre %3,8 artışla aylık 3. en yüksek seviyeye ulaştı. Doğu, Körfez ve Batı Kıyı kapıları üzerinden artış, tedarik pazar hacmindeki genişleme ve liman taşıma gecikmelerinin birleşik etkisiyle gerçekleşti. Bu artış, genel konteyner hacmindeki büyümeyi yansıtmaktadır.",
+        "Xeneta veri tabanına göre MSC, liman ziyaretlerini özelleştirerek ve kapasiteyi agresif yöneterek daha yüksek ücretler elde ediyor. Gemini Cooperation ise zamanlama güvenilirliğinin yüksek olmasına rağmen piyasa ortalamasının altında fiyat sunuyor. Bu durum, esnek operasyon stratejisinin fiyatlandırma avantajı sunduğunu gösteriyor.",
+        "India Marine Automation Specialist Accurate Industrial Controls, Hint Donanması için altı gemiyi otonom yüzey gemi (USV) hâline dönüştürme çalışmalarına başladı. İlk üç geminin uygulanabilirlik analizi tamamlanmış ve Mumbai Denizci Yardında tam otomasyon süreci başlayacak. Proje, donanma modernizasyonunda kritik bir adım olarak öne çıkıyor.",
+        "Oman yetkilileri, Panama bayrağını taşıyan tanker El Gaia'nın yangın kontrol altına alındıktan sonra limana çekildiğini duyurdu. İki mürettebat üyesi ise henüz kayıp olarak bildiriliyor. Olay, tanker güvenliği konusundaki riskleri gündeme getiriyor.",
+        "DHL Express, 6.000 pound’a kadar kargo taşıyabilen Heavy Weight Express adında yeni hava kargo hizmetini tanıttı. Hedef müşteri kitlesi otomotiv üreticileri ve ilaç sektörünü kapsıyor. Bu hizmet, yüksek hacimli kargonun hızlı teslimatını amaçlıyor.",
+        "Amazon, haftanın başına yaşanan ölümcül bir kazadan sonra 21 Air ile olan sözleşmeyi geçici olarak askıya aldı. Aynı zamanda Maersk, Durban Cato Ridge depo ağı üzerindeki tıkanıklık ve depolama kapasitesi sorunları nedeniyle düşüşe bağlı olarak drop‑off ücretini geçici olarak sıfır yaptı. İki hareket, hava kargo ve depo operasyonlarındaki mevcut zorlukları yansıtıyor.",
+        "Tesla, Texas'ta 538,720 metrekarelik ve 1,4 milyon dolar yatırım ile yeni bir dağıtım merkezini kurmaya hazırlanıyor. Hedef, 2028 sonuna kadar faaliyet göstermesi. Merkez, üretim ve lojistik süreçlerini birleştirerek tedarik zinciri verimliliğini artırmayı planlıyor."
       ],
       "sources": [
         {
@@ -20,23 +19,31 @@
           "url": "https://container-news.com"
         },
         {
-          "name": "Splash247",
-          "url": "https://splash247.com"
+          "name": "FreightWaves",
+          "url": "https://www.freightwaves.com"
         },
         {
-          "name": "The Loadstar",
-          "url": "https://theloadstar.com"
+          "name": "Journal of Commerce",
+          "url": "https://joc.com"
+        },
+        {
+          "name": "gCaptain",
+          "url": "https://gcaptain.com"
+        },
+        {
+          "name": "Supply Chain Dive",
+          "url": "https://www.supplychaindive.com"
         }
       ]
     },
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "Volvo Trucks, tamamen elektrikli ürünleriyle 2027 Uluslararası Yılın Kamyonu (IToY) ödülünü kazandı. Bu ödül, şirketin sekizinci kez bu prestijli başarıyı elde ettiğini gösteriyor.",
-        "Hannover’da düzenlenen IAA Transportation 2026’da Volvo Trucks, 700 kilometre menzilli yeni FH Aero Electric ve yüksek yakıt verimliliği sağlayan D13 motorlu modelleri tanıttı. Ford Trucks da aynı fuarda F‑MAX, F‑LINE İnşaat ve F‑LINE E serilerini sergileyerek “Her Yolculuk için Tek Vizyon” temasını vurguladı. ZF ise fuarda sıfır emisyonlu, sıfır kazalı ve yazılım tanımlı ticari araçlara geçişte müşterilerine sunduğu destekle 2026 yılında 5 milyar Euro üzerindeki iş hacmini gerçekleştirdi.",
-        "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran’a yönelik deniz ablukası çerçevesinde son iki ayda 100 ticari geminin rotasını değiştirdiğini duyurdu. Bu değişiklik, küresel tedarik zincirlerinin deniz taşımacılığında yeniden düzenlenmesine yol açtı.",
-        "UND, Türk TIR sürücülerinin Schengen vizesi süreçlerinde yaşadığı zorlukların Türkiye‑AB ticaretini ve Avrupa’nın tedarik zincirlerini olumsuz etkilediğini belirtti. Profesyonel sürücüler için vize prosedürlerinin hızlandırılması ve kolaylaştırılması çağrısında bulundu.",
-        "Silivri açıklarında “Alsu” gemisiyle çarpışma sonucu düşen Tuğberk İmamoğlu gemisindeki 10 kişilik kayıp mürettebatın arama‑kurtarma çalışmalarında bulunulan cansız bedenin, batan geminin birinci kaptanı Yaşar Kayhan'a ait olduğu tespit edildi. Olay, Türkiye’nin sahil bölgelerinde gemi güvenliği ve kaza yönetimi konularındaki riskleri yeniden gündeme getirdi."
+        "SunExpress, ön siparişli yemek menüsünü genişleterek glütensiz, diyabetik ve vegan seçeneklerin yanı sıra çocuklara özel menüler de ekledi. Bu yenilik, yolcuların beslenme tercihleri ve ihtiyaçlarına daha fazla seçenek sunmayı amaçlıyor. Şirket, menüsünü farklı beslenme tercihleri ve ihtiyaçlarına uygun alternatiflerle zenginleştiriyor.",
+        "Hannover'de düzenlenen IAA Transportation 2026 Fuarı, lojistik ve taşıma sektöründeki önemli oyuncuların yeni ürünlerini tanıttığı platform oldu. Meiller, TECTRUM RS32 adlı güçlü kancalı kaldırma sistemini sergiledi; Wielton ise yoğun filo operasyonlarına uygun EVO Dry Box'u tanıttı. Thermo King, elektrifikasyon, dijitalleşme ve enerji verimliliği konularında yenilikçi çözümlerini gösterdi. Volkswagen Ticari Araç, yenilenmiş Caddy ve Multivan modellerini duyurdu; Ford Trucks ise F-MAX, F-LINE İnşaat ve F-LINE E serilerini tanıtarak “Her Yolculuk için Tek Vizyon” teması çerçevesinde mobilite çözümlerini sundu.",
+        "Volvo Trucks, tamamen elektrikli ürünleriyle 2027 Uluslararası Yılın Kamyonu (International Truck of the Year 2027-IToY) ödülünü kazandı. Bu, markanın sekizinci kez bu prestijli ödülü alması oldu. Ödül, şirketin elektrikli kamyon segmentindeki liderliğini pekiştiriyor.",
+        "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Uçuş Rehberim uygulamasının 52 havalimanında interaktif harita ve rota hizmeti sunduğunu açıkladı. Uygulama, kullanıcılarına DHMİ tarafından işletilen havalimanlarında aylık 2 GB ücretsiz Wi‑Fi imkanından da yararlanma fırsatı veriyor. Bu gelişme, yolcu deneyimini dijital alana entegre ederek ulaşım altyapısını güçlendiriyor.",
+        "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'a yönelik deniz ablukası çerçevesinde son iki ayda 100 ticari geminin rotasını değiştirdiğini duyurdu. Bu karar, lojistik zincirlerinde belirsizlik yaratırken, gemilerin alternatif rotalar izleyerek operasyonlarını sürdürebildiğini gösteriyor. Olay, bölgesel güvenlik ortamının taşıma sektörüne doğrudan etkilerini gözler önüne seriyor."
       ],
       "sources": [
         {
@@ -56,14 +63,14 @@
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "Morgan Stanley, 11. dakikada Fed'in faiz artırımını öngörmeye değişti. Pazartesi günü, Wall Street rakibi Goldman Sachs ile birlikte, Federal Açık Piyasa Komitesi kararını \"faizleri sabit tut\" yerine \"faiz artışı\" olarak güncelledi.",
-        "Chewy, evcil hayvan sağlığı, yapay zeka ve klinik hizmetleriyle büyüme stratejisini güçlendirmeyi hedefliyor. Şirket, pet health segmentini genişleterek AI tabanlı çözümler ve fiziksel klinik ağı kurma planlarını duyurdu.",
-        "Altın fiyatları, enerji maliyetlerindeki artışın faiz artışı beklentilerini pekiştirmesiyle düşüş gösterdi. Yüksek enerji fiyatları, riskli varlık talebini artırırken altın gibi güvenli liman yatırımcısını zayıflatıyor.",
-        "Volvo Cars, XC60 ve XC90 hibrit modellerinin daha uzun menzilli versiyonlarını piyasaya sürdü. Şirket, elektrikli bileşenleri artırarak sürdürülebilirlik hedeflerini destekleyen yeni sürümleri tanıttı.",
-        "Vanguard ETF, 20'li yaşlarda yatırımcılar için uzun vadeli yatırım aracı olarak öne çıkıyor. Yazar, bu ETF'yi başkalaştırma ve uzun süreli tutma önerisinde bulundu.",
-        "JPMorgan'un Sundar, yapay zeka tabanlı ticaretin 'püzeyleme' evresinde olduğunu belirtti. Şirket, AI ticaret sistemlerinin henüz tam olarak olgunlaşmadığını vurguladı.",
-        "Antin Infrastructure Partners hisseleri gün içinde düşüş yaşadı. Piyasa analizlerine göre, şirketin finansal performansı veya sektörel faktörler bu düşüşe yol açtı.",
-        "Compass Point, Hyperliquid Strategies hisselerini satın alma önerisi ile giriş yaptı. Analist, şirketin potansiyel büyüme fırsatlarını öne çıkararak 'buy' tavsiyesi verdi."
+        "Dünya Finans sektöründe, 60 yaşındaki bir kadın yüksek gelirli kariyeri sona erdikten sonra vefat etmiş. Eşine, Sosyal Güvenlik’in ölüm sonrası hayatta kalma (survivor) faydalarından yararlanma hakkı tanındı ve bu hak, eşin geçmişteki emeklilik katkılarına bağlı olarak belirlenir. Bu olay, yüksek kazançlı ailelerin, eşlerinin ölüm durumunda elde edecekleri sosyal güvenlik ödemelerinin önemine dikkat çekiyor.",
+        "90%’den fazla emekli, tasarruflarını harcama sırasını yanlış hesaplayarak önemli vergi kayıpları ve yaşam kalitesi düşüşleri yaşamakta. Harcama stratejisinin önceliği, vergilendirilebilir gelirleri azaltmak ve emeklilik döneminde nakit akışını optimize etmek için kritik rol oynar. Bu yanlış hesaplamaların yaygınlığı, emeklilik planlamasında daha bilinçli bir yaklaşımın gerekliliğini vurguluyor.",
+        "Caterpillar (CAT) şirketi, AI modellerinin ötesinde sektör lideri performansı sürdürüyor. Şirket, güçlü büyüme rakamları ve dayanıklı operasyonel verimlilikle sektörde öne çıkıyor. CAT’in bu başarısı, endüstriyel ekipman pazarındaki rekabet avantajını pekiştiriyor.",
+        "Akıllı telefon çipleri alanında Skyworks (SKYW), Qorvo (QRVO) ve Qualcomm (QCOM) hisse fiyatları sırasıyla %11, %7 ve %4 artış gösterdi. Ancak, büyük kapasiteli teknoloji hisseleri genel olarak gerilemeye devam etti. Bu durum, küçük ölçekli çip üreticilerinin performansının büyük teknoloji devlerine göre daha güçlü olduğunu gösteriyor.",
+        "Electra şirketi, hiperinflamatuar sendrom ilaç projesinin kritik denemelerini finanse etmek için 342 milyon dolarlık bir halka arz (IPO) hedefliyor. Şirketin bu girişimi, yeni tedavinin klinik araştırmalarını hızlandırmayı amaçlıyor. IPO’dan elde edilecek gelir, araştırma ve geliştirme harcamalarını destekleyecek.",
+        "FED’in faiz oranlarını yükseltmesi, ekonomik dengede tek başına yeterli bir hikaye oluşturmuyor; çünkü Fed’in dot-plot (dot plot) testleri gelecek faiz hareketlerine dair ek bilgiler sunuyor. Fed yetkilisi Warsh, mevcut faiz artışının sadece başlangıç olduğunu belirtti. Dot-plot testleri, gelecekteki faiz artışlarının olasılığını ve zamanlamasını daha net bir şekilde ortaya koymayı hedefliyor.",
+        "Gates Industrial (GTES) şirketi, doğrudan bir AI hissesi olmasa da AI büyümesinden faydalandığını gösteriyor. Şirket, AI teknolojilerinin artan talebiyle bağlantılı olarak üretim süreçlerini optimize ederek kârlılığını artırıyor. GTES’in bu başarısı, AI etkisinin sektör dışı şirketler için de geçerli olduğunu gösteriyor.",
+        "Matthews International şirketinde bir yönetici, 19,990 dolarlık bir hisse alımı gerçekleştirdi. Bu insider satın alma, şirketin hisse performansı ve yönetim kadrosunun güveni hakkında yatırımcılara ipucu veriyor. Bu tür işlemler, şirketin gelecekteki stratejik yönelimleri hakkında bilgi sağlayabilir."
       ],
       "sources": [
         {
@@ -77,24 +84,33 @@
         {
           "name": "Investing.com",
           "url": "https://www.investing.com"
+        },
+        {
+          "name": "Forbes Business",
+          "url": "https://www.forbes.com"
         }
       ]
     },
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "Asgari ücret görüşmeleri, 1 Ocak 2024 tarihinde başlamak üzere planlanıyor. 7 Temmuz’da beklenen ara zam gerçekleşmediği için çalışanlar ve sendikalar, yeni asgari ücreti duyurmanın yaklaştığına dair beklentilerini artırdı. Şu anki durum, hükümetin resmi açıklamasıyla netleşecek.",
-        "Garanti BBVA, NGN ve Star of Bosphorus’un veri merkezi yatırımı için 40 milyon ABD doları tutarında bir yeşil kredi paketini Lider Düzenleyici Banka ve Kredi Temsilcisi olarak sundu. Proje, enerji verimliliği ve sürdürülebilir operasyon hedefleriyle tasarlanarak yeşil kredi formatında yapılandırıldı.",
-        "Türkiye’nin 10 milyar metreküplük gizli enerji kaynağı, enerji ithalatını azaltma potansiyeli taşıyor. Mevcut tesislerin dönüştürülmesi ve kapasitenin artırılması ile üretimin kademeli olarak milyarlarca metreküpe ulaşacağı tahmin ediliyor. Bu kaynak, ülkenin enerji güvenliğine katkı sağlayabilir."
+        "SOCAR Türkiye ve Sabancı Üniversitesi Yönetici Geliştirme Birimi, EDU iş birliği ile yürütülen SOCAR Energy School’un beşinci dönem başvuruları başladı. 10 Ekim 2026 tarihine kadar sürecek bu başvurular, ücretsiz sertifika programı kapsamında gerçekleştirilecek. Katılımcıların enerji sektöründeki yönetim becerilerini geliştirmeyi amaçlayan program, sektördeki liderleriyle iş birliği yapmayı sürdürüyor.",
+        "Borsa İstanbul’da BIST 100 endeksi, gün içinde yüzde 2,41 değer kaybederek 13.892,30 puandan tamamlandı. Endeksin bu düşüşü, piyasa genelindeki belirsizlik ve yatırımcı güveninde azalma gibi faktörlerden kaynaklanıyor. Yatırımcılar ve analistler, düşüşün kısa vadeli bir düzelme sinyali olup olmadığını değerlendiriyor.",
+        "AB Komisyonu, başka bir üye ülkede çalışmaya başlayan kişilerin sosyal güvenlik ve mesleki yeterlilik işlemlerini kolaylaştıracak düzenlemeleri önerdi. Öneri, Avrupa Birliği içinde iş gücü akışını hızlandırarak ekonomik entegrasyonu güçlendirmeyi hedefliyor. Prosedürlerin basitleştirilmesi, çalışanların ve işverenlerin idari yüklerini azaltacak.",
+        "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı’nda ABD yapımı MQ-1 tipi bir insansız hava aracını (İHA) düşürdüğünü ve bugün toplamda 3 İHA’nın etkisiz hale getirildiğini öne sürdü. Bu iddialar, bölgesel güvenlik dinamiklerinin tedirginliğini artırıyor. Uluslararası toplum, tarafların geriliminin daha fazla şiddetlenmemesi için çağrıda bulunuyor."
       ],
       "sources": [
+        {
+          "name": "Habertürk Ekonomi",
+          "url": "https://www.haberturk.com"
+        },
         {
           "name": "Dünya Gazetesi",
           "url": "https://www.dunya.com"
         },
         {
-          "name": "Habertürk Ekonomi",
-          "url": "https://www.haberturk.com"
+          "name": "Anadolu Ajansı Ekonomi",
+          "url": "https://www.aa.com.tr"
         }
       ]
     }
