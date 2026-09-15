@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-09-14T22:56:01.729Z",
+  "generatedAt": "2026-09-15T03:11:15.309Z",
   "categories": {
     "dunya-lojistik": {
       "label": "Dünya Lojistik",
       "paragraphs": [
+        "[Container News] VICT launches Phase 3B expansion at Port of Melbourne — Victoria International Container Terminal (VICT) has officially started its Phase 3B expansion at the Port of Melbourne, with the project expected to increase terminal capacity by approximately 18%. M",
+        "[Container News] Maersk announces Canada Atlantic Express winter plan — Maersk will introduce a planned winter blank sailing programme on its Canada Atlantic Express service from October 2026. The carrier will suspend one sailing every fifth week during the winter months.",
+        "[Container News] ID Logistics expands Benelux network with 53,000 sqm Tiel facility — ID Logistics is expanding its Benelux network with a new 53,000 sqm logistics facility in Tiel, the Netherlands. Developed with Heembouw, the site is scheduled to become operational in October 2027. T",
         "[FreightWaves] FedEx Freight expands CTO’s role to cover commercial strategy following CCO ouster — Less-than-truckload carrier FedEx Freight named Mike Rodgers as chief commercial and technology officer, following the recent termination of an executive. The post FedEx Freight expands CTO’s role to ",
         "[Container News] Panama Canal warns of strengthening El Niño threat to water levels — The Panama Canal is closely monitoring a strengthening El Niño event that could affect rainfall and water availability across its watershed. Experts from the Panama Canal, Smithsonian Tropical Researc",
         "[gCaptain] Port of Los Angeles Caps Record Summer as U.S. Import Strength Holds Up — The Port of Los Angeles capped its strongest three-month cargo stretch on record in August, adding to evidence that Southern California’s container gateway is carrying stronger-than-expected momentum ",
         "[Journal of Commerce] Hapag-Lloyd expanding Africa terminal operations — The deal with long-time partner DP World is focused on five ports: Dakar (Senegal), Luanda (Angola), Dar es Salaam (Tanzania), Banana (Democratic Republic of Congo) and Maputo (Mozambique).",
         "[gCaptain] U.S. Rejects Iran’s Mine Claim as Hormuz Shipping Threat Remains Severe — U.S. Central Command is disputing an Iranian claim that a Panama-flagged tanker recently struck a naval mine in the Strait of Hormuz, saying the ship was instead hit by Iranian...",
-        "[Journal of Commerce] NS restores Charleston-Huntsville intermodal service — The reinstated rail service will likely support automakers, their suppliers, and other industrial manufacturing in the Southeast.",
-        "[Container News] MacGregor wins equipment orders for four research vessels — MacGregor has secured orders to supply deck cranes, handling equipment and deck machinery for four new oceanographic research vessels. Two vessels will be built in Spain for Germany’s Federal Maritime",
-        "[Journal of Commerce] Spiking US diesel prices increase surcharges, truck bankruptcy risk — As the US retail diesel price moves above $6 per gallon, shippers face elevated risk of losing needed truck capacity in the fourth quarter, experts warn.",
-        "[Journal of Commerce] Hub Group expects operating loss, stock delisting notice — At a time when surging domestic intermodal demand is delivering sharply higher profits to its largest competitors, Hub Group expects to report an as-yet-undetermined first-half operating loss."
+        "[Journal of Commerce] NS restores Charleston-Huntsville intermodal service — The reinstated rail service will likely support automakers, their suppliers, and other industrial manufacturing in the Southeast."
       ],
       "sources": [
         {
-          "name": "FreightWaves",
-          "url": "https://www.freightwaves.com"
-        },
-        {
           "name": "Container News",
           "url": "https://container-news.com"
+        },
+        {
+          "name": "FreightWaves",
+          "url": "https://www.freightwaves.com"
         },
         {
           "name": "gCaptain",
@@ -36,11 +36,10 @@
     "turkiye-lojistik": {
       "label": "Türkiye Lojistik",
       "paragraphs": [
-        "Rusya ile Türkiye arasında deniz ticaretinin güvenliğini sağlamak amacıyla 2025 yılında Rusya’ya 6,7 milyar dolarlık ihracatın sürdürülebilmesi için Karadeniz’de güvenli bir deniz yolu oluşturulması talebi, Dünya Gazetesi tarafından bildirildi.",
-        "İklim değişikliği nedeniyle Hint ve Pasifik okyanusları arasındaki 400 yıllık iklimsel senkronizasyonun bozulduğu ve bu durumun tarım, lojistik ve gıda zincirlerini milyarlarca dolarlık tehdit altında tuttuğu araştırması Nature Communications’ta yayımlandı.",
-        "IAA Transportation 2026 fuarında ZF, 5 milyar Euro’nun üzerinde bir iş hacmi yarattığını ve sıfır emisyonlu, sıfır kazalı ticari araçlara geçişte müşterilerine destek sunduğunu; Volvo Trucks ise 700 kilometre menzilli FH Aero Electric ve yeni D13 motorlu modelleri sergilediğini, Scania ise 1.700 m²’lik standında SUPER A4x2NB 430 R ve BEV A6x2NB 44 R olmak üzere iki yeni Dynamic modelini tanıttığını rapor ettiler.",
-        "LojiPort haberine göre, yeni Caddy ve yeni Multivan modelleri tasarım, dijitalleşme, konfor ve sürüş destek sistemleri açısından geliştirildiği ve yılın son çeyreğinde Türkiye’de satışa sunulması planlandığı belirtildi.",
-        "Silivri Cumhuriyet Başsavcılığı, Silivri açıklarında “Alsu” gemisiyle çarpıştıktan sonra batan “Tuğberk İmamoğlu” gemisindeki 10 kişilik kayıp mürettebatın arama ve kurtarma çalışmalarında bir cansız erkek bedenine ulaşıldığını duyurdu."
+        "IAA Transportation 2026’da ZF, sıfır emisyonlu, sıfır kazalı ve yazılım tanımlı ticari araçlara geçişte müşterilerine sunduğu dönüşüm yollarını sergiledi, 2026 yılında 5 milyar Euro’yu aşan iş hacmi elde etti. Volvo Trucks ise fuarda 700 kilometre menzilli yeni FH Aero Electric ile daha yüksek yakıt verimliliği sağlayan yeni D13 motorlu ürünlerini tanıttı. Her iki marka da sürdürülebilirlik ve dijitalleşmeyi vurgulayarak, lojistik sektöründeki araçların geleceği için önemli adımlar attı.",
+        "Scania, IAA Transportation’da 1.700 m²’lik standında iki yeni Dynamic modeli – SUPER A4x2NB 430 R ve BEV A6x2NB 44 R – ve geniş ürün gamını sergiledi. Stand, 780 m²’lik açık alanla birleşerek fuarın en geniş katılımcılarından biri oldu. Dijital çözümler ve stratejik lansmanlarla, şirketin lojistik tedarik zincirine katkılarını öne çıkardı.",
+        "Türk ihracatçılar, Karadeniz’de artan güvenlik sorunlarının Türkiye‑Rusya deniz ticaretini aksattığını belirterek 2025’te 6,7 milyar dolarlık ihracatı sürdürebilmek için güvenli bir deniz koridoru talep etti. Aynı dönemde, Silivri Cumhuriyet Başsavcılığı, ‘Alsu’ gemisiyle çarpıştıktan sonra batan ‘Tuğberk İmamoğlu’ gemisinde kayıp mürettebatın cansız bedeniyle ilgili bir arama‑kurtarma operasyonu bildirdi. Bu gelişmeler, Karadeniz’deki lojistik akışının güvenlik risklerine karşı hassasiyetini bir kez daha gösterdi.",
+        "Nature Communications’ta yayımlanan araştırma, Hint ve Pasifik okyanusları arasındaki 400 yıllık iklimsel bağın insan kaynaklı küresel ısınma nedeniyle kopduğunu ortaya koyuyor. Bu kopuş, milyarlarca dolarlık tarım, lojistik ve gıda zincirlerini tehdit ediyor; özellikle deniz taşımacılığının rotaları ve teslim süreleri ciddi ölçüde değişebilir. Okyanus akıntılarındaki bu istikrar kaybı, lojistik planlamasında daha fazla esneklik ve risk yönetimi ihtiyacını gündeme getiriyor."
       ],
       "sources": [
         {
@@ -60,33 +59,31 @@
     "finans-dunya": {
       "label": "Dünya Finans",
       "paragraphs": [
-        "ABD İçişleri Bakanı Burgum, hükümetin derin deniz madenciliği izinlerini aylar içinde vermeyi hedeflediğini belirledi. Bu hamle, teknoloji üretiminde kritik öneme sahip kobalt, nikel ve nadir toprak elementleri gibi deniz tabanındaki değerli minerallere erişimi genişletme amacı taşıyor.",
-        "Trump'ın posta yoluyla oylama kısıtlamaları, ikinci bir federal hakim tarafından yeniden engellendi. Mahkeme kararları, yönetimin seçmen erişimini daraltma çabalarının yasal sürecinde devam eden denetim ve tartışmaları öne çıkarıyor.",
-        "Ulusal Ulaştırma Güvenliği Komisyonu (NTSB), Federal Hava İdaresi'ne (FAA) güvenlik önerilerine yönelik yanıtlarının üçte birinin 'kabul edilemez' olduğunu belirtti. Bu eleştiriler, yakın zamanda yaşanan hava olayları sonrasında FAA'nın güvenlik protokollerine uyum konusunda artan endişelere işaret ediyor.",
-        "Morgan Stanley konferansı, 4D Molecular Therapeutics, Fractyl Health ve Crescent Biopharma'nın gelişmelerini sundu. 4D Molecular Therapeutics, gen tedavisi projelerini vurgularken, Fractyl Health Revita programının kritik klinik verilerinin yakınında olduğunu bildirdi ve Crescent Biopharma, yeni tedavi hattıyla portföyünü genişletmeyi planlıyor.",
-        "ABD Hazine tahvili getirileri yükselmeye başladı ve bu artışın borçlanma maliyetleri, enflasyon beklentileri ve küresel finans piyasaları üzerindeki etkileri ele alındı. Yatırımcılar, getiri eğilimlerinin şirket borçlarından tüketici kredilerine kadar geniş bir yelpazeyi etkileyebileceğini izliyor.",
-        "Wall Street düşüşle kapanırken, yapay zeka (AI) gelişimini yavaşlatma çağrıları çip üreticilerine baskı uyguladı. Analistler, artan düzenleyici denetimin AI donanımına yapılan yatırımları azaltabileceğini ve sürdürülebilir büyüme stratejilerine odaklanılmasını öngörüyor.",
-        "Dave & Buster’s, Q2 2026 kazanç raporunda beklenenden düşük bir performans göstererek paylarını düşürdü. Şirket, yavaşlayan tüketici harcamaları ve artan işletme giderlerini, gelir düşüşünün ana sebepleri olarak gösterdi."
+        "Data Storage Corp yöneticisi 10.237 ABD doları tutarında adi hisse satışını gerçekleştirdi. Satış miktarı, şirketin piyasa değerine göre küçük bir oran oluştururken, şirket içi akımın sürdürdüğünü gösteriyor.",
+        "Piedmont işletme birimi, 2031 vadesiyle 200 milyon dolar değerinde takas edilebilir notları fiyatlandırdı. Bu finansman aracı, şirketin sermaye yapısını güçlendirmeyi ve uzun vadeli borçlanmayı hedefliyor.",
+        "SoftBank hisseleri bugün önemli bir yükseliş yaşadı. Artışın sebepleri henüz netleşmedi, ancak piyasa analistleri şirketin yakın dönem haberleri ve stratejik yatırımları üzerinde odaklanıyor.",
+        "Telix Pharmaceuticals hisseleri de bugün yükseliş trendinde. Yükselişin nedeni hakkında kesin bir açıklama yok, ancak yatırımcılar şirketin son haberleri ve potansiyel büyüme fırsatlarını değerlendiriyor.",
+        "Toronto’da, Carney’nin yatırım zirvesine karşı yüzlerce insan yürüye başladı. Protesta, etkinliğin çevre ve yerel topluluklar üzerindeki etkilerine karşı duyulan endişeyi yansıtıyor.",
+        "Çin’in fabrikaları üretim hızını artırsa da, tüketimde yavaşlama, derinleşen ekonomik dengesizlikleri işaret ediyor. Artan üretim kapasiteleriyle birlikte talebin düşüklüğü, büyüme sürecinde zorluklara işaret ediyor."
       ],
       "sources": [
         {
           "name": "Investing.com",
           "url": "https://www.investing.com"
+        },
+        {
+          "name": "Forbes Business",
+          "url": "https://www.forbes.com"
         }
       ]
     },
     "finans-turkiye": {
       "label": "Türkiye Finans",
       "paragraphs": [
-        "[Dünya Gazetesi] Serdar Dursun: Fenerbahçe kadrosunda bir yetersizlik var — Gaziantep Futbol Kulübü'nün tecrübeli futbolcusu Serdar Dursun, \"Fenerbahçe'de bence kadroda oyuncu anlamında bir yetersizlik var\" dedi. Alınan beraberlikle ilgili ise büyük takıma karşı 1 puan almanı",
-        "[Dünya Gazetesi] Trump Jr. ve eşinden Rus oligark itirafı — ABD Başkanı Donald Trump'ın oğlu Donald Trump Jr. ile eşi Bettina Trump, mayısta düzenlenen düğün kutlamalarının bir bölümünün Rusya Devlet Başkanı Vladimir Putin'e yakınlığıyla bilinen Rus oligark Um",
-        "[Dünya Gazetesi] CENTCOM: İran'ın tanker iddiası doğru değil — ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran Devrim Muhafızları Ordusu'nun Hürmüz Boğazı'nda süper tanker olarak adlandırılan bir petrol tankerinin mayına çarptığı yönündeki açıklamasını yalanladı",
-        "[Anadolu Ajansı Ekonomi] Üç aktif madde içeren bitki koruma ürünlerinin ithalat, imalat ve kullanımı sonlandırılacak — Tarım ve Orman Bakanlığı, “thiophanate methyl”, “indoxacarb” ve “phosmet” içeren bitki koruma ürünlerinin ithalatının 13 Kasım 2026, imalatının 18 Aralık 2026, kullanımının ise 31 Aralık 2027’de sonla",
-        "[Dünya Gazetesi] Suudi Veliaht Prensi Selman yarın Mısır'ı ziyaret edecek — Suudi Arabistan Veliaht Prensi Muhammed bin Selman, yarın Mısır'da Cumhurbaşkanı Abdülfettah es-Sisi ile bir araya gelecek.",
-        "[Dünya Gazetesi] Sanayisizleşme tartışmasına TÜSİAD da katıldı: “Yeni bir sanayi için 15 yıllık strateji şart” — Türkiye’nin “Net, uzun vadeli, somut hedefli ve çok sıkı takip edilen” yeni bir sanayi stratejisi oluşturması gerektiğini ifade eden TÜSİAD Başkanı Ozan Diren, “Günümüzün ihtiyaçlarını ve gelecek öngö",
-        "[Dünya Gazetesi] NESİAD Başkanı Ertaş: Kapadokya’ya yeni otel değil katma değer gerekiyor — Yılda 4 milyon turist ağırlayan Kapadokya, turizmin yanı sıra kongre, fuar ve gastronomide de uluslararası arenada markalaşma hedefinde. NESİAD Başkanı Mustafa Ertaş, hemen her alanda gelişim için 41 ",
-        "[Dünya Gazetesi] ABD İstanbul Başkonsolosu Lally: Amacımız Türkiye ile tüm dünyada ortaklıklar kurmak — DÜNYA Gazetesi’ne konuşan ABD İstanbul Başkonsolosu Michael A. Lally, ABD ve Türkiye’nin ekonomik iş birliği aracılığıyla bölgesel sorunları çözmeleri gerektiğini belirterek, “ABD olarak amacımız; Tür",
-        "[Dünya Gazetesi] Hedef 17 milyon emekliye ulaşmak — Türkiye Sigorta, SGK iş birliğiyle emeklilere sağlık, konut ve kasko indirimleri sunulan kampanyaya ilginin giderek arttığını açıkladı. Türkiye Sigorta Oto, Tarım Sigortaları ve Aktüerya Genel Müdür Y"
+        "Tarım ve Orman Bakanlığı, \"thiophanate methyl\", \"indoxacarb\" ve \"phosmet\" içeren bitki koruma ürünlerinin ithalatının 13 Kasım 2026, imalatının 18 Aralık 2026 ve kullanımının ise 31 Aralık 2027’de sona erdirileceğini duyurdu. Bu kararla ilgili ürünlerin tedarik ve üretim zinciri yavaşça durdurulacak ve yasal son tarihlerin ardından satış ve dağıtımı tamamen yasaklanacak.",
+        "TÜSİAD Başkanı Ozan Diren, yeni bir sanayi stratejisinin 10–15 yıllık net, somut hedefler ve sıkı takip gerektirdiğini vurguladı. NESİAD Başkanı Mustafa Ertaş ise Kapadokya turizmi için 41 proje belirleyerek otel sayısını 350’den 800’e çıkardığını, ancak artan kapasitenin dolulukları azalttığını açıkladı. Her iki lider, sektörel gelişimde kalitatif büyümenin önemini belirterek, yeni sanayi ve turizm yatırımlarının sürdürülebilir kılınmasını önerdi.",
+        "ABD İstanbul Başkonsolosu Michael A. Lally, Türkiye ile ekonomik iş birliğinin bölgesel sorunları çözmede kritik rol oynadığını söyledi. Lally, ABD’nin hedefinin sadece İstanbul değil, bölge ve küresel ölçekte ortaklıklar kurmak olduğunu belirtti. Bu açıklama, iki ülke arasındaki ekonomik ilişkilerin genişletilmesini amaçlayan diplomatik çabaların bir parçası olarak değerlendirildi.",
+        "Türkiye Sigorta, SGK iş birliğiyle emeklilere sağlık, konut ve kasko indirimleri sunan bir kampanyaya yönelik artan ilgiyi duyurdu. Türkiye Sigorta Oto, Tarım Sigortaları ve Aktüerya Genel Müdür Yardımcısı Melike Nur Çınar, kampanyanın uzun vadede 17 milyon emekliye ulaşmayı hedeflediğini belirtti. Bu girişim, sosyal güvenlik sistemine katkı sağlamayı amaçlayan bir finansal destek programı olarak öne çıkıyor."
       ],
       "sources": [
         {
